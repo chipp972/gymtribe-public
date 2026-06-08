@@ -10,7 +10,7 @@
       "daysPerCycle": 12,
       "requiredEquipment": ["Barbell", "Squat rack", "Bench"],
       "primaryMuscles": ["Quadriceps", "Pectorals", "Deltoids", "Hamstrings", "Trapezius"],
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/531.gymtribe.zip",
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/program-templates/531.gymtribe.zip",
       "recommendedFor": "strength"
     },
     {
@@ -22,7 +22,7 @@
       "daysPerCycle": 6,
       "requiredEquipment": ["Barbell", "Dumbbell", "Cable machine", "Pull-up bar"],
       "primaryMuscles": ["Pectorals", "Latissimus dorsi", "Quadriceps", "Deltoids"],
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/ppl.gymtribe.zip",
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/program-templates/ppl.gymtribe.zip",
       "recommendedFor": "hypertrophy"
     },
     {
@@ -34,7 +34,7 @@
       "daysPerCycle": 4,
       "requiredEquipment": ["Barbell", "Dumbbell", "Squat rack", "Bench"],
       "primaryMuscles": ["Pectorals", "Latissimus dorsi", "Quadriceps", "Hamstrings"],
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/upper-lower.gymtribe.zip",
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/program-templates/upper-lower.gymtribe.zip",
       "recommendedFor": "powerbuilding"
     },
     {
@@ -46,7 +46,7 @@
       "daysPerCycle": 3,
       "requiredEquipment": ["Barbell", "Dumbbell", "Hip thrust pad", "Cable machine"],
       "primaryMuscles": ["Gluteus maximus", "Hamstrings", "Quadriceps", "Pectorals"],
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/booty-upper-lower.gymtribe.zip",
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/program-templates/booty-upper-lower.gymtribe.zip",
       "recommendedFor": "hypertrophy"
     },
     {
@@ -58,7 +58,7 @@
       "daysPerCycle": 3,
       "requiredEquipment": ["Barbell", "Squat rack", "Bench"],
       "primaryMuscles": ["Quadriceps", "Pectorals", "Hamstrings", "Deltoids"],
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/5x5.gymtribe.zip",
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/program-templates/5x5.gymtribe.zip",
       "recommendedFor": "strength"
     }
   ]
