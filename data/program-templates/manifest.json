@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "templates": [
+    {
+      "id": "531",
+      "name": "5/3/1 Wendler",
+      "tags": ["strength", "powerbuilding"],
+      "description": "Jim Wendler's classic strength program built on 4 main lifts progressing over a 4-week cycle. Ideal for intermediate lifters aiming to build a long-term strength base.",
+      "cycleLengthWeeks": 4,
+      "daysPerCycle": 12,
+      "requiredEquipment": ["Barbell", "Squat rack", "Bench"],
+      "primaryMuscles": ["Quadriceps", "Pectorals", "Deltoids", "Hamstrings", "Trapezius"],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/531.gymtribe.zip",
+      "recommendedFor": "strength"
+    },
+    {
+      "id": "ppl",
+      "name": "Push Pull Legs (PPL)",
+      "tags": ["hypertrophy"],
+      "description": "6-day push/pull/legs split targeting each muscle group twice a week. High volume, proven for muscle growth at intermediate level.",
+      "cycleLengthWeeks": 1,
+      "daysPerCycle": 6,
+      "requiredEquipment": ["Barbell", "Dumbbell", "Cable machine", "Pull-up bar"],
+      "primaryMuscles": ["Pectorals", "Latissimus dorsi", "Quadriceps", "Deltoids"],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/ppl.gymtribe.zip",
+      "recommendedFor": "hypertrophy"
+    },
+    {
+      "id": "upper-lower",
+      "name": "Upper/Lower",
+      "tags": ["powerbuilding", "strength"],
+      "description": "4-day upper/lower split alternating strength and hypertrophy sessions. Balanced frequency and volume — great for beginners and intermediates.",
+      "cycleLengthWeeks": 1,
+      "daysPerCycle": 4,
+      "requiredEquipment": ["Barbell", "Dumbbell", "Squat rack", "Bench"],
+      "primaryMuscles": ["Pectorals", "Latissimus dorsi", "Quadriceps", "Hamstrings"],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/upper-lower.gymtribe.zip",
+      "recommendedFor": "powerbuilding"
+    },
+    {
+      "id": "booty-upper-lower",
+      "name": "Booty/Upper/Lower",
+      "tags": ["hypertrophy"],
+      "description": "3-day split with dedicated glute/posterior chain day plus upper and lower sessions. Designed for athletes prioritising lower body development.",
+      "cycleLengthWeeks": 1,
+      "daysPerCycle": 3,
+      "requiredEquipment": ["Barbell", "Dumbbell", "Hip thrust pad", "Cable machine"],
+      "primaryMuscles": ["Gluteus maximus", "Hamstrings", "Quadriceps", "Pectorals"],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/booty-upper-lower.gymtribe.zip",
+      "recommendedFor": "hypertrophy"
+    },
+    {
+      "id": "5x5",
+      "name": "StrongLifts 5x5",
+      "tags": ["strength"],
+      "description": "Simple 3-day full-body program alternating two workouts. Add weight every session. Perfect for beginners building their first strength base.",
+      "cycleLengthWeeks": 1,
+      "daysPerCycle": 3,
+      "requiredEquipment": ["Barbell", "Squat rack", "Bench"],
+      "primaryMuscles": ["Quadriceps", "Pectorals", "Hamstrings", "Deltoids"],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/5x5.gymtribe.zip",
+      "recommendedFor": "strength"
+    }
+  ]
+}

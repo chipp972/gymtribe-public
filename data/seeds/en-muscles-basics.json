@@ -1,0 +1,13 @@
+[
+  { "name": "Chest" },
+  { "name": "Back" },
+  { "name": "Shoulders" },
+  { "name": "Biceps" },
+  { "name": "Triceps" },
+  { "name": "Forearms" },
+  { "name": "Quads" },
+  { "name": "Hamstrings" },
+  { "name": "Glutes" },
+  { "name": "Calves" },
+  { "name": "Core" }
+]

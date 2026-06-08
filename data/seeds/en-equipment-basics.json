@@ -1,0 +1,13 @@
+[
+  { "name": "Barbell" },
+  { "name": "Dumbbell" },
+  { "name": "Bodyweight" },
+  { "name": "Cable" },
+  { "name": "Machine" },
+  { "name": "Sled" },
+  { "name": "Pullup Bar" },
+  { "name": "Squat Rack" },
+  { "name": "Bench" },
+  { "name": "Smith Machine" },
+  { "name": "Hack Squat Machine" }
+]

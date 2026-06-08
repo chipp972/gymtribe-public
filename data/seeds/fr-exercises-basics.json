@@ -1,0 +1,1520 @@
+[
+  {
+    "name": "Développé couché",
+    "muscles": [
+      {
+        "muscleName": "Pectoraux",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Épaules",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/d09e0ed7-21dd-4f1c-b5cf-3e345e9304ec"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Allongez-vous sur un banc plat, pieds à plat au sol. Saisissez la barre en prise large, légèrement plus large que la largeur des épaules. Descendez la barre lentement vers le milieu de la poitrine en gardant les coudes à environ 75° du corps. Poussez la barre vers le haut en expirant jusqu'à l'extension complète. Gardez les omoplates rétractées et serrées contre le banc tout au long du mouvement."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Développé incliné",
+    "muscles": [
+      {
+        "muscleName": "Pectoraux",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Épaules",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/ece55528-9855-49cf-a970-cf47c662e45d"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Réglez le banc à environ 30-45°. Allongez-vous avec les pieds au sol, saisissez la barre légèrement plus large que la largeur des épaules. Descendez la barre vers le haut de la poitrine en contrôlant le mouvement. Poussez en expirant jusqu'à l'extension. Évitez de cambrer excessivement le bas du dos."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Écarté haltères",
+    "muscles": [
+      {
+        "muscleName": "Pectoraux",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Épaules",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8402113/8402113-hd_1080_1920_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Allongez-vous sur un banc plat, haltères au-dessus de la poitrine, paumes se faisant face. Ouvrez les bras en arc de cercle vers les côtés, coudes légèrement fléchis, jusqu'à sentir un étirement dans les pectoraux. Remontez en expirant en ramenant les haltères au-dessus de la poitrine. Gardez une légère flexion des coudes constante."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Pompes",
+    "muscles": [
+      {
+        "muscleName": "Pectoraux",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Épaules",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4367576/4367576-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "En position de planche, mains légèrement plus larges que les épaules, corps droit de la tête aux talons. Descendez en fléchissant les coudes jusqu'à ce que la poitrine effleure le sol. Poussez en expirant pour revenir à la position initiale. Gardez le corps aligné : ne laissez pas les hanches s'affaisser ni se lever."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Écarté poulie",
+    "muscles": [
+      {
+        "muscleName": "Pectoraux",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Épaules",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/82760b28-30e2-4311-a4c5-42da40082079"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Réglez les poulies en position haute de chaque côté. Saisissez les poignées et avancez légèrement, un pied devant l'autre pour la stabilité. Tirez les câbles vers le bas et vers le centre en arc de cercle, coudes légèrement fléchis. Contractez les pectoraux en fin de mouvement et revenez lentement à la position de départ."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Dips",
+    "muscles": [
+      {
+        "muscleName": "Pectoraux",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Épaules",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/17886673/17886673-hd_1280_720_50fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Saisissez les barres parallèles et tendez les bras. Penchez le buste légèrement en avant pour cibler les pectoraux. Descendez en fléchissant les coudes jusqu'à ce que les épaules soient à hauteur des coudes. Poussez en expirant pour revenir à la position initiale. Évitez de descendre trop bas si vous ressentez une gêne aux épaules."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Tractions",
+    "muscles": [
+      {
+        "muscleName": "Dos",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Biceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/c17e320f-7c96-4385-b8d7-f307ed4bae2e"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Saisissez la barre en pronation (paumes vers l'avant), mains plus larges que les épaules. Partez bras tendus et tirez le corps vers le haut en amenant le menton au-dessus de la barre. Écartez les coudes vers les côtés et rétractez les omoplates. Descendez lentement en contrôlant le mouvement. Expirez à la montée."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Rowing barre",
+    "muscles": [
+      {
+        "muscleName": "Dos",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Biceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Épaules",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/ae1f15b4-61f9-4da7-9ffe-0d8e72e6f097"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Penchez le buste à environ 45°, dos plat, barre tenue en pronation. Tirez la barre vers le bas du ventre en ramenant les coudes vers l'arrière. Rétractez les omoplates en fin de mouvement. Descendez lentement et contrôlez la barre. Gardez le dos droit et évitez de vous balancer pour utiliser l'élan."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Tirage vertical",
+    "muscles": [
+      {
+        "muscleName": "Dos",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Biceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/ed1ca95e-2642-4551-a477-17485e486bfc"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis à la machine, cuisse bloquées sous les appuis. Saisissez la barre en pronation, mains plus larges que les épaules. Tirez la barre vers le haut de la poitrine en amenant les coudes vers le bas et vers l'arrière. Rétractez les omoplates. Remontez lentement en contrôlant. Expirez à la descente de la barre."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Rowing poulie basse",
+    "muscles": [
+      {
+        "muscleName": "Dos",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Biceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/499ccaa4-719d-40bd-b441-511291482471"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis face à la poulie basse, pieds sur les repose-pieds, genoux légèrement fléchis. Saisissez la poignée, dos droit, buste légèrement penché en avant. Tirez la poignée vers le ventre en ramenant les coudes vers l'arrière et en rétractant les omoplates. Revenez lentement à la position de départ."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Soulevé de terre",
+    "muscles": [
+      {
+        "muscleName": "Dos",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Fessiers",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/f96d5f24-c9b0-4782-bbd9-41d383a6b633"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Pieds à largeur de hanches, barre au-dessus du milieu des pieds. Saisissez la barre en pronation ou prise mixte, bras tendus. Dos plat, poitrine fière, regardez légèrement en avant. Poussez le sol vers le bas avec les pieds pour initier le mouvement, gardez la barre proche du corps. Verrouillez les hanches et les épaules simultanément en haut. Expirez à la montée."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Face pull",
+    "muscles": [
+      {
+        "muscleName": "Dos",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Épaules",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/0f7cf0c4-34fe-4cb3-993e-469be8004c2c"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Réglez la poulie à hauteur des yeux. Saisissez la corde en pronation, reculez pour créer de la tension. Tirez la corde vers le visage en écartant les bras, coudes à hauteur des épaules ou au-dessus. Contractez les deltoïdes postérieurs et les rhomboïdes en fin de mouvement. Revenez lentement. Idéal pour la santé des épaules."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Développé militaire",
+    "muscles": [
+      {
+        "muscleName": "Épaules",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Abdominaux",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/d725ad5a-e0dd-4fca-8b9e-0016aaa757a0"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Debout ou assis, barre tenue à hauteur des épaules en pronation, coudes légèrement devant la barre. Poussez la barre vers le haut en expirant jusqu'à l'extension complète des bras. Passez la barre devant le visage et ramenez la tête en avant en fin de poussée. Descendez lentement en contrôlant. Contractez les abdominaux pour stabiliser le tronc."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Élévations latérales",
+    "muscles": [
+      {
+        "muscleName": "Épaules",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/1cce8f37-dd9f-442f-995e-be02b98a35ad"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Debout, haltères le long du corps, coudes légèrement fléchis. Levez les bras sur les côtés jusqu'à hauteur des épaules, pouces légèrement vers le bas (comme si vous versiez un verre). Ne montez pas au-delà des épaules pour préserver les articulations. Descendez lentement en 3-4 secondes. Évitez de vous balancer avec le tronc."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Élévations frontales",
+    "muscles": [
+      {
+        "muscleName": "Épaules",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/31622706/13475131_2560_1440_60fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Debout, haltères devant les cuisses, paumes vers le bas. Levez les bras vers l'avant jusqu'à hauteur des épaules, bras légèrement fléchis. Maintenez 1 seconde en haut, puis descendez lentement. Évitez de prendre de l'élan avec le buste. Alternez les bras ou levez les deux simultanément."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Développé Arnold",
+    "muscles": [
+      {
+        "muscleName": "Épaules",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/11023725/11023725-hd_720_1280_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis, haltères à hauteur des épaules, paumes vers vous. En poussant vers le haut, faites pivoter les poignets pour que les paumes soient face à l'avant en haut du mouvement. Revenez à la position de départ en suivant le même chemin inversé. Ce mouvement en rotation engage tous les faisceaux des deltoïdes."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Écarté inversé",
+    "muscles": [
+      {
+        "muscleName": "Épaules",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Dos",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/35735258/15146155_2560_1440_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Penchez le buste à environ 45-90°, haltères pendants sous vous, paumes se faisant face. Levez les bras sur les côtés en arc de cercle, coudes légèrement fléchis, jusqu'à hauteur des épaules. Contractez les deltoïdes postérieurs et le milieu du dos en haut. Descendez lentement. Peut se faire assis, penché sur un banc."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Curl barre",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Avant-bras",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/998e8f21-2bda-49d8-a773-b59c316d022d"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Debout, barre tenue en supination (paumes vers le haut), bras tendus le long du corps. Pliez les coudes pour ramener la barre vers les épaules sans bouger les coudes. Contractez les biceps en haut. Descendez lentement en résistant au poids. Gardez le buste droit et les coudes fixes sur les côtés du corps."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Curl haltères",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Avant-bras",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/2a0529a0-be74-4b88-bf1c-6b67c8f12ef8"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Debout, haltères le long du corps, paumes vers l'avant. Fléchissez les coudes alternativement ou simultanément pour amener les haltères vers les épaules. Tournez légèrement les poignets en supination en montant. Contractez les biceps en haut et descendez lentement. Gardez les coudes fixes sur les côtés."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Curl marteau",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Avant-bras",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6389045/6389045-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Debout, haltères le long du corps, paumes se faisant face (prise neutre). Fléchissez les coudes pour ramener les haltères vers les épaules sans tourner les poignets. Ce mouvement sollicite particulièrement le brachio-radial et le long supinateur. Descendez lentement. Peut être réalisé alternativement ou simultanément."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Curl pupitre",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/34543878/14636951_1920_1080_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis au pupitre, bras posés à plat sur le support incliné, barre tenue en supination. Fléchissez les coudes pour remonter la barre en contractant les biceps. Descendez lentement jusqu'à presque l'extension complète. Le pupitre isole parfaitement les biceps en éliminant la triche avec le buste."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Curl poulie",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Avant-bras",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4367638/4367638-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Face à une poulie basse, saisissez la barre ou la corde en supination. Fléchissez les coudes pour ramener la poignée vers les épaules. La poulie maintient une tension constante tout au long du mouvement, contrairement aux haltères. Descendez lentement et contrôlez la résistance."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Traction supination",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Dos",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/7672118/7672118-hd_1366_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Saisissez la barre en supination (paumes vers vous), mains à largeur d'épaules. Tirez le corps vers le haut en amenant le menton au-dessus de la barre. La prise en supination engage davantage les biceps que la prise en pronation. Descendez lentement en contrôlant. Expirez à la montée."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Dips triceps",
+    "muscles": [
+      {
+        "muscleName": "Triceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Pectoraux",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Épaules",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4159114/4159114-hd_1080_1920_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Saisissez les barres parallèles, corps vertical, buste droit. Descendez en fléchissant les coudes jusqu'à ce que les bras soient à 90°. Poussez en expirant pour revenir à la position initiale. Pour cibler les triceps, gardez le buste vertical et les coudes près du corps (contrairement aux dips pectoraux où on se penche en avant)."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Barre au front",
+    "muscles": [
+      {
+        "muscleName": "Triceps",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/5726682/5726682-hd_1366_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Allongé sur un banc plat, barre tenue en pronation, bras tendus au-dessus de la poitrine. Pliez les coudes pour descendre la barre vers le front (ou légèrement derrière la tête). Gardez les coudes fixes et pointés vers le plafond. Poussez en expirant pour revenir. Isolement parfait des triceps."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Extension triceps au-dessus de la tête",
+    "muscles": [
+      {
+        "muscleName": "Triceps",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6286166/6286166-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis ou debout, tenez un haltère à deux mains au-dessus de la tête, bras tendus. Pliez les coudes pour descendre l'haltère derrière la tête. Gardez les coudes pointés vers le haut et près de la tête. Poussez en expirant pour revenir à l'extension. Cette position étire le chef long du triceps."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Pushdown poulie haute",
+    "muscles": [
+      {
+        "muscleName": "Triceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Avant-bras",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/9a550e2c-c55e-495d-b59e-b676c3d48a41"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Face à une poulie haute, saisissez la barre ou la corde en pronation. Bras contre le corps, coudes fixes. Poussez la barre vers le bas jusqu'à l'extension complète des triceps. Contractez les triceps en bas du mouvement. Remontez lentement en contrôlant. Évitez de pencher le buste ou de bouger les coudes."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Développé prise serrée",
+    "muscles": [
+      {
+        "muscleName": "Triceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Pectoraux",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/20672105/20672105-hd_1280_720_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Allongé sur un banc plat, saisissez la barre à environ largeur d'épaules (prise serrée). Descendez la barre vers le bas de la poitrine en gardant les coudes près du corps. Poussez en expirant jusqu'à l'extension. Les coudes serrés maximisent l'engagement des triceps. Évitez une prise trop serrée qui stresse les poignets."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Curl poignet",
+    "muscles": [
+      {
+        "muscleName": "Avant-bras",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4367577/4367577-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis sur un banc, avant-bras posés sur les cuisses ou le banc, paumes vers le haut. Tenez la barre et fléchissez les poignets vers le haut en contractant les fléchisseurs des avant-bras. Descendez lentement jusqu'à l'extension complète. Amplitude de mouvement limitée mais intense pour les muscles fléchisseurs."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Curl poignet inversé",
+    "muscles": [
+      {
+        "muscleName": "Avant-bras",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/11075640/11075640-hd_1280_720_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis sur un banc, avant-bras posés sur les cuisses, paumes vers le bas. Tenez la barre et fléchissez les poignets vers le haut (extension dorsale). Cible les extenseurs des avant-bras et améliore l'équilibre musculaire pour prévenir les blessures de coude. Descendez lentement."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Marche du fermier",
+    "muscles": [
+      {
+        "muscleName": "Avant-bras",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Abdominaux",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/37503830/15888863_1920_1080_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Tenez des haltères lourds dans chaque main, bras le long du corps. Marchez sur une distance définie en gardant le dos droit, les épaules en arrière et le regard droit devant. Contractez les abdominaux et les fessiers pour stabiliser. Excellent exercice pour la force de préhension et la stabilité du tronc."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Squat",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Fessiers",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/d65feff4-9891-4ff8-a9f9-64965da7b69c"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Barre posée sur les trapèzes, pieds à largeur d'épaules légèrement en canard. Descendez en poussant les genoux vers l'extérieur et en gardant le buste le plus vertical possible. Descendez jusqu'à ce que les cuisses soient parallèles au sol (ou plus bas si la mobilité le permet). Remontez en expirant, genoux dans l'axe des pieds."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Presse à cuisses",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Fessiers",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/3dabdcc0-8639-4868-9e57-5afc621ed50d"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis dans la machine, pieds à largeur d'épaules sur la plateforme. Déverrouillez et descendez la plateforme lentement jusqu'à 90° de flexion des genoux. Repoussez en expirant jusqu'à presque l'extension (ne verrouillez pas les genoux). La position des pieds influence quels muscles sont ciblés : pieds hauts = fessiers, pieds bas = quadriceps."
+      }
+    ],
+    "equipment": "Machine"
+  },
+  {
+    "name": "Extension quadriceps",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/3d0e78d0-1125-4d25-8bd4-9ca7ba3799e8"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis dans la machine, ajustez l'appui sur le bas des tibias. Étendez les genoux pour lever les jambes jusqu'à l'extension complète. Maintenez 1 seconde en contractant les quadriceps. Descendez lentement en contrôlant sur 3-4 secondes. Idéal pour l'isolation des quadriceps en fin de séance."
+      }
+    ],
+    "equipment": "Machine"
+  },
+  {
+    "name": "Fente avant",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Fessiers",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/166bf038-1670-4c52-9f32-cf6463556d99"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Debout, faites un grand pas en avant. Descendez le genou arrière vers le sol en gardant le buste droit. Le genou avant ne doit pas dépasser les orteils. Poussez sur le pied avant pour revenir à la position initiale ou faites le mouvement alterné en marchant. Gardez le regard droit devant."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Hack squat",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Fessiers",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6892543/6892543-hd_720_1280_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "À la machine hack squat, dos contre le dossier, pieds sur la plateforme. Descendez en fléchissant les genoux jusqu'à 90° ou plus bas. Poussez en expirant pour revenir. La machine guide la trajectoire et réduit la charge sur le dos. Peut aussi être réalisé avec une barre derrière les jambes."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Squat avant",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Abdominaux",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4859747/4859747-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Barre posée sur les deltoïdes avant, coudes hauts parallèles au sol. Descendez en gardant le buste très vertical (plus qu'au squat classique). Les coudes hauts sont essentiels pour maintenir la barre en place. Descendez sous les parallèles si possible. Remontez en expirant, genoux dans l'axe des pieds."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Soulevé de terre roumain",
+    "muscles": [
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Fessiers",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Dos",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/b7f3df3f-7371-4d29-bc59-3227fcdaa09a"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Debout, barre en prise pronation. Poussez les hanches vers l'arrière en gardant les genoux légèrement fléchis et le dos plat. Descendez la barre le long des jambes jusqu'à sentir un fort étirement dans les ischio-jambiers. Remontez en poussant les hanches vers l'avant. La barre reste proche du corps tout au long."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Curl ischio-jambiers",
+    "muscles": [
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/34a512bf-baa1-48ac-a5b9-132073166018"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Allongé sur la machine (ou assis selon le modèle), jambes presque tendues sous l'appui. Fléchissez les genoux pour ramener les talons vers les fessiers. Contractez les ischio-jambiers en fin de mouvement. Descendez lentement en résistant au poids. Évitez de soulever les hanches lors du mouvement."
+      }
+    ],
+    "equipment": "Machine"
+  },
+  {
+    "name": "Good morning",
+    "muscles": [
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Dos",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Fessiers",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/7674502/7674502-hd_1366_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Barre sur les trapèzes, pieds à largeur d'épaules, genoux légèrement fléchis. Penchez le buste vers l'avant en poussant les hanches vers l'arrière, dos plat, jusqu'à ce que le buste soit presque parallèle au sol. Sentez l'étirement dans les ischio-jambiers. Revenez à la position verticale en contractant les fessiers et les ischio-jambiers."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Élévation ischio-fessiers",
+    "muscles": [
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Fessiers",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/3126123/3126123-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "À genoux, pieds bloqués sous un support (partenaire ou machine). Descendez lentement en avant en résistant avec les ischio-jambiers, dos droit. Utilisez les mains pour vous réceptionner si nécessaire. Remontez en tirant avec les ischio-jambiers et en poussant avec les mains. Exercice excentrique très intense."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Hip thrust",
+    "muscles": [
+      {
+        "muscleName": "Fessiers",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/e0e8ce33-e39e-4e14-950b-2540be912c5b"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Dos appuyé sur un banc, barre sur les hanches (protégée par un pad). Pieds à plat au sol, à largeur d'épaules. Poussez les hanches vers le haut en contractant les fessiers jusqu'à ce que le corps soit droit de la tête aux genoux. Maintenez 1 seconde en haut. Descendez lentement. Expirez à la montée."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Soulevé de terre sumo",
+    "muscles": [
+      {
+        "muscleName": "Fessiers",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Dos",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6980765/6980765-hd_1366_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Pieds très écartés (largeur sumo), orteils pointés vers l'extérieur à 45°. Saisissez la barre entre les jambes en prise pronation ou mixte. Dos plat, hanches basses, tirez la barre en poussant les genoux vers l'extérieur. Cette position réduit la charge sur le bas du dos et sollicite davantage les adducteurs et les fessiers."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Kickback poulie",
+    "muscles": [
+      {
+        "muscleName": "Fessiers",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/10740728/10740728-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Face à une poulie basse, cheville attachée à la poulie. Légèrement penché en avant, appuyez-vous sur une barre ou le cadre. Ramenez la jambe vers l'arrière en extension de hanche, en contractant les fessiers. Contrôlez le retour. Gardez le dos droit et évitez de vous pencher excessivement."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Kickback poulie",
+    "muscles": [
+      {
+        "muscleName": "Fessiers",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/10740728/10740728-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Face à une poulie basse, cheville attachée à la poulie. Légèrement penché en avant, appuyez-vous sur une barre ou le cadre. Ramenez la jambe vers l'arrière en extension de hanche, en contractant les fessiers. Contrôlez le retour. Gardez le dos droit et évitez de vous pencher excessivement."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Squat bulgare",
+    "muscles": [
+      {
+        "muscleName": "Fessiers",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Quadriceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8401270/8401270-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Pied arrière posé sur un banc, pied avant avancé. Tenez des haltères dans chaque main. Descendez en fléchissant le genou avant jusqu'à ce que la cuisse soit parallèle au sol. Poussez sur le talon avant pour remonter. Excellent exercice unilatéral qui corrige les déséquilibres musculaires."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Squat bulgare",
+    "muscles": [
+      {
+        "muscleName": "Fessiers",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Quadriceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Ischio-jambiers",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8401270/8401270-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Pied arrière posé sur un banc, pied avant avancé. Tenez des haltères dans chaque main. Descendez en fléchissant le genou avant jusqu'à ce que la cuisse soit parallèle au sol. Poussez sur le talon avant pour remonter. Excellent exercice unilatéral qui corrige les déséquilibres musculaires."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Montée sur banc",
+    "muscles": [
+      {
+        "muscleName": "Fessiers",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Quadriceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8402107/8402107-hd_1080_1920_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Face à un banc ou une boîte stable. Posez un pied dessus et montez en poussant sur ce pied, en ramenant l'autre pied à côté. Descendez lentement et alternez les jambes. Gardez le dos droit et regardez droit devant. La hauteur du banc détermine l'intensité. Peut se faire avec des haltères pour plus de résistance."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Élévation des mollets debout",
+    "muscles": [
+      {
+        "muscleName": "Mollets",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/32115656/13692103_1440_2560_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Debout sur la plateforme, talons dans le vide, épaules sous les coussins. Montez sur la pointe des pieds en contractant les mollets au maximum. Descendez lentement en dessous du niveau de la plateforme pour étirer les mollets. Maintenez 1 seconde en haut. Les genoux restent légèrement fléchis tout au long."
+      }
+    ],
+    "equipment": "Machine"
+  },
+  {
+    "name": "Élévation des mollets assis",
+    "muscles": [
+      {
+        "muscleName": "Mollets",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/94b73c60-81d0-4522-964e-ceacf89129cf"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis à la machine, genoux fléchis à 90°, coussin sur les cuisses. Montez sur la pointe des pieds en contractant les mollets. Descendez lentement pour étirer. La position assise cible davantage le soléaire (muscle profond sous les mollets) car les genoux sont fléchis, réduisant l'engagement du gastrocnémien."
+      }
+    ],
+    "equipment": "Machine"
+  },
+  {
+    "name": "Donkey calf raise",
+    "muscles": [
+      {
+        "muscleName": "Mollets",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4867634/4867634-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Penché vers l'avant, mains appuyées sur un support, dos horizontal. Talons dans le vide sur une plateforme. Montez sur la pointe des pieds en contractant les mollets. Descendez pour étirer. La position penchée maximise l'étirement du gastrocnémien car les genoux sont tendus. Peut se faire avec un partenaire assis sur les hanches."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Corde à sauter",
+    "muscles": [
+      {
+        "muscleName": "Mollets",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Abdominaux",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8691038/8691038-hd_1366_720_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Tenez les poignées de la corde, coudes près du corps. Faites tourner la corde avec les poignets (pas les bras entiers). Sautez sur la pointe des pieds juste assez haut pour laisser passer la corde. Gardez un rythme régulier et le regard droit devant. Alternez entre saut simple, double et croisé selon le niveau."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Gainage",
+    "muscles": [
+      {
+        "muscleName": "Abdominaux",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/be8f26b0-4948-4f48-b851-1a9d2cfd953c"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "En position de planche sur les avant-bras et les orteils, corps aligné de la tête aux pieds. Contractez les abdominaux, les fessiers et les quadriceps pour maintenir la position. Ne laissez pas les hanches s'affaisser ni monter. Respirez normalement. Maintenez la position le plus longtemps possible en gardant une forme parfaite."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Crunch",
+    "muscles": [
+      {
+        "muscleName": "Abdominaux",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4754028/4754028-hd_1366_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Allongé sur le dos, genoux fléchis, mains derrière la tête ou croisées sur la poitrine. Contractez les abdominaux pour soulever les épaules du sol, sans tirer sur le cou. Montez jusqu'à sentir une forte contraction des abdominaux. Descendez lentement. Il s'agit d'un petit mouvement — ne cherchez pas à vous redresser complètement."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Rotation russe",
+    "muscles": [
+      {
+        "muscleName": "Abdominaux",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6892537/6892537-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Assis sur le sol, dos incliné à environ 45°, genoux fléchis, pieds légèrement soulevés (ou au sol pour les débutants). Tenez un poids ou joignez les mains. Tournez le buste alternativement de gauche à droite en touchant le sol de chaque côté. Le mouvement vient du tronc, pas des bras."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Relevé de jambes",
+    "muscles": [
+      {
+        "muscleName": "Abdominaux",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6455075/6455075-hd_1080_1920_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Allongé sur le dos, mains sous les fessiers ou le long du corps pour soutien. Jambes tendues ou légèrement fléchies. Levez les jambes jusqu'à la verticale en contractant les abdominaux inférieurs. Descendez lentement sans laisser les pieds toucher le sol. Peut se faire en suspension à la barre."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Crunch bicycle",
+    "muscles": [
+      {
+        "muscleName": "Abdominaux",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6525494/6525494-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Allongé sur le dos, mains derrière la tête, jambes levées à 45°. Amenez le coude droit vers le genou gauche en fléchissant en même temps, en tendant la jambe droite. Alternez en un mouvement de pédalage continu. Cible les obliques et les abdominaux droits simultanément."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Roulette abdominale",
+    "muscles": [
+      {
+        "muscleName": "Abdominaux",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Épaules",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8026520/8026520-hd_1366_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "À genoux, tenez la roulette à deux mains devant vous. Roulez vers l'avant lentement en tendant les bras et en contrôlant avec les abdominaux, sans laisser le dos se creuser. Revenez en tirant avec les abdominaux. Commencez avec une faible amplitude et augmentez progressivement. Exercice très exigeant pour le gainage."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Crunch poulie",
+    "muscles": [
+      {
+        "muscleName": "Abdominaux",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8472284/8472284-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "À genoux face à une poulie haute, tenez la corde ou la barre derrière la tête. Fléchissez le tronc vers le bas en contractant les abdominaux, amenez les coudes vers les genoux. La poulie maintient une tension constante contrairement aux crunchs au sol. Revenez lentement à la position de départ."
+      }
+    ],
+    "equipment": "Cable"
+  }
+]

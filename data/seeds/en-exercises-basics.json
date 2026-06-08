@@ -1,0 +1,1520 @@
+[
+  {
+    "name": "Bench Press",
+    "muscles": [
+      {
+        "muscleName": "Chest",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Shoulders",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/d09e0ed7-21dd-4f1c-b5cf-3e345e9304ec"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Lie flat on a bench with feet firmly on the floor. Grip the bar slightly wider than shoulder-width, palms facing forward. Lower the bar slowly to mid-chest, keeping elbows at about 75° from the body. Press upward while exhaling until arms are fully extended. Keep shoulder blades retracted and pressed against the bench throughout."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Incline Bench Press",
+    "muscles": [
+      {
+        "muscleName": "Chest",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Shoulders",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/ece55528-9855-49cf-a970-cf47c662e45d"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Set the bench at 30-45°. Lie back with feet flat on the floor, grip the bar slightly wider than shoulder-width. Lower the bar to the upper chest in a controlled manner. Press up while exhaling to full extension. Avoid excessive arching of the lower back."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Dumbbell Fly",
+    "muscles": [
+      {
+        "muscleName": "Chest",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Shoulders",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8402113/8402113-hd_1080_1920_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Lie on a flat bench with dumbbells held above your chest, palms facing each other. Open your arms in a wide arc, keeping a slight bend in the elbows, until you feel a stretch in your chest. Return while exhaling, bringing the dumbbells back above the chest. Maintain a constant slight elbow bend throughout."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Push-Up",
+    "muscles": [
+      {
+        "muscleName": "Chest",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Shoulders",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4367576/4367576-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "In a plank position, hands slightly wider than shoulder-width, body straight from head to heels. Lower by bending the elbows until the chest nearly touches the floor. Push up while exhaling to return to the starting position. Keep the body aligned — do not let the hips sag or rise."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Cable Fly",
+    "muscles": [
+      {
+        "muscleName": "Chest",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Shoulders",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/82760b28-30e2-4311-a4c5-42da40082079"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Set the pulleys to a high position on each side. Grab the handles and step forward slightly, one foot ahead for stability. Pull the cables down and toward the center in an arc, keeping elbows slightly bent. Squeeze the chest at the end of the movement and return slowly to the starting position."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Dips",
+    "muscles": [
+      {
+        "muscleName": "Chest",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Shoulders",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/17886673/17886673-hd_1280_720_50fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Grip the parallel bars and straighten your arms. Lean your torso slightly forward to target the chest. Lower by bending the elbows until the shoulders reach elbow height. Push up while exhaling to return to the starting position. Avoid going too deep if you feel shoulder discomfort."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Pull-Up",
+    "muscles": [
+      {
+        "muscleName": "Back",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Biceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/c17e320f-7c96-4385-b8d7-f307ed4bae2e"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Grip the bar in an overhand (pronated) position, hands wider than shoulder-width. Starting from a dead hang, pull your body upward until your chin clears the bar. Flare the elbows to the sides and retract the shoulder blades. Lower slowly and under control. Exhale on the way up."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Bent-Over Row",
+    "muscles": [
+      {
+        "muscleName": "Back",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Biceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Shoulders",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/ae1f15b4-61f9-4da7-9ffe-0d8e72e6f097"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Hinge forward to about 45°, back flat, bar gripped overhand. Pull the bar toward the lower abdomen, driving the elbows back. Retract the shoulder blades at the top. Lower slowly and control the bar. Keep the back straight and avoid swinging the torso for momentum."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Lat Pulldown",
+    "muscles": [
+      {
+        "muscleName": "Back",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Biceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/ed1ca95e-2642-4551-a477-17485e486bfc"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Sit at the machine with thighs secured under the pads. Grip the bar overhand, wider than shoulder-width. Pull the bar down toward the upper chest, driving the elbows down and back. Retract the shoulder blades. Return slowly and with control. Exhale as the bar descends."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Seated Cable Row",
+    "muscles": [
+      {
+        "muscleName": "Back",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Biceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/499ccaa4-719d-40bd-b441-511291482471"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Sit facing the low pulley with feet on the footrests, knees slightly bent. Grip the handle, back straight, torso slightly hinged forward. Pull the handle toward your abdomen, driving the elbows back and squeezing the shoulder blades. Return slowly to the starting position."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Deadlift",
+    "muscles": [
+      {
+        "muscleName": "Back",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Glutes",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Hamstrings",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/f96d5f24-c9b0-4782-bbd9-41d383a6b633"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Feet hip-width apart, bar over mid-foot. Grip the bar overhand or mixed, arms straight. Flat back, proud chest, eyes slightly forward. Initiate by pushing the floor away with your feet, keeping the bar close to the body. Lock out hips and shoulders simultaneously at the top. Exhale on the way up."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Face Pull",
+    "muscles": [
+      {
+        "muscleName": "Back",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Shoulders",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/0f7cf0c4-34fe-4cb3-993e-469be8004c2c"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Set the pulley at eye height. Grip the rope overhand and step back to create tension. Pull the rope toward your face, separating your hands as they approach your head, elbows at shoulder height or above. Squeeze the rear delts and rhomboids at the end position. Return slowly. Great for shoulder health."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Overhead Press",
+    "muscles": [
+      {
+        "muscleName": "Shoulders",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Core",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/d725ad5a-e0dd-4fca-8b9e-0016aaa757a0"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Standing or seated, bar at shoulder height gripped overhand, elbows slightly in front of the bar. Press upward while exhaling until arms are fully extended. Move the head back slightly to allow the bar to pass, then return it forward at the top. Lower slowly. Brace the core throughout to protect the spine."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Lateral Raise",
+    "muscles": [
+      {
+        "muscleName": "Shoulders",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/1cce8f37-dd9f-442f-995e-be02b98a35ad"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Stand tall with dumbbells at your sides, elbows slightly bent. Raise your arms out to the sides to shoulder height, thumbs slightly down (as if pouring a glass). Do not raise above shoulder level to protect the joints. Lower slowly over 3-4 seconds. Avoid swinging the torso."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Front Raise",
+    "muscles": [
+      {
+        "muscleName": "Shoulders",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/31622706/13475131_2560_1440_60fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Stand with dumbbells in front of your thighs, palms facing down. Raise your arms forward to shoulder height, keeping a slight bend in the elbows. Hold for 1 second at the top, then lower slowly. Avoid using momentum from the torso. Can be performed alternately or simultaneously."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Arnold Press",
+    "muscles": [
+      {
+        "muscleName": "Shoulders",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Triceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/11023725/11023725-hd_720_1280_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Seated, hold dumbbells at shoulder height with palms facing you. As you press upward, rotate your wrists so your palms face forward at the top of the movement. Return to the starting position by reversing the rotation. This rotational movement engages all three heads of the deltoid."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Reverse Fly",
+    "muscles": [
+      {
+        "muscleName": "Shoulders",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Back",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/35735258/15146155_2560_1440_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Hinge the torso to about 45-90°, dumbbells hanging below you, palms facing each other. Lift your arms out to the sides in an arc, elbows slightly bent, to shoulder height. Squeeze the rear delts and mid-back at the top. Lower slowly. Can be done seated, bent over a bench."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Barbell Curl",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Forearms",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/998e8f21-2bda-49d8-a773-b59c316d022d"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Stand with the bar held in a supinated (underhand) grip, arms extended at your sides. Bend the elbows to curl the bar toward your shoulders without moving the elbows. Squeeze the biceps at the top. Lower slowly, resisting the weight. Keep your torso upright and elbows fixed at your sides."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Dumbbell Curl",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Forearms",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/2a0529a0-be74-4b88-bf1c-6b67c8f12ef8"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Stand with dumbbells at your sides, palms facing forward. Curl alternately or simultaneously, bringing the dumbbells toward the shoulders. Slightly supinate the wrists as you curl. Squeeze the biceps at the top and lower slowly. Keep elbows fixed at your sides throughout."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Hammer Curl",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Forearms",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6389045/6389045-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Stand with dumbbells at your sides, palms facing each other (neutral grip). Curl the dumbbells toward the shoulders without rotating the wrists. This grip particularly targets the brachioradialis and brachialis muscles. Lower slowly. Can be performed alternately or simultaneously."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Preacher Curl",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/34543878/14636951_1920_1080_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Seated at the preacher bench, rest the upper arms flat on the angled pad, gripping the bar underhand. Curl the bar upward, squeezing the biceps. Lower slowly to near full extension. The preacher bench perfectly isolates the biceps by eliminating torso momentum."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Cable Curl",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Forearms",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4367638/4367638-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Facing a low pulley, grip the bar or rope underhand. Curl toward the shoulders by bending the elbows. The cable maintains constant tension throughout the movement, unlike free weights. Lower slowly and control the resistance throughout."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Chin-Up",
+    "muscles": [
+      {
+        "muscleName": "Biceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Back",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/7672118/7672118-hd_1366_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Grip the bar underhand (supinated), hands at shoulder-width. Pull your body upward until your chin clears the bar. The underhand grip recruits the biceps more than the overhand pull-up. Lower slowly and with control. Exhale on the way up."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Tricep Dip",
+    "muscles": [
+      {
+        "muscleName": "Triceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Chest",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Shoulders",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4159114/4159114-hd_1080_1920_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Grip the parallel bars with the torso upright and vertical. Lower by bending the elbows to about 90°. Press up while exhaling to return to the starting position. To target the triceps, keep the torso vertical and elbows close to the body (unlike chest dips where you lean forward)."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Skull Crusher",
+    "muscles": [
+      {
+        "muscleName": "Triceps",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/5726682/5726682-hd_1366_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Lie on a flat bench, holding the bar overhead with arms extended in an overhand grip. Bend the elbows to lower the bar toward the forehead (or slightly behind the head). Keep the elbows fixed and pointed toward the ceiling. Press up while exhaling to return. Perfect isolation of the triceps."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Overhead Tricep Extension",
+    "muscles": [
+      {
+        "muscleName": "Triceps",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6286166/6286166-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Seated or standing, hold a dumbbell with both hands overhead, arms extended. Bend the elbows to lower the dumbbell behind your head. Keep the elbows pointing upward and close to the head. Press back to full extension while exhaling. This position stretches the long head of the triceps."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Cable Pushdown",
+    "muscles": [
+      {
+        "muscleName": "Triceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Forearms",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/9a550e2c-c55e-495d-b59e-b676c3d48a41"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Facing a high pulley, grip the bar or rope overhand. Keep upper arms against the body, elbows fixed. Push down until triceps are fully extended. Squeeze the triceps at the bottom. Return slowly with control. Avoid leaning the torso or moving the elbows."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Close-Grip Bench Press",
+    "muscles": [
+      {
+        "muscleName": "Triceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Chest",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/20672105/20672105-hd_1280_720_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Lie on a flat bench, grip the bar at about shoulder-width (close grip). Lower the bar to the lower chest, keeping the elbows close to the body. Press up while exhaling to full extension. Keeping the elbows tucked maximizes triceps engagement. Avoid an excessively narrow grip that stresses the wrists."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Wrist Curl",
+    "muscles": [
+      {
+        "muscleName": "Forearms",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4367577/4367577-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Seated, rest your forearms on your thighs or a bench with palms facing up. Hold the bar and flex the wrists upward, contracting the forearm flexors. Lower slowly to full extension. The range of motion is small but intense for the flexor muscles."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Reverse Wrist Curl",
+    "muscles": [
+      {
+        "muscleName": "Forearms",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/11075640/11075640-hd_1280_720_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Seated, forearms resting on thighs with palms facing down. Hold the bar and extend the wrists upward (dorsiflexion). This targets the forearm extensors and improves muscular balance to prevent elbow injuries. Lower slowly and under control."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Farmer's Walk",
+    "muscles": [
+      {
+        "muscleName": "Forearms",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Core",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/37503830/15888863_1920_1080_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Hold a heavy dumbbell in each hand with arms at your sides. Walk a set distance keeping your back straight, shoulders pulled back, and eyes forward. Brace the core and glutes for stability. Excellent exercise for grip strength and trunk stability."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Squat",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Glutes",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Hamstrings",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/d65feff4-9891-4ff8-a9f9-64965da7b69c"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Bar resting on the traps, feet shoulder-width apart with toes slightly turned out. Descend by pushing the knees outward and keeping the torso as upright as possible. Lower until thighs are parallel to the floor (or deeper if mobility allows). Drive upward while exhaling, knees tracking over the toes."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Leg Press",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Glutes",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Hamstrings",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/3dabdcc0-8639-4868-9e57-5afc621ed50d"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Seated in the machine, feet shoulder-width apart on the platform. Unlock and lower the platform slowly to 90° of knee flexion. Press upward while exhaling to near full extension (do not lock the knees). Foot placement affects muscle targeting: feet high = more glutes, feet low = more quads."
+      }
+    ],
+    "equipment": "Machine"
+  },
+  {
+    "name": "Leg Extension",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/3d0e78d0-1125-4d25-8bd4-9ca7ba3799e8"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Seated in the machine, adjust the pad to rest on the lower shins. Extend the knees to raise the legs to full extension. Hold for 1 second while squeezing the quadriceps. Lower slowly over 3-4 seconds. Ideal for quad isolation at the end of a session."
+      }
+    ],
+    "equipment": "Machine"
+  },
+  {
+    "name": "Lunge",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Glutes",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Hamstrings",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/166bf038-1670-4c52-9f32-cf6463556d99"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Standing tall, take a large step forward. Lower the rear knee toward the floor while keeping the torso upright. The front knee should not go past the toes. Push through the front foot to return to the starting position or continue in a walking lunge pattern. Keep your gaze forward."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Hack Squat",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Glutes",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6892543/6892543-hd_720_1280_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "On the hack squat machine, back against the pad, feet on the platform. Lower by bending the knees to 90° or deeper. Push upward while exhaling to return. The machine guides the path and reduces spinal loading. Can also be performed with a barbell held behind the legs."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Front Squat",
+    "muscles": [
+      {
+        "muscleName": "Quadriceps",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Core",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4859747/4859747-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Bar resting on the front deltoids, elbows high and parallel to the floor. Descend while keeping the torso very upright (more so than the back squat). High elbows are essential to keep the bar in place. Descend below parallel if possible. Drive upward while exhaling, knees tracking over the toes."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Romanian Deadlift",
+    "muscles": [
+      {
+        "muscleName": "Hamstrings",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Glutes",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Back",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/b7f3df3f-7371-4d29-bc59-3227fcdaa09a"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Stand holding the bar overhand. Push the hips backward with knees slightly bent and the back flat. Lower the bar along the legs until you feel a strong stretch in the hamstrings. Drive the hips forward to return to standing. Keep the bar close to the body throughout."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Leg Curl",
+    "muscles": [
+      {
+        "muscleName": "Hamstrings",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/34a512bf-baa1-48ac-a5b9-132073166018"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Lying or seated on the machine, legs nearly extended under the pad. Curl the heels toward the glutes, squeezing the hamstrings at full flexion. Lower slowly, resisting the weight. Avoid raising the hips during the movement."
+      }
+    ],
+    "equipment": "Machine"
+  },
+  {
+    "name": "Good Morning",
+    "muscles": [
+      {
+        "muscleName": "Hamstrings",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Back",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Glutes",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/7674502/7674502-hd_1366_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Bar on the traps, feet shoulder-width apart, knees slightly bent. Hinge the torso forward by pushing the hips back, keeping the back flat, until the torso is nearly parallel to the floor. Feel the stretch in the hamstrings. Return to vertical by contracting the glutes and hamstrings."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Glute-Ham Raise",
+    "muscles": [
+      {
+        "muscleName": "Hamstrings",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Glutes",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/3126123/3126123-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Kneeling with feet secured under a support (partner or machine). Lower forward slowly, resisting with the hamstrings, keeping the back straight. Use hands to catch yourself if needed. Pull back up using the hamstrings and assist with hands as necessary. A very demanding eccentric exercise."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Hip Thrust",
+    "muscles": [
+      {
+        "muscleName": "Glutes",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Hamstrings",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/e0e8ce33-e39e-4e14-950b-2540be912c5b"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Upper back against a bench, bar over the hips (with a pad for comfort). Feet flat on the floor, shoulder-width apart. Drive the hips upward while squeezing the glutes until the body forms a straight line from head to knees. Hold for 1 second at the top. Lower slowly. Exhale on the way up."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Sumo Deadlift",
+    "muscles": [
+      {
+        "muscleName": "Glutes",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Hamstrings",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Back",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6980765/6980765-hd_1366_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Wide stance with toes pointed out at about 45°. Grip the bar between the legs overhand or mixed. Flat back, hips low — pull the bar by pushing the knees outward. This stance reduces lower back loading and increases adductor and glute involvement compared to conventional deadlift."
+      }
+    ],
+    "equipment": "Barbell"
+  },
+  {
+    "name": "Cable Kickback",
+    "muscles": [
+      {
+        "muscleName": "Glutes",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/10740728/10740728-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Facing a low pulley with an ankle strap attached. Lean slightly forward, holding a bar or the cable frame for support. Extend the leg backward in a hip extension movement, squeezing the glute. Control the return. Keep the back straight and avoid excessive forward lean."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Cable Kickback",
+    "muscles": [
+      {
+        "muscleName": "Glutes",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/10740728/10740728-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Facing a low pulley with an ankle strap attached. Lean slightly forward, holding a bar or the cable frame for support. Extend the leg backward in a hip extension movement, squeezing the glute. Control the return. Keep the back straight and avoid excessive forward lean."
+      }
+    ],
+    "equipment": "Cable"
+  },
+  {
+    "name": "Bulgarian Split Squat",
+    "muscles": [
+      {
+        "muscleName": "Glutes",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Quadriceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Hamstrings",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8401270/8401270-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Rear foot elevated on a bench, front foot stepped forward. Hold a dumbbell in each hand. Lower by bending the front knee until the thigh is parallel to the floor. Drive through the front heel to stand back up. Excellent unilateral exercise that corrects muscle imbalances between legs."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Bulgarian Split Squat",
+    "muscles": [
+      {
+        "muscleName": "Glutes",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Quadriceps",
+        "role": "secondary"
+      },
+      {
+        "muscleName": "Hamstrings",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8401270/8401270-hd_1280_720_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Rear foot elevated on a bench, front foot stepped forward. Hold a dumbbell in each hand. Lower by bending the front knee until the thigh is parallel to the floor. Drive through the front heel to stand back up. Excellent unilateral exercise that corrects muscle imbalances between legs."
+      }
+    ],
+    "equipment": "Dumbbell"
+  },
+  {
+    "name": "Step-Up",
+    "muscles": [
+      {
+        "muscleName": "Glutes",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Quadriceps",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8402107/8402107-hd_1080_1920_30fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Facing a stable bench or box, place one foot on top and step up by pushing through that foot, bringing the other foot alongside. Lower slowly and alternate legs. Keep your back straight and gaze forward. Box height determines intensity. Can be done with dumbbells for added resistance."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Standing Calf Raise",
+    "muscles": [
+      {
+        "muscleName": "Calves",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/32115656/13692103_1440_2560_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Stand on the platform with heels off the edge, shoulders under the pads. Rise onto the balls of your feet, fully contracting the calves at the top. Lower slowly below the level of the platform to stretch the calves. Hold for 1 second at the top. Keep a slight knee bend throughout."
+      }
+    ],
+    "equipment": "Machine"
+  },
+  {
+    "name": "Seated Calf Raise",
+    "muscles": [
+      {
+        "muscleName": "Calves",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/94b73c60-81d0-4522-964e-ceacf89129cf"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Seated at the machine with knees bent at 90°, pad resting on the thighs. Rise onto the balls of your feet, contracting the calves. Lower slowly to stretch. The seated position targets the soleus (the deep muscle beneath the gastrocnemius) because the bent knee reduces gastrocnemius activation."
+      }
+    ],
+    "equipment": "Machine"
+  },
+  {
+    "name": "Donkey Calf Raise",
+    "muscles": [
+      {
+        "muscleName": "Calves",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4867634/4867634-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Bent forward with hands on a support, back horizontal. Heels off the edge of a platform. Rise onto the balls of your feet, squeezing the calves. Lower to stretch. The bent-over position maximizes the gastrocnemius stretch because the knees are extended. Can be loaded with a partner sitting on your hips."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Jump Rope",
+    "muscles": [
+      {
+        "muscleName": "Calves",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Core",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8691038/8691038-hd_1366_720_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Hold the handles with elbows close to the body. Rotate the rope using the wrists (not the whole arms). Jump on the balls of your feet just high enough to let the rope pass underneath. Maintain a steady rhythm and keep your gaze forward. Alternate between single jumps, doubles, and crossovers based on skill level."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Plank",
+    "muscles": [
+      {
+        "muscleName": "Core",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://ymove.app/api/free/be8f26b0-4948-4f48-b851-1a9d2cfd953c"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "In a forearm plank position with toes on the floor, body in a straight line from head to heels. Brace the core, glutes, and quads to maintain the position. Do not let the hips sag or rise. Breathe normally. Hold as long as possible while maintaining perfect form."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Crunch",
+    "muscles": [
+      {
+        "muscleName": "Core",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/4754028/4754028-hd_1366_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Lying on your back with knees bent, hands behind the head or crossed on the chest. Contract the abs to lift the shoulders off the floor without pulling on the neck. Rise until you feel a strong contraction. Lower slowly. This is a short movement — you are not trying to sit up fully."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Russian Twist",
+    "muscles": [
+      {
+        "muscleName": "Core",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6892537/6892537-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Seated on the floor, torso leaned back at about 45°, knees bent, feet slightly raised (or on the floor for beginners). Hold a weight or clasp your hands together. Rotate the torso alternately left and right, touching the floor on each side. The movement comes from the trunk, not the arms."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Leg Raise",
+    "muscles": [
+      {
+        "muscleName": "Core",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6455075/6455075-hd_1080_1920_24fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Lying on your back, hands under the glutes or at your sides for support. Legs straight or slightly bent. Raise the legs to vertical while contracting the lower abs. Lower slowly without letting the feet touch the floor. Can also be performed hanging from a bar."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Bicycle Crunch",
+    "muscles": [
+      {
+        "muscleName": "Core",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/6525494/6525494-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Lying on your back, hands behind the head, legs raised at 45°. Bring the right elbow toward the left knee while simultaneously extending the right leg. Alternate in a continuous pedaling motion. Simultaneously targets the obliques and rectus abdominis."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Ab Wheel Rollout",
+    "muscles": [
+      {
+        "muscleName": "Core",
+        "role": "primary"
+      },
+      {
+        "muscleName": "Shoulders",
+        "role": "secondary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8026520/8026520-hd_1366_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "On your knees, hold the ab wheel with both hands in front of you. Roll forward slowly, extending the arms and bracing with the core to prevent the back from arching. Pull back using the abs. Start with a small range of motion and increase progressively. A very demanding anti-extension core exercise."
+      }
+    ],
+    "equipment": "Bodyweight"
+  },
+  {
+    "name": "Cable Crunch",
+    "muscles": [
+      {
+        "muscleName": "Core",
+        "role": "primary"
+      }
+    ],
+    "notes": [
+      {
+        "title": "exercise execution",
+        "noteType": "url",
+        "url": "https://videos.pexels.com/video-files/8472284/8472284-hd_1280_720_25fps.mp4"
+      },
+      {
+        "title": "setup",
+        "noteType": "description",
+        "description": "Kneeling facing a high pulley, holding the rope or bar behind the head. Flex the torso downward while contracting the abs, bringing the elbows toward the knees. The cable maintains constant tension unlike floor crunches. Return slowly to the starting position."
+      }
+    ],
+    "equipment": "Cable"
+  }
+]

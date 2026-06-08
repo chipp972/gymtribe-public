@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Poulet (blanc, cuit)",
+    "type": "solid",
+    "kcalPer100g": 165,
+    "protPer100g": 31,
+    "glucPer100g": 0,
+    "lipPer100g": 3.6,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Dinde (escalope, cuite)",
+    "type": "solid",
+    "kcalPer100g": 135,
+    "protPer100g": 30,
+    "glucPer100g": 0,
+    "lipPer100g": 1.5,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Steak de boeuf 5%",
+    "type": "solid",
+    "kcalPer100g": 137,
+    "protPer100g": 21,
+    "glucPer100g": 0,
+    "lipPer100g": 5,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Steak haché 15%",
+    "type": "solid",
+    "kcalPer100g": 250,
+    "protPer100g": 26,
+    "glucPer100g": 0,
+    "lipPer100g": 17,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Oeuf entier",
+    "type": "solid",
+    "kcalPer100g": 143,
+    "protPer100g": 13,
+    "glucPer100g": 1.1,
+    "lipPer100g": 10,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Blanc d'oeuf",
+    "type": "solid",
+    "kcalPer100g": 52,
+    "protPer100g": 11,
+    "glucPer100g": 0.7,
+    "lipPer100g": 0.2,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Saumon",
+    "type": "solid",
+    "kcalPer100g": 208,
+    "protPer100g": 20,
+    "glucPer100g": 0,
+    "lipPer100g": 13,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Thon en conserve",
+    "type": "solid",
+    "kcalPer100g": 116,
+    "protPer100g": 26,
+    "glucPer100g": 0,
+    "lipPer100g": 1,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Cabillaud",
+    "type": "solid",
+    "kcalPer100g": 82,
+    "protPer100g": 18,
+    "glucPer100g": 0,
+    "lipPer100g": 0.7,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Crevettes",
+    "type": "solid",
+    "kcalPer100g": 99,
+    "protPer100g": 24,
+    "glucPer100g": 0.2,
+    "lipPer100g": 0.3,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Jambon blanc",
+    "type": "solid",
+    "kcalPer100g": 120,
+    "protPer100g": 20,
+    "glucPer100g": 1,
+    "lipPer100g": 4,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Tofu ferme",
+    "type": "solid",
+    "kcalPer100g": 144,
+    "protPer100g": 17,
+    "glucPer100g": 3,
+    "lipPer100g": 8,
+    "fiberPer100g": 2,
+    "alcPct": 0
+  },
+  {
+    "name": "Tempeh",
+    "type": "solid",
+    "kcalPer100g": 193,
+    "protPer100g": 20,
+    "glucPer100g": 9,
+    "lipPer100g": 11,
+    "fiberPer100g": 1.4,
+    "alcPct": 0
+  },
+  {
+    "name": "Lentilles cuites",
+    "type": "solid",
+    "kcalPer100g": 116,
+    "protPer100g": 9,
+    "glucPer100g": 20,
+    "lipPer100g": 0.4,
+    "fiberPer100g": 8,
+    "alcPct": 0
+  },
+  {
+    "name": "Pois chiches cuits",
+    "type": "solid",
+    "kcalPer100g": 164,
+    "protPer100g": 9,
+    "glucPer100g": 27,
+    "lipPer100g": 2.6,
+    "fiberPer100g": 8,
+    "alcPct": 0
+  },
+  {
+    "name": "Haricots rouges cuits",
+    "type": "solid",
+    "kcalPer100g": 127,
+    "protPer100g": 8.7,
+    "glucPer100g": 23,
+    "lipPer100g": 0.5,
+    "fiberPer100g": 6.4,
+    "alcPct": 0
+  },
+  {
+    "name": "Riz blanc cuit",
+    "type": "solid",
+    "kcalPer100g": 130,
+    "protPer100g": 2.7,
+    "glucPer100g": 28,
+    "lipPer100g": 0.3,
+    "fiberPer100g": 0.4,
+    "alcPct": 0
+  },
+  {
+    "name": "Riz complet cuit",
+    "type": "solid",
+    "kcalPer100g": 111,
+    "protPer100g": 2.6,
+    "glucPer100g": 23,
+    "lipPer100g": 0.9,
+    "fiberPer100g": 1.8,
+    "alcPct": 0
+  },
+  {
+    "name": "Pâtes blanches cuites",
+    "type": "solid",
+    "kcalPer100g": 158,
+    "protPer100g": 5.8,
+    "glucPer100g": 31,
+    "lipPer100g": 1,
+    "fiberPer100g": 1.8,
+    "alcPct": 0
+  },
+  {
+    "name": "Pain blanc",
+    "type": "solid",
+    "kcalPer100g": 265,
+    "protPer100g": 8.5,
+    "glucPer100g": 49,
+    "lipPer100g": 3.2,
+    "fiberPer100g": 2.7,
+    "alcPct": 0
+  },
+  {
+    "name": "Pain complet",
+    "type": "solid",
+    "kcalPer100g": 247,
+    "protPer100g": 13,
+    "glucPer100g": 41,
+    "lipPer100g": 4.2,
+    "fiberPer100g": 7,
+    "alcPct": 0
+  },
+  {
+    "name": "Flocons d'avoine",
+    "type": "solid",
+    "kcalPer100g": 389,
+    "protPer100g": 17,
+    "glucPer100g": 66,
+    "lipPer100g": 7,
+    "fiberPer100g": 11,
+    "alcPct": 0
+  },
+  {
+    "name": "Pommes de terre cuites",
+    "type": "solid",
+    "kcalPer100g": 87,
+    "protPer100g": 2,
+    "glucPer100g": 20,
+    "lipPer100g": 0.1,
+    "fiberPer100g": 1.8,
+    "alcPct": 0
+  },
+  {
+    "name": "Patate douce cuite",
+    "type": "solid",
+    "kcalPer100g": 86,
+    "protPer100g": 1.6,
+    "glucPer100g": 20,
+    "lipPer100g": 0.1,
+    "fiberPer100g": 3,
+    "alcPct": 0
+  },
+  {
+    "name": "Banane",
+    "type": "solid",
+    "kcalPer100g": 89,
+    "protPer100g": 1.1,
+    "glucPer100g": 23,
+    "lipPer100g": 0.3,
+    "fiberPer100g": 2.6,
+    "alcPct": 0
+  },
+  {
+    "name": "Pomme",
+    "type": "solid",
+    "kcalPer100g": 52,
+    "protPer100g": 0.3,
+    "glucPer100g": 14,
+    "lipPer100g": 0.2,
+    "fiberPer100g": 2.4,
+    "alcPct": 0
+  },
+  {
+    "name": "Poire",
+    "type": "solid",
+    "kcalPer100g": 57,
+    "protPer100g": 0.4,
+    "glucPer100g": 15,
+    "lipPer100g": 0.1,
+    "fiberPer100g": 3.1,
+    "alcPct": 0
+  },
+  {
+    "name": "Orange",
+    "type": "solid",
+    "kcalPer100g": 47,
+    "protPer100g": 0.9,
+    "glucPer100g": 12,
+    "lipPer100g": 0.1,
+    "fiberPer100g": 2.4,
+    "alcPct": 0
+  },
+  {
+    "name": "Mandarine",
+    "type": "solid",
+    "kcalPer100g": 53,
+    "protPer100g": 0.8,
+    "glucPer100g": 13,
+    "lipPer100g": 0.3,
+    "fiberPer100g": 1.8,
+    "alcPct": 0
+  },
+  {
+    "name": "Kiwi",
+    "type": "solid",
+    "kcalPer100g": 61,
+    "protPer100g": 1.1,
+    "glucPer100g": 15,
+    "lipPer100g": 0.5,
+    "fiberPer100g": 3,
+    "alcPct": 0
+  },
+  {
+    "name": "Fraises",
+    "type": "solid",
+    "kcalPer100g": 32,
+    "protPer100g": 0.7,
+    "glucPer100g": 7.7,
+    "lipPer100g": 0.3,
+    "fiberPer100g": 2,
+    "alcPct": 0
+  },
+  {
+    "name": "Myrtilles",
+    "type": "solid",
+    "kcalPer100g": 57,
+    "protPer100g": 0.7,
+    "glucPer100g": 14,
+    "lipPer100g": 0.3,
+    "fiberPer100g": 2.4,
+    "alcPct": 0
+  },
+  {
+    "name": "Framboises",
+    "type": "solid",
+    "kcalPer100g": 52,
+    "protPer100g": 1.2,
+    "glucPer100g": 12,
+    "lipPer100g": 0.7,
+    "fiberPer100g": 6.5,
+    "alcPct": 0
+  },
+  {
+    "name": "Raisin",
+    "type": "solid",
+    "kcalPer100g": 69,
+    "protPer100g": 0.7,
+    "glucPer100g": 18,
+    "lipPer100g": 0.2,
+    "fiberPer100g": 0.9,
+    "alcPct": 0
+  },
+  {
+    "name": "Mangue",
+    "type": "solid",
+    "kcalPer100g": 60,
+    "protPer100g": 0.8,
+    "glucPer100g": 15,
+    "lipPer100g": 0.4,
+    "fiberPer100g": 1.6,
+    "alcPct": 0
+  },
+  {
+    "name": "Ananas",
+    "type": "solid",
+    "kcalPer100g": 50,
+    "protPer100g": 0.5,
+    "glucPer100g": 13,
+    "lipPer100g": 0.1,
+    "fiberPer100g": 1.4,
+    "alcPct": 0
+  },
+  {
+    "name": "Pastèque",
+    "type": "solid",
+    "kcalPer100g": 30,
+    "protPer100g": 0.6,
+    "glucPer100g": 8,
+    "lipPer100g": 0.2,
+    "fiberPer100g": 0.4,
+    "alcPct": 0
+  },
+  {
+    "name": "Avocat",
+    "type": "solid",
+    "kcalPer100g": 160,
+    "protPer100g": 2,
+    "glucPer100g": 9,
+    "lipPer100g": 15,
+    "fiberPer100g": 7,
+    "alcPct": 0
+  },
+  {
+    "name": "Brocoli",
+    "type": "solid",
+    "kcalPer100g": 35,
+    "protPer100g": 2.8,
+    "glucPer100g": 7,
+    "lipPer100g": 0.4,
+    "fiberPer100g": 3,
+    "alcPct": 0
+  },
+  {
+    "name": "Haricots verts",
+    "type": "solid",
+    "kcalPer100g": 31,
+    "protPer100g": 1.8,
+    "glucPer100g": 7,
+    "lipPer100g": 0.1,
+    "fiberPer100g": 3.4,
+    "alcPct": 0
+  },
+  {
+    "name": "Carottes",
+    "type": "solid",
+    "kcalPer100g": 41,
+    "protPer100g": 0.9,
+    "glucPer100g": 10,
+    "lipPer100g": 0.2,
+    "fiberPer100g": 2.8,
+    "alcPct": 0
+  },
+  {
+    "name": "Courgettes",
+    "type": "solid",
+    "kcalPer100g": 17,
+    "protPer100g": 1.2,
+    "glucPer100g": 3.1,
+    "lipPer100g": 0.3,
+    "fiberPer100g": 1,
+    "alcPct": 0
+  },
+  {
+    "name": "Tomates",
+    "type": "solid",
+    "kcalPer100g": 18,
+    "protPer100g": 0.9,
+    "glucPer100g": 3.9,
+    "lipPer100g": 0.2,
+    "fiberPer100g": 1.2,
+    "alcPct": 0
+  },
+  {
+    "name": "Concombre",
+    "type": "solid",
+    "kcalPer100g": 15,
+    "protPer100g": 0.7,
+    "glucPer100g": 3.6,
+    "lipPer100g": 0.1,
+    "fiberPer100g": 0.5,
+    "alcPct": 0
+  },
+  {
+    "name": "Poivron rouge",
+    "type": "solid",
+    "kcalPer100g": 31,
+    "protPer100g": 1,
+    "glucPer100g": 6,
+    "lipPer100g": 0.3,
+    "fiberPer100g": 2.1,
+    "alcPct": 0
+  },
+  {
+    "name": "Epinards",
+    "type": "solid",
+    "kcalPer100g": 23,
+    "protPer100g": 2.9,
+    "glucPer100g": 3.6,
+    "lipPer100g": 0.4,
+    "fiberPer100g": 2.2,
+    "alcPct": 0
+  },
+  {
+    "name": "Champignons",
+    "type": "solid",
+    "kcalPer100g": 22,
+    "protPer100g": 3.1,
+    "glucPer100g": 3.3,
+    "lipPer100g": 0.3,
+    "fiberPer100g": 1,
+    "alcPct": 0
+  },
+  {
+    "name": "Chou-fleur",
+    "type": "solid",
+    "kcalPer100g": 25,
+    "protPer100g": 1.9,
+    "glucPer100g": 5,
+    "lipPer100g": 0.3,
+    "fiberPer100g": 2,
+    "alcPct": 0
+  },
+  {
+    "name": "Asperges",
+    "type": "solid",
+    "kcalPer100g": 20,
+    "protPer100g": 2.2,
+    "glucPer100g": 3.9,
+    "lipPer100g": 0.1,
+    "fiberPer100g": 2.1,
+    "alcPct": 0
+  },
+  {
+    "name": "Petits pois",
+    "type": "solid",
+    "kcalPer100g": 81,
+    "protPer100g": 5.4,
+    "glucPer100g": 14,
+    "lipPer100g": 0.4,
+    "fiberPer100g": 5,
+    "alcPct": 0
+  },
+  {
+    "name": "Amandes",
+    "type": "solid",
+    "kcalPer100g": 579,
+    "protPer100g": 21,
+    "glucPer100g": 22,
+    "lipPer100g": 50,
+    "fiberPer100g": 12,
+    "alcPct": 0
+  },
+  {
+    "name": "Noix",
+    "type": "solid",
+    "kcalPer100g": 654,
+    "protPer100g": 15,
+    "glucPer100g": 14,
+    "lipPer100g": 65,
+    "fiberPer100g": 7,
+    "alcPct": 0
+  },
+  {
+    "name": "Beurre de cacahuète",
+    "type": "solid",
+    "kcalPer100g": 588,
+    "protPer100g": 25,
+    "glucPer100g": 20,
+    "lipPer100g": 50,
+    "fiberPer100g": 6,
+    "alcPct": 0
+  },
+  {
+    "name": "Huile d'olive",
+    "type": "liquid",
+    "kcalPer100g": 884,
+    "protPer100g": 0,
+    "glucPer100g": 0,
+    "lipPer100g": 100,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Lait demi-écrémé",
+    "type": "liquid",
+    "kcalPer100g": 47,
+    "protPer100g": 3.3,
+    "glucPer100g": 4.8,
+    "lipPer100g": 1.6,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Yaourt grec 0%",
+    "type": "solid",
+    "kcalPer100g": 59,
+    "protPer100g": 10,
+    "glucPer100g": 3.6,
+    "lipPer100g": 0.4,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Fromage blanc 0%",
+    "type": "solid",
+    "kcalPer100g": 46,
+    "protPer100g": 8,
+    "glucPer100g": 4,
+    "lipPer100g": 0.2,
+    "fiberPer100g": 0,
+    "alcPct": 0
+  },
+  {
+    "name": "Bière blonde (5%)",
+    "type": "liquid",
+    "kcalPer100g": 43,
+    "protPer100g": 0.3,
+    "glucPer100g": 3.3,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 5
+  },
+  {
+    "name": "Bière brune (6%)",
+    "type": "liquid",
+    "kcalPer100g": 57,
+    "protPer100g": 0.5,
+    "glucPer100g": 5.1,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 6
+  },
+  {
+    "name": "Cidre brut (5.5%)",
+    "type": "liquid",
+    "kcalPer100g": 45,
+    "protPer100g": 0,
+    "glucPer100g": 4,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 5.5
+  },
+  {
+    "name": "Vin rouge (12.5%)",
+    "type": "liquid",
+    "kcalPer100g": 85,
+    "protPer100g": 0.1,
+    "glucPer100g": 2.5,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 12.5
+  },
+  {
+    "name": "Vin blanc sec (12%)",
+    "type": "liquid",
+    "kcalPer100g": 77,
+    "protPer100g": 0.1,
+    "glucPer100g": 1,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 12
+  },
+  {
+    "name": "Rosé (12%)",
+    "type": "liquid",
+    "kcalPer100g": 80,
+    "protPer100g": 0.1,
+    "glucPer100g": 2,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 12
+  },
+  {
+    "name": "Champagne (12%)",
+    "type": "liquid",
+    "kcalPer100g": 80,
+    "protPer100g": 0.3,
+    "glucPer100g": 4,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 12
+  },
+  {
+    "name": "Whisky (40%)",
+    "type": "liquid",
+    "kcalPer100g": 250,
+    "protPer100g": 0,
+    "glucPer100g": 0,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 40
+  },
+  {
+    "name": "Vodka (40%)",
+    "type": "liquid",
+    "kcalPer100g": 231,
+    "protPer100g": 0,
+    "glucPer100g": 0,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 40
+  },
+  {
+    "name": "Rhum (40%)",
+    "type": "liquid",
+    "kcalPer100g": 231,
+    "protPer100g": 0,
+    "glucPer100g": 0,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 40
+  },
+  {
+    "name": "Gin (40%)",
+    "type": "liquid",
+    "kcalPer100g": 231,
+    "protPer100g": 0,
+    "glucPer100g": 0,
+    "lipPer100g": 0,
+    "fiberPer100g": 0,
+    "alcPct": 40
+  }
+]
