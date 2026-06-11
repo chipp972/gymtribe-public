@@ -4,7 +4,6 @@
     "en": "Dumbbell Curl",
     "fr": "Curl haltères"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "biceps",

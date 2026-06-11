@@ -4,7 +4,6 @@
     "en": "Sumo Deadlift",
     "fr": "Soulevé de terre sumo"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "glutes",

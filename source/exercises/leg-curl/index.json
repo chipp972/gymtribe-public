@@ -4,7 +4,6 @@
     "en": "Leg Curl",
     "fr": "Curl ischio-jambiers"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "hamstrings",

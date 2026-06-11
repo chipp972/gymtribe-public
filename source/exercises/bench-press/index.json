@@ -4,7 +4,6 @@
     "en": "Bench Press",
     "fr": "Développé couché"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "chest",

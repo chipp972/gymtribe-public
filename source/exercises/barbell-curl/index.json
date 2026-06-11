@@ -4,7 +4,6 @@
     "en": "Barbell Curl",
     "fr": "Curl barre"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "biceps",

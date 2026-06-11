@@ -4,7 +4,6 @@
     "en": "Push-Up",
     "fr": "Pompes"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "chest",

@@ -4,7 +4,6 @@
     "en": "Deadlift",
     "fr": "Soulevé de terre"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "back",

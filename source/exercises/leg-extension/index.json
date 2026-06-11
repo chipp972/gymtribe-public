@@ -4,7 +4,6 @@
     "en": "Leg Extension",
     "fr": "Extension quadriceps"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "quadriceps",

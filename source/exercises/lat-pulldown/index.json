@@ -4,7 +4,6 @@
     "en": "Lat Pulldown",
     "fr": "Tirage vertical"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "back",

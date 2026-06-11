@@ -4,7 +4,6 @@
     "en": "Cable Curl",
     "fr": "Curl poulie"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "biceps",

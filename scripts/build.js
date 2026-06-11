@@ -75,7 +75,6 @@ function buildExercises() {
       id,
       name: meta.name,
       description: meta.description,
-      archetype: meta.archetype,
       muscles: meta.muscles,
       equipment: meta.equipment,
       zipUrl: `${CDN_BASE}/data/exercises/${zipName}`

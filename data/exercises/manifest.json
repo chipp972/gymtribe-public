@@ -7,7 +7,6 @@
         "en": "Ab Wheel Rollout",
         "fr": "Roulette abdominale"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "core",
@@ -29,7 +28,6 @@
         "en": "Arnold Press",
         "fr": "Développé Arnold"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "shoulders",
@@ -51,7 +49,6 @@
         "en": "Barbell Curl",
         "fr": "Curl barre"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "biceps",
@@ -73,7 +70,6 @@
         "en": "Bench Press",
         "fr": "Développé couché"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "chest",
@@ -99,7 +95,6 @@
         "en": "Bent-Over Row",
         "fr": "Rowing barre"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "back",
@@ -125,7 +120,6 @@
         "en": "Bicycle Crunch",
         "fr": "Crunch bicycle"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "core",
@@ -143,7 +137,6 @@
         "en": "Bulgarian Split Squat",
         "fr": "Squat bulgare"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "glutes",
@@ -169,7 +162,6 @@
         "en": "Cable Crunch",
         "fr": "Crunch poulie"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "core",
@@ -187,7 +179,6 @@
         "en": "Cable Curl",
         "fr": "Curl poulie"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "biceps",
@@ -209,7 +200,6 @@
         "en": "Cable Fly",
         "fr": "Écarté poulie"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "chest",
@@ -231,7 +221,6 @@
         "en": "Cable Kickback",
         "fr": "Kickback poulie"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "glutes",
@@ -249,7 +238,6 @@
         "en": "Cable Pushdown",
         "fr": "Pushdown poulie haute"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "triceps",
@@ -271,7 +259,6 @@
         "en": "Chin-Up",
         "fr": "Traction supination"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "biceps",
@@ -293,7 +280,6 @@
         "en": "Close-Grip Bench Press",
         "fr": "Développé prise serrée"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "triceps",
@@ -315,7 +301,6 @@
         "en": "Crunch",
         "fr": "Crunch"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "core",
@@ -333,7 +318,6 @@
         "en": "Deadlift",
         "fr": "Soulevé de terre"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "back",
@@ -359,7 +343,6 @@
         "en": "Dips",
         "fr": "Dips"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "chest",
@@ -385,7 +368,6 @@
         "en": "Donkey Calf Raise",
         "fr": "Donkey calf raise"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "calves",
@@ -403,7 +385,6 @@
         "en": "Dumbbell Curl",
         "fr": "Curl haltères"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "biceps",
@@ -425,7 +406,6 @@
         "en": "Dumbbell Fly",
         "fr": "Écarté haltères"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "chest",
@@ -447,7 +427,6 @@
         "en": "Face Pull",
         "fr": "Face pull"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "back",
@@ -469,7 +448,6 @@
         "en": "Farmer's Walk",
         "fr": "Marche du fermier"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "forearms",
@@ -491,7 +469,6 @@
         "en": "Front Raise",
         "fr": "Élévations frontales"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "shoulders",
@@ -509,7 +486,6 @@
         "en": "Front Squat",
         "fr": "Squat avant"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "quadriceps",
@@ -531,7 +507,6 @@
         "en": "Glute-Ham Raise",
         "fr": "Élévation ischio-fessiers"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "hamstrings",
@@ -553,7 +528,6 @@
         "en": "Good Morning",
         "fr": "Good morning"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "hamstrings",
@@ -579,7 +553,6 @@
         "en": "Hack Squat",
         "fr": "Hack squat"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "quadriceps",
@@ -601,7 +574,6 @@
         "en": "Hammer Curl",
         "fr": "Curl marteau"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "biceps",
@@ -623,7 +595,6 @@
         "en": "Hip Thrust",
         "fr": "Hip thrust"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "glutes",
@@ -645,7 +616,6 @@
         "en": "Incline Bench Press",
         "fr": "Développé incliné"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "chest",
@@ -671,7 +641,6 @@
         "en": "Jump Rope",
         "fr": "Corde à sauter"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "calves",
@@ -693,7 +662,6 @@
         "en": "Lat Pulldown",
         "fr": "Tirage vertical"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "back",
@@ -715,7 +683,6 @@
         "en": "Lateral Raise",
         "fr": "Élévations latérales"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "shoulders",
@@ -733,7 +700,6 @@
         "en": "Leg Curl",
         "fr": "Curl ischio-jambiers"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "hamstrings",
@@ -751,7 +717,6 @@
         "en": "Leg Extension",
         "fr": "Extension quadriceps"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "quadriceps",
@@ -769,7 +734,6 @@
         "en": "Leg Press",
         "fr": "Presse à cuisses"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "quadriceps",
@@ -795,7 +759,6 @@
         "en": "Leg Raise",
         "fr": "Relevé de jambes"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "core",
@@ -813,7 +776,6 @@
         "en": "Lunge",
         "fr": "Fente avant"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "quadriceps",
@@ -839,7 +801,6 @@
         "en": "Overhead Press",
         "fr": "Développé militaire"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "shoulders",
@@ -865,7 +826,6 @@
         "en": "Overhead Tricep Extension",
         "fr": "Extension triceps au-dessus de la tête"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "triceps",
@@ -883,7 +843,6 @@
         "en": "Plank",
         "fr": "Gainage"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "core",
@@ -901,7 +860,6 @@
         "en": "Preacher Curl",
         "fr": "Curl pupitre"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "biceps",
@@ -919,7 +877,6 @@
         "en": "Pull-Up",
         "fr": "Tractions"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "back",
@@ -941,7 +898,6 @@
         "en": "Push-Up",
         "fr": "Pompes"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "chest",
@@ -967,7 +923,6 @@
         "en": "Reverse Fly",
         "fr": "Écarté inversé"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "shoulders",
@@ -989,7 +944,6 @@
         "en": "Reverse Wrist Curl",
         "fr": "Curl poignet inversé"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "forearms",
@@ -1007,7 +961,6 @@
         "en": "Romanian Deadlift",
         "fr": "Soulevé de terre roumain"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "hamstrings",
@@ -1033,7 +986,6 @@
         "en": "Russian Twist",
         "fr": "Rotation russe"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "core",
@@ -1051,7 +1003,6 @@
         "en": "Seated Cable Row",
         "fr": "Rowing poulie basse"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "back",
@@ -1073,7 +1024,6 @@
         "en": "Seated Calf Raise",
         "fr": "Élévation des mollets assis"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "calves",
@@ -1091,7 +1041,6 @@
         "en": "Skull Crusher",
         "fr": "Barre au front"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "triceps",
@@ -1109,7 +1058,6 @@
         "en": "Squat",
         "fr": "Squat"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "quadriceps",
@@ -1135,7 +1083,6 @@
         "en": "Standing Calf Raise",
         "fr": "Élévation des mollets debout"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "calves",
@@ -1153,7 +1100,6 @@
         "en": "Step-Up",
         "fr": "Montée sur banc"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "glutes",
@@ -1175,7 +1121,6 @@
         "en": "Sumo Deadlift",
         "fr": "Soulevé de terre sumo"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "glutes",
@@ -1201,7 +1146,6 @@
         "en": "Tricep Dip",
         "fr": "Dips triceps"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "triceps",
@@ -1227,7 +1171,6 @@
         "en": "Wrist Curl",
         "fr": "Curl poignet"
       },
-      "archetype": "performance",
       "muscles": [
         {
           "name": "forearms",

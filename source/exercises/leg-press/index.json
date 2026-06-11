@@ -4,7 +4,6 @@
     "en": "Leg Press",
     "fr": "Presse à cuisses"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "quadriceps",

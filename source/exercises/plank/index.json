@@ -4,7 +4,6 @@
     "en": "Plank",
     "fr": "Gainage"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "core",

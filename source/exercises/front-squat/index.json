@@ -4,7 +4,6 @@
     "en": "Front Squat",
     "fr": "Squat avant"
   },
-  "archetype": "performance",
   "muscles": [
     {
       "name": "quadriceps",
