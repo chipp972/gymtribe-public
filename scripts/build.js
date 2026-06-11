@@ -170,6 +170,9 @@ function buildEquipment() {
     manifestEntries.push({
       id,
       name: meta.name,
+      thumbnailUrl: meta.imageUrl
+        ? `${CDN_BASE}/source/equipment/${id}/${meta.imageUrl}`
+        : undefined,
       zipUrl: `${CDN_BASE}/data/equipment/${zipName}`
     });
   }
