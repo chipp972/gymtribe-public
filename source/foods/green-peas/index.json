@@ -1,0 +1,14 @@
+{
+  "id": "green-peas",
+  "name": {
+    "en": "Green peas",
+    "fr": "Petits pois"
+  },
+  "type": "solid",
+  "kcalPer100g": 81,
+  "protPer100g": 5.4,
+  "glucPer100g": 14,
+  "lipPer100g": 0.4,
+  "fiberPer100g": 5,
+  "alcPct": 0
+}

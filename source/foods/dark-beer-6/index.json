@@ -1,0 +1,14 @@
+{
+  "id": "dark-beer-6",
+  "name": {
+    "en": "Dark beer (6%)",
+    "fr": "Bière brune (6%)"
+  },
+  "type": "liquid",
+  "kcalPer100g": 57,
+  "protPer100g": 0.5,
+  "glucPer100g": 5.1,
+  "lipPer100g": 0,
+  "fiberPer100g": 0,
+  "alcPct": 6
+}

@@ -1,0 +1,14 @@
+{
+  "id": "strawberries",
+  "name": {
+    "en": "Strawberries",
+    "fr": "Fraises"
+  },
+  "type": "solid",
+  "kcalPer100g": 32,
+  "protPer100g": 0.7,
+  "glucPer100g": 7.7,
+  "lipPer100g": 0.3,
+  "fiberPer100g": 2,
+  "alcPct": 0
+}

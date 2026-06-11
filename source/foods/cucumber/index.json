@@ -1,0 +1,14 @@
+{
+  "id": "cucumber",
+  "name": {
+    "en": "Cucumber",
+    "fr": "Concombre"
+  },
+  "type": "solid",
+  "kcalPer100g": 15,
+  "protPer100g": 0.7,
+  "glucPer100g": 3.6,
+  "lipPer100g": 0.1,
+  "fiberPer100g": 0.5,
+  "alcPct": 0
+}

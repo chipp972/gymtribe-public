@@ -1,0 +1,14 @@
+{
+  "id": "almonds",
+  "name": {
+    "en": "Almonds",
+    "fr": "Amandes"
+  },
+  "type": "solid",
+  "kcalPer100g": 579,
+  "protPer100g": 21,
+  "glucPer100g": 22,
+  "lipPer100g": 50,
+  "fiberPer100g": 12,
+  "alcPct": 0
+}

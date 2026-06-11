@@ -1,0 +1,14 @@
+{
+  "id": "spinach",
+  "name": {
+    "en": "Spinach",
+    "fr": "Epinards"
+  },
+  "type": "solid",
+  "kcalPer100g": 23,
+  "protPer100g": 2.9,
+  "glucPer100g": 3.6,
+  "lipPer100g": 0.4,
+  "fiberPer100g": 2.2,
+  "alcPct": 0
+}

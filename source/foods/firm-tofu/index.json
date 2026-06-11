@@ -1,0 +1,14 @@
+{
+  "id": "firm-tofu",
+  "name": {
+    "en": "Firm tofu",
+    "fr": "Tofu ferme"
+  },
+  "type": "solid",
+  "kcalPer100g": 144,
+  "protPer100g": 17,
+  "glucPer100g": 3,
+  "lipPer100g": 8,
+  "fiberPer100g": 2,
+  "alcPct": 0
+}

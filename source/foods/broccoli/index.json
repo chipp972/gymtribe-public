@@ -1,0 +1,14 @@
+{
+  "id": "broccoli",
+  "name": {
+    "en": "Broccoli",
+    "fr": "Brocoli"
+  },
+  "type": "solid",
+  "kcalPer100g": 35,
+  "protPer100g": 2.8,
+  "glucPer100g": 7,
+  "lipPer100g": 0.4,
+  "fiberPer100g": 3,
+  "alcPct": 0
+}

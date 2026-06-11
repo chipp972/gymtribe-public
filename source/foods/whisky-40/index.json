@@ -1,0 +1,14 @@
+{
+  "id": "whisky-40",
+  "name": {
+    "en": "Whisky (40%)",
+    "fr": "Whisky (40%)"
+  },
+  "type": "liquid",
+  "kcalPer100g": 250,
+  "protPer100g": 0,
+  "glucPer100g": 0,
+  "lipPer100g": 0,
+  "fiberPer100g": 0,
+  "alcPct": 40
+}

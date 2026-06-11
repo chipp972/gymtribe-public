@@ -1,0 +1,14 @@
+{
+  "id": "beef-steak-5",
+  "name": {
+    "en": "Beef steak 5%",
+    "fr": "Steak de boeuf 5%"
+  },
+  "type": "solid",
+  "kcalPer100g": 137,
+  "protPer100g": 21,
+  "glucPer100g": 0,
+  "lipPer100g": 5,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cooked-ham",
+  "name": {
+    "en": "Cooked ham",
+    "fr": "Jambon blanc"
+  },
+  "type": "solid",
+  "kcalPer100g": 120,
+  "protPer100g": 20,
+  "glucPer100g": 1,
+  "lipPer100g": 4,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

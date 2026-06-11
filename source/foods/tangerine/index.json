@@ -1,0 +1,14 @@
+{
+  "id": "tangerine",
+  "name": {
+    "en": "Tangerine",
+    "fr": "Mandarine"
+  },
+  "type": "solid",
+  "kcalPer100g": 53,
+  "protPer100g": 0.8,
+  "glucPer100g": 13,
+  "lipPer100g": 0.3,
+  "fiberPer100g": 1.8,
+  "alcPct": 0
+}

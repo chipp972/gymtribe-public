@@ -1,0 +1,14 @@
+{
+  "id": "semi-skimmed-milk",
+  "name": {
+    "en": "Semi-skimmed milk",
+    "fr": "Lait demi-écrémé"
+  },
+  "type": "liquid",
+  "kcalPer100g": 47,
+  "protPer100g": 3.3,
+  "glucPer100g": 4.8,
+  "lipPer100g": 1.6,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

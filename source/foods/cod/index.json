@@ -1,0 +1,14 @@
+{
+  "id": "cod",
+  "name": {
+    "en": "Cod",
+    "fr": "Cabillaud"
+  },
+  "type": "solid",
+  "kcalPer100g": 82,
+  "protPer100g": 18,
+  "glucPer100g": 0,
+  "lipPer100g": 0.7,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

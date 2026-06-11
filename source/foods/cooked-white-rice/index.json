@@ -1,0 +1,14 @@
+{
+  "id": "cooked-white-rice",
+  "name": {
+    "en": "Cooked white rice",
+    "fr": "Riz blanc cuit"
+  },
+  "type": "solid",
+  "kcalPer100g": 130,
+  "protPer100g": 2.7,
+  "glucPer100g": 28,
+  "lipPer100g": 0.3,
+  "fiberPer100g": 0.4,
+  "alcPct": 0
+}

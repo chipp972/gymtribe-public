@@ -1,0 +1,14 @@
+{
+  "id": "red-bell-pepper",
+  "name": {
+    "en": "Red bell pepper",
+    "fr": "Poivron rouge"
+  },
+  "type": "solid",
+  "kcalPer100g": 31,
+  "protPer100g": 1,
+  "glucPer100g": 6,
+  "lipPer100g": 0.3,
+  "fiberPer100g": 2.1,
+  "alcPct": 0
+}

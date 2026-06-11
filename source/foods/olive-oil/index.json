@@ -1,0 +1,14 @@
+{
+  "id": "olive-oil",
+  "name": {
+    "en": "Olive oil",
+    "fr": "Huile d'olive"
+  },
+  "type": "liquid",
+  "kcalPer100g": 884,
+  "protPer100g": 0,
+  "glucPer100g": 0,
+  "lipPer100g": 100,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

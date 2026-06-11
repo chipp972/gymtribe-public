@@ -1,0 +1,14 @@
+{
+  "id": "red-wine-12-5",
+  "name": {
+    "en": "Red wine (12.5%)",
+    "fr": "Vin rouge (12.5%)"
+  },
+  "type": "liquid",
+  "kcalPer100g": 85,
+  "protPer100g": 0.1,
+  "glucPer100g": 2.5,
+  "lipPer100g": 0,
+  "fiberPer100g": 0,
+  "alcPct": 12.5
+}

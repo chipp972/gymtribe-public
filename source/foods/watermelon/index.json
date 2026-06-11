@@ -1,0 +1,14 @@
+{
+  "id": "watermelon",
+  "name": {
+    "en": "Watermelon",
+    "fr": "Pastèque"
+  },
+  "type": "solid",
+  "kcalPer100g": 30,
+  "protPer100g": 0.6,
+  "glucPer100g": 8,
+  "lipPer100g": 0.2,
+  "fiberPer100g": 0.4,
+  "alcPct": 0
+}

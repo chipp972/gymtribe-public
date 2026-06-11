@@ -1,0 +1,14 @@
+{
+  "id": "dry-white-wine-12",
+  "name": {
+    "en": "Dry white wine (12%)",
+    "fr": "Vin blanc sec (12%)"
+  },
+  "type": "liquid",
+  "kcalPer100g": 77,
+  "protPer100g": 0.1,
+  "glucPer100g": 1,
+  "lipPer100g": 0,
+  "fiberPer100g": 0,
+  "alcPct": 12
+}

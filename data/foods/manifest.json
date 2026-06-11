@@ -2,354 +2,19 @@
   "version": "1.0.0",
   "foods": [
     {
-      "id": "chicken-breast-cooked",
+      "id": "almonds",
       "name": {
-        "en": "Chicken breast (cooked)",
-        "fr": "Poulet (blanc, cuit)"
+        "en": "Almonds",
+        "fr": "Amandes"
       },
       "type": "solid",
-      "kcalPer100g": 165,
-      "protPer100g": 31,
-      "glucPer100g": 0,
-      "lipPer100g": 3.6,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "turkey-breast-cooked",
-      "name": {
-        "en": "Turkey breast (cooked)",
-        "fr": "Dinde (escalope, cuite)"
-      },
-      "type": "solid",
-      "kcalPer100g": 135,
-      "protPer100g": 30,
-      "glucPer100g": 0,
-      "lipPer100g": 1.5,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "beef-steak-5",
-      "name": {
-        "en": "Beef steak 5%",
-        "fr": "Steak de boeuf 5%"
-      },
-      "type": "solid",
-      "kcalPer100g": 137,
+      "kcalPer100g": 579,
       "protPer100g": 21,
-      "glucPer100g": 0,
-      "lipPer100g": 5,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "ground-beef-15",
-      "name": {
-        "en": "Ground beef 15%",
-        "fr": "Steak haché 15%"
-      },
-      "type": "solid",
-      "kcalPer100g": 250,
-      "protPer100g": 26,
-      "glucPer100g": 0,
-      "lipPer100g": 17,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "whole-egg",
-      "name": {
-        "en": "Whole egg",
-        "fr": "Oeuf entier"
-      },
-      "type": "solid",
-      "kcalPer100g": 143,
-      "protPer100g": 13,
-      "glucPer100g": 1.1,
-      "lipPer100g": 10,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "egg-white",
-      "name": {
-        "en": "Egg white",
-        "fr": "Blanc d'oeuf"
-      },
-      "type": "solid",
-      "kcalPer100g": 52,
-      "protPer100g": 11,
-      "glucPer100g": 0.7,
-      "lipPer100g": 0.2,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "salmon",
-      "name": {
-        "en": "Salmon",
-        "fr": "Saumon"
-      },
-      "type": "solid",
-      "kcalPer100g": 208,
-      "protPer100g": 20,
-      "glucPer100g": 0,
-      "lipPer100g": 13,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "canned-tuna",
-      "name": {
-        "en": "Canned tuna",
-        "fr": "Thon en conserve"
-      },
-      "type": "solid",
-      "kcalPer100g": 116,
-      "protPer100g": 26,
-      "glucPer100g": 0,
-      "lipPer100g": 1,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "cod",
-      "name": {
-        "en": "Cod",
-        "fr": "Cabillaud"
-      },
-      "type": "solid",
-      "kcalPer100g": 82,
-      "protPer100g": 18,
-      "glucPer100g": 0,
-      "lipPer100g": 0.7,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "shrimp",
-      "name": {
-        "en": "Shrimp",
-        "fr": "Crevettes"
-      },
-      "type": "solid",
-      "kcalPer100g": 99,
-      "protPer100g": 24,
-      "glucPer100g": 0.2,
-      "lipPer100g": 0.3,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "cooked-ham",
-      "name": {
-        "en": "Cooked ham",
-        "fr": "Jambon blanc"
-      },
-      "type": "solid",
-      "kcalPer100g": 120,
-      "protPer100g": 20,
-      "glucPer100g": 1,
-      "lipPer100g": 4,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "firm-tofu",
-      "name": {
-        "en": "Firm tofu",
-        "fr": "Tofu ferme"
-      },
-      "type": "solid",
-      "kcalPer100g": 144,
-      "protPer100g": 17,
-      "glucPer100g": 3,
-      "lipPer100g": 8,
-      "fiberPer100g": 2,
-      "alcPct": 0
-    },
-    {
-      "id": "tempeh",
-      "name": {
-        "en": "Tempeh",
-        "fr": "Tempeh"
-      },
-      "type": "solid",
-      "kcalPer100g": 193,
-      "protPer100g": 20,
-      "glucPer100g": 9,
-      "lipPer100g": 11,
-      "fiberPer100g": 1.4,
-      "alcPct": 0
-    },
-    {
-      "id": "cooked-lentils",
-      "name": {
-        "en": "Cooked lentils",
-        "fr": "Lentilles cuites"
-      },
-      "type": "solid",
-      "kcalPer100g": 116,
-      "protPer100g": 9,
-      "glucPer100g": 20,
-      "lipPer100g": 0.4,
-      "fiberPer100g": 8,
-      "alcPct": 0
-    },
-    {
-      "id": "cooked-chickpeas",
-      "name": {
-        "en": "Cooked chickpeas",
-        "fr": "Pois chiches cuits"
-      },
-      "type": "solid",
-      "kcalPer100g": 164,
-      "protPer100g": 9,
-      "glucPer100g": 27,
-      "lipPer100g": 2.6,
-      "fiberPer100g": 8,
-      "alcPct": 0
-    },
-    {
-      "id": "cooked-red-kidney-beans",
-      "name": {
-        "en": "Cooked red kidney beans",
-        "fr": "Haricots rouges cuits"
-      },
-      "type": "solid",
-      "kcalPer100g": 127,
-      "protPer100g": 8.7,
-      "glucPer100g": 23,
-      "lipPer100g": 0.5,
-      "fiberPer100g": 6.4,
-      "alcPct": 0
-    },
-    {
-      "id": "cooked-white-rice",
-      "name": {
-        "en": "Cooked white rice",
-        "fr": "Riz blanc cuit"
-      },
-      "type": "solid",
-      "kcalPer100g": 130,
-      "protPer100g": 2.7,
-      "glucPer100g": 28,
-      "lipPer100g": 0.3,
-      "fiberPer100g": 0.4,
-      "alcPct": 0
-    },
-    {
-      "id": "cooked-brown-rice",
-      "name": {
-        "en": "Cooked brown rice",
-        "fr": "Riz complet cuit"
-      },
-      "type": "solid",
-      "kcalPer100g": 111,
-      "protPer100g": 2.6,
-      "glucPer100g": 23,
-      "lipPer100g": 0.9,
-      "fiberPer100g": 1.8,
-      "alcPct": 0
-    },
-    {
-      "id": "cooked-white-pasta",
-      "name": {
-        "en": "Cooked white pasta",
-        "fr": "Pâtes blanches cuites"
-      },
-      "type": "solid",
-      "kcalPer100g": 158,
-      "protPer100g": 5.8,
-      "glucPer100g": 31,
-      "lipPer100g": 1,
-      "fiberPer100g": 1.8,
-      "alcPct": 0
-    },
-    {
-      "id": "white-bread",
-      "name": {
-        "en": "White bread",
-        "fr": "Pain blanc"
-      },
-      "type": "solid",
-      "kcalPer100g": 265,
-      "protPer100g": 8.5,
-      "glucPer100g": 49,
-      "lipPer100g": 3.2,
-      "fiberPer100g": 2.7,
-      "alcPct": 0
-    },
-    {
-      "id": "whole-wheat-bread",
-      "name": {
-        "en": "Whole wheat bread",
-        "fr": "Pain complet"
-      },
-      "type": "solid",
-      "kcalPer100g": 247,
-      "protPer100g": 13,
-      "glucPer100g": 41,
-      "lipPer100g": 4.2,
-      "fiberPer100g": 7,
-      "alcPct": 0
-    },
-    {
-      "id": "rolled-oats",
-      "name": {
-        "en": "Rolled oats",
-        "fr": "Flocons d'avoine"
-      },
-      "type": "solid",
-      "kcalPer100g": 389,
-      "protPer100g": 17,
-      "glucPer100g": 66,
-      "lipPer100g": 7,
-      "fiberPer100g": 11,
-      "alcPct": 0
-    },
-    {
-      "id": "cooked-potatoes",
-      "name": {
-        "en": "Cooked potatoes",
-        "fr": "Pommes de terre cuites"
-      },
-      "type": "solid",
-      "kcalPer100g": 87,
-      "protPer100g": 2,
-      "glucPer100g": 20,
-      "lipPer100g": 0.1,
-      "fiberPer100g": 1.8,
-      "alcPct": 0
-    },
-    {
-      "id": "cooked-sweet-potato",
-      "name": {
-        "en": "Cooked sweet potato",
-        "fr": "Patate douce cuite"
-      },
-      "type": "solid",
-      "kcalPer100g": 86,
-      "protPer100g": 1.6,
-      "glucPer100g": 20,
-      "lipPer100g": 0.1,
-      "fiberPer100g": 3,
-      "alcPct": 0
-    },
-    {
-      "id": "banana",
-      "name": {
-        "en": "Banana",
-        "fr": "Banane"
-      },
-      "type": "solid",
-      "kcalPer100g": 89,
-      "protPer100g": 1.1,
-      "glucPer100g": 23,
-      "lipPer100g": 0.3,
-      "fiberPer100g": 2.6,
-      "alcPct": 0
+      "glucPer100g": 22,
+      "lipPer100g": 50,
+      "fiberPer100g": 12,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/almonds.food.zip"
     },
     {
       "id": "apple",
@@ -363,315 +28,8 @@
       "glucPer100g": 14,
       "lipPer100g": 0.2,
       "fiberPer100g": 2.4,
-      "alcPct": 0
-    },
-    {
-      "id": "pear",
-      "name": {
-        "en": "Pear",
-        "fr": "Poire"
-      },
-      "type": "solid",
-      "kcalPer100g": 57,
-      "protPer100g": 0.4,
-      "glucPer100g": 15,
-      "lipPer100g": 0.1,
-      "fiberPer100g": 3.1,
-      "alcPct": 0
-    },
-    {
-      "id": "orange",
-      "name": {
-        "en": "Orange",
-        "fr": "Orange"
-      },
-      "type": "solid",
-      "kcalPer100g": 47,
-      "protPer100g": 0.9,
-      "glucPer100g": 12,
-      "lipPer100g": 0.1,
-      "fiberPer100g": 2.4,
-      "alcPct": 0
-    },
-    {
-      "id": "tangerine",
-      "name": {
-        "en": "Tangerine",
-        "fr": "Mandarine"
-      },
-      "type": "solid",
-      "kcalPer100g": 53,
-      "protPer100g": 0.8,
-      "glucPer100g": 13,
-      "lipPer100g": 0.3,
-      "fiberPer100g": 1.8,
-      "alcPct": 0
-    },
-    {
-      "id": "kiwi",
-      "name": {
-        "en": "Kiwi",
-        "fr": "Kiwi"
-      },
-      "type": "solid",
-      "kcalPer100g": 61,
-      "protPer100g": 1.1,
-      "glucPer100g": 15,
-      "lipPer100g": 0.5,
-      "fiberPer100g": 3,
-      "alcPct": 0
-    },
-    {
-      "id": "strawberries",
-      "name": {
-        "en": "Strawberries",
-        "fr": "Fraises"
-      },
-      "type": "solid",
-      "kcalPer100g": 32,
-      "protPer100g": 0.7,
-      "glucPer100g": 7.7,
-      "lipPer100g": 0.3,
-      "fiberPer100g": 2,
-      "alcPct": 0
-    },
-    {
-      "id": "blueberries",
-      "name": {
-        "en": "Blueberries",
-        "fr": "Myrtilles"
-      },
-      "type": "solid",
-      "kcalPer100g": 57,
-      "protPer100g": 0.7,
-      "glucPer100g": 14,
-      "lipPer100g": 0.3,
-      "fiberPer100g": 2.4,
-      "alcPct": 0
-    },
-    {
-      "id": "raspberries",
-      "name": {
-        "en": "Raspberries",
-        "fr": "Framboises"
-      },
-      "type": "solid",
-      "kcalPer100g": 52,
-      "protPer100g": 1.2,
-      "glucPer100g": 12,
-      "lipPer100g": 0.7,
-      "fiberPer100g": 6.5,
-      "alcPct": 0
-    },
-    {
-      "id": "grapes",
-      "name": {
-        "en": "Grapes",
-        "fr": "Raisin"
-      },
-      "type": "solid",
-      "kcalPer100g": 69,
-      "protPer100g": 0.7,
-      "glucPer100g": 18,
-      "lipPer100g": 0.2,
-      "fiberPer100g": 0.9,
-      "alcPct": 0
-    },
-    {
-      "id": "mango",
-      "name": {
-        "en": "Mango",
-        "fr": "Mangue"
-      },
-      "type": "solid",
-      "kcalPer100g": 60,
-      "protPer100g": 0.8,
-      "glucPer100g": 15,
-      "lipPer100g": 0.4,
-      "fiberPer100g": 1.6,
-      "alcPct": 0
-    },
-    {
-      "id": "pineapple",
-      "name": {
-        "en": "Pineapple",
-        "fr": "Ananas"
-      },
-      "type": "solid",
-      "kcalPer100g": 50,
-      "protPer100g": 0.5,
-      "glucPer100g": 13,
-      "lipPer100g": 0.1,
-      "fiberPer100g": 1.4,
-      "alcPct": 0
-    },
-    {
-      "id": "watermelon",
-      "name": {
-        "en": "Watermelon",
-        "fr": "Pastèque"
-      },
-      "type": "solid",
-      "kcalPer100g": 30,
-      "protPer100g": 0.6,
-      "glucPer100g": 8,
-      "lipPer100g": 0.2,
-      "fiberPer100g": 0.4,
-      "alcPct": 0
-    },
-    {
-      "id": "avocado",
-      "name": {
-        "en": "Avocado",
-        "fr": "Avocat"
-      },
-      "type": "solid",
-      "kcalPer100g": 160,
-      "protPer100g": 2,
-      "glucPer100g": 9,
-      "lipPer100g": 15,
-      "fiberPer100g": 7,
-      "alcPct": 0
-    },
-    {
-      "id": "broccoli",
-      "name": {
-        "en": "Broccoli",
-        "fr": "Brocoli"
-      },
-      "type": "solid",
-      "kcalPer100g": 35,
-      "protPer100g": 2.8,
-      "glucPer100g": 7,
-      "lipPer100g": 0.4,
-      "fiberPer100g": 3,
-      "alcPct": 0
-    },
-    {
-      "id": "green-beans",
-      "name": {
-        "en": "Green beans",
-        "fr": "Haricots verts"
-      },
-      "type": "solid",
-      "kcalPer100g": 31,
-      "protPer100g": 1.8,
-      "glucPer100g": 7,
-      "lipPer100g": 0.1,
-      "fiberPer100g": 3.4,
-      "alcPct": 0
-    },
-    {
-      "id": "carrots",
-      "name": {
-        "en": "Carrots",
-        "fr": "Carottes"
-      },
-      "type": "solid",
-      "kcalPer100g": 41,
-      "protPer100g": 0.9,
-      "glucPer100g": 10,
-      "lipPer100g": 0.2,
-      "fiberPer100g": 2.8,
-      "alcPct": 0
-    },
-    {
-      "id": "zucchini",
-      "name": {
-        "en": "Zucchini",
-        "fr": "Courgettes"
-      },
-      "type": "solid",
-      "kcalPer100g": 17,
-      "protPer100g": 1.2,
-      "glucPer100g": 3.1,
-      "lipPer100g": 0.3,
-      "fiberPer100g": 1,
-      "alcPct": 0
-    },
-    {
-      "id": "tomatoes",
-      "name": {
-        "en": "Tomatoes",
-        "fr": "Tomates"
-      },
-      "type": "solid",
-      "kcalPer100g": 18,
-      "protPer100g": 0.9,
-      "glucPer100g": 3.9,
-      "lipPer100g": 0.2,
-      "fiberPer100g": 1.2,
-      "alcPct": 0
-    },
-    {
-      "id": "cucumber",
-      "name": {
-        "en": "Cucumber",
-        "fr": "Concombre"
-      },
-      "type": "solid",
-      "kcalPer100g": 15,
-      "protPer100g": 0.7,
-      "glucPer100g": 3.6,
-      "lipPer100g": 0.1,
-      "fiberPer100g": 0.5,
-      "alcPct": 0
-    },
-    {
-      "id": "red-bell-pepper",
-      "name": {
-        "en": "Red bell pepper",
-        "fr": "Poivron rouge"
-      },
-      "type": "solid",
-      "kcalPer100g": 31,
-      "protPer100g": 1,
-      "glucPer100g": 6,
-      "lipPer100g": 0.3,
-      "fiberPer100g": 2.1,
-      "alcPct": 0
-    },
-    {
-      "id": "spinach",
-      "name": {
-        "en": "Spinach",
-        "fr": "Epinards"
-      },
-      "type": "solid",
-      "kcalPer100g": 23,
-      "protPer100g": 2.9,
-      "glucPer100g": 3.6,
-      "lipPer100g": 0.4,
-      "fiberPer100g": 2.2,
-      "alcPct": 0
-    },
-    {
-      "id": "mushrooms",
-      "name": {
-        "en": "Mushrooms",
-        "fr": "Champignons"
-      },
-      "type": "solid",
-      "kcalPer100g": 22,
-      "protPer100g": 3.1,
-      "glucPer100g": 3.3,
-      "lipPer100g": 0.3,
-      "fiberPer100g": 1,
-      "alcPct": 0
-    },
-    {
-      "id": "cauliflower",
-      "name": {
-        "en": "Cauliflower",
-        "fr": "Chou-fleur"
-      },
-      "type": "solid",
-      "kcalPer100g": 25,
-      "protPer100g": 1.9,
-      "glucPer100g": 5,
-      "lipPer100g": 0.3,
-      "fiberPer100g": 2,
-      "alcPct": 0
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/apple.food.zip"
     },
     {
       "id": "asparagus",
@@ -685,203 +43,128 @@
       "glucPer100g": 3.9,
       "lipPer100g": 0.1,
       "fiberPer100g": 2.1,
-      "alcPct": 0
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/asparagus.food.zip"
     },
     {
-      "id": "green-peas",
+      "id": "avocado",
       "name": {
-        "en": "Green peas",
-        "fr": "Petits pois"
+        "en": "Avocado",
+        "fr": "Avocat"
       },
       "type": "solid",
-      "kcalPer100g": 81,
-      "protPer100g": 5.4,
-      "glucPer100g": 14,
-      "lipPer100g": 0.4,
-      "fiberPer100g": 5,
-      "alcPct": 0
-    },
-    {
-      "id": "almonds",
-      "name": {
-        "en": "Almonds",
-        "fr": "Amandes"
-      },
-      "type": "solid",
-      "kcalPer100g": 579,
-      "protPer100g": 21,
-      "glucPer100g": 22,
-      "lipPer100g": 50,
-      "fiberPer100g": 12,
-      "alcPct": 0
-    },
-    {
-      "id": "walnuts",
-      "name": {
-        "en": "Walnuts",
-        "fr": "Noix"
-      },
-      "type": "solid",
-      "kcalPer100g": 654,
-      "protPer100g": 15,
-      "glucPer100g": 14,
-      "lipPer100g": 65,
+      "kcalPer100g": 160,
+      "protPer100g": 2,
+      "glucPer100g": 9,
+      "lipPer100g": 15,
       "fiberPer100g": 7,
-      "alcPct": 0
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/avocado.food.zip"
     },
     {
-      "id": "peanut-butter",
+      "id": "banana",
       "name": {
-        "en": "Peanut butter",
-        "fr": "Beurre de cacahuète"
+        "en": "Banana",
+        "fr": "Banane"
       },
       "type": "solid",
-      "kcalPer100g": 588,
-      "protPer100g": 25,
-      "glucPer100g": 20,
-      "lipPer100g": 50,
-      "fiberPer100g": 6,
-      "alcPct": 0
+      "kcalPer100g": 89,
+      "protPer100g": 1.1,
+      "glucPer100g": 23,
+      "lipPer100g": 0.3,
+      "fiberPer100g": 2.6,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/banana.food.zip"
     },
     {
-      "id": "olive-oil",
+      "id": "beef-steak-5",
       "name": {
-        "en": "Olive oil",
-        "fr": "Huile d'olive"
+        "en": "Beef steak 5%",
+        "fr": "Steak de boeuf 5%"
       },
-      "type": "liquid",
-      "kcalPer100g": 884,
-      "protPer100g": 0,
+      "type": "solid",
+      "kcalPer100g": 137,
+      "protPer100g": 21,
       "glucPer100g": 0,
-      "lipPer100g": 100,
+      "lipPer100g": 5,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/beef-steak-5.food.zip"
     },
     {
-      "id": "semi-skimmed-milk",
+      "id": "blueberries",
       "name": {
-        "en": "Semi-skimmed milk",
-        "fr": "Lait demi-écrémé"
-      },
-      "type": "liquid",
-      "kcalPer100g": 47,
-      "protPer100g": 3.3,
-      "glucPer100g": 4.8,
-      "lipPer100g": 1.6,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "greek-yogurt-0",
-      "name": {
-        "en": "Greek yogurt 0%",
-        "fr": "Yaourt grec 0%"
+        "en": "Blueberries",
+        "fr": "Myrtilles"
       },
       "type": "solid",
-      "kcalPer100g": 59,
-      "protPer100g": 10,
-      "glucPer100g": 3.6,
-      "lipPer100g": 0.4,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "quark-0",
-      "name": {
-        "en": "Quark 0%",
-        "fr": "Fromage blanc 0%"
-      },
-      "type": "solid",
-      "kcalPer100g": 46,
-      "protPer100g": 8,
-      "glucPer100g": 4,
-      "lipPer100g": 0.2,
-      "fiberPer100g": 0,
-      "alcPct": 0
-    },
-    {
-      "id": "lager-beer-5",
-      "name": {
-        "en": "Lager beer (5%)",
-        "fr": "Bière blonde (5%)"
-      },
-      "type": "liquid",
-      "kcalPer100g": 43,
-      "protPer100g": 0.3,
-      "glucPer100g": 3.3,
-      "lipPer100g": 0,
-      "fiberPer100g": 0,
-      "alcPct": 5
-    },
-    {
-      "id": "dark-beer-6",
-      "name": {
-        "en": "Dark beer (6%)",
-        "fr": "Bière brune (6%)"
-      },
-      "type": "liquid",
       "kcalPer100g": 57,
-      "protPer100g": 0.5,
-      "glucPer100g": 5.1,
-      "lipPer100g": 0,
-      "fiberPer100g": 0,
-      "alcPct": 6
+      "protPer100g": 0.7,
+      "glucPer100g": 14,
+      "lipPer100g": 0.3,
+      "fiberPer100g": 2.4,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/blueberries.food.zip"
     },
     {
-      "id": "dry-cider-5-5",
+      "id": "broccoli",
       "name": {
-        "en": "Dry cider (5.5%)",
-        "fr": "Cidre brut (5.5%)"
+        "en": "Broccoli",
+        "fr": "Brocoli"
       },
-      "type": "liquid",
-      "kcalPer100g": 45,
-      "protPer100g": 0,
-      "glucPer100g": 4,
-      "lipPer100g": 0,
-      "fiberPer100g": 0,
-      "alcPct": 5.5
+      "type": "solid",
+      "kcalPer100g": 35,
+      "protPer100g": 2.8,
+      "glucPer100g": 7,
+      "lipPer100g": 0.4,
+      "fiberPer100g": 3,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/broccoli.food.zip"
     },
     {
-      "id": "red-wine-12-5",
+      "id": "canned-tuna",
       "name": {
-        "en": "Red wine (12.5%)",
-        "fr": "Vin rouge (12.5%)"
+        "en": "Canned tuna",
+        "fr": "Thon en conserve"
       },
-      "type": "liquid",
-      "kcalPer100g": 85,
-      "protPer100g": 0.1,
-      "glucPer100g": 2.5,
-      "lipPer100g": 0,
+      "type": "solid",
+      "kcalPer100g": 116,
+      "protPer100g": 26,
+      "glucPer100g": 0,
+      "lipPer100g": 1,
       "fiberPer100g": 0,
-      "alcPct": 12.5
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/canned-tuna.food.zip"
     },
     {
-      "id": "dry-white-wine-12",
+      "id": "carrots",
       "name": {
-        "en": "Dry white wine (12%)",
-        "fr": "Vin blanc sec (12%)"
+        "en": "Carrots",
+        "fr": "Carottes"
       },
-      "type": "liquid",
-      "kcalPer100g": 77,
-      "protPer100g": 0.1,
-      "glucPer100g": 1,
-      "lipPer100g": 0,
-      "fiberPer100g": 0,
-      "alcPct": 12
+      "type": "solid",
+      "kcalPer100g": 41,
+      "protPer100g": 0.9,
+      "glucPer100g": 10,
+      "lipPer100g": 0.2,
+      "fiberPer100g": 2.8,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/carrots.food.zip"
     },
     {
-      "id": "ros-wine-12",
+      "id": "cauliflower",
       "name": {
-        "en": "Rosé wine (12%)",
-        "fr": "Rosé (12%)"
+        "en": "Cauliflower",
+        "fr": "Chou-fleur"
       },
-      "type": "liquid",
-      "kcalPer100g": 80,
-      "protPer100g": 0.1,
-      "glucPer100g": 2,
-      "lipPer100g": 0,
-      "fiberPer100g": 0,
-      "alcPct": 12
+      "type": "solid",
+      "kcalPer100g": 25,
+      "protPer100g": 1.9,
+      "glucPer100g": 5,
+      "lipPer100g": 0.3,
+      "fiberPer100g": 2,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cauliflower.food.zip"
     },
     {
       "id": "champagne-12",
@@ -895,49 +178,263 @@
       "glucPer100g": 4,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 12
+      "alcPct": 12,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/champagne-12.food.zip"
     },
     {
-      "id": "whisky-40",
+      "id": "chicken-breast-cooked",
       "name": {
-        "en": "Whisky (40%)",
-        "fr": "Whisky (40%)"
+        "en": "Chicken breast (cooked)",
+        "fr": "Poulet (blanc, cuit)"
       },
-      "type": "liquid",
-      "kcalPer100g": 250,
-      "protPer100g": 0,
+      "type": "solid",
+      "kcalPer100g": 165,
+      "protPer100g": 31,
       "glucPer100g": 0,
-      "lipPer100g": 0,
+      "lipPer100g": 3.6,
       "fiberPer100g": 0,
-      "alcPct": 40
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/chicken-breast-cooked.food.zip"
     },
     {
-      "id": "vodka-40",
+      "id": "cod",
       "name": {
-        "en": "Vodka (40%)",
-        "fr": "Vodka (40%)"
+        "en": "Cod",
+        "fr": "Cabillaud"
       },
-      "type": "liquid",
-      "kcalPer100g": 231,
-      "protPer100g": 0,
+      "type": "solid",
+      "kcalPer100g": 82,
+      "protPer100g": 18,
       "glucPer100g": 0,
-      "lipPer100g": 0,
+      "lipPer100g": 0.7,
       "fiberPer100g": 0,
-      "alcPct": 40
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cod.food.zip"
     },
     {
-      "id": "rum-40",
+      "id": "cooked-brown-rice",
       "name": {
-        "en": "Rum (40%)",
-        "fr": "Rhum (40%)"
+        "en": "Cooked brown rice",
+        "fr": "Riz complet cuit"
+      },
+      "type": "solid",
+      "kcalPer100g": 111,
+      "protPer100g": 2.6,
+      "glucPer100g": 23,
+      "lipPer100g": 0.9,
+      "fiberPer100g": 1.8,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cooked-brown-rice.food.zip"
+    },
+    {
+      "id": "cooked-chickpeas",
+      "name": {
+        "en": "Cooked chickpeas",
+        "fr": "Pois chiches cuits"
+      },
+      "type": "solid",
+      "kcalPer100g": 164,
+      "protPer100g": 9,
+      "glucPer100g": 27,
+      "lipPer100g": 2.6,
+      "fiberPer100g": 8,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cooked-chickpeas.food.zip"
+    },
+    {
+      "id": "cooked-ham",
+      "name": {
+        "en": "Cooked ham",
+        "fr": "Jambon blanc"
+      },
+      "type": "solid",
+      "kcalPer100g": 120,
+      "protPer100g": 20,
+      "glucPer100g": 1,
+      "lipPer100g": 4,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cooked-ham.food.zip"
+    },
+    {
+      "id": "cooked-lentils",
+      "name": {
+        "en": "Cooked lentils",
+        "fr": "Lentilles cuites"
+      },
+      "type": "solid",
+      "kcalPer100g": 116,
+      "protPer100g": 9,
+      "glucPer100g": 20,
+      "lipPer100g": 0.4,
+      "fiberPer100g": 8,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cooked-lentils.food.zip"
+    },
+    {
+      "id": "cooked-potatoes",
+      "name": {
+        "en": "Cooked potatoes",
+        "fr": "Pommes de terre cuites"
+      },
+      "type": "solid",
+      "kcalPer100g": 87,
+      "protPer100g": 2,
+      "glucPer100g": 20,
+      "lipPer100g": 0.1,
+      "fiberPer100g": 1.8,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cooked-potatoes.food.zip"
+    },
+    {
+      "id": "cooked-red-kidney-beans",
+      "name": {
+        "en": "Cooked red kidney beans",
+        "fr": "Haricots rouges cuits"
+      },
+      "type": "solid",
+      "kcalPer100g": 127,
+      "protPer100g": 8.7,
+      "glucPer100g": 23,
+      "lipPer100g": 0.5,
+      "fiberPer100g": 6.4,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cooked-red-kidney-beans.food.zip"
+    },
+    {
+      "id": "cooked-sweet-potato",
+      "name": {
+        "en": "Cooked sweet potato",
+        "fr": "Patate douce cuite"
+      },
+      "type": "solid",
+      "kcalPer100g": 86,
+      "protPer100g": 1.6,
+      "glucPer100g": 20,
+      "lipPer100g": 0.1,
+      "fiberPer100g": 3,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cooked-sweet-potato.food.zip"
+    },
+    {
+      "id": "cooked-white-pasta",
+      "name": {
+        "en": "Cooked white pasta",
+        "fr": "Pâtes blanches cuites"
+      },
+      "type": "solid",
+      "kcalPer100g": 158,
+      "protPer100g": 5.8,
+      "glucPer100g": 31,
+      "lipPer100g": 1,
+      "fiberPer100g": 1.8,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cooked-white-pasta.food.zip"
+    },
+    {
+      "id": "cooked-white-rice",
+      "name": {
+        "en": "Cooked white rice",
+        "fr": "Riz blanc cuit"
+      },
+      "type": "solid",
+      "kcalPer100g": 130,
+      "protPer100g": 2.7,
+      "glucPer100g": 28,
+      "lipPer100g": 0.3,
+      "fiberPer100g": 0.4,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cooked-white-rice.food.zip"
+    },
+    {
+      "id": "cucumber",
+      "name": {
+        "en": "Cucumber",
+        "fr": "Concombre"
+      },
+      "type": "solid",
+      "kcalPer100g": 15,
+      "protPer100g": 0.7,
+      "glucPer100g": 3.6,
+      "lipPer100g": 0.1,
+      "fiberPer100g": 0.5,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/cucumber.food.zip"
+    },
+    {
+      "id": "dark-beer-6",
+      "name": {
+        "en": "Dark beer (6%)",
+        "fr": "Bière brune (6%)"
       },
       "type": "liquid",
-      "kcalPer100g": 231,
-      "protPer100g": 0,
-      "glucPer100g": 0,
+      "kcalPer100g": 57,
+      "protPer100g": 0.5,
+      "glucPer100g": 5.1,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 40
+      "alcPct": 6,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/dark-beer-6.food.zip"
+    },
+    {
+      "id": "dry-cider-5-5",
+      "name": {
+        "en": "Dry cider (5.5%)",
+        "fr": "Cidre brut (5.5%)"
+      },
+      "type": "liquid",
+      "kcalPer100g": 45,
+      "protPer100g": 0,
+      "glucPer100g": 4,
+      "lipPer100g": 0,
+      "fiberPer100g": 0,
+      "alcPct": 5.5,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/dry-cider-5-5.food.zip"
+    },
+    {
+      "id": "dry-white-wine-12",
+      "name": {
+        "en": "Dry white wine (12%)",
+        "fr": "Vin blanc sec (12%)"
+      },
+      "type": "liquid",
+      "kcalPer100g": 77,
+      "protPer100g": 0.1,
+      "glucPer100g": 1,
+      "lipPer100g": 0,
+      "fiberPer100g": 0,
+      "alcPct": 12,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/dry-white-wine-12.food.zip"
+    },
+    {
+      "id": "egg-white",
+      "name": {
+        "en": "Egg white",
+        "fr": "Blanc d'oeuf"
+      },
+      "type": "solid",
+      "kcalPer100g": 52,
+      "protPer100g": 11,
+      "glucPer100g": 0.7,
+      "lipPer100g": 0.2,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/egg-white.food.zip"
+    },
+    {
+      "id": "firm-tofu",
+      "name": {
+        "en": "Firm tofu",
+        "fr": "Tofu ferme"
+      },
+      "type": "solid",
+      "kcalPer100g": 144,
+      "protPer100g": 17,
+      "glucPer100g": 3,
+      "lipPer100g": 8,
+      "fiberPer100g": 2,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/firm-tofu.food.zip"
     },
     {
       "id": "gin-40",
@@ -951,8 +448,578 @@
       "glucPer100g": 0,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 40
+      "alcPct": 40,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/gin-40.food.zip"
+    },
+    {
+      "id": "grapes",
+      "name": {
+        "en": "Grapes",
+        "fr": "Raisin"
+      },
+      "type": "solid",
+      "kcalPer100g": 69,
+      "protPer100g": 0.7,
+      "glucPer100g": 18,
+      "lipPer100g": 0.2,
+      "fiberPer100g": 0.9,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/grapes.food.zip"
+    },
+    {
+      "id": "greek-yogurt-0",
+      "name": {
+        "en": "Greek yogurt 0%",
+        "fr": "Yaourt grec 0%"
+      },
+      "type": "solid",
+      "kcalPer100g": 59,
+      "protPer100g": 10,
+      "glucPer100g": 3.6,
+      "lipPer100g": 0.4,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/greek-yogurt-0.food.zip"
+    },
+    {
+      "id": "green-beans",
+      "name": {
+        "en": "Green beans",
+        "fr": "Haricots verts"
+      },
+      "type": "solid",
+      "kcalPer100g": 31,
+      "protPer100g": 1.8,
+      "glucPer100g": 7,
+      "lipPer100g": 0.1,
+      "fiberPer100g": 3.4,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/green-beans.food.zip"
+    },
+    {
+      "id": "green-peas",
+      "name": {
+        "en": "Green peas",
+        "fr": "Petits pois"
+      },
+      "type": "solid",
+      "kcalPer100g": 81,
+      "protPer100g": 5.4,
+      "glucPer100g": 14,
+      "lipPer100g": 0.4,
+      "fiberPer100g": 5,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/green-peas.food.zip"
+    },
+    {
+      "id": "ground-beef-15",
+      "name": {
+        "en": "Ground beef 15%",
+        "fr": "Steak haché 15%"
+      },
+      "type": "solid",
+      "kcalPer100g": 250,
+      "protPer100g": 26,
+      "glucPer100g": 0,
+      "lipPer100g": 17,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/ground-beef-15.food.zip"
+    },
+    {
+      "id": "kiwi",
+      "name": {
+        "en": "Kiwi",
+        "fr": "Kiwi"
+      },
+      "type": "solid",
+      "kcalPer100g": 61,
+      "protPer100g": 1.1,
+      "glucPer100g": 15,
+      "lipPer100g": 0.5,
+      "fiberPer100g": 3,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/kiwi.food.zip"
+    },
+    {
+      "id": "lager-beer-5",
+      "name": {
+        "en": "Lager beer (5%)",
+        "fr": "Bière blonde (5%)"
+      },
+      "type": "liquid",
+      "kcalPer100g": 43,
+      "protPer100g": 0.3,
+      "glucPer100g": 3.3,
+      "lipPer100g": 0,
+      "fiberPer100g": 0,
+      "alcPct": 5,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/lager-beer-5.food.zip"
+    },
+    {
+      "id": "mango",
+      "name": {
+        "en": "Mango",
+        "fr": "Mangue"
+      },
+      "type": "solid",
+      "kcalPer100g": 60,
+      "protPer100g": 0.8,
+      "glucPer100g": 15,
+      "lipPer100g": 0.4,
+      "fiberPer100g": 1.6,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/mango.food.zip"
+    },
+    {
+      "id": "mushrooms",
+      "name": {
+        "en": "Mushrooms",
+        "fr": "Champignons"
+      },
+      "type": "solid",
+      "kcalPer100g": 22,
+      "protPer100g": 3.1,
+      "glucPer100g": 3.3,
+      "lipPer100g": 0.3,
+      "fiberPer100g": 1,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/mushrooms.food.zip"
+    },
+    {
+      "id": "olive-oil",
+      "name": {
+        "en": "Olive oil",
+        "fr": "Huile d'olive"
+      },
+      "type": "liquid",
+      "kcalPer100g": 884,
+      "protPer100g": 0,
+      "glucPer100g": 0,
+      "lipPer100g": 100,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/olive-oil.food.zip"
+    },
+    {
+      "id": "orange",
+      "name": {
+        "en": "Orange",
+        "fr": "Orange"
+      },
+      "type": "solid",
+      "kcalPer100g": 47,
+      "protPer100g": 0.9,
+      "glucPer100g": 12,
+      "lipPer100g": 0.1,
+      "fiberPer100g": 2.4,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/orange.food.zip"
+    },
+    {
+      "id": "peanut-butter",
+      "name": {
+        "en": "Peanut butter",
+        "fr": "Beurre de cacahuète"
+      },
+      "type": "solid",
+      "kcalPer100g": 588,
+      "protPer100g": 25,
+      "glucPer100g": 20,
+      "lipPer100g": 50,
+      "fiberPer100g": 6,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/peanut-butter.food.zip"
+    },
+    {
+      "id": "pear",
+      "name": {
+        "en": "Pear",
+        "fr": "Poire"
+      },
+      "type": "solid",
+      "kcalPer100g": 57,
+      "protPer100g": 0.4,
+      "glucPer100g": 15,
+      "lipPer100g": 0.1,
+      "fiberPer100g": 3.1,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/pear.food.zip"
+    },
+    {
+      "id": "pineapple",
+      "name": {
+        "en": "Pineapple",
+        "fr": "Ananas"
+      },
+      "type": "solid",
+      "kcalPer100g": 50,
+      "protPer100g": 0.5,
+      "glucPer100g": 13,
+      "lipPer100g": 0.1,
+      "fiberPer100g": 1.4,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/pineapple.food.zip"
+    },
+    {
+      "id": "quark-0",
+      "name": {
+        "en": "Quark 0%",
+        "fr": "Fromage blanc 0%"
+      },
+      "type": "solid",
+      "kcalPer100g": 46,
+      "protPer100g": 8,
+      "glucPer100g": 4,
+      "lipPer100g": 0.2,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/quark-0.food.zip"
+    },
+    {
+      "id": "raspberries",
+      "name": {
+        "en": "Raspberries",
+        "fr": "Framboises"
+      },
+      "type": "solid",
+      "kcalPer100g": 52,
+      "protPer100g": 1.2,
+      "glucPer100g": 12,
+      "lipPer100g": 0.7,
+      "fiberPer100g": 6.5,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/raspberries.food.zip"
+    },
+    {
+      "id": "red-bell-pepper",
+      "name": {
+        "en": "Red bell pepper",
+        "fr": "Poivron rouge"
+      },
+      "type": "solid",
+      "kcalPer100g": 31,
+      "protPer100g": 1,
+      "glucPer100g": 6,
+      "lipPer100g": 0.3,
+      "fiberPer100g": 2.1,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/red-bell-pepper.food.zip"
+    },
+    {
+      "id": "red-wine-12-5",
+      "name": {
+        "en": "Red wine (12.5%)",
+        "fr": "Vin rouge (12.5%)"
+      },
+      "type": "liquid",
+      "kcalPer100g": 85,
+      "protPer100g": 0.1,
+      "glucPer100g": 2.5,
+      "lipPer100g": 0,
+      "fiberPer100g": 0,
+      "alcPct": 12.5,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/red-wine-12-5.food.zip"
+    },
+    {
+      "id": "rolled-oats",
+      "name": {
+        "en": "Rolled oats",
+        "fr": "Flocons d'avoine"
+      },
+      "type": "solid",
+      "kcalPer100g": 389,
+      "protPer100g": 17,
+      "glucPer100g": 66,
+      "lipPer100g": 7,
+      "fiberPer100g": 11,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/rolled-oats.food.zip"
+    },
+    {
+      "id": "ros-wine-12",
+      "name": {
+        "en": "Rosé wine (12%)",
+        "fr": "Rosé (12%)"
+      },
+      "type": "liquid",
+      "kcalPer100g": 80,
+      "protPer100g": 0.1,
+      "glucPer100g": 2,
+      "lipPer100g": 0,
+      "fiberPer100g": 0,
+      "alcPct": 12,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/ros-wine-12.food.zip"
+    },
+    {
+      "id": "rum-40",
+      "name": {
+        "en": "Rum (40%)",
+        "fr": "Rhum (40%)"
+      },
+      "type": "liquid",
+      "kcalPer100g": 231,
+      "protPer100g": 0,
+      "glucPer100g": 0,
+      "lipPer100g": 0,
+      "fiberPer100g": 0,
+      "alcPct": 40,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/rum-40.food.zip"
+    },
+    {
+      "id": "salmon",
+      "name": {
+        "en": "Salmon",
+        "fr": "Saumon"
+      },
+      "type": "solid",
+      "kcalPer100g": 208,
+      "protPer100g": 20,
+      "glucPer100g": 0,
+      "lipPer100g": 13,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/salmon.food.zip"
+    },
+    {
+      "id": "semi-skimmed-milk",
+      "name": {
+        "en": "Semi-skimmed milk",
+        "fr": "Lait demi-écrémé"
+      },
+      "type": "liquid",
+      "kcalPer100g": 47,
+      "protPer100g": 3.3,
+      "glucPer100g": 4.8,
+      "lipPer100g": 1.6,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/semi-skimmed-milk.food.zip"
+    },
+    {
+      "id": "shrimp",
+      "name": {
+        "en": "Shrimp",
+        "fr": "Crevettes"
+      },
+      "type": "solid",
+      "kcalPer100g": 99,
+      "protPer100g": 24,
+      "glucPer100g": 0.2,
+      "lipPer100g": 0.3,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/shrimp.food.zip"
+    },
+    {
+      "id": "spinach",
+      "name": {
+        "en": "Spinach",
+        "fr": "Epinards"
+      },
+      "type": "solid",
+      "kcalPer100g": 23,
+      "protPer100g": 2.9,
+      "glucPer100g": 3.6,
+      "lipPer100g": 0.4,
+      "fiberPer100g": 2.2,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/spinach.food.zip"
+    },
+    {
+      "id": "strawberries",
+      "name": {
+        "en": "Strawberries",
+        "fr": "Fraises"
+      },
+      "type": "solid",
+      "kcalPer100g": 32,
+      "protPer100g": 0.7,
+      "glucPer100g": 7.7,
+      "lipPer100g": 0.3,
+      "fiberPer100g": 2,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/strawberries.food.zip"
+    },
+    {
+      "id": "tangerine",
+      "name": {
+        "en": "Tangerine",
+        "fr": "Mandarine"
+      },
+      "type": "solid",
+      "kcalPer100g": 53,
+      "protPer100g": 0.8,
+      "glucPer100g": 13,
+      "lipPer100g": 0.3,
+      "fiberPer100g": 1.8,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/tangerine.food.zip"
+    },
+    {
+      "id": "tempeh",
+      "name": {
+        "en": "Tempeh",
+        "fr": "Tempeh"
+      },
+      "type": "solid",
+      "kcalPer100g": 193,
+      "protPer100g": 20,
+      "glucPer100g": 9,
+      "lipPer100g": 11,
+      "fiberPer100g": 1.4,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/tempeh.food.zip"
+    },
+    {
+      "id": "tomatoes",
+      "name": {
+        "en": "Tomatoes",
+        "fr": "Tomates"
+      },
+      "type": "solid",
+      "kcalPer100g": 18,
+      "protPer100g": 0.9,
+      "glucPer100g": 3.9,
+      "lipPer100g": 0.2,
+      "fiberPer100g": 1.2,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/tomatoes.food.zip"
+    },
+    {
+      "id": "turkey-breast-cooked",
+      "name": {
+        "en": "Turkey breast (cooked)",
+        "fr": "Dinde (escalope, cuite)"
+      },
+      "type": "solid",
+      "kcalPer100g": 135,
+      "protPer100g": 30,
+      "glucPer100g": 0,
+      "lipPer100g": 1.5,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/turkey-breast-cooked.food.zip"
+    },
+    {
+      "id": "vodka-40",
+      "name": {
+        "en": "Vodka (40%)",
+        "fr": "Vodka (40%)"
+      },
+      "type": "liquid",
+      "kcalPer100g": 231,
+      "protPer100g": 0,
+      "glucPer100g": 0,
+      "lipPer100g": 0,
+      "fiberPer100g": 0,
+      "alcPct": 40,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/vodka-40.food.zip"
+    },
+    {
+      "id": "walnuts",
+      "name": {
+        "en": "Walnuts",
+        "fr": "Noix"
+      },
+      "type": "solid",
+      "kcalPer100g": 654,
+      "protPer100g": 15,
+      "glucPer100g": 14,
+      "lipPer100g": 65,
+      "fiberPer100g": 7,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/walnuts.food.zip"
+    },
+    {
+      "id": "watermelon",
+      "name": {
+        "en": "Watermelon",
+        "fr": "Pastèque"
+      },
+      "type": "solid",
+      "kcalPer100g": 30,
+      "protPer100g": 0.6,
+      "glucPer100g": 8,
+      "lipPer100g": 0.2,
+      "fiberPer100g": 0.4,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/watermelon.food.zip"
+    },
+    {
+      "id": "whisky-40",
+      "name": {
+        "en": "Whisky (40%)",
+        "fr": "Whisky (40%)"
+      },
+      "type": "liquid",
+      "kcalPer100g": 250,
+      "protPer100g": 0,
+      "glucPer100g": 0,
+      "lipPer100g": 0,
+      "fiberPer100g": 0,
+      "alcPct": 40,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/whisky-40.food.zip"
+    },
+    {
+      "id": "white-bread",
+      "name": {
+        "en": "White bread",
+        "fr": "Pain blanc"
+      },
+      "type": "solid",
+      "kcalPer100g": 265,
+      "protPer100g": 8.5,
+      "glucPer100g": 49,
+      "lipPer100g": 3.2,
+      "fiberPer100g": 2.7,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/white-bread.food.zip"
+    },
+    {
+      "id": "whole-egg",
+      "name": {
+        "en": "Whole egg",
+        "fr": "Oeuf entier"
+      },
+      "type": "solid",
+      "kcalPer100g": 143,
+      "protPer100g": 13,
+      "glucPer100g": 1.1,
+      "lipPer100g": 10,
+      "fiberPer100g": 0,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/whole-egg.food.zip"
+    },
+    {
+      "id": "whole-wheat-bread",
+      "name": {
+        "en": "Whole wheat bread",
+        "fr": "Pain complet"
+      },
+      "type": "solid",
+      "kcalPer100g": 247,
+      "protPer100g": 13,
+      "glucPer100g": 41,
+      "lipPer100g": 4.2,
+      "fiberPer100g": 7,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/whole-wheat-bread.food.zip"
+    },
+    {
+      "id": "zucchini",
+      "name": {
+        "en": "Zucchini",
+        "fr": "Courgettes"
+      },
+      "type": "solid",
+      "kcalPer100g": 17,
+      "protPer100g": 1.2,
+      "glucPer100g": 3.1,
+      "lipPer100g": 0.3,
+      "fiberPer100g": 1,
+      "alcPct": 0,
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/zucchini.food.zip"
     }
-  ],
-  "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/foods/foods.zip"
+  ]
 }

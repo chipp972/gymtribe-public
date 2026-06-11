@@ -1,0 +1,14 @@
+{
+  "id": "raspberries",
+  "name": {
+    "en": "Raspberries",
+    "fr": "Framboises"
+  },
+  "type": "solid",
+  "kcalPer100g": 52,
+  "protPer100g": 1.2,
+  "glucPer100g": 12,
+  "lipPer100g": 0.7,
+  "fiberPer100g": 6.5,
+  "alcPct": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "greek-yogurt-0",
+  "name": {
+    "en": "Greek yogurt 0%",
+    "fr": "Yaourt grec 0%"
+  },
+  "type": "solid",
+  "kcalPer100g": 59,
+  "protPer100g": 10,
+  "glucPer100g": 3.6,
+  "lipPer100g": 0.4,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

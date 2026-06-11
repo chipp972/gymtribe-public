@@ -1,0 +1,14 @@
+{
+  "id": "turkey-breast-cooked",
+  "name": {
+    "en": "Turkey breast (cooked)",
+    "fr": "Dinde (escalope, cuite)"
+  },
+  "type": "solid",
+  "kcalPer100g": 135,
+  "protPer100g": 30,
+  "glucPer100g": 0,
+  "lipPer100g": 1.5,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

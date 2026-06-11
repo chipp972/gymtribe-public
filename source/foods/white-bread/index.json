@@ -1,0 +1,14 @@
+{
+  "id": "white-bread",
+  "name": {
+    "en": "White bread",
+    "fr": "Pain blanc"
+  },
+  "type": "solid",
+  "kcalPer100g": 265,
+  "protPer100g": 8.5,
+  "glucPer100g": 49,
+  "lipPer100g": 3.2,
+  "fiberPer100g": 2.7,
+  "alcPct": 0
+}

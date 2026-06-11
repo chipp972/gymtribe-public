@@ -1,0 +1,14 @@
+{
+  "id": "carrots",
+  "name": {
+    "en": "Carrots",
+    "fr": "Carottes"
+  },
+  "type": "solid",
+  "kcalPer100g": 41,
+  "protPer100g": 0.9,
+  "glucPer100g": 10,
+  "lipPer100g": 0.2,
+  "fiberPer100g": 2.8,
+  "alcPct": 0
+}

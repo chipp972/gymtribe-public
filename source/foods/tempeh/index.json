@@ -1,0 +1,14 @@
+{
+  "id": "tempeh",
+  "name": {
+    "en": "Tempeh",
+    "fr": "Tempeh"
+  },
+  "type": "solid",
+  "kcalPer100g": 193,
+  "protPer100g": 20,
+  "glucPer100g": 9,
+  "lipPer100g": 11,
+  "fiberPer100g": 1.4,
+  "alcPct": 0
+}

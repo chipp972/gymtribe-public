@@ -1,0 +1,14 @@
+{
+  "id": "kiwi",
+  "name": {
+    "en": "Kiwi",
+    "fr": "Kiwi"
+  },
+  "type": "solid",
+  "kcalPer100g": 61,
+  "protPer100g": 1.1,
+  "glucPer100g": 15,
+  "lipPer100g": 0.5,
+  "fiberPer100g": 3,
+  "alcPct": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "shrimp",
+  "name": {
+    "en": "Shrimp",
+    "fr": "Crevettes"
+  },
+  "type": "solid",
+  "kcalPer100g": 99,
+  "protPer100g": 24,
+  "glucPer100g": 0.2,
+  "lipPer100g": 0.3,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

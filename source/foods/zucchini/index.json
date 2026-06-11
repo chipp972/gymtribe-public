@@ -1,0 +1,14 @@
+{
+  "id": "zucchini",
+  "name": {
+    "en": "Zucchini",
+    "fr": "Courgettes"
+  },
+  "type": "solid",
+  "kcalPer100g": 17,
+  "protPer100g": 1.2,
+  "glucPer100g": 3.1,
+  "lipPer100g": 0.3,
+  "fiberPer100g": 1,
+  "alcPct": 0
+}

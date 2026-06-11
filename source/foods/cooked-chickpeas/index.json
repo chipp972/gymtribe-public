@@ -1,0 +1,14 @@
+{
+  "id": "cooked-chickpeas",
+  "name": {
+    "en": "Cooked chickpeas",
+    "fr": "Pois chiches cuits"
+  },
+  "type": "solid",
+  "kcalPer100g": 164,
+  "protPer100g": 9,
+  "glucPer100g": 27,
+  "lipPer100g": 2.6,
+  "fiberPer100g": 8,
+  "alcPct": 0
+}

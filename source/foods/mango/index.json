@@ -1,0 +1,14 @@
+{
+  "id": "mango",
+  "name": {
+    "en": "Mango",
+    "fr": "Mangue"
+  },
+  "type": "solid",
+  "kcalPer100g": 60,
+  "protPer100g": 0.8,
+  "glucPer100g": 15,
+  "lipPer100g": 0.4,
+  "fiberPer100g": 1.6,
+  "alcPct": 0
+}

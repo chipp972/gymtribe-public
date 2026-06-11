@@ -1,0 +1,14 @@
+{
+  "id": "canned-tuna",
+  "name": {
+    "en": "Canned tuna",
+    "fr": "Thon en conserve"
+  },
+  "type": "solid",
+  "kcalPer100g": 116,
+  "protPer100g": 26,
+  "glucPer100g": 0,
+  "lipPer100g": 1,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

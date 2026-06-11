@@ -1,0 +1,14 @@
+{
+  "id": "cooked-potatoes",
+  "name": {
+    "en": "Cooked potatoes",
+    "fr": "Pommes de terre cuites"
+  },
+  "type": "solid",
+  "kcalPer100g": 87,
+  "protPer100g": 2,
+  "glucPer100g": 20,
+  "lipPer100g": 0.1,
+  "fiberPer100g": 1.8,
+  "alcPct": 0
+}

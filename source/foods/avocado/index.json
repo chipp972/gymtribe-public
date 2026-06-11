@@ -1,0 +1,14 @@
+{
+  "id": "avocado",
+  "name": {
+    "en": "Avocado",
+    "fr": "Avocat"
+  },
+  "type": "solid",
+  "kcalPer100g": 160,
+  "protPer100g": 2,
+  "glucPer100g": 9,
+  "lipPer100g": 15,
+  "fiberPer100g": 7,
+  "alcPct": 0
+}

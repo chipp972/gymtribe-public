@@ -1,0 +1,14 @@
+{
+  "id": "lager-beer-5",
+  "name": {
+    "en": "Lager beer (5%)",
+    "fr": "Bière blonde (5%)"
+  },
+  "type": "liquid",
+  "kcalPer100g": 43,
+  "protPer100g": 0.3,
+  "glucPer100g": 3.3,
+  "lipPer100g": 0,
+  "fiberPer100g": 0,
+  "alcPct": 5
+}

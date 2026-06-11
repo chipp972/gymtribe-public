@@ -1,0 +1,14 @@
+{
+  "id": "champagne-12",
+  "name": {
+    "en": "Champagne (12%)",
+    "fr": "Champagne (12%)"
+  },
+  "type": "liquid",
+  "kcalPer100g": 80,
+  "protPer100g": 0.3,
+  "glucPer100g": 4,
+  "lipPer100g": 0,
+  "fiberPer100g": 0,
+  "alcPct": 12
+}

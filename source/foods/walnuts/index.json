@@ -1,0 +1,14 @@
+{
+  "id": "walnuts",
+  "name": {
+    "en": "Walnuts",
+    "fr": "Noix"
+  },
+  "type": "solid",
+  "kcalPer100g": 654,
+  "protPer100g": 15,
+  "glucPer100g": 14,
+  "lipPer100g": 65,
+  "fiberPer100g": 7,
+  "alcPct": 0
+}

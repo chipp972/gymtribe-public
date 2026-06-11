@@ -1,0 +1,14 @@
+{
+  "id": "pineapple",
+  "name": {
+    "en": "Pineapple",
+    "fr": "Ananas"
+  },
+  "type": "solid",
+  "kcalPer100g": 50,
+  "protPer100g": 0.5,
+  "glucPer100g": 13,
+  "lipPer100g": 0.1,
+  "fiberPer100g": 1.4,
+  "alcPct": 0
+}

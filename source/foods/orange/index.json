@@ -1,0 +1,14 @@
+{
+  "id": "orange",
+  "name": {
+    "en": "Orange",
+    "fr": "Orange"
+  },
+  "type": "solid",
+  "kcalPer100g": 47,
+  "protPer100g": 0.9,
+  "glucPer100g": 12,
+  "lipPer100g": 0.1,
+  "fiberPer100g": 2.4,
+  "alcPct": 0
+}

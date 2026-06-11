@@ -1,0 +1,14 @@
+{
+  "id": "cooked-white-pasta",
+  "name": {
+    "en": "Cooked white pasta",
+    "fr": "Pâtes blanches cuites"
+  },
+  "type": "solid",
+  "kcalPer100g": 158,
+  "protPer100g": 5.8,
+  "glucPer100g": 31,
+  "lipPer100g": 1,
+  "fiberPer100g": 1.8,
+  "alcPct": 0
+}

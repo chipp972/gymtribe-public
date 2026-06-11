@@ -1,0 +1,14 @@
+{
+  "id": "whole-wheat-bread",
+  "name": {
+    "en": "Whole wheat bread",
+    "fr": "Pain complet"
+  },
+  "type": "solid",
+  "kcalPer100g": 247,
+  "protPer100g": 13,
+  "glucPer100g": 41,
+  "lipPer100g": 4.2,
+  "fiberPer100g": 7,
+  "alcPct": 0
+}

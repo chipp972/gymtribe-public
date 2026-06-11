@@ -1,0 +1,14 @@
+{
+  "id": "chicken-breast-cooked",
+  "name": {
+    "en": "Chicken breast (cooked)",
+    "fr": "Poulet (blanc, cuit)"
+  },
+  "type": "solid",
+  "kcalPer100g": 165,
+  "protPer100g": 31,
+  "glucPer100g": 0,
+  "lipPer100g": 3.6,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

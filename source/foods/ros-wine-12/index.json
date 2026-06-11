@@ -1,0 +1,14 @@
+{
+  "id": "ros-wine-12",
+  "name": {
+    "en": "Rosé wine (12%)",
+    "fr": "Rosé (12%)"
+  },
+  "type": "liquid",
+  "kcalPer100g": 80,
+  "protPer100g": 0.1,
+  "glucPer100g": 2,
+  "lipPer100g": 0,
+  "fiberPer100g": 0,
+  "alcPct": 12
+}

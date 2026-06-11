@@ -1,0 +1,14 @@
+{
+  "id": "peanut-butter",
+  "name": {
+    "en": "Peanut butter",
+    "fr": "Beurre de cacahuète"
+  },
+  "type": "solid",
+  "kcalPer100g": 588,
+  "protPer100g": 25,
+  "glucPer100g": 20,
+  "lipPer100g": 50,
+  "fiberPer100g": 6,
+  "alcPct": 0
+}

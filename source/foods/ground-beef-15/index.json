@@ -1,0 +1,14 @@
+{
+  "id": "ground-beef-15",
+  "name": {
+    "en": "Ground beef 15%",
+    "fr": "Steak haché 15%"
+  },
+  "type": "solid",
+  "kcalPer100g": 250,
+  "protPer100g": 26,
+  "glucPer100g": 0,
+  "lipPer100g": 17,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

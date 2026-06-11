@@ -87,6 +87,99 @@ function buildExercises() {
   console.log(`  [exercises] ${manifestEntries.length} exercises → data/exercises/`);
 }
 
+function buildFoods() {
+  const srcDir = path.join(SOURCE, 'foods');
+  const outDir = path.join(DATA, 'foods');
+  ensureDir(outDir);
+
+  if (!fs.existsSync(srcDir)) {
+    console.warn('  [foods] source/foods/ not found — skipping');
+    return;
+  }
+
+  const manifestEntries = [];
+
+  for (const id of fs.readdirSync(srcDir).sort()) {
+    const foodDir = path.join(srcDir, id);
+    if (!fs.statSync(foodDir).isDirectory()) continue;
+
+    const indexPath = path.join(foodDir, 'index.json');
+    if (!fs.existsSync(indexPath)) {
+      console.warn(`  [foods] ${id}/index.json missing — skipping`);
+      continue;
+    }
+
+    const meta = readJson(indexPath);
+    const zip = new AdmZip();
+
+    zip.addLocalFile(indexPath, '');
+    addDirToZip(zip, path.join(foodDir, 'media'), 'media/');
+
+    const zipName = `${id}.food.zip`;
+    zip.writeZip(path.join(outDir, zipName));
+
+    manifestEntries.push({
+      id,
+      name: meta.name,
+      type: meta.type,
+      kcalPer100g: meta.kcalPer100g,
+      protPer100g: meta.protPer100g,
+      glucPer100g: meta.glucPer100g,
+      lipPer100g: meta.lipPer100g,
+      fiberPer100g: meta.fiberPer100g,
+      alcPct: meta.alcPct,
+      zipUrl: `${CDN_BASE}/data/foods/${zipName}`
+    });
+  }
+
+  const manifest = { version: '1.0.0', foods: manifestEntries };
+  fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
+  console.log(`  [foods] ${manifestEntries.length} foods → data/foods/`);
+}
+
+function buildEquipment() {
+  const srcDir = path.join(SOURCE, 'equipment');
+  const outDir = path.join(DATA, 'equipment');
+  ensureDir(outDir);
+
+  if (!fs.existsSync(srcDir)) {
+    console.warn('  [equipment] source/equipment/ not found — skipping');
+    return;
+  }
+
+  const manifestEntries = [];
+
+  for (const id of fs.readdirSync(srcDir).sort()) {
+    const equipDir = path.join(srcDir, id);
+    if (!fs.statSync(equipDir).isDirectory()) continue;
+
+    const indexPath = path.join(equipDir, 'index.json');
+    if (!fs.existsSync(indexPath)) {
+      console.warn(`  [equipment] ${id}/index.json missing — skipping`);
+      continue;
+    }
+
+    const meta = readJson(indexPath);
+    const zip = new AdmZip();
+
+    zip.addLocalFile(indexPath, '');
+    addDirToZip(zip, path.join(equipDir, 'media'), 'media/');
+
+    const zipName = `${id}.equipment.zip`;
+    zip.writeZip(path.join(outDir, zipName));
+
+    manifestEntries.push({
+      id,
+      name: meta.name,
+      zipUrl: `${CDN_BASE}/data/equipment/${zipName}`
+    });
+  }
+
+  const manifest = { version: '1.0.0', equipment: manifestEntries };
+  fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
+  console.log(`  [equipment] ${manifestEntries.length} equipment items → data/equipment/`);
+}
+
 function buildSimpleType(type) {
   const srcDir = path.join(SOURCE, type);
   const outDir = path.join(DATA, type);
@@ -173,8 +266,8 @@ function buildRecipes() {
 
 console.log('Building gymtribe-public data...');
 buildExercises();
-buildSimpleType('foods');
+buildFoods();
 buildSimpleType('muscles');
-buildSimpleType('equipment');
+buildEquipment();
 buildRecipes();
 console.log('Done.');

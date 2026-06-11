@@ -1,0 +1,14 @@
+{
+  "id": "cooked-sweet-potato",
+  "name": {
+    "en": "Cooked sweet potato",
+    "fr": "Patate douce cuite"
+  },
+  "type": "solid",
+  "kcalPer100g": 86,
+  "protPer100g": 1.6,
+  "glucPer100g": 20,
+  "lipPer100g": 0.1,
+  "fiberPer100g": 3,
+  "alcPct": 0
+}

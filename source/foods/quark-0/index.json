@@ -1,0 +1,14 @@
+{
+  "id": "quark-0",
+  "name": {
+    "en": "Quark 0%",
+    "fr": "Fromage blanc 0%"
+  },
+  "type": "solid",
+  "kcalPer100g": 46,
+  "protPer100g": 8,
+  "glucPer100g": 4,
+  "lipPer100g": 0.2,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

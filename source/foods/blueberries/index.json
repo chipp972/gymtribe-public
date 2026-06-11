@@ -1,0 +1,14 @@
+{
+  "id": "blueberries",
+  "name": {
+    "en": "Blueberries",
+    "fr": "Myrtilles"
+  },
+  "type": "solid",
+  "kcalPer100g": 57,
+  "protPer100g": 0.7,
+  "glucPer100g": 14,
+  "lipPer100g": 0.3,
+  "fiberPer100g": 2.4,
+  "alcPct": 0
+}

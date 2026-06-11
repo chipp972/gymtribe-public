@@ -1,0 +1,14 @@
+{
+  "id": "apple",
+  "name": {
+    "en": "Apple",
+    "fr": "Pomme"
+  },
+  "type": "solid",
+  "kcalPer100g": 52,
+  "protPer100g": 0.3,
+  "glucPer100g": 14,
+  "lipPer100g": 0.2,
+  "fiberPer100g": 2.4,
+  "alcPct": 0
+}

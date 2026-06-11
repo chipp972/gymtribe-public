@@ -1,0 +1,14 @@
+{
+  "id": "green-beans",
+  "name": {
+    "en": "Green beans",
+    "fr": "Haricots verts"
+  },
+  "type": "solid",
+  "kcalPer100g": 31,
+  "protPer100g": 1.8,
+  "glucPer100g": 7,
+  "lipPer100g": 0.1,
+  "fiberPer100g": 3.4,
+  "alcPct": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cauliflower",
+  "name": {
+    "en": "Cauliflower",
+    "fr": "Chou-fleur"
+  },
+  "type": "solid",
+  "kcalPer100g": 25,
+  "protPer100g": 1.9,
+  "glucPer100g": 5,
+  "lipPer100g": 0.3,
+  "fiberPer100g": 2,
+  "alcPct": 0
+}

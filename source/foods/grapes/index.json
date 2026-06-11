@@ -1,0 +1,14 @@
+{
+  "id": "grapes",
+  "name": {
+    "en": "Grapes",
+    "fr": "Raisin"
+  },
+  "type": "solid",
+  "kcalPer100g": 69,
+  "protPer100g": 0.7,
+  "glucPer100g": 18,
+  "lipPer100g": 0.2,
+  "fiberPer100g": 0.9,
+  "alcPct": 0
+}

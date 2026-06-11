@@ -1,0 +1,14 @@
+{
+  "id": "banana",
+  "name": {
+    "en": "Banana",
+    "fr": "Banane"
+  },
+  "type": "solid",
+  "kcalPer100g": 89,
+  "protPer100g": 1.1,
+  "glucPer100g": 23,
+  "lipPer100g": 0.3,
+  "fiberPer100g": 2.6,
+  "alcPct": 0
+}

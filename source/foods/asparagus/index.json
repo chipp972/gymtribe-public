@@ -1,0 +1,14 @@
+{
+  "id": "asparagus",
+  "name": {
+    "en": "Asparagus",
+    "fr": "Asperges"
+  },
+  "type": "solid",
+  "kcalPer100g": 20,
+  "protPer100g": 2.2,
+  "glucPer100g": 3.9,
+  "lipPer100g": 0.1,
+  "fiberPer100g": 2.1,
+  "alcPct": 0
+}

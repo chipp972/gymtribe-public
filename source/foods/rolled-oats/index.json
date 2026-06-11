@@ -1,0 +1,14 @@
+{
+  "id": "rolled-oats",
+  "name": {
+    "en": "Rolled oats",
+    "fr": "Flocons d'avoine"
+  },
+  "type": "solid",
+  "kcalPer100g": 389,
+  "protPer100g": 17,
+  "glucPer100g": 66,
+  "lipPer100g": 7,
+  "fiberPer100g": 11,
+  "alcPct": 0
+}

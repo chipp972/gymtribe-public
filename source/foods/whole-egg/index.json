@@ -1,0 +1,14 @@
+{
+  "id": "whole-egg",
+  "name": {
+    "en": "Whole egg",
+    "fr": "Oeuf entier"
+  },
+  "type": "solid",
+  "kcalPer100g": 143,
+  "protPer100g": 13,
+  "glucPer100g": 1.1,
+  "lipPer100g": 10,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

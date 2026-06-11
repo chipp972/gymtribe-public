@@ -1,0 +1,14 @@
+{
+  "id": "mushrooms",
+  "name": {
+    "en": "Mushrooms",
+    "fr": "Champignons"
+  },
+  "type": "solid",
+  "kcalPer100g": 22,
+  "protPer100g": 3.1,
+  "glucPer100g": 3.3,
+  "lipPer100g": 0.3,
+  "fiberPer100g": 1,
+  "alcPct": 0
+}

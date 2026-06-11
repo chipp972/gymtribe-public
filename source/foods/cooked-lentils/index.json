@@ -1,0 +1,14 @@
+{
+  "id": "cooked-lentils",
+  "name": {
+    "en": "Cooked lentils",
+    "fr": "Lentilles cuites"
+  },
+  "type": "solid",
+  "kcalPer100g": 116,
+  "protPer100g": 9,
+  "glucPer100g": 20,
+  "lipPer100g": 0.4,
+  "fiberPer100g": 8,
+  "alcPct": 0
+}

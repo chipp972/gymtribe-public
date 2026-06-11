@@ -1,0 +1,14 @@
+{
+  "id": "rum-40",
+  "name": {
+    "en": "Rum (40%)",
+    "fr": "Rhum (40%)"
+  },
+  "type": "liquid",
+  "kcalPer100g": 231,
+  "protPer100g": 0,
+  "glucPer100g": 0,
+  "lipPer100g": 0,
+  "fiberPer100g": 0,
+  "alcPct": 40
+}

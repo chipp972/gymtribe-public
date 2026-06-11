@@ -1,0 +1,14 @@
+{
+  "id": "cooked-red-kidney-beans",
+  "name": {
+    "en": "Cooked red kidney beans",
+    "fr": "Haricots rouges cuits"
+  },
+  "type": "solid",
+  "kcalPer100g": 127,
+  "protPer100g": 8.7,
+  "glucPer100g": 23,
+  "lipPer100g": 0.5,
+  "fiberPer100g": 6.4,
+  "alcPct": 0
+}

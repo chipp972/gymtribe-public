@@ -1,0 +1,14 @@
+{
+  "id": "salmon",
+  "name": {
+    "en": "Salmon",
+    "fr": "Saumon"
+  },
+  "type": "solid",
+  "kcalPer100g": 208,
+  "protPer100g": 20,
+  "glucPer100g": 0,
+  "lipPer100g": 13,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}

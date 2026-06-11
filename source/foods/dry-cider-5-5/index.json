@@ -1,0 +1,14 @@
+{
+  "id": "dry-cider-5-5",
+  "name": {
+    "en": "Dry cider (5.5%)",
+    "fr": "Cidre brut (5.5%)"
+  },
+  "type": "liquid",
+  "kcalPer100g": 45,
+  "protPer100g": 0,
+  "glucPer100g": 4,
+  "lipPer100g": 0,
+  "fiberPer100g": 0,
+  "alcPct": 5.5
+}

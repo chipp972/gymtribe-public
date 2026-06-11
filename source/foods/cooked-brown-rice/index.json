@@ -1,0 +1,14 @@
+{
+  "id": "cooked-brown-rice",
+  "name": {
+    "en": "Cooked brown rice",
+    "fr": "Riz complet cuit"
+  },
+  "type": "solid",
+  "kcalPer100g": 111,
+  "protPer100g": 2.6,
+  "glucPer100g": 23,
+  "lipPer100g": 0.9,
+  "fiberPer100g": 1.8,
+  "alcPct": 0
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pear",
+  "name": {
+    "en": "Pear",
+    "fr": "Poire"
+  },
+  "type": "solid",
+  "kcalPer100g": 57,
+  "protPer100g": 0.4,
+  "glucPer100g": 15,
+  "lipPer100g": 0.1,
+  "fiberPer100g": 3.1,
+  "alcPct": 0
+}

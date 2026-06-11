@@ -1,0 +1,14 @@
+{
+  "id": "egg-white",
+  "name": {
+    "en": "Egg white",
+    "fr": "Blanc d'oeuf"
+  },
+  "type": "solid",
+  "kcalPer100g": 52,
+  "protPer100g": 11,
+  "glucPer100g": 0.7,
+  "lipPer100g": 0.2,
+  "fiberPer100g": 0,
+  "alcPct": 0
+}
