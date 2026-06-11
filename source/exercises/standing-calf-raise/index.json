@@ -1,0 +1,17 @@
+{
+  "id": "standing-calf-raise",
+  "name": {
+    "en": "Standing Calf Raise",
+    "fr": "Élévation des mollets debout"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "calves",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "machine"
+  ]
+}

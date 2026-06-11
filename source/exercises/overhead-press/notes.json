@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/d725ad5a-e0dd-4fca-8b9e-0016aaa757a0"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Standing or seated, bar at shoulder height gripped overhand, elbows slightly in front of the bar. Press upward while exhaling until arms are fully extended. Move the head back slightly to allow the bar to pass, then return it forward at the top. Lower slowly. Brace the core throughout to protect the spine.",
+        "fr": "Debout ou assis, barre tenue à hauteur des épaules en pronation, coudes légèrement devant la barre. Poussez la barre vers le haut en expirant jusqu'à l'extension complète des bras. Passez la barre devant le visage et ramenez la tête en avant en fin de poussée. Descendez lentement en contrôlant. Contractez les abdominaux pour stabiliser le tronc."
+      }
+    }
+  ]
+}

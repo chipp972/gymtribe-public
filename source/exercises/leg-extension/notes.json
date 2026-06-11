@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/3d0e78d0-1125-4d25-8bd4-9ca7ba3799e8"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Seated in the machine, adjust the pad to rest on the lower shins. Extend the knees to raise the legs to full extension. Hold for 1 second while squeezing the quadriceps. Lower slowly over 3-4 seconds. Ideal for quad isolation at the end of a session.",
+        "fr": "Assis dans la machine, ajustez l'appui sur le bas des tibias. Étendez les genoux pour lever les jambes jusqu'à l'extension complète. Maintenez 1 seconde en contractant les quadriceps. Descendez lentement en contrôlant sur 3-4 secondes. Idéal pour l'isolation des quadriceps en fin de séance."
+      }
+    }
+  ]
+}

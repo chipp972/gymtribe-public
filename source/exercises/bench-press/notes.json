@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/d09e0ed7-21dd-4f1c-b5cf-3e345e9304ec"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Lie flat on a bench with feet firmly on the floor. Grip the bar slightly wider than shoulder-width, palms facing forward. Lower the bar slowly to mid-chest, keeping elbows at about 75° from the body. Press upward while exhaling until arms are fully extended. Keep shoulder blades retracted and pressed against the bench throughout.",
+        "fr": "Allongez-vous sur un banc plat, pieds à plat au sol. Saisissez la barre en prise large, légèrement plus large que la largeur des épaules. Descendez la barre lentement vers le milieu de la poitrine en gardant les coudes à environ 75° du corps. Poussez la barre vers le haut en expirant jusqu'à l'extension complète. Gardez les omoplates rétractées et serrées contre le banc tout au long du mouvement."
+      }
+    }
+  ]
+}

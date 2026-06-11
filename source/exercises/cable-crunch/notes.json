@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/8472284/8472284-hd_1280_720_25fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Kneeling facing a high pulley, holding the rope or bar behind the head. Flex the torso downward while contracting the abs, bringing the elbows toward the knees. The cable maintains constant tension unlike floor crunches. Return slowly to the starting position.",
+        "fr": "À genoux face à une poulie haute, tenez la corde ou la barre derrière la tête. Fléchissez le tronc vers le bas en contractant les abdominaux, amenez les coudes vers les genoux. La poulie maintient une tension constante contrairement aux crunchs au sol. Revenez lentement à la position de départ."
+      }
+    }
+  ]
+}

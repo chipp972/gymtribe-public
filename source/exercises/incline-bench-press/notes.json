@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/ece55528-9855-49cf-a970-cf47c662e45d"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Set the bench at 30-45°. Lie back with feet flat on the floor, grip the bar slightly wider than shoulder-width. Lower the bar to the upper chest in a controlled manner. Press up while exhaling to full extension. Avoid excessive arching of the lower back.",
+        "fr": "Réglez le banc à environ 30-45°. Allongez-vous avec les pieds au sol, saisissez la barre légèrement plus large que la largeur des épaules. Descendez la barre vers le haut de la poitrine en contrôlant le mouvement. Poussez en expirant jusqu'à l'extension. Évitez de cambrer excessivement le bas du dos."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "preacher-curl",
+  "name": {
+    "en": "Preacher Curl",
+    "fr": "Curl pupitre"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "biceps",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

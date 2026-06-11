@@ -1,0 +1,17 @@
+{
+  "id": "leg-raise",
+  "name": {
+    "en": "Leg Raise",
+    "fr": "Relevé de jambes"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "core",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

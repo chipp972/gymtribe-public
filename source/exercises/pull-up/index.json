@@ -1,0 +1,21 @@
+{
+  "id": "pull-up",
+  "name": {
+    "en": "Pull-Up",
+    "fr": "Tractions"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "back",
+      "role": "primary"
+    },
+    {
+      "name": "biceps",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

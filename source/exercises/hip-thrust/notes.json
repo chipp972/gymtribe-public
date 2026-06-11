@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/e0e8ce33-e39e-4e14-950b-2540be912c5b"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Upper back against a bench, bar over the hips (with a pad for comfort). Feet flat on the floor, shoulder-width apart. Drive the hips upward while squeezing the glutes until the body forms a straight line from head to knees. Hold for 1 second at the top. Lower slowly. Exhale on the way up.",
+        "fr": "Dos appuyé sur un banc, barre sur les hanches (protégée par un pad). Pieds à plat au sol, à largeur d'épaules. Poussez les hanches vers le haut en contractant les fessiers jusqu'à ce que le corps soit droit de la tête aux genoux. Maintenez 1 seconde en haut. Descendez lentement. Expirez à la montée."
+      }
+    }
+  ]
+}

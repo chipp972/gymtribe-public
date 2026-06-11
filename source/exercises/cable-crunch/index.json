@@ -1,0 +1,17 @@
+{
+  "id": "cable-crunch",
+  "name": {
+    "en": "Cable Crunch",
+    "fr": "Crunch poulie"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "core",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "cable"
+  ]
+}

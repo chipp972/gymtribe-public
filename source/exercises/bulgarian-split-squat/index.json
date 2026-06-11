@@ -1,0 +1,25 @@
+{
+  "id": "bulgarian-split-squat",
+  "name": {
+    "en": "Bulgarian Split Squat",
+    "fr": "Squat bulgare"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "glutes",
+      "role": "primary"
+    },
+    {
+      "name": "quadriceps",
+      "role": "secondary"
+    },
+    {
+      "name": "hamstrings",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "dumbbell"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ab-wheel-rollout",
+  "name": {
+    "en": "Ab Wheel Rollout",
+    "fr": "Roulette abdominale"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "core",
+      "role": "primary"
+    },
+    {
+      "name": "shoulders",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

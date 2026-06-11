@@ -1,0 +1,21 @@
+{
+  "id": "dumbbell-curl",
+  "name": {
+    "en": "Dumbbell Curl",
+    "fr": "Curl haltères"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "biceps",
+      "role": "primary"
+    },
+    {
+      "name": "forearms",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "dumbbell"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/31622706/13475131_2560_1440_60fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Stand with dumbbells in front of your thighs, palms facing down. Raise your arms forward to shoulder height, keeping a slight bend in the elbows. Hold for 1 second at the top, then lower slowly. Avoid using momentum from the torso. Can be performed alternately or simultaneously.",
+        "fr": "Debout, haltères devant les cuisses, paumes vers le bas. Levez les bras vers l'avant jusqu'à hauteur des épaules, bras légèrement fléchis. Maintenez 1 seconde en haut, puis descendez lentement. Évitez de prendre de l'élan avec le buste. Alternez les bras ou levez les deux simultanément."
+      }
+    }
+  ]
+}

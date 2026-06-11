@@ -1,0 +1,21 @@
+{
+  "id": "barbell-curl",
+  "name": {
+    "en": "Barbell Curl",
+    "fr": "Curl barre"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "biceps",
+      "role": "primary"
+    },
+    {
+      "name": "forearms",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

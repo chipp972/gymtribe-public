@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/9a550e2c-c55e-495d-b59e-b676c3d48a41"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Facing a high pulley, grip the bar or rope overhand. Keep upper arms against the body, elbows fixed. Push down until triceps are fully extended. Squeeze the triceps at the bottom. Return slowly with control. Avoid leaning the torso or moving the elbows.",
+        "fr": "Face à une poulie haute, saisissez la barre ou la corde en pronation. Bras contre le corps, coudes fixes. Poussez la barre vers le bas jusqu'à l'extension complète des triceps. Contractez les triceps en bas du mouvement. Remontez lentement en contrôlant. Évitez de pencher le buste ou de bouger les coudes."
+      }
+    }
+  ]
+}

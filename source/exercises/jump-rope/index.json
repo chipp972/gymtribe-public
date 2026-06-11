@@ -1,0 +1,21 @@
+{
+  "id": "jump-rope",
+  "name": {
+    "en": "Jump Rope",
+    "fr": "Corde à sauter"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "calves",
+      "role": "primary"
+    },
+    {
+      "name": "core",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

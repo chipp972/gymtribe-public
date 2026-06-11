@@ -1,0 +1,83 @@
+{
+  "version": "1.0.0",
+  "muscles": [
+    {
+      "id": "chest",
+      "name": {
+        "en": "Chest",
+        "fr": "Pectoraux"
+      }
+    },
+    {
+      "id": "back",
+      "name": {
+        "en": "Back",
+        "fr": "Dos"
+      }
+    },
+    {
+      "id": "shoulders",
+      "name": {
+        "en": "Shoulders",
+        "fr": "Épaules"
+      }
+    },
+    {
+      "id": "biceps",
+      "name": {
+        "en": "Biceps",
+        "fr": "Biceps"
+      }
+    },
+    {
+      "id": "triceps",
+      "name": {
+        "en": "Triceps",
+        "fr": "Triceps"
+      }
+    },
+    {
+      "id": "forearms",
+      "name": {
+        "en": "Forearms",
+        "fr": "Avant-bras"
+      }
+    },
+    {
+      "id": "quads",
+      "name": {
+        "en": "Quads",
+        "fr": "Quadriceps"
+      }
+    },
+    {
+      "id": "hamstrings",
+      "name": {
+        "en": "Hamstrings",
+        "fr": "Ischio-jambiers"
+      }
+    },
+    {
+      "id": "glutes",
+      "name": {
+        "en": "Glutes",
+        "fr": "Fessiers"
+      }
+    },
+    {
+      "id": "calves",
+      "name": {
+        "en": "Calves",
+        "fr": "Mollets"
+      }
+    },
+    {
+      "id": "core",
+      "name": {
+        "en": "Core",
+        "fr": "Abdominaux"
+      }
+    }
+  ],
+  "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/muscles/muscles.zip"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "seated-cable-row",
+  "name": {
+    "en": "Seated Cable Row",
+    "fr": "Rowing poulie basse"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "back",
+      "role": "primary"
+    },
+    {
+      "name": "biceps",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "cable"
+  ]
+}

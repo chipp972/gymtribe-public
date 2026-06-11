@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/be8f26b0-4948-4f48-b851-1a9d2cfd953c"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "In a forearm plank position with toes on the floor, body in a straight line from head to heels. Brace the core, glutes, and quads to maintain the position. Do not let the hips sag or rise. Breathe normally. Hold as long as possible while maintaining perfect form.",
+        "fr": "En position de planche sur les avant-bras et les orteils, corps aligné de la tête aux pieds. Contractez les abdominaux, les fessiers et les quadriceps pour maintenir la position. Ne laissez pas les hanches s'affaisser ni monter. Respirez normalement. Maintenez la position le plus longtemps possible en gardant une forme parfaite."
+      }
+    }
+  ]
+}

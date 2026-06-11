@@ -1,0 +1,21 @@
+{
+  "id": "hammer-curl",
+  "name": {
+    "en": "Hammer Curl",
+    "fr": "Curl marteau"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "biceps",
+      "role": "primary"
+    },
+    {
+      "name": "forearms",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "dumbbell"
+  ]
+}

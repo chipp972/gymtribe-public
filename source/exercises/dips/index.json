@@ -1,0 +1,25 @@
+{
+  "id": "dips",
+  "name": {
+    "en": "Dips",
+    "fr": "Dips"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "chest",
+      "role": "primary"
+    },
+    {
+      "name": "triceps",
+      "role": "secondary"
+    },
+    {
+      "name": "shoulders",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

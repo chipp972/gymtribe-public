@@ -1,0 +1,81 @@
+{
+  "equipment": [
+    {
+      "id": "barbell",
+      "name": {
+        "en": "Barbell",
+        "fr": "Barre"
+      }
+    },
+    {
+      "id": "dumbbell",
+      "name": {
+        "en": "Dumbbell",
+        "fr": "Haltères"
+      }
+    },
+    {
+      "id": "bodyweight",
+      "name": {
+        "en": "Bodyweight",
+        "fr": "Poids du corps"
+      }
+    },
+    {
+      "id": "cable",
+      "name": {
+        "en": "Cable",
+        "fr": "Poulie"
+      }
+    },
+    {
+      "id": "machine",
+      "name": {
+        "en": "Machine",
+        "fr": "Machine"
+      }
+    },
+    {
+      "id": "sled",
+      "name": {
+        "en": "Sled",
+        "fr": "Traîneau"
+      }
+    },
+    {
+      "id": "pullup-bar",
+      "name": {
+        "en": "Pullup Bar",
+        "fr": "Barre de traction"
+      }
+    },
+    {
+      "id": "squat-rack",
+      "name": {
+        "en": "Squat Rack",
+        "fr": "Rack à squat"
+      }
+    },
+    {
+      "id": "bench",
+      "name": {
+        "en": "Bench",
+        "fr": "Banc"
+      }
+    },
+    {
+      "id": "smith-machine",
+      "name": {
+        "en": "Smith Machine",
+        "fr": "Smith Machine"
+      }
+    },
+    {
+      "id": "hack-squat-machine",
+      "name": {
+        "en": "Hack Squat Machine",
+        "fr": "Presse hack"
+      }
+    }
+  ]
+}

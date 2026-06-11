@@ -1,0 +1,25 @@
+{
+  "id": "squat",
+  "name": {
+    "en": "Squat",
+    "fr": "Squat"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "quadriceps",
+      "role": "primary"
+    },
+    {
+      "name": "glutes",
+      "role": "secondary"
+    },
+    {
+      "name": "hamstrings",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

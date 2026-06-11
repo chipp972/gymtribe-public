@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/94b73c60-81d0-4522-964e-ceacf89129cf"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Seated at the machine with knees bent at 90°, pad resting on the thighs. Rise onto the balls of your feet, contracting the calves. Lower slowly to stretch. The seated position targets the soleus (the deep muscle beneath the gastrocnemius) because the bent knee reduces gastrocnemius activation.",
+        "fr": "Assis à la machine, genoux fléchis à 90°, coussin sur les cuisses. Montez sur la pointe des pieds en contractant les mollets. Descendez lentement pour étirer. La position assise cible davantage le soléaire (muscle profond sous les mollets) car les genoux sont fléchis, réduisant l'engagement du gastrocnémien."
+      }
+    }
+  ]
+}

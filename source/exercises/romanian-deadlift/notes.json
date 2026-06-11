@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/b7f3df3f-7371-4d29-bc59-3227fcdaa09a"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Stand holding the bar overhand. Push the hips backward with knees slightly bent and the back flat. Lower the bar along the legs until you feel a strong stretch in the hamstrings. Drive the hips forward to return to standing. Keep the bar close to the body throughout.",
+        "fr": "Debout, barre en prise pronation. Poussez les hanches vers l'arrière en gardant les genoux légèrement fléchis et le dos plat. Descendez la barre le long des jambes jusqu'à sentir un fort étirement dans les ischio-jambiers. Remontez en poussant les hanches vers l'avant. La barre reste proche du corps tout au long."
+      }
+    }
+  ]
+}

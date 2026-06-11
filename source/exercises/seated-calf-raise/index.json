@@ -1,0 +1,17 @@
+{
+  "id": "seated-calf-raise",
+  "name": {
+    "en": "Seated Calf Raise",
+    "fr": "Élévation des mollets assis"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "calves",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "machine"
+  ]
+}

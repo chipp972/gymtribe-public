@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/0f7cf0c4-34fe-4cb3-993e-469be8004c2c"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Set the pulley at eye height. Grip the rope overhand and step back to create tension. Pull the rope toward your face, separating your hands as they approach your head, elbows at shoulder height or above. Squeeze the rear delts and rhomboids at the end position. Return slowly. Great for shoulder health.",
+        "fr": "Réglez la poulie à hauteur des yeux. Saisissez la corde en pronation, reculez pour créer de la tension. Tirez la corde vers le visage en écartant les bras, coudes à hauteur des épaules ou au-dessus. Contractez les deltoïdes postérieurs et les rhomboïdes en fin de mouvement. Revenez lentement. Idéal pour la santé des épaules."
+      }
+    }
+  ]
+}

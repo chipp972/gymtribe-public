@@ -1,0 +1,17 @@
+{
+  "id": "leg-extension",
+  "name": {
+    "en": "Leg Extension",
+    "fr": "Extension quadriceps"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "quadriceps",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "machine"
+  ]
+}

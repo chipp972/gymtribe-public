@@ -1,0 +1,1243 @@
+{
+  "version": "1.0.0",
+  "exercises": [
+    {
+      "id": "ab-wheel-rollout",
+      "name": {
+        "en": "Ab Wheel Rollout",
+        "fr": "Roulette abdominale"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "core",
+          "role": "primary"
+        },
+        {
+          "name": "shoulders",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/ab-wheel-rollout.exercise.zip"
+    },
+    {
+      "id": "arnold-press",
+      "name": {
+        "en": "Arnold Press",
+        "fr": "Développé Arnold"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "shoulders",
+          "role": "primary"
+        },
+        {
+          "name": "triceps",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/arnold-press.exercise.zip"
+    },
+    {
+      "id": "barbell-curl",
+      "name": {
+        "en": "Barbell Curl",
+        "fr": "Curl barre"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "biceps",
+          "role": "primary"
+        },
+        {
+          "name": "forearms",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/barbell-curl.exercise.zip"
+    },
+    {
+      "id": "bench-press",
+      "name": {
+        "en": "Bench Press",
+        "fr": "Développé couché"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "chest",
+          "role": "primary"
+        },
+        {
+          "name": "triceps",
+          "role": "secondary"
+        },
+        {
+          "name": "shoulders",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/bench-press.exercise.zip"
+    },
+    {
+      "id": "bent-over-row",
+      "name": {
+        "en": "Bent-Over Row",
+        "fr": "Rowing barre"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "back",
+          "role": "primary"
+        },
+        {
+          "name": "biceps",
+          "role": "secondary"
+        },
+        {
+          "name": "shoulders",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/bent-over-row.exercise.zip"
+    },
+    {
+      "id": "bicycle-crunch",
+      "name": {
+        "en": "Bicycle Crunch",
+        "fr": "Crunch bicycle"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "core",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/bicycle-crunch.exercise.zip"
+    },
+    {
+      "id": "bulgarian-split-squat",
+      "name": {
+        "en": "Bulgarian Split Squat",
+        "fr": "Squat bulgare"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "glutes",
+          "role": "primary"
+        },
+        {
+          "name": "quadriceps",
+          "role": "secondary"
+        },
+        {
+          "name": "hamstrings",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/bulgarian-split-squat.exercise.zip"
+    },
+    {
+      "id": "cable-crunch",
+      "name": {
+        "en": "Cable Crunch",
+        "fr": "Crunch poulie"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "core",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/cable-crunch.exercise.zip"
+    },
+    {
+      "id": "cable-curl",
+      "name": {
+        "en": "Cable Curl",
+        "fr": "Curl poulie"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "biceps",
+          "role": "primary"
+        },
+        {
+          "name": "forearms",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/cable-curl.exercise.zip"
+    },
+    {
+      "id": "cable-fly",
+      "name": {
+        "en": "Cable Fly",
+        "fr": "Écarté poulie"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "chest",
+          "role": "primary"
+        },
+        {
+          "name": "shoulders",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/cable-fly.exercise.zip"
+    },
+    {
+      "id": "cable-kickback",
+      "name": {
+        "en": "Cable Kickback",
+        "fr": "Kickback poulie"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "glutes",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/cable-kickback.exercise.zip"
+    },
+    {
+      "id": "cable-pushdown",
+      "name": {
+        "en": "Cable Pushdown",
+        "fr": "Pushdown poulie haute"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "triceps",
+          "role": "primary"
+        },
+        {
+          "name": "forearms",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/cable-pushdown.exercise.zip"
+    },
+    {
+      "id": "chin-up",
+      "name": {
+        "en": "Chin-Up",
+        "fr": "Traction supination"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "biceps",
+          "role": "primary"
+        },
+        {
+          "name": "back",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/chin-up.exercise.zip"
+    },
+    {
+      "id": "close-grip-bench-press",
+      "name": {
+        "en": "Close-Grip Bench Press",
+        "fr": "Développé prise serrée"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "triceps",
+          "role": "primary"
+        },
+        {
+          "name": "chest",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/close-grip-bench-press.exercise.zip"
+    },
+    {
+      "id": "crunch",
+      "name": {
+        "en": "Crunch",
+        "fr": "Crunch"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "core",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/crunch.exercise.zip"
+    },
+    {
+      "id": "deadlift",
+      "name": {
+        "en": "Deadlift",
+        "fr": "Soulevé de terre"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "back",
+          "role": "primary"
+        },
+        {
+          "name": "glutes",
+          "role": "secondary"
+        },
+        {
+          "name": "hamstrings",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/deadlift.exercise.zip"
+    },
+    {
+      "id": "dips",
+      "name": {
+        "en": "Dips",
+        "fr": "Dips"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "chest",
+          "role": "primary"
+        },
+        {
+          "name": "triceps",
+          "role": "secondary"
+        },
+        {
+          "name": "shoulders",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/dips.exercise.zip"
+    },
+    {
+      "id": "donkey-calf-raise",
+      "name": {
+        "en": "Donkey Calf Raise",
+        "fr": "Donkey calf raise"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "calves",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/donkey-calf-raise.exercise.zip"
+    },
+    {
+      "id": "dumbbell-curl",
+      "name": {
+        "en": "Dumbbell Curl",
+        "fr": "Curl haltères"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "biceps",
+          "role": "primary"
+        },
+        {
+          "name": "forearms",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/dumbbell-curl.exercise.zip"
+    },
+    {
+      "id": "dumbbell-fly",
+      "name": {
+        "en": "Dumbbell Fly",
+        "fr": "Écarté haltères"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "chest",
+          "role": "primary"
+        },
+        {
+          "name": "shoulders",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/dumbbell-fly.exercise.zip"
+    },
+    {
+      "id": "face-pull",
+      "name": {
+        "en": "Face Pull",
+        "fr": "Face pull"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "back",
+          "role": "primary"
+        },
+        {
+          "name": "shoulders",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/face-pull.exercise.zip"
+    },
+    {
+      "id": "farmer-s-walk",
+      "name": {
+        "en": "Farmer's Walk",
+        "fr": "Marche du fermier"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "forearms",
+          "role": "primary"
+        },
+        {
+          "name": "core",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/farmer-s-walk.exercise.zip"
+    },
+    {
+      "id": "front-raise",
+      "name": {
+        "en": "Front Raise",
+        "fr": "Élévations frontales"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "shoulders",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/front-raise.exercise.zip"
+    },
+    {
+      "id": "front-squat",
+      "name": {
+        "en": "Front Squat",
+        "fr": "Squat avant"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "quadriceps",
+          "role": "primary"
+        },
+        {
+          "name": "core",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/front-squat.exercise.zip"
+    },
+    {
+      "id": "glute-ham-raise",
+      "name": {
+        "en": "Glute-Ham Raise",
+        "fr": "Élévation ischio-fessiers"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "hamstrings",
+          "role": "primary"
+        },
+        {
+          "name": "glutes",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/glute-ham-raise.exercise.zip"
+    },
+    {
+      "id": "good-morning",
+      "name": {
+        "en": "Good Morning",
+        "fr": "Good morning"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "hamstrings",
+          "role": "primary"
+        },
+        {
+          "name": "back",
+          "role": "secondary"
+        },
+        {
+          "name": "glutes",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/good-morning.exercise.zip"
+    },
+    {
+      "id": "hack-squat",
+      "name": {
+        "en": "Hack Squat",
+        "fr": "Hack squat"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "quadriceps",
+          "role": "primary"
+        },
+        {
+          "name": "glutes",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/hack-squat.exercise.zip"
+    },
+    {
+      "id": "hammer-curl",
+      "name": {
+        "en": "Hammer Curl",
+        "fr": "Curl marteau"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "biceps",
+          "role": "primary"
+        },
+        {
+          "name": "forearms",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/hammer-curl.exercise.zip"
+    },
+    {
+      "id": "hip-thrust",
+      "name": {
+        "en": "Hip Thrust",
+        "fr": "Hip thrust"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "glutes",
+          "role": "primary"
+        },
+        {
+          "name": "hamstrings",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/hip-thrust.exercise.zip"
+    },
+    {
+      "id": "incline-bench-press",
+      "name": {
+        "en": "Incline Bench Press",
+        "fr": "Développé incliné"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "chest",
+          "role": "primary"
+        },
+        {
+          "name": "shoulders",
+          "role": "secondary"
+        },
+        {
+          "name": "triceps",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/incline-bench-press.exercise.zip"
+    },
+    {
+      "id": "jump-rope",
+      "name": {
+        "en": "Jump Rope",
+        "fr": "Corde à sauter"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "calves",
+          "role": "primary"
+        },
+        {
+          "name": "core",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/jump-rope.exercise.zip"
+    },
+    {
+      "id": "lat-pulldown",
+      "name": {
+        "en": "Lat Pulldown",
+        "fr": "Tirage vertical"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "back",
+          "role": "primary"
+        },
+        {
+          "name": "biceps",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/lat-pulldown.exercise.zip"
+    },
+    {
+      "id": "lateral-raise",
+      "name": {
+        "en": "Lateral Raise",
+        "fr": "Élévations latérales"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "shoulders",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/lateral-raise.exercise.zip"
+    },
+    {
+      "id": "leg-curl",
+      "name": {
+        "en": "Leg Curl",
+        "fr": "Curl ischio-jambiers"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "hamstrings",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/leg-curl.exercise.zip"
+    },
+    {
+      "id": "leg-extension",
+      "name": {
+        "en": "Leg Extension",
+        "fr": "Extension quadriceps"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "quadriceps",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/leg-extension.exercise.zip"
+    },
+    {
+      "id": "leg-press",
+      "name": {
+        "en": "Leg Press",
+        "fr": "Presse à cuisses"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "quadriceps",
+          "role": "primary"
+        },
+        {
+          "name": "glutes",
+          "role": "secondary"
+        },
+        {
+          "name": "hamstrings",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/leg-press.exercise.zip"
+    },
+    {
+      "id": "leg-raise",
+      "name": {
+        "en": "Leg Raise",
+        "fr": "Relevé de jambes"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "core",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/leg-raise.exercise.zip"
+    },
+    {
+      "id": "lunge",
+      "name": {
+        "en": "Lunge",
+        "fr": "Fente avant"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "quadriceps",
+          "role": "primary"
+        },
+        {
+          "name": "glutes",
+          "role": "secondary"
+        },
+        {
+          "name": "hamstrings",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/lunge.exercise.zip"
+    },
+    {
+      "id": "overhead-press",
+      "name": {
+        "en": "Overhead Press",
+        "fr": "Développé militaire"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "shoulders",
+          "role": "primary"
+        },
+        {
+          "name": "triceps",
+          "role": "secondary"
+        },
+        {
+          "name": "core",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/overhead-press.exercise.zip"
+    },
+    {
+      "id": "overhead-tricep-extension",
+      "name": {
+        "en": "Overhead Tricep Extension",
+        "fr": "Extension triceps au-dessus de la tête"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "triceps",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/overhead-tricep-extension.exercise.zip"
+    },
+    {
+      "id": "plank",
+      "name": {
+        "en": "Plank",
+        "fr": "Gainage"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "core",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/plank.exercise.zip"
+    },
+    {
+      "id": "preacher-curl",
+      "name": {
+        "en": "Preacher Curl",
+        "fr": "Curl pupitre"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "biceps",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/preacher-curl.exercise.zip"
+    },
+    {
+      "id": "pull-up",
+      "name": {
+        "en": "Pull-Up",
+        "fr": "Tractions"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "back",
+          "role": "primary"
+        },
+        {
+          "name": "biceps",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/pull-up.exercise.zip"
+    },
+    {
+      "id": "push-up",
+      "name": {
+        "en": "Push-Up",
+        "fr": "Pompes"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "chest",
+          "role": "primary"
+        },
+        {
+          "name": "triceps",
+          "role": "secondary"
+        },
+        {
+          "name": "shoulders",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/push-up.exercise.zip"
+    },
+    {
+      "id": "reverse-fly",
+      "name": {
+        "en": "Reverse Fly",
+        "fr": "Écarté inversé"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "shoulders",
+          "role": "primary"
+        },
+        {
+          "name": "back",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/reverse-fly.exercise.zip"
+    },
+    {
+      "id": "reverse-wrist-curl",
+      "name": {
+        "en": "Reverse Wrist Curl",
+        "fr": "Curl poignet inversé"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "forearms",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/reverse-wrist-curl.exercise.zip"
+    },
+    {
+      "id": "romanian-deadlift",
+      "name": {
+        "en": "Romanian Deadlift",
+        "fr": "Soulevé de terre roumain"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "hamstrings",
+          "role": "primary"
+        },
+        {
+          "name": "glutes",
+          "role": "secondary"
+        },
+        {
+          "name": "back",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/romanian-deadlift.exercise.zip"
+    },
+    {
+      "id": "russian-twist",
+      "name": {
+        "en": "Russian Twist",
+        "fr": "Rotation russe"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "core",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/russian-twist.exercise.zip"
+    },
+    {
+      "id": "seated-cable-row",
+      "name": {
+        "en": "Seated Cable Row",
+        "fr": "Rowing poulie basse"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "back",
+          "role": "primary"
+        },
+        {
+          "name": "biceps",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "cable"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/seated-cable-row.exercise.zip"
+    },
+    {
+      "id": "seated-calf-raise",
+      "name": {
+        "en": "Seated Calf Raise",
+        "fr": "Élévation des mollets assis"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "calves",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/seated-calf-raise.exercise.zip"
+    },
+    {
+      "id": "skull-crusher",
+      "name": {
+        "en": "Skull Crusher",
+        "fr": "Barre au front"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "triceps",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/skull-crusher.exercise.zip"
+    },
+    {
+      "id": "squat",
+      "name": {
+        "en": "Squat",
+        "fr": "Squat"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "quadriceps",
+          "role": "primary"
+        },
+        {
+          "name": "glutes",
+          "role": "secondary"
+        },
+        {
+          "name": "hamstrings",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/squat.exercise.zip"
+    },
+    {
+      "id": "standing-calf-raise",
+      "name": {
+        "en": "Standing Calf Raise",
+        "fr": "Élévation des mollets debout"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "calves",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "machine"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/standing-calf-raise.exercise.zip"
+    },
+    {
+      "id": "step-up",
+      "name": {
+        "en": "Step-Up",
+        "fr": "Montée sur banc"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "glutes",
+          "role": "primary"
+        },
+        {
+          "name": "quadriceps",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/step-up.exercise.zip"
+    },
+    {
+      "id": "sumo-deadlift",
+      "name": {
+        "en": "Sumo Deadlift",
+        "fr": "Soulevé de terre sumo"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "glutes",
+          "role": "primary"
+        },
+        {
+          "name": "hamstrings",
+          "role": "secondary"
+        },
+        {
+          "name": "back",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/sumo-deadlift.exercise.zip"
+    },
+    {
+      "id": "tricep-dip",
+      "name": {
+        "en": "Tricep Dip",
+        "fr": "Dips triceps"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "triceps",
+          "role": "primary"
+        },
+        {
+          "name": "chest",
+          "role": "secondary"
+        },
+        {
+          "name": "shoulders",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/tricep-dip.exercise.zip"
+    },
+    {
+      "id": "wrist-curl",
+      "name": {
+        "en": "Wrist Curl",
+        "fr": "Curl poignet"
+      },
+      "archetype": "performance",
+      "muscles": [
+        {
+          "name": "forearms",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "barbell"
+      ],
+      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/wrist-curl.exercise.zip"
+    }
+  ]
+}

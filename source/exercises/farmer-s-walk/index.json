@@ -1,0 +1,21 @@
+{
+  "id": "farmer-s-walk",
+  "name": {
+    "en": "Farmer's Walk",
+    "fr": "Marche du fermier"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "forearms",
+      "role": "primary"
+    },
+    {
+      "name": "core",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "dumbbell"
+  ]
+}

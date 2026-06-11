@@ -1,0 +1,25 @@
+{
+  "id": "bench-press",
+  "name": {
+    "en": "Bench Press",
+    "fr": "Développé couché"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "chest",
+      "role": "primary"
+    },
+    {
+      "name": "triceps",
+      "role": "secondary"
+    },
+    {
+      "name": "shoulders",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

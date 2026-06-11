@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/ae1f15b4-61f9-4da7-9ffe-0d8e72e6f097"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Hinge forward to about 45°, back flat, bar gripped overhand. Pull the bar toward the lower abdomen, driving the elbows back. Retract the shoulder blades at the top. Lower slowly and control the bar. Keep the back straight and avoid swinging the torso for momentum.",
+        "fr": "Penchez le buste à environ 45°, dos plat, barre tenue en pronation. Tirez la barre vers le bas du ventre en ramenant les coudes vers l'arrière. Rétractez les omoplates en fin de mouvement. Descendez lentement et contrôlez la barre. Gardez le dos droit et évitez de vous balancer pour utiliser l'élan."
+      }
+    }
+  ]
+}

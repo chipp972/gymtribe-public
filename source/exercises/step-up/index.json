@@ -1,0 +1,21 @@
+{
+  "id": "step-up",
+  "name": {
+    "en": "Step-Up",
+    "fr": "Montée sur banc"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "glutes",
+      "role": "primary"
+    },
+    {
+      "name": "quadriceps",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

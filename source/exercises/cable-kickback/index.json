@@ -1,0 +1,17 @@
+{
+  "id": "cable-kickback",
+  "name": {
+    "en": "Cable Kickback",
+    "fr": "Kickback poulie"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "glutes",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "cable"
+  ]
+}

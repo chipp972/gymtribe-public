@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/4367576/4367576-hd_1280_720_30fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "In a plank position, hands slightly wider than shoulder-width, body straight from head to heels. Lower by bending the elbows until the chest nearly touches the floor. Push up while exhaling to return to the starting position. Keep the body aligned — do not let the hips sag or rise.",
+        "fr": "En position de planche, mains légèrement plus larges que les épaules, corps droit de la tête aux talons. Descendez en fléchissant les coudes jusqu'à ce que la poitrine effleure le sol. Poussez en expirant pour revenir à la position initiale. Gardez le corps aligné : ne laissez pas les hanches s'affaisser ni se lever."
+      }
+    }
+  ]
+}

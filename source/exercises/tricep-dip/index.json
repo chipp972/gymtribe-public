@@ -1,0 +1,25 @@
+{
+  "id": "tricep-dip",
+  "name": {
+    "en": "Tricep Dip",
+    "fr": "Dips triceps"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "triceps",
+      "role": "primary"
+    },
+    {
+      "name": "chest",
+      "role": "secondary"
+    },
+    {
+      "name": "shoulders",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

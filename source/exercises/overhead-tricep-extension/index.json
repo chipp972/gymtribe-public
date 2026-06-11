@@ -1,0 +1,17 @@
+{
+  "id": "overhead-tricep-extension",
+  "name": {
+    "en": "Overhead Tricep Extension",
+    "fr": "Extension triceps au-dessus de la tête"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "triceps",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "dumbbell"
+  ]
+}

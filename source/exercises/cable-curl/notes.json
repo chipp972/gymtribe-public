@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/4367638/4367638-hd_1280_720_30fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Facing a low pulley, grip the bar or rope underhand. Curl toward the shoulders by bending the elbows. The cable maintains constant tension throughout the movement, unlike free weights. Lower slowly and control the resistance throughout.",
+        "fr": "Face à une poulie basse, saisissez la barre ou la corde en supination. Fléchissez les coudes pour ramener la poignée vers les épaules. La poulie maintient une tension constante tout au long du mouvement, contrairement aux haltères. Descendez lentement et contrôlez la résistance."
+      }
+    }
+  ]
+}

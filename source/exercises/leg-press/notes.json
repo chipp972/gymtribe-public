@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/3dabdcc0-8639-4868-9e57-5afc621ed50d"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Seated in the machine, feet shoulder-width apart on the platform. Unlock and lower the platform slowly to 90° of knee flexion. Press upward while exhaling to near full extension (do not lock the knees). Foot placement affects muscle targeting: feet high = more glutes, feet low = more quads.",
+        "fr": "Assis dans la machine, pieds à largeur d'épaules sur la plateforme. Déverrouillez et descendez la plateforme lentement jusqu'à 90° de flexion des genoux. Repoussez en expirant jusqu'à presque l'extension (ne verrouillez pas les genoux). La position des pieds influence quels muscles sont ciblés : pieds hauts = fessiers, pieds bas = quadriceps."
+      }
+    }
+  ]
+}

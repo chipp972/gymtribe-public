@@ -1,0 +1,21 @@
+{
+  "id": "hack-squat",
+  "name": {
+    "en": "Hack Squat",
+    "fr": "Hack squat"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "quadriceps",
+      "role": "primary"
+    },
+    {
+      "name": "glutes",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

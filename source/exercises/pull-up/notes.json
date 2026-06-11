@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/c17e320f-7c96-4385-b8d7-f307ed4bae2e"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Grip the bar in an overhand (pronated) position, hands wider than shoulder-width. Starting from a dead hang, pull your body upward until your chin clears the bar. Flare the elbows to the sides and retract the shoulder blades. Lower slowly and under control. Exhale on the way up.",
+        "fr": "Saisissez la barre en pronation (paumes vers l'avant), mains plus larges que les épaules. Partez bras tendus et tirez le corps vers le haut en amenant le menton au-dessus de la barre. Écartez les coudes vers les côtés et rétractez les omoplates. Descendez lentement en contrôlant le mouvement. Expirez à la montée."
+      }
+    }
+  ]
+}

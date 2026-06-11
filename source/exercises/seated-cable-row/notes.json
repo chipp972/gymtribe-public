@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/499ccaa4-719d-40bd-b441-511291482471"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Sit facing the low pulley with feet on the footrests, knees slightly bent. Grip the handle, back straight, torso slightly hinged forward. Pull the handle toward your abdomen, driving the elbows back and squeezing the shoulder blades. Return slowly to the starting position.",
+        "fr": "Assis face à la poulie basse, pieds sur les repose-pieds, genoux légèrement fléchis. Saisissez la poignée, dos droit, buste légèrement penché en avant. Tirez la poignée vers le ventre en ramenant les coudes vers l'arrière et en rétractant les omoplates. Revenez lentement à la position de départ."
+      }
+    }
+  ]
+}

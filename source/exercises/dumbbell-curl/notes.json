@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/2a0529a0-be74-4b88-bf1c-6b67c8f12ef8"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Stand with dumbbells at your sides, palms facing forward. Curl alternately or simultaneously, bringing the dumbbells toward the shoulders. Slightly supinate the wrists as you curl. Squeeze the biceps at the top and lower slowly. Keep elbows fixed at your sides throughout.",
+        "fr": "Debout, haltères le long du corps, paumes vers l'avant. Fléchissez les coudes alternativement ou simultanément pour amener les haltères vers les épaules. Tournez légèrement les poignets en supination en montant. Contractez les biceps en haut et descendez lentement. Gardez les coudes fixes sur les côtés."
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "romanian-deadlift",
+  "name": {
+    "en": "Romanian Deadlift",
+    "fr": "Soulevé de terre roumain"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "hamstrings",
+      "role": "primary"
+    },
+    {
+      "name": "glutes",
+      "role": "secondary"
+    },
+    {
+      "name": "back",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

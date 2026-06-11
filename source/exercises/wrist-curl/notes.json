@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/4367577/4367577-hd_1280_720_30fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Seated, rest your forearms on your thighs or a bench with palms facing up. Hold the bar and flex the wrists upward, contracting the forearm flexors. Lower slowly to full extension. The range of motion is small but intense for the flexor muscles.",
+        "fr": "Assis sur un banc, avant-bras posés sur les cuisses ou le banc, paumes vers le haut. Tenez la barre et fléchissez les poignets vers le haut en contractant les fléchisseurs des avant-bras. Descendez lentement jusqu'à l'extension complète. Amplitude de mouvement limitée mais intense pour les muscles fléchisseurs."
+      }
+    }
+  ]
+}

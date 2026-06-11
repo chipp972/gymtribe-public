@@ -1,0 +1,17 @@
+{
+  "id": "reverse-wrist-curl",
+  "name": {
+    "en": "Reverse Wrist Curl",
+    "fr": "Curl poignet inversé"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "forearms",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

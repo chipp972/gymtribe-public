@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/82760b28-30e2-4311-a4c5-42da40082079"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Set the pulleys to a high position on each side. Grab the handles and step forward slightly, one foot ahead for stability. Pull the cables down and toward the center in an arc, keeping elbows slightly bent. Squeeze the chest at the end of the movement and return slowly to the starting position.",
+        "fr": "Réglez les poulies en position haute de chaque côté. Saisissez les poignées et avancez légèrement, un pied devant l'autre pour la stabilité. Tirez les câbles vers le bas et vers le centre en arc de cercle, coudes légèrement fléchis. Contractez les pectoraux en fin de mouvement et revenez lentement à la position de départ."
+      }
+    }
+  ]
+}

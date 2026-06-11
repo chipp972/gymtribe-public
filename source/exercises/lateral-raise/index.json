@@ -1,0 +1,17 @@
+{
+  "id": "lateral-raise",
+  "name": {
+    "en": "Lateral Raise",
+    "fr": "Élévations latérales"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "shoulders",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "dumbbell"
+  ]
+}

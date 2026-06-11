@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/d65feff4-9891-4ff8-a9f9-64965da7b69c"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Bar resting on the traps, feet shoulder-width apart with toes slightly turned out. Descend by pushing the knees outward and keeping the torso as upright as possible. Lower until thighs are parallel to the floor (or deeper if mobility allows). Drive upward while exhaling, knees tracking over the toes.",
+        "fr": "Barre posée sur les trapèzes, pieds à largeur d'épaules légèrement en canard. Descendez en poussant les genoux vers l'extérieur et en gardant le buste le plus vertical possible. Descendez jusqu'à ce que les cuisses soient parallèles au sol (ou plus bas si la mobilité le permet). Remontez en expirant, genoux dans l'axe des pieds."
+      }
+    }
+  ]
+}

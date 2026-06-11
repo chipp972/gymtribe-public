@@ -1,0 +1,25 @@
+{
+  "id": "lunge",
+  "name": {
+    "en": "Lunge",
+    "fr": "Fente avant"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "quadriceps",
+      "role": "primary"
+    },
+    {
+      "name": "glutes",
+      "role": "secondary"
+    },
+    {
+      "name": "hamstrings",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

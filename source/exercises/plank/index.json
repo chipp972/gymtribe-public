@@ -1,0 +1,17 @@
+{
+  "id": "plank",
+  "name": {
+    "en": "Plank",
+    "fr": "Gainage"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "core",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "deadlift",
+  "name": {
+    "en": "Deadlift",
+    "fr": "Soulevé de terre"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "back",
+      "role": "primary"
+    },
+    {
+      "name": "glutes",
+      "role": "secondary"
+    },
+    {
+      "name": "hamstrings",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

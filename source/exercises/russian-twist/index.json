@@ -1,0 +1,17 @@
+{
+  "id": "russian-twist",
+  "name": {
+    "en": "Russian Twist",
+    "fr": "Rotation russe"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "core",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

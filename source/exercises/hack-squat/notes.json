@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/6892543/6892543-hd_720_1280_25fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "On the hack squat machine, back against the pad, feet on the platform. Lower by bending the knees to 90° or deeper. Push upward while exhaling to return. The machine guides the path and reduces spinal loading. Can also be performed with a barbell held behind the legs.",
+        "fr": "À la machine hack squat, dos contre le dossier, pieds sur la plateforme. Descendez en fléchissant les genoux jusqu'à 90° ou plus bas. Poussez en expirant pour revenir. La machine guide la trajectoire et réduit la charge sur le dos. Peut aussi être réalisé avec une barre derrière les jambes."
+      }
+    }
+  ]
+}

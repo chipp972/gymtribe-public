@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/6286166/6286166-hd_1280_720_30fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Seated or standing, hold a dumbbell with both hands overhead, arms extended. Bend the elbows to lower the dumbbell behind your head. Keep the elbows pointing upward and close to the head. Press back to full extension while exhaling. This position stretches the long head of the triceps.",
+        "fr": "Assis ou debout, tenez un haltère à deux mains au-dessus de la tête, bras tendus. Pliez les coudes pour descendre l'haltère derrière la tête. Gardez les coudes pointés vers le haut et près de la tête. Poussez en expirant pour revenir à l'extension. Cette position étire le chef long du triceps."
+      }
+    }
+  ]
+}

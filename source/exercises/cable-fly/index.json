@@ -1,0 +1,21 @@
+{
+  "id": "cable-fly",
+  "name": {
+    "en": "Cable Fly",
+    "fr": "Écarté poulie"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "chest",
+      "role": "primary"
+    },
+    {
+      "name": "shoulders",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "cable"
+  ]
+}

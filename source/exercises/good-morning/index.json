@@ -1,0 +1,25 @@
+{
+  "id": "good-morning",
+  "name": {
+    "en": "Good Morning",
+    "fr": "Good morning"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "hamstrings",
+      "role": "primary"
+    },
+    {
+      "name": "back",
+      "role": "secondary"
+    },
+    {
+      "name": "glutes",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

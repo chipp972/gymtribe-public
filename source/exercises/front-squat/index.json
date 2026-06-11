@@ -1,0 +1,21 @@
+{
+  "id": "front-squat",
+  "name": {
+    "en": "Front Squat",
+    "fr": "Squat avant"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "quadriceps",
+      "role": "primary"
+    },
+    {
+      "name": "core",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

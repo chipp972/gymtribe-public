@@ -1,0 +1,4085 @@
+{
+  "version": "1.0.0",
+  "equipment": [
+    {
+      "id": "technogym-myrun",
+      "name": {
+        "en": "Technogym MyRun",
+        "fr": "Technogym MyRun"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-myrun.jpg"
+    },
+    {
+      "id": "technogym-bench",
+      "name": {
+        "en": "Technogym Bench",
+        "fr": "Technogym Bench"
+      }
+    },
+    {
+      "id": "technogym-reform",
+      "name": {
+        "en": "Technogym Reform",
+        "fr": "Technogym Reform"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-reform.jpg"
+    },
+    {
+      "id": "technogym-elliptical",
+      "name": {
+        "en": "Technogym Elliptical",
+        "fr": "Technogym Elliptical"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-elliptical.jpg"
+    },
+    {
+      "id": "technogym-cycle",
+      "name": {
+        "en": "Technogym Cycle",
+        "fr": "Technogym Cycle"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-cycle.jpg"
+    },
+    {
+      "id": "technogym-ride",
+      "name": {
+        "en": "Technogym Ride",
+        "fr": "Technogym Ride"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-ride.jpg"
+    },
+    {
+      "id": "technogym-bike",
+      "name": {
+        "en": "Technogym Bike",
+        "fr": "Technogym Bike"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-bike.jpg"
+    },
+    {
+      "id": "technogym-run",
+      "name": {
+        "en": "Technogym Run",
+        "fr": "Technogym Run"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-run.jpg"
+    },
+    {
+      "id": "unica",
+      "name": {
+        "en": "Unica",
+        "fr": "Unica"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/unica.jpg"
+    },
+    {
+      "id": "skillrow",
+      "name": {
+        "en": "Skillrow",
+        "fr": "Skillrow"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/skillrow.jpg"
+    },
+    {
+      "id": "technogym-connected-dumbbells",
+      "name": {
+        "en": "Technogym Connected Dumbbells+",
+        "fr": "Technogym Connected Dumbbells+"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-connected-dumbbells.jpg"
+    },
+    {
+      "id": "adjustable-bench",
+      "name": {
+        "en": "Adjustable Bench",
+        "fr": "Adjustable Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/adjustable-bench.jpg"
+    },
+    {
+      "id": "hexagon-dumbbell",
+      "name": {
+        "en": "Hexagon Dumbbell",
+        "fr": "Hexagon Dumbbell"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/hexagon-dumbbell.jpg"
+    },
+    {
+      "id": "kettlebell",
+      "name": {
+        "en": "Kettlebell",
+        "fr": "Kettlebell"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/kettlebell.jpg"
+    },
+    {
+      "id": "dumbbell",
+      "name": {
+        "en": "Dumbbell",
+        "fr": "Dumbbell"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/dumbbell.jpg"
+    },
+    {
+      "id": "kettlebells-set",
+      "name": {
+        "en": "Kettlebells Set",
+        "fr": "Kettlebells Set"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/kettlebells-set.jpg"
+    },
+    {
+      "id": "run-personal",
+      "name": {
+        "en": "Run Personal",
+        "fr": "Run Personal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/run-personal.jpg"
+    },
+    {
+      "id": "bike-personal",
+      "name": {
+        "en": "Bike Personal",
+        "fr": "Bike Personal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/bike-personal.jpg"
+    },
+    {
+      "id": "recline-personal",
+      "name": {
+        "en": "Recline Personal",
+        "fr": "Recline Personal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/recline-personal.jpg"
+    },
+    {
+      "id": "cross-personal",
+      "name": {
+        "en": "Cross Personal",
+        "fr": "Cross Personal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cross-personal.jpg"
+    },
+    {
+      "id": "kinesis-personal",
+      "name": {
+        "en": "Kinesis Personal",
+        "fr": "Kinesis Personal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/kinesis-personal.jpg"
+    },
+    {
+      "id": "bench-personal",
+      "name": {
+        "en": "Bench Personal",
+        "fr": "Bench Personal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/bench-personal.jpg"
+    },
+    {
+      "id": "rack-personal",
+      "name": {
+        "en": "Rack Personal",
+        "fr": "Rack Personal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/rack-personal.jpg"
+    },
+    {
+      "id": "power-personal",
+      "name": {
+        "en": "Power Personal",
+        "fr": "Power Personal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/power-personal.jpg"
+    },
+    {
+      "id": "hexagon-dumbbells-light-set",
+      "name": {
+        "en": "Hexagon Dumbbells Light Set",
+        "fr": "Hexagon Dumbbells Light Set"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/hexagon-dumbbells-light-set.jpg"
+    },
+    {
+      "id": "hexagon-dumbbells-heavy-set",
+      "name": {
+        "en": "Hexagon Dumbbells Heavy Set",
+        "fr": "Hexagon Dumbbells Heavy Set"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/hexagon-dumbbells-heavy-set.jpg"
+    },
+    {
+      "id": "hexagon-dumbbells-complete-set",
+      "name": {
+        "en": "Hexagon Dumbbells Complete Set",
+        "fr": "Hexagon Dumbbells Complete Set"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/hexagon-dumbbells-complete-set.jpg"
+    },
+    {
+      "id": "floor-training-kit",
+      "name": {
+        "en": "Floor training kit",
+        "fr": "Floor training kit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/floor-training-kit.jpg"
+    },
+    {
+      "id": "skillrun",
+      "name": {
+        "en": "Skillrun",
+        "fr": "Skillrun"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/skillrun.jpg"
+    },
+    {
+      "id": "skillmill",
+      "name": {
+        "en": "Skillmill",
+        "fr": "Skillmill"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/skillmill.jpg"
+    },
+    {
+      "id": "artis-run",
+      "name": {
+        "en": "Artis Run",
+        "fr": "Artis Run"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-run.jpg"
+    },
+    {
+      "id": "artis-recline",
+      "name": {
+        "en": "Artis Recline",
+        "fr": "Artis Recline"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-recline.jpg"
+    },
+    {
+      "id": "artis-vario",
+      "name": {
+        "en": "Artis Vario",
+        "fr": "Artis Vario"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-vario.jpg"
+    },
+    {
+      "id": "artis-synchro",
+      "name": {
+        "en": "Artis Synchro",
+        "fr": "Artis Synchro"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-synchro.jpg"
+    },
+    {
+      "id": "artis-bike",
+      "name": {
+        "en": "Artis Bike",
+        "fr": "Artis Bike"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-bike.jpg"
+    },
+    {
+      "id": "artis-climb",
+      "name": {
+        "en": "Artis Climb",
+        "fr": "Artis Climb"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-climb.jpg"
+    },
+    {
+      "id": "sling-trainer",
+      "name": {
+        "en": "Sling Trainer",
+        "fr": "Sling Trainer"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/sling-trainer.jpg"
+    },
+    {
+      "id": "wellness-ball",
+      "name": {
+        "en": "Wellness Ball",
+        "fr": "Wellness Ball"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wellness-ball.jpg"
+    },
+    {
+      "id": "floor-mat",
+      "name": {
+        "en": "Floor Mat",
+        "fr": "Floor Mat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/floor-mat.jpg"
+    },
+    {
+      "id": "jump-rope",
+      "name": {
+        "en": "Jump Rope",
+        "fr": "Jump Rope"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/jump-rope.jpg"
+    },
+    {
+      "id": "loop-bands",
+      "name": {
+        "en": "Loop Bands",
+        "fr": "Loop Bands"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/loop-bands.jpg"
+    },
+    {
+      "id": "power-bands",
+      "name": {
+        "en": "Power Bands",
+        "fr": "Power Bands"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/power-bands.jpg"
+    },
+    {
+      "id": "elastic-bands",
+      "name": {
+        "en": "Elastic Bands",
+        "fr": "Elastic Bands"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/elastic-bands.jpg"
+    },
+    {
+      "id": "mobility-stick",
+      "name": {
+        "en": "Mobility Stick",
+        "fr": "Mobility Stick"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/mobility-stick.jpg"
+    },
+    {
+      "id": "mobility-ball",
+      "name": {
+        "en": "Mobility Ball",
+        "fr": "Mobility Ball"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/mobility-ball.jpg"
+    },
+    {
+      "id": "balance-pad",
+      "name": {
+        "en": "Balance Pad",
+        "fr": "Balance Pad"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/balance-pad.jpg"
+    },
+    {
+      "id": "balance-dome",
+      "name": {
+        "en": "Balance Dome",
+        "fr": "Balance Dome"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/balance-dome.jpg"
+    },
+    {
+      "id": "cones",
+      "name": {
+        "en": "Cones",
+        "fr": "Cones"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cones.jpg"
+    },
+    {
+      "id": "speed-ladder",
+      "name": {
+        "en": "Speed Ladder",
+        "fr": "Speed Ladder"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/speed-ladder.jpg"
+    },
+    {
+      "id": "bike-pedals",
+      "name": {
+        "en": "Bike Pedals",
+        "fr": "Bike Pedals"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/bike-pedals.jpg"
+    },
+    {
+      "id": "wellness-ball-training",
+      "name": {
+        "en": "Wellness Ball Training",
+        "fr": "Wellness Ball Training"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wellness-ball-training.jpg"
+    },
+    {
+      "id": "medicine-ball",
+      "name": {
+        "en": "Medicine Ball",
+        "fr": "Medicine Ball"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/medicine-ball.jpg"
+    },
+    {
+      "id": "slam-ball",
+      "name": {
+        "en": "Slam Ball",
+        "fr": "Slam Ball"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/slam-ball.jpg"
+    },
+    {
+      "id": "accessory-storage-stick",
+      "name": {
+        "en": "Accessory Storage Stick",
+        "fr": "Accessory Storage Stick"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/accessory-storage-stick.jpg"
+    },
+    {
+      "id": "accessory-storage-rope",
+      "name": {
+        "en": "Accessory Storage Rope",
+        "fr": "Accessory Storage Rope"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/accessory-storage-rope.jpg"
+    },
+    {
+      "id": "adjustable-bench-pure-strength",
+      "name": {
+        "en": "Adjustable Bench Pure Strength",
+        "fr": "Adjustable Bench Pure Strength"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/adjustable-bench-pure-strength.jpg"
+    },
+    {
+      "id": "bike-weights",
+      "name": {
+        "en": "Bike Weights",
+        "fr": "Bike Weights"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/bike-weights.jpg"
+    },
+    {
+      "id": "chrome-dumbbell",
+      "name": {
+        "en": "Chrome Dumbbell",
+        "fr": "Chrome Dumbbell"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/chrome-dumbbell.jpg"
+    },
+    {
+      "id": "urethane-plate",
+      "name": {
+        "en": "Urethane Plate",
+        "fr": "Urethane Plate"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/urethane-plate.jpg"
+    },
+    {
+      "id": "bumper-plate",
+      "name": {
+        "en": "Bumper Plate",
+        "fr": "Bumper Plate"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/bumper-plate.jpg"
+    },
+    {
+      "id": "fixed-barbell",
+      "name": {
+        "en": "Fixed Barbell",
+        "fr": "Fixed Barbell"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/fixed-barbell.jpg"
+    },
+    {
+      "id": "professional-bar-2000mm",
+      "name": {
+        "en": "Professional Bar 2000mm",
+        "fr": "Professional Bar 2000mm"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/professional-bar-2000mm.jpg"
+    },
+    {
+      "id": "fitness-bar-2010-mm",
+      "name": {
+        "en": "Fitness Bar 2010 mm",
+        "fr": "Fitness Bar 2010 mm"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/fitness-bar-2010-mm.jpg"
+    },
+    {
+      "id": "angled-fitness-bar",
+      "name": {
+        "en": "Angled Fitness Bar",
+        "fr": "Angled Fitness Bar"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/angled-fitness-bar.jpg"
+    },
+    {
+      "id": "fitness-bar-1500-mm",
+      "name": {
+        "en": "Fitness Bar 1500 mm",
+        "fr": "Fitness Bar 1500 mm"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/fitness-bar-1500-mm.jpg"
+    },
+    {
+      "id": "angled-professional-bar",
+      "name": {
+        "en": "Angled Professional Bar",
+        "fr": "Angled Professional Bar"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/angled-professional-bar.jpg"
+    },
+    {
+      "id": "trap-bar",
+      "name": {
+        "en": "Trap Bar",
+        "fr": "Trap Bar"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/trap-bar.jpg"
+    },
+    {
+      "id": "professional-bar-2200mm",
+      "name": {
+        "en": "Professional Bar 2200mm",
+        "fr": "Professional Bar 2200mm"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/professional-bar-2200mm.jpg"
+    },
+    {
+      "id": "performance-bar",
+      "name": {
+        "en": "Performance Bar",
+        "fr": "Performance Bar"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/performance-bar.jpg"
+    },
+    {
+      "id": "colliers-de-serrage",
+      "name": {
+        "en": "Colliers de serrage",
+        "fr": "Colliers de serrage"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/colliers-de-serrage.jpg"
+    },
+    {
+      "id": "bouteille-isotherme-600-ml",
+      "name": {
+        "en": "Bouteille isotherme 600 ml",
+        "fr": "Bouteille isotherme 600 ml"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/bouteille-isotherme-600-ml.jpg"
+    },
+    {
+      "id": "technogym-case",
+      "name": {
+        "en": "Technogym Case",
+        "fr": "Technogym Case"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-case.jpg"
+    },
+    {
+      "id": "outdoor-sport-kit",
+      "name": {
+        "en": "Outdoor Sport Kit",
+        "fr": "Outdoor Sport Kit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/outdoor-sport-kit.jpg"
+    },
+    {
+      "id": "suspension-training-kit",
+      "name": {
+        "en": "Suspension Training Kit",
+        "fr": "Suspension Training Kit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/suspension-training-kit.jpg"
+    },
+    {
+      "id": "complete-workout-kit",
+      "name": {
+        "en": "Complete Workout Kit",
+        "fr": "Complete Workout Kit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/complete-workout-kit.jpg"
+    },
+    {
+      "id": "technogym-case-kit",
+      "name": {
+        "en": "Technogym Case Kit",
+        "fr": "Technogym Case Kit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-case-kit.jpg"
+    },
+    {
+      "id": "flexability-anterior",
+      "name": {
+        "en": "Flexability Anterior",
+        "fr": "Flexability Anterior"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/flexability-anterior.jpg"
+    },
+    {
+      "id": "flexability-posterior",
+      "name": {
+        "en": "Flexability Posterior",
+        "fr": "Flexability Posterior"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/flexability-posterior.jpg"
+    },
+    {
+      "id": "universal-storage-rack",
+      "name": {
+        "en": "Universal Storage Rack",
+        "fr": "Universal Storage Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/universal-storage-rack.jpg"
+    },
+    {
+      "id": "storage-universal",
+      "name": {
+        "en": "Storage Universal",
+        "fr": "Storage Universal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/storage-universal.jpg"
+    },
+    {
+      "id": "plate-tree",
+      "name": {
+        "en": "Plate Tree",
+        "fr": "Plate Tree"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/plate-tree.jpg"
+    },
+    {
+      "id": "plate-toast-rack",
+      "name": {
+        "en": "Plate Toast Rack",
+        "fr": "Plate Toast Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/plate-toast-rack.jpg"
+    },
+    {
+      "id": "kinesis-one",
+      "name": {
+        "en": "Kinesis One",
+        "fr": "Kinesis One"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/kinesis-one.jpg"
+    },
+    {
+      "id": "inclined-bench",
+      "name": {
+        "en": "Inclined Bench",
+        "fr": "Inclined Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/inclined-bench.jpg"
+    },
+    {
+      "id": "vertical-bench",
+      "name": {
+        "en": "Vertical Bench",
+        "fr": "Vertical Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/vertical-bench.jpg"
+    },
+    {
+      "id": "crunch-bench",
+      "name": {
+        "en": "Crunch Bench",
+        "fr": "Crunch Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/crunch-bench.jpg"
+    },
+    {
+      "id": "lower-back-bench",
+      "name": {
+        "en": "Lower Back Bench",
+        "fr": "Lower Back Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/lower-back-bench.jpg"
+    },
+    {
+      "id": "scott-bench",
+      "name": {
+        "en": "Scott Bench",
+        "fr": "Scott Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/scott-bench.jpg"
+    },
+    {
+      "id": "horizontal-bench",
+      "name": {
+        "en": "Horizontal Bench",
+        "fr": "Horizontal Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/horizontal-bench.jpg"
+    },
+    {
+      "id": "squat-rack",
+      "name": {
+        "en": "Squat Rack",
+        "fr": "Squat Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/squat-rack.jpg"
+    },
+    {
+      "id": "ab-crunch-bench",
+      "name": {
+        "en": "Ab Crunch Bench",
+        "fr": "Ab Crunch Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/ab-crunch-bench.jpg"
+    },
+    {
+      "id": "leg-raise-dip",
+      "name": {
+        "en": "Leg Raise Dip",
+        "fr": "Leg Raise Dip"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/leg-raise-dip.jpg"
+    },
+    {
+      "id": "chin-up-dip-leg-raise",
+      "name": {
+        "en": "Chin Up / Dip / Leg Raise",
+        "fr": "Chin Up / Dip / Leg Raise"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/chin-up-dip-leg-raise.jpg"
+    },
+    {
+      "id": "olympic-incline-bench",
+      "name": {
+        "en": "Olympic Incline Bench",
+        "fr": "Olympic Incline Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/olympic-incline-bench.jpg"
+    },
+    {
+      "id": "ghd-bench-pure-strength",
+      "name": {
+        "en": "Ghd Bench Pure Strength",
+        "fr": "Ghd Bench Pure Strength"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/ghd-bench-pure-strength.jpg"
+    },
+    {
+      "id": "adjustable-decline-ab-crunch-pure-strength",
+      "name": {
+        "en": "Adjustable Decline/Ab Crunch Pure Strength",
+        "fr": "Adjustable Decline/Ab Crunch Pure Strength"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/adjustable-decline-ab-crunch-pure-strength.jpg"
+    },
+    {
+      "id": "lower-back-bench-pure-strength",
+      "name": {
+        "en": "Lower Back Bench Pure Strength",
+        "fr": "Lower Back Bench Pure Strength"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/lower-back-bench-pure-strength.jpg"
+    },
+    {
+      "id": "scott-bench-pure-strength",
+      "name": {
+        "en": "Scott Bench Pure Strength",
+        "fr": "Scott Bench Pure Strength"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/scott-bench-pure-strength.jpg"
+    },
+    {
+      "id": "olympic-flat-bench-pure-strength",
+      "name": {
+        "en": "Olympic Flat Bench Pure Strength",
+        "fr": "Olympic Flat Bench Pure Strength"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/olympic-flat-bench-pure-strength.jpg"
+    },
+    {
+      "id": "olympic-military-bench-pure-strength",
+      "name": {
+        "en": "Olympic Military Bench Pure Strength",
+        "fr": "Olympic Military Bench Pure Strength"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/olympic-military-bench-pure-strength.jpg"
+    },
+    {
+      "id": "olympic-half-rack",
+      "name": {
+        "en": "Olympic Half Rack",
+        "fr": "Olympic Half Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/olympic-half-rack.jpg"
+    },
+    {
+      "id": "olympic-power-rack",
+      "name": {
+        "en": "Olympic Power Rack",
+        "fr": "Olympic Power Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/olympic-power-rack.jpg"
+    },
+    {
+      "id": "multipower",
+      "name": {
+        "en": "Multipower",
+        "fr": "Multipower"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/multipower.jpg"
+    },
+    {
+      "id": "t-bar-row-pure-strength",
+      "name": {
+        "en": "T Bar Row Pure Strength",
+        "fr": "T Bar Row Pure Strength"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/t-bar-row-pure-strength.jpg"
+    },
+    {
+      "id": "flat-bench-pure-strength",
+      "name": {
+        "en": "Flat Bench Pure Strength",
+        "fr": "Flat Bench Pure Strength"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/flat-bench-pure-strength.jpg"
+    },
+    {
+      "id": "olympic-decline-bench-pure-strength",
+      "name": {
+        "en": "Olympic Decline Bench Pure Strength",
+        "fr": "Olympic Decline Bench Pure Strength"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/olympic-decline-bench-pure-strength.jpg"
+    },
+    {
+      "id": "kneeling-easy-chin-dip",
+      "name": {
+        "en": "Kneeling Easy Chin Dip",
+        "fr": "Kneeling Easy Chin Dip"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/kneeling-easy-chin-dip.jpg"
+    },
+    {
+      "id": "skillup",
+      "name": {
+        "en": "Skillup",
+        "fr": "Skillup"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/skillup.jpg"
+    },
+    {
+      "id": "group-cycle-connect",
+      "name": {
+        "en": "Group Cycle Connect",
+        "fr": "Group Cycle Connect"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/group-cycle-connect.jpg"
+    },
+    {
+      "id": "group-cycle-ride",
+      "name": {
+        "en": "Group Cycle Ride",
+        "fr": "Group Cycle Ride"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/group-cycle-ride.jpg"
+    },
+    {
+      "id": "selection-700-leg-press",
+      "name": {
+        "en": "Selection 700 Leg Press",
+        "fr": "Selection 700 Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-leg-press.jpg"
+    },
+    {
+      "id": "selection-700-dual-leg-curl-extension",
+      "name": {
+        "en": "Selection 700 Dual Leg Curl / Extension",
+        "fr": "Selection 700 Dual Leg Curl / Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-dual-leg-curl-extension.jpg"
+    },
+    {
+      "id": "selection-700-low-row",
+      "name": {
+        "en": "Selection 700 Low Row",
+        "fr": "Selection 700 Low Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-low-row.jpg"
+    },
+    {
+      "id": "selection-700-leg-extension",
+      "name": {
+        "en": "Selection 700 Leg Extension",
+        "fr": "Selection 700 Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-leg-extension.jpg"
+    },
+    {
+      "id": "selection-700-dual-abductor-adductor",
+      "name": {
+        "en": "Selection 700 Dual Abductor / Adductor",
+        "fr": "Selection 700 Dual Abductor / Adductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-dual-abductor-adductor.jpg"
+    },
+    {
+      "id": "selection-700-abdominal-crunch",
+      "name": {
+        "en": "Selection 700 Abdominal Crunch",
+        "fr": "Selection 700 Abdominal Crunch"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-abdominal-crunch.jpg"
+    },
+    {
+      "id": "selection-700-leg-curl",
+      "name": {
+        "en": "Selection 700 Leg Curl",
+        "fr": "Selection 700 Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-leg-curl.jpg"
+    },
+    {
+      "id": "selection-700-shoulder-press",
+      "name": {
+        "en": "Selection 700 Shoulder Press",
+        "fr": "Selection 700 Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-shoulder-press.jpg"
+    },
+    {
+      "id": "selection-700-lat-machine",
+      "name": {
+        "en": "Selection 700 Lat Machine",
+        "fr": "Selection 700 Lat Machine"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-lat-machine.jpg"
+    },
+    {
+      "id": "selection-700-lower-back",
+      "name": {
+        "en": "Selection 700 Lower Back",
+        "fr": "Selection 700 Lower Back"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-lower-back.jpg"
+    },
+    {
+      "id": "selection-700-multi-hip",
+      "name": {
+        "en": "Selection 700 Multi Hip",
+        "fr": "Selection 700 Multi Hip"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-multi-hip.jpg"
+    },
+    {
+      "id": "selection-700-dual-pectoral-reverse-fly",
+      "name": {
+        "en": "Selection 700 Dual Pectoral / Reverse Fly",
+        "fr": "Selection 700 Dual Pectoral / Reverse Fly"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-dual-pectoral-reverse-fly.jpg"
+    },
+    {
+      "id": "selection-700-chest-press",
+      "name": {
+        "en": "Selection 700 Chest Press",
+        "fr": "Selection 700 Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-chest-press.jpg"
+    },
+    {
+      "id": "selection-700-delts-machine",
+      "name": {
+        "en": "Selection 700 Delts Machine",
+        "fr": "Selection 700 Delts Machine"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-delts-machine.jpg"
+    },
+    {
+      "id": "selection-700-vertical-traction",
+      "name": {
+        "en": "Selection 700 Vertical Traction",
+        "fr": "Selection 700 Vertical Traction"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-700-vertical-traction.jpg"
+    },
+    {
+      "id": "selection-900-abdominal-crunch",
+      "name": {
+        "en": "Selection 900 Abdominal Crunch",
+        "fr": "Selection 900 Abdominal Crunch"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-abdominal-crunch.jpg"
+    },
+    {
+      "id": "selection-900-arm-extension",
+      "name": {
+        "en": "Selection 900 Arm Extension",
+        "fr": "Selection 900 Arm Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-arm-extension.jpg"
+    },
+    {
+      "id": "selection-900-lower-back",
+      "name": {
+        "en": "Selection 900 Lower Back",
+        "fr": "Selection 900 Lower Back"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-lower-back.jpg"
+    },
+    {
+      "id": "selection-900-upper-back",
+      "name": {
+        "en": "Selection 900 Upper Back",
+        "fr": "Selection 900 Upper Back"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-upper-back.jpg"
+    },
+    {
+      "id": "selection-900-shoulder-press",
+      "name": {
+        "en": "Selection 900 Shoulder Press",
+        "fr": "Selection 900 Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-shoulder-press.jpg"
+    },
+    {
+      "id": "selection-900-leg-curl",
+      "name": {
+        "en": "Selection 900 Leg Curl",
+        "fr": "Selection 900 Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-leg-curl.jpg"
+    },
+    {
+      "id": "selection-900-reverse-fly",
+      "name": {
+        "en": "Selection 900 Reverse Fly",
+        "fr": "Selection 900 Reverse Fly"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-reverse-fly.jpg"
+    },
+    {
+      "id": "selection-900-multi-hip",
+      "name": {
+        "en": "Selection 900 Multi Hip",
+        "fr": "Selection 900 Multi Hip"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-multi-hip.jpg"
+    },
+    {
+      "id": "selection-900-adductor",
+      "name": {
+        "en": "Selection 900 Adductor",
+        "fr": "Selection 900 Adductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-adductor.jpg"
+    },
+    {
+      "id": "selection-900-leg-press",
+      "name": {
+        "en": "Selection 900 Leg Press",
+        "fr": "Selection 900 Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-leg-press.jpg"
+    },
+    {
+      "id": "selection-900-prone-leg-curl",
+      "name": {
+        "en": "Selection 900 Prone Leg Curl",
+        "fr": "Selection 900 Prone Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-prone-leg-curl.jpg"
+    },
+    {
+      "id": "selection-900-pectoral",
+      "name": {
+        "en": "Selection 900 Pectoral",
+        "fr": "Selection 900 Pectoral"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-pectoral.jpg"
+    },
+    {
+      "id": "selection-900-total-abdominal",
+      "name": {
+        "en": "Selection 900 Total Abdominal",
+        "fr": "Selection 900 Total Abdominal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-total-abdominal.jpg"
+    },
+    {
+      "id": "selection-900-leg-extension",
+      "name": {
+        "en": "Selection 900 Leg Extension",
+        "fr": "Selection 900 Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-leg-extension.jpg"
+    },
+    {
+      "id": "selection-900-rotary-torso",
+      "name": {
+        "en": "Selection 900 Rotary Torso",
+        "fr": "Selection 900 Rotary Torso"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-rotary-torso.jpg"
+    },
+    {
+      "id": "selection-900-chest-press",
+      "name": {
+        "en": "Selection 900 Chest Press",
+        "fr": "Selection 900 Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-chest-press.jpg"
+    },
+    {
+      "id": "selection-900-abductor",
+      "name": {
+        "en": "Selection 900 Abductor",
+        "fr": "Selection 900 Abductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-abductor.jpg"
+    },
+    {
+      "id": "selection-900-lat-machine",
+      "name": {
+        "en": "Selection 900 Lat Machine",
+        "fr": "Selection 900 Lat Machine"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-lat-machine.jpg"
+    },
+    {
+      "id": "selection-900-arm-curl",
+      "name": {
+        "en": "Selection 900 Arm Curl",
+        "fr": "Selection 900 Arm Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-arm-curl.jpg"
+    },
+    {
+      "id": "selection-900-low-row",
+      "name": {
+        "en": "Selection 900 Low Row",
+        "fr": "Selection 900 Low Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-low-row.jpg"
+    },
+    {
+      "id": "selection-900-pulldown",
+      "name": {
+        "en": "Selection 900 Pulldown",
+        "fr": "Selection 900 Pulldown"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-pulldown.jpg"
+    },
+    {
+      "id": "selection-900-pulley",
+      "name": {
+        "en": "Selection 900 Pulley",
+        "fr": "Selection 900 Pulley"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-pulley.jpg"
+    },
+    {
+      "id": "selection-900-vertical-traction",
+      "name": {
+        "en": "Selection 900 Vertical Traction",
+        "fr": "Selection 900 Vertical Traction"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-vertical-traction.jpg"
+    },
+    {
+      "id": "selection-900-delts-machine",
+      "name": {
+        "en": "Selection 900 Delts Machine",
+        "fr": "Selection 900 Delts Machine"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-900-delts-machine.jpg"
+    },
+    {
+      "id": "biostrength-arm-curl",
+      "name": {
+        "en": "Biostrength Arm Curl",
+        "fr": "Biostrength Arm Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-arm-curl.jpg"
+    },
+    {
+      "id": "biostrength-lower-back",
+      "name": {
+        "en": "Biostrength Lower Back",
+        "fr": "Biostrength Lower Back"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-lower-back.jpg"
+    },
+    {
+      "id": "biostrength-low-row",
+      "name": {
+        "en": "Biostrength Low Row",
+        "fr": "Biostrength Low Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-low-row.jpg"
+    },
+    {
+      "id": "biostrength-arm-extension",
+      "name": {
+        "en": "Biostrength Arm Extension",
+        "fr": "Biostrength Arm Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-arm-extension.jpg"
+    },
+    {
+      "id": "biostrength-abductor",
+      "name": {
+        "en": "Biostrength Abductor",
+        "fr": "Biostrength Abductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-abductor.jpg"
+    },
+    {
+      "id": "biostrength-vertical-traction",
+      "name": {
+        "en": "Biostrength Vertical Traction",
+        "fr": "Biostrength Vertical Traction"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-vertical-traction.jpg"
+    },
+    {
+      "id": "biostrength-shoulder-press",
+      "name": {
+        "en": "Biostrength Shoulder Press",
+        "fr": "Biostrength Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-shoulder-press.jpg"
+    },
+    {
+      "id": "biostrength-chest-press",
+      "name": {
+        "en": "Biostrength Chest Press",
+        "fr": "Biostrength Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-chest-press.jpg"
+    },
+    {
+      "id": "biostrength-adductor",
+      "name": {
+        "en": "Biostrength Adductor",
+        "fr": "Biostrength Adductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-adductor.jpg"
+    },
+    {
+      "id": "biostrength-leg-curl",
+      "name": {
+        "en": "Biostrength Leg Curl",
+        "fr": "Biostrength Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-leg-curl.jpg"
+    },
+    {
+      "id": "biostrength-reverse-fly",
+      "name": {
+        "en": "Biostrength Reverse Fly",
+        "fr": "Biostrength Reverse Fly"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-reverse-fly.jpg"
+    },
+    {
+      "id": "biostrength-leg-extension",
+      "name": {
+        "en": "Biostrength Leg Extension",
+        "fr": "Biostrength Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-leg-extension.jpg"
+    },
+    {
+      "id": "biostrength-pectoral",
+      "name": {
+        "en": "Biostrength Pectoral",
+        "fr": "Biostrength Pectoral"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-pectoral.jpg"
+    },
+    {
+      "id": "biostrength-total-abdominal",
+      "name": {
+        "en": "Biostrength Total Abdominal",
+        "fr": "Biostrength Total Abdominal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-total-abdominal.jpg"
+    },
+    {
+      "id": "biostrength-leg-press",
+      "name": {
+        "en": "Biostrength Leg Press",
+        "fr": "Biostrength Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/biostrength-leg-press.jpg"
+    },
+    {
+      "id": "artis-adductor",
+      "name": {
+        "en": "Artis Adductor",
+        "fr": "Artis Adductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-adductor.jpg"
+    },
+    {
+      "id": "artis-vertical-traction",
+      "name": {
+        "en": "Artis Vertical Traction",
+        "fr": "Artis Vertical Traction"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-vertical-traction.jpg"
+    },
+    {
+      "id": "artis-arm-curl",
+      "name": {
+        "en": "Artis Arm Curl",
+        "fr": "Artis Arm Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-arm-curl.jpg"
+    },
+    {
+      "id": "artis-shoulder-press",
+      "name": {
+        "en": "Artis Shoulder Press",
+        "fr": "Artis Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-shoulder-press.jpg"
+    },
+    {
+      "id": "artis-rear-delt-row",
+      "name": {
+        "en": "Artis Rear Delt Row",
+        "fr": "Artis Rear Delt Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-rear-delt-row.jpg"
+    },
+    {
+      "id": "artis-leg-extension",
+      "name": {
+        "en": "Artis Leg Extension",
+        "fr": "Artis Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-leg-extension.jpg"
+    },
+    {
+      "id": "artis-chest-press",
+      "name": {
+        "en": "Artis Chest Press",
+        "fr": "Artis Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-chest-press.jpg"
+    },
+    {
+      "id": "artis-low-row",
+      "name": {
+        "en": "Artis Low Row",
+        "fr": "Artis Low Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-low-row.jpg"
+    },
+    {
+      "id": "artis-total-abdominal",
+      "name": {
+        "en": "Artis Total Abdominal",
+        "fr": "Artis Total Abdominal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-total-abdominal.jpg"
+    },
+    {
+      "id": "artis-leg-press",
+      "name": {
+        "en": "Artis Leg Press",
+        "fr": "Artis Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-leg-press.jpg"
+    },
+    {
+      "id": "artis-abductor",
+      "name": {
+        "en": "Artis Abductor",
+        "fr": "Artis Abductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-abductor.jpg"
+    },
+    {
+      "id": "artis-pectoral",
+      "name": {
+        "en": "Artis Pectoral",
+        "fr": "Artis Pectoral"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-pectoral.jpg"
+    },
+    {
+      "id": "artis-multi-hip",
+      "name": {
+        "en": "Artis Multi Hip",
+        "fr": "Artis Multi Hip"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-multi-hip.jpg"
+    },
+    {
+      "id": "artis-leg-curl",
+      "name": {
+        "en": "Artis Leg Curl",
+        "fr": "Artis Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-leg-curl.jpg"
+    },
+    {
+      "id": "artis-arm-extension",
+      "name": {
+        "en": "Artis Arm Extension",
+        "fr": "Artis Arm Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-arm-extension.jpg"
+    },
+    {
+      "id": "artis-lower-back",
+      "name": {
+        "en": "Artis Lower Back",
+        "fr": "Artis Lower Back"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-lower-back.jpg"
+    },
+    {
+      "id": "artis-lat-machine",
+      "name": {
+        "en": "Artis Lat Machine",
+        "fr": "Artis Lat Machine"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-lat-machine.jpg"
+    },
+    {
+      "id": "artis-rotary-torso",
+      "name": {
+        "en": "Artis Rotary Torso",
+        "fr": "Artis Rotary Torso"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-rotary-torso.jpg"
+    },
+    {
+      "id": "artis-squat",
+      "name": {
+        "en": "Artis Squat",
+        "fr": "Artis Squat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/artis-squat.jpg"
+    },
+    {
+      "id": "pure-strength-shoulder-press",
+      "name": {
+        "en": "Pure Strength Shoulder Press",
+        "fr": "Pure Strength Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-shoulder-press.jpg"
+    },
+    {
+      "id": "pure-strength-leg-press",
+      "name": {
+        "en": "Pure Strength Leg Press",
+        "fr": "Pure Strength Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-leg-press.jpg"
+    },
+    {
+      "id": "pure-strength-row",
+      "name": {
+        "en": "Pure Strength Row",
+        "fr": "Pure Strength Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-row.jpg"
+    },
+    {
+      "id": "pure-strength-seated-dip",
+      "name": {
+        "en": "Pure Strength Seated Dip",
+        "fr": "Pure Strength Seated Dip"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-seated-dip.jpg"
+    },
+    {
+      "id": "pure-strength-belt-squat",
+      "name": {
+        "en": "Pure Strength Belt Squat",
+        "fr": "Pure Strength Belt Squat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-belt-squat.jpg"
+    },
+    {
+      "id": "pure-strength-deadlift",
+      "name": {
+        "en": "Pure Strength Deadlift",
+        "fr": "Pure Strength Deadlift"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-deadlift.jpg"
+    },
+    {
+      "id": "pure-strength-biceps",
+      "name": {
+        "en": "Pure Strength Biceps",
+        "fr": "Pure Strength Biceps"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-biceps.jpg"
+    },
+    {
+      "id": "pure-strength-seated-calf",
+      "name": {
+        "en": "Pure Strength Seated Calf",
+        "fr": "Pure Strength Seated Calf"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-seated-calf.jpg"
+    },
+    {
+      "id": "pure-strength-hip-thrust",
+      "name": {
+        "en": "Pure Strength Hip Thrust",
+        "fr": "Pure Strength Hip Thrust"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-hip-thrust.jpg"
+    },
+    {
+      "id": "pure-strength-hack-squat",
+      "name": {
+        "en": "Pure Strength Hack Squat",
+        "fr": "Pure Strength Hack Squat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-hack-squat.jpg"
+    },
+    {
+      "id": "pure-strength-rear-kick",
+      "name": {
+        "en": "Pure Strength Rear Kick",
+        "fr": "Pure Strength Rear Kick"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-rear-kick.jpg"
+    },
+    {
+      "id": "pure-strength-linear-leg-press",
+      "name": {
+        "en": "Pure Strength Linear Leg Press",
+        "fr": "Pure Strength Linear Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-linear-leg-press.jpg"
+    },
+    {
+      "id": "pure-strength-standing-leg-curl",
+      "name": {
+        "en": "Pure Strength Standing Leg Curl",
+        "fr": "Pure Strength Standing Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-standing-leg-curl.jpg"
+    },
+    {
+      "id": "pure-strength-pullover",
+      "name": {
+        "en": "Pure Strength Pullover",
+        "fr": "Pure Strength Pullover"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-pullover.jpg"
+    },
+    {
+      "id": "pure-strength-standing-abductor",
+      "name": {
+        "en": "Pure Strength Standing Abductor",
+        "fr": "Pure Strength Standing Abductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-standing-abductor.jpg"
+    },
+    {
+      "id": "pure-strength-chest-press",
+      "name": {
+        "en": "Pure Strength Chest Press",
+        "fr": "Pure Strength Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-chest-press.jpg"
+    },
+    {
+      "id": "pure-strength-wide-chest-press",
+      "name": {
+        "en": "Pure Strength Wide Chest Press",
+        "fr": "Pure Strength Wide Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-wide-chest-press.jpg"
+    },
+    {
+      "id": "pure-strength-incline-chest-press",
+      "name": {
+        "en": "Pure Strength Incline Chest Press",
+        "fr": "Pure Strength Incline Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-incline-chest-press.jpg"
+    },
+    {
+      "id": "pure-strength-calf",
+      "name": {
+        "en": "Pure Strength Calf",
+        "fr": "Pure Strength Calf"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-calf.jpg"
+    },
+    {
+      "id": "pure-strength-pulldown",
+      "name": {
+        "en": "Pure Strength Pulldown",
+        "fr": "Pure Strength Pulldown"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-pulldown.jpg"
+    },
+    {
+      "id": "pure-strength-leg-extension",
+      "name": {
+        "en": "Pure Strength Leg Extension",
+        "fr": "Pure Strength Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-leg-extension.jpg"
+    },
+    {
+      "id": "pure-strength-low-row",
+      "name": {
+        "en": "Pure Strength Low Row",
+        "fr": "Pure Strength Low Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/pure-strength-low-row.jpg"
+    },
+    {
+      "id": "dual-adjustable-pulley-fitness",
+      "name": {
+        "en": "Dual Adjustable Pulley Fitness",
+        "fr": "Dual Adjustable Pulley Fitness"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/dual-adjustable-pulley-fitness.jpg"
+    },
+    {
+      "id": "dual-adjustable-pulley-performance",
+      "name": {
+        "en": "Dual Adjustable Pulley Performance",
+        "fr": "Dual Adjustable Pulley Performance"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/dual-adjustable-pulley-performance.jpg"
+    },
+    {
+      "id": "excite-synchro",
+      "name": {
+        "en": "Excite+ Synchro",
+        "fr": "Excite+ Synchro"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/excite-synchro.jpg"
+    },
+    {
+      "id": "selection-adductor-med",
+      "name": {
+        "en": "Selection Adductor Med",
+        "fr": "Selection Adductor Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-adductor-med.jpg"
+    },
+    {
+      "id": "selection-upper-back-med",
+      "name": {
+        "en": "Selection Upper Back Med",
+        "fr": "Selection Upper Back Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-upper-back-med.jpg"
+    },
+    {
+      "id": "selection-chest-press-med",
+      "name": {
+        "en": "Selection Chest Press Med",
+        "fr": "Selection Chest Press Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-chest-press-med.jpg"
+    },
+    {
+      "id": "cable-station-12",
+      "name": {
+        "en": "Cable Station 12",
+        "fr": "Cable Station 12"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cable-station-12.jpg"
+    },
+    {
+      "id": "kettlebell-storage-rack",
+      "name": {
+        "en": "Kettlebell Storage Rack",
+        "fr": "Kettlebell Storage Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/kettlebell-storage-rack.jpg"
+    },
+    {
+      "id": "floor-low-rig-two-bay-compact",
+      "name": {
+        "en": "Floor Low Rig two Bay - Compact",
+        "fr": "Floor Low Rig two Bay - Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dw18fab9ad/product/MR270-SLS/MR270-SLS-packshot-Floor-Low-Rig-two-Bay-Compact.jpg"
+    },
+    {
+      "id": "wall-high-low-rig-two-bay-compact",
+      "name": {
+        "en": "Wall High-Low Rig Two Bay - Compact",
+        "fr": "Wall High-Low Rig Two Bay - Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wall-high-low-rig-two-bay-compact.jpg"
+    },
+    {
+      "id": "high-low-pulley",
+      "name": {
+        "en": "High Low Pulley",
+        "fr": "High Low Pulley"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/high-low-pulley.jpg"
+    },
+    {
+      "id": "selection-leg-press-med",
+      "name": {
+        "en": "Selection Leg Press Med",
+        "fr": "Selection Leg Press Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-leg-press-med.jpg"
+    },
+    {
+      "id": "wellness-ball-active-sitting",
+      "name": {
+        "en": "Wellness Ball Active Sitting",
+        "fr": "Wellness Ball Active Sitting"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wellness-ball-active-sitting.jpg"
+    },
+    {
+      "id": "floor-high-rig-four-bay-deep",
+      "name": {
+        "en": "Floor High Rig Four Bay - Deep",
+        "fr": "Floor High Rig Four Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dwbcafe273/product/MR230-SLS/MR230-SLS-packshot-Floor-High-Rig-Four-Bay-Deep.jpg"
+    },
+    {
+      "id": "wall-low-rig-four-bay-compact",
+      "name": {
+        "en": "Wall Low Rig Four Bay - Compact",
+        "fr": "Wall Low Rig Four Bay - Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wall-low-rig-four-bay-compact.jpg"
+    },
+    {
+      "id": "wall-high-rig-one-bay-compact",
+      "name": {
+        "en": "Wall High Rig One Bay - Compact",
+        "fr": "Wall High Rig One Bay - Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dwea82ddb3/product/MR100-SLS/MR100-SLS-packshot-Wall-High-Rig-One-Bay-Compact.jpg"
+    },
+    {
+      "id": "floor-low-rig-two-bay-deep",
+      "name": {
+        "en": "Floor Low Rig Two Bay - Deep",
+        "fr": "Floor Low Rig Two Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dw99b8c8c2/product/MR190-SLS/MR190-SLS-packshot-Floor-Low-Rig-Two-Bay-Deep.jpg"
+    },
+    {
+      "id": "hexagon-dumbbell-vertical-rack-6-pairs",
+      "name": {
+        "en": "Hexagon Dumbbell Vertical Rack 6 Pairs",
+        "fr": "Hexagon Dumbbell Vertical Rack 6 Pairs"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/hexagon-dumbbell-vertical-rack-6-pairs.jpg"
+    },
+    {
+      "id": "excite-bike",
+      "name": {
+        "en": "Excite+ Bike",
+        "fr": "Excite+ Bike"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/excite-bike.jpg"
+    },
+    {
+      "id": "cable-crossover",
+      "name": {
+        "en": "Cable Crossover",
+        "fr": "Cable Crossover"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cable-crossover.jpg"
+    },
+    {
+      "id": "selection-multi-hip-med",
+      "name": {
+        "en": "Selection Multi Hip Med",
+        "fr": "Selection Multi Hip Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-multi-hip-med.jpg"
+    },
+    {
+      "id": "abdominal-mat",
+      "name": {
+        "en": "Abdominal Mat",
+        "fr": "Abdominal Mat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/abdominal-mat.jpg"
+    },
+    {
+      "id": "multi-sided-plyo-box",
+      "name": {
+        "en": "Multi-Sided Plyo Box",
+        "fr": "Multi-Sided Plyo Box"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/multi-sided-plyo-box.jpg"
+    },
+    {
+      "id": "wall-low-rig-two-bay-compact",
+      "name": {
+        "en": "Wall Low Rig Two Bay - Compact",
+        "fr": "Wall Low Rig Two Bay - Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dwe5f6c422/product/MR040-SLS/MR040-SLS-packshot-Wall-Low-Rig-Two-Bay-Compact.jpg"
+    },
+    {
+      "id": "floor-high-low-rig-six-bay-deep",
+      "name": {
+        "en": "Floor High-Low Rig Six Bay - Deep",
+        "fr": "Floor High-Low Rig Six Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dw8cb2aac5/product/MR260-SLS/MR260-SLS-packshot-Floor-High-Low-Rig-Six-Bay-Deep.jpg"
+    },
+    {
+      "id": "wall-high-low-rig-one-bay-compact",
+      "name": {
+        "en": "Wall High-Low Rig One Bay - Compact",
+        "fr": "Wall High-Low Rig One Bay - Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wall-high-low-rig-one-bay-compact.jpg"
+    },
+    {
+      "id": "skilltools-kit",
+      "name": {
+        "en": "Skilltools Kit",
+        "fr": "Skilltools Kit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/skilltools-kit.jpg"
+    },
+    {
+      "id": "technogym-checkup",
+      "name": {
+        "en": "Technogym Checkup",
+        "fr": "Technogym Checkup"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/technogym-checkup.jpg"
+    },
+    {
+      "id": "excite-recline",
+      "name": {
+        "en": "Excite+ Recline",
+        "fr": "Excite+ Recline"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/excite-recline.jpg"
+    },
+    {
+      "id": "excite-climb",
+      "name": {
+        "en": "Excite+ Climb",
+        "fr": "Excite+ Climb"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/excite-climb.jpg"
+    },
+    {
+      "id": "adjustable-pulley",
+      "name": {
+        "en": "Adjustable Pulley",
+        "fr": "Adjustable Pulley"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/adjustable-pulley.jpg"
+    },
+    {
+      "id": "cable-station-4-evolution",
+      "name": {
+        "en": "Cable Station 4 Evolution",
+        "fr": "Cable Station 4 Evolution"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cable-station-4-evolution.jpg"
+    },
+    {
+      "id": "selection-vertical-traction-med",
+      "name": {
+        "en": "Selection Vertical Traction Med",
+        "fr": "Selection Vertical Traction Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-vertical-traction-med.jpg"
+    },
+    {
+      "id": "selection-low-row-med",
+      "name": {
+        "en": "Selection Low Row Med",
+        "fr": "Selection Low Row Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-low-row-med.jpg"
+    },
+    {
+      "id": "selection-leg-curl-med",
+      "name": {
+        "en": "Selection Leg Curl Med",
+        "fr": "Selection Leg Curl Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-leg-curl-med.jpg"
+    },
+    {
+      "id": "selection-leg-extension-med",
+      "name": {
+        "en": "Selection Leg Extension Med",
+        "fr": "Selection Leg Extension Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-leg-extension-med.jpg"
+    },
+    {
+      "id": "cable-tower",
+      "name": {
+        "en": "Cable Tower",
+        "fr": "Cable Tower"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cable-tower.jpg"
+    },
+    {
+      "id": "run-rev",
+      "name": {
+        "en": "Run REV",
+        "fr": "Run REV"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/run-rev.jpg"
+    },
+    {
+      "id": "wall-low-rig-four-bay-deep",
+      "name": {
+        "en": "Wall Low Rig Four Bay - Deep",
+        "fr": "Wall Low Rig Four Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wall-low-rig-four-bay-deep.jpg"
+    },
+    {
+      "id": "wall-low-rig-one-bay-compact",
+      "name": {
+        "en": "Wall Low Rig One Bay-Compact",
+        "fr": "Wall Low Rig One Bay-Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wall-low-rig-one-bay-compact.jpg"
+    },
+    {
+      "id": "wall-high-low-rig-three-bay-deep",
+      "name": {
+        "en": "Wall High-Low Rig Three Bay - Deep",
+        "fr": "Wall High-Low Rig Three Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wall-high-low-rig-three-bay-deep.jpg"
+    },
+    {
+      "id": "floor-low-rig-three-bay-compact",
+      "name": {
+        "en": "Floor Low Rig Three Bay - Compact",
+        "fr": "Floor Low Rig Three Bay - Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dw3974da10/product/MR280-SLS/MR280-SLS-packshot-Floor-Low-Rig-Three-Bay-Compact.jpg"
+    },
+    {
+      "id": "wall-high-low-rig-one-bay-deep",
+      "name": {
+        "en": "Wall High-Low Rig One Bay - Deep",
+        "fr": "Wall High-Low Rig One Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wall-high-low-rig-one-bay-deep.jpg"
+    },
+    {
+      "id": "floor-low-rig-four-bay-deep",
+      "name": {
+        "en": "Floor Low Rig Four Bay - Deep",
+        "fr": "Floor Low Rig Four Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dwb1ed2c9d/product/MR200-SLS/MR200-SLS-packshot-Floor-Low-Rig-Four-Bay-Deep.jpg"
+    },
+    {
+      "id": "hexagon-dumbbell-vertical-rack-6-2-pairs",
+      "name": {
+        "en": "Hexagon Dumbbell Vertical Rack (6+2 Pairs)",
+        "fr": "Hexagon Dumbbell Vertical Rack (6+2 Pairs)"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/hexagon-dumbbell-vertical-rack-6-2-pairs.jpg"
+    },
+    {
+      "id": "excite-vario",
+      "name": {
+        "en": "Excite+ Vario",
+        "fr": "Excite+ Vario"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/excite-vario.jpg"
+    },
+    {
+      "id": "reform-platform-extender",
+      "name": {
+        "en": "Reform Platform Extender",
+        "fr": "Reform Platform Extender"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/reform-platform-extender.jpg"
+    },
+    {
+      "id": "selection-lat-machine-med",
+      "name": {
+        "en": "Selection Lat Machine Med",
+        "fr": "Selection Lat Machine Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-lat-machine-med.jpg"
+    },
+    {
+      "id": "selection-abductor-med",
+      "name": {
+        "en": "Selection Abductor Med",
+        "fr": "Selection Abductor Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-abductor-med.jpg"
+    },
+    {
+      "id": "selection-rotary-torso-med",
+      "name": {
+        "en": "Selection Rotary Torso Med",
+        "fr": "Selection Rotary Torso Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-rotary-torso-med.jpg"
+    },
+    {
+      "id": "selection-total-abdominal-med",
+      "name": {
+        "en": "Selection Total Abdominal Med",
+        "fr": "Selection Total Abdominal Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-total-abdominal-med.jpg"
+    },
+    {
+      "id": "recline-rev",
+      "name": {
+        "en": "Recline REV",
+        "fr": "Recline REV"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/recline-rev.jpg"
+    },
+    {
+      "id": "performance-bar-2000mm",
+      "name": {
+        "en": "Performance Bar 2000mm",
+        "fr": "Performance Bar 2000mm"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/performance-bar-2000mm.jpg"
+    },
+    {
+      "id": "vertical-bar-storage",
+      "name": {
+        "en": "Vertical Bar Storage",
+        "fr": "Vertical Bar Storage"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/vertical-bar-storage.jpg"
+    },
+    {
+      "id": "wall-vertical-bar-storage",
+      "name": {
+        "en": "Wall Vertical Bar Storage",
+        "fr": "Wall Vertical Bar Storage"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wall-vertical-bar-storage.jpg"
+    },
+    {
+      "id": "wall-high-low-rig-three-bay-compact",
+      "name": {
+        "en": "Wall High-Low Rig Three Bay - Compact",
+        "fr": "Wall High-Low Rig Three Bay - Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wall-high-low-rig-three-bay-compact.jpg"
+    },
+    {
+      "id": "hexagon-dumbbell-vertical-additional-rack",
+      "name": {
+        "en": "Hexagon Dumbbell Vertical Additional Rack",
+        "fr": "Hexagon Dumbbell Vertical Additional Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/hexagon-dumbbell-vertical-additional-rack.jpg"
+    },
+    {
+      "id": "wall-low-rig-three-bay-deep",
+      "name": {
+        "en": "Wall Low Rig Three Bay - Deep",
+        "fr": "Wall Low Rig Three Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dw6abba2eb/product/MR050-SLS/MR050-SLS-packshot-Wall-Low-Rig-Three-Bay-Deep.jpg"
+    },
+    {
+      "id": "excite-top",
+      "name": {
+        "en": "Excite+ Top",
+        "fr": "Excite+ Top"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/excite-top.jpg"
+    },
+    {
+      "id": "excite-run",
+      "name": {
+        "en": "Excite+ Run",
+        "fr": "Excite+ Run"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/excite-run.jpg"
+    },
+    {
+      "id": "reform-box",
+      "name": {
+        "en": "Reform Box",
+        "fr": "Reform Box"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/reform-box.jpg"
+    },
+    {
+      "id": "cable-station-4",
+      "name": {
+        "en": "Cable Station 4",
+        "fr": "Cable Station 4"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cable-station-4.jpg"
+    },
+    {
+      "id": "cable-station-8-adjustable-pulley",
+      "name": {
+        "en": "Cable Station 8 Adjustable Pulley",
+        "fr": "Cable Station 8 Adjustable Pulley"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cable-station-8-adjustable-pulley.jpg"
+    },
+    {
+      "id": "top-rev",
+      "name": {
+        "en": "Top REV",
+        "fr": "Top REV"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/top-rev.jpg"
+    },
+    {
+      "id": "synchro-rev",
+      "name": {
+        "en": "Synchro REV",
+        "fr": "Synchro REV"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/synchro-rev.jpg"
+    },
+    {
+      "id": "floor-high-low-rig-four-bay-deep",
+      "name": {
+        "en": "Floor High-Low Rig Four Bay - Deep",
+        "fr": "Floor High-Low Rig Four Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/floor-high-low-rig-four-bay-deep.jpg"
+    },
+    {
+      "id": "cable-station-8-with-cable-tower",
+      "name": {
+        "en": "Cable Station 8 With Cable Tower",
+        "fr": "Cable Station 8 With Cable Tower"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cable-station-8-with-cable-tower.jpg"
+    },
+    {
+      "id": "cable-station-8",
+      "name": {
+        "en": "Cable Station 8",
+        "fr": "Cable Station 8"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cable-station-8.jpg"
+    },
+    {
+      "id": "cable-station-5",
+      "name": {
+        "en": "Cable Station 5",
+        "fr": "Cable Station 5"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cable-station-5.jpg"
+    },
+    {
+      "id": "selection-shoulder-press-med",
+      "name": {
+        "en": "Selection Shoulder Press Med",
+        "fr": "Selection Shoulder Press Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-shoulder-press-med.jpg"
+    },
+    {
+      "id": "selection-lower-back-med",
+      "name": {
+        "en": "Selection Lower Back Med",
+        "fr": "Selection Lower Back Med"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/selection-lower-back-med.jpg"
+    },
+    {
+      "id": "polar-verity-sense",
+      "name": {
+        "en": "Polar Verity Sense",
+        "fr": "Polar Verity Sense"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/polar-verity-sense.png"
+    },
+    {
+      "id": "yoga-mat-strap",
+      "name": {
+        "en": "Yoga Mat Strap",
+        "fr": "Yoga Mat Strap"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/yoga-mat-strap.jpg"
+    },
+    {
+      "id": "sandbag",
+      "name": {
+        "en": "Sandbag",
+        "fr": "Sandbag"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/sandbag.jpg"
+    },
+    {
+      "id": "wall-high-low-rig-one-bay-compact-extended",
+      "name": {
+        "en": "Wall High-Low Rig One Bay - Compact Extended",
+        "fr": "Wall High-Low Rig One Bay - Compact Extended"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dw0c66deb6/product/MR180-SLS/MR180-SLS-packshot-Wall-High-Low-Rig-One-Bay-Compact-Extended.jpg"
+    },
+    {
+      "id": "wall-low-rig-two-bay-deep",
+      "name": {
+        "en": "Wall Low Rig Two Bay - Deep",
+        "fr": "Wall Low Rig Two Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dwefdb99ad/product/MR030-SLS/MR030-SLS-packshot-Wall-Low-Rig-Two-Bay-Deep.jpg"
+    },
+    {
+      "id": "wall-high-rig-one-bay-deep",
+      "name": {
+        "en": "Wall High Rig One Bay - Deep",
+        "fr": "Wall High Rig One Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dw24ad7630/product/MR090-SLS/MR090-SLS-packshot-Wall-High-Rig-One-Bay-Deep.jpg"
+    },
+    {
+      "id": "wall-low-rig-one-bay-deep",
+      "name": {
+        "en": "Wall Low Rig One Bay-Deep",
+        "fr": "Wall Low Rig One Bay-Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dw4e54e24b/product/MR010-SLS/MR010-SLS-packshot-Wall-Low-Rig-One-Bay-Deep.jpg"
+    },
+    {
+      "id": "mywellness-band",
+      "name": {
+        "en": "mywellness Band",
+        "fr": "mywellness Band"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/mywellness-band.jpg"
+    },
+    {
+      "id": "performance-kettlebell",
+      "name": {
+        "en": "Performance Kettlebell",
+        "fr": "Performance Kettlebell"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/performance-kettlebell.jpg"
+    },
+    {
+      "id": "yoga-mat",
+      "name": {
+        "en": "Yoga Mat",
+        "fr": "Yoga Mat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/yoga-mat.jpg"
+    },
+    {
+      "id": "cable-station-16",
+      "name": {
+        "en": "Cable Station 16",
+        "fr": "Cable Station 16"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/cable-station-16.jpg"
+    },
+    {
+      "id": "bike-rev",
+      "name": {
+        "en": "Bike REV",
+        "fr": "Bike REV"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/bike-rev.jpg"
+    },
+    {
+      "id": "stretching-mat",
+      "name": {
+        "en": "Stretching Mat",
+        "fr": "Stretching Mat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/stretching-mat.jpg"
+    },
+    {
+      "id": "olympic-training-plate",
+      "name": {
+        "en": "Olympic Training Plate",
+        "fr": "Olympic Training Plate"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/olympic-training-plate.jpg"
+    },
+    {
+      "id": "wall-high-low-rig-one-bay-deep-extended",
+      "name": {
+        "en": "Wall High-Low Rig One Bay - Deep Extended",
+        "fr": "Wall High-Low Rig One Bay - Deep Extended"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dwbe3e07d6/product/MR170-SLS/MR170-SLS-packshot-Wall-High-Low-Rig-One-Bay-Deep-Extended.jpg"
+    },
+    {
+      "id": "wall-low-rig-three-bay-compact",
+      "name": {
+        "en": "Wall Low Rig Three Bay - Compact",
+        "fr": "Wall Low Rig Three Bay - Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dwf4a15062/product/MR060-SLS/MR060-SLS-packshot-Wall-Low-Rig-Three-Bay-Compact.jpg"
+    },
+    {
+      "id": "floor-low-rig-six-bay-deep",
+      "name": {
+        "en": "Floor Low Rig Six Bay - Deep",
+        "fr": "Floor Low Rig Six Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/https://webapi-prod.technogym.com/dw/image/v2/BFLQ_PRD/on/demandware.static/-/Sites-tg-catalog-master/default/dw2810fa15/product/MR210-SLS/MR210-SLS-packshot-Floor-Low-Rig-Six-Bay-Deep.jpg"
+    },
+    {
+      "id": "wall-high-low-rig-two-bay-deep",
+      "name": {
+        "en": "Wall High-Low Rig Two Bay - Deep",
+        "fr": "Wall High-Low Rig Two Bay - Deep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/wall-high-low-rig-two-bay-deep.jpg"
+    },
+    {
+      "id": "matrix-onyx-tapis-de-course",
+      "name": {
+        "en": "Onyx treadmill",
+        "fr": "Onyx tapis de course"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-onyx-tapis-de-course.jpg"
+    },
+    {
+      "id": "matrix-onyx-ascent-trainer",
+      "name": {
+        "en": "Onyx Ascent Trainer",
+        "fr": "Onyx Ascent Trainer"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-onyx-ascent-trainer.jpg"
+    },
+    {
+      "id": "matrix-onyx-climbmill",
+      "name": {
+        "en": "Onyx climbmill",
+        "fr": "Onyx ClimbMill"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-onyx-climbmill.jpg"
+    },
+    {
+      "id": "matrix-onyx-velo-allonge",
+      "name": {
+        "en": "Onyx recumbent cycle",
+        "fr": "Onyx vélo allongé"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-onyx-velo-allonge.jpg"
+    },
+    {
+      "id": "matrix-onyx-velo-droit",
+      "name": {
+        "en": "Onyx upright cycle",
+        "fr": "Onyx vélo droit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-onyx-velo-droit.jpg"
+    },
+    {
+      "id": "matrix-performance-plus-tapis-de-course",
+      "name": {
+        "en": "Performance Plus treadmill",
+        "fr": "Performance Plus tapis de course"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-performance-plus-tapis-de-course.jpg"
+    },
+    {
+      "id": "matrix-performance-tapis-de-course",
+      "name": {
+        "en": "Performance treadmill",
+        "fr": "Performance tapis de course"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-performance-tapis-de-course.jpg"
+    },
+    {
+      "id": "matrix-performance-ascent-trainer",
+      "name": {
+        "en": "Performance Ascent Trainer",
+        "fr": "Performance Ascent Trainer"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-performance-ascent-trainer.jpg"
+    },
+    {
+      "id": "matrix-performance-elliptique",
+      "name": {
+        "en": "Performance elliptical",
+        "fr": "Performance elliptique"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-performance-elliptique.jpg"
+    },
+    {
+      "id": "matrix-performance-climbmill",
+      "name": {
+        "en": "Performance climbmill",
+        "fr": "Performance ClimbMill"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-performance-climbmill.jpg"
+    },
+    {
+      "id": "matrix-performance-velo-allonge",
+      "name": {
+        "en": "Performance recumbent cycle",
+        "fr": "Performance vélo allongé"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-performance-velo-allonge.jpg"
+    },
+    {
+      "id": "matrix-performance-velo-droit",
+      "name": {
+        "en": "Performance upright cycle",
+        "fr": "Performance vélo droit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-performance-velo-droit.jpg"
+    },
+    {
+      "id": "matrix-endurance-tapis-de-course",
+      "name": {
+        "en": "Endurance treadmill",
+        "fr": "Endurance tapis de course"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-endurance-tapis-de-course.jpg"
+    },
+    {
+      "id": "matrix-endurance-elliptique",
+      "name": {
+        "en": "Endurance elliptical",
+        "fr": "Endurance elliptique"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-endurance-elliptique.jpg"
+    },
+    {
+      "id": "matrix-endurance-climbmill",
+      "name": {
+        "en": "Endurance climbmill",
+        "fr": "Endurance ClimbMill"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-endurance-climbmill.jpg"
+    },
+    {
+      "id": "matrix-endurance-stepper",
+      "name": {
+        "en": "Endurance stepper",
+        "fr": "Endurance Stepper"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-endurance-stepper.jpg"
+    },
+    {
+      "id": "matrix-endurance-velo-allonge",
+      "name": {
+        "en": "Endurance recumbent cycle",
+        "fr": "Endurance vélo allongé"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-endurance-velo-allonge.jpg"
+    },
+    {
+      "id": "matrix-endurance-velo-droit",
+      "name": {
+        "en": "Endurance upright cycle",
+        "fr": "Endurance vélo droit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-endurance-velo-droit.jpg"
+    },
+    {
+      "id": "matrix-lifestyle-tapis-de-course",
+      "name": {
+        "en": "Lifestyle treadmill",
+        "fr": "Lifestyle tapis de course"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-lifestyle-tapis-de-course.jpg"
+    },
+    {
+      "id": "matrix-lifestyle-elliptique",
+      "name": {
+        "en": "Lifestyle elliptical",
+        "fr": "Lifestyle elliptique"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-lifestyle-elliptique.jpg"
+    },
+    {
+      "id": "matrix-lifestyle-climbmill",
+      "name": {
+        "en": "Lifestyle climbmill",
+        "fr": "Lifestyle ClimbMill"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-lifestyle-climbmill.jpg"
+    },
+    {
+      "id": "matrix-lifestyle-velo-allonge",
+      "name": {
+        "en": "Lifestyle recumbent cycle",
+        "fr": "Lifestyle vélo allongé"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-lifestyle-velo-allonge.jpg"
+    },
+    {
+      "id": "matrix-lifestyle-velo-droit",
+      "name": {
+        "en": "Lifestyle upright cycle",
+        "fr": "Lifestyle vélo droit"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-lifestyle-velo-droit.jpg"
+    },
+    {
+      "id": "matrix-total-body-cycle",
+      "name": {
+        "en": "Total Body Cycle",
+        "fr": "Total Body Cycle"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-total-body-cycle.jpg"
+    },
+    {
+      "id": "matrix-cxp-target-training-cycle",
+      "name": {
+        "en": "CXP Target Training Cycle",
+        "fr": "CXP Target Training Cycle"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-cxp-target-training-cycle.jpg"
+    },
+    {
+      "id": "matrix-cxm-training-cycle",
+      "name": {
+        "en": "CXM Training Cycle",
+        "fr": "CXM Training Cycle"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-cxm-training-cycle.jpg"
+    },
+    {
+      "id": "matrix-cxc-training-cycle",
+      "name": {
+        "en": "CXC Training Cycle",
+        "fr": "CXC Training Cycle"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-cxc-training-cycle.jpg"
+    },
+    {
+      "id": "matrix-upper-body-cycle-ubcm",
+      "name": {
+        "en": "Upper Body Cycle UBCM",
+        "fr": "Upper Body Cycle UBCM"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-upper-body-cycle-ubcm.jpg"
+    },
+    {
+      "id": "matrix-upper-body-cycle-ubcp",
+      "name": {
+        "en": "Upper Body Cycle UBCP",
+        "fr": "Upper Body Cycle UBCP"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-upper-body-cycle-ubcp.jpg"
+    },
+    {
+      "id": "matrix-s-drive-power",
+      "name": {
+        "en": "S-Drive Power",
+        "fr": "S-Drive Power"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-s-drive-power.jpg"
+    },
+    {
+      "id": "matrix-s-drive-metrics",
+      "name": {
+        "en": "S-Drive Metrics",
+        "fr": "S-Drive Metrics"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-s-drive-metrics.jpg"
+    },
+    {
+      "id": "matrix-s-drive-performance-trainer",
+      "name": {
+        "en": "S-Drive Performance Trainer",
+        "fr": "S-Drive Performance Trainer"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-s-drive-performance-trainer.jpg"
+    },
+    {
+      "id": "matrix-rameur-rxp",
+      "name": {
+        "en": "Rameur RXP",
+        "fr": "Rameur RXP"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-rameur-rxp.jpg"
+    },
+    {
+      "id": "matrix-rameur",
+      "name": {
+        "en": "Rameur",
+        "fr": "Rameur"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-rameur.jpg"
+    },
+    {
+      "id": "matrix-magnum-double-mega-rack",
+      "name": {
+        "en": "Magnum Double MEGA Rack",
+        "fr": "Magnum Double MEGA Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-double-mega-rack.jpg"
+    },
+    {
+      "id": "matrix-connexus-edge",
+      "name": {
+        "en": "Connexus Edge",
+        "fr": "Connexus Edge"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-connexus-edge.jpg"
+    },
+    {
+      "id": "matrix-connexus-functional-trainer",
+      "name": {
+        "en": "Connexus Functional Trainer",
+        "fr": "Connexus Functional Trainer"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-connexus-functional-trainer.jpg"
+    },
+    {
+      "id": "matrix-connexus-hub",
+      "name": {
+        "en": "Connexus Hub",
+        "fr": "Connexus Hub"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-connexus-hub.jpg"
+    },
+    {
+      "id": "matrix-connexus-crest",
+      "name": {
+        "en": "Connexus Crest",
+        "fr": "Connexus Crest"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-connexus-crest.jpg"
+    },
+    {
+      "id": "matrix-connexus-3-shelf-storage-cart",
+      "name": {
+        "en": "Connexus 3-Shelf Storage Cart",
+        "fr": "Connexus 3-Shelf Storage Cart"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-connexus-3-shelf-storage-cart.jpg"
+    },
+    {
+      "id": "matrix-connexus-column",
+      "name": {
+        "en": "Connexus Column",
+        "fr": "Connexus Column"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-connexus-column.jpg"
+    },
+    {
+      "id": "matrix-connexus-compact",
+      "name": {
+        "en": "Connexus Compact",
+        "fr": "Connexus Compact"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-connexus-compact.jpg"
+    },
+    {
+      "id": "matrix-connexus-storage-station",
+      "name": {
+        "en": "Connexus Storage Station",
+        "fr": "Connexus Storage Station"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-connexus-storage-station.jpg"
+    },
+    {
+      "id": "matrix-connexus-step",
+      "name": {
+        "en": "Connexus Step+",
+        "fr": "Connexus Step+"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-connexus-step.jpg"
+    },
+    {
+      "id": "matrix-stretch-platform",
+      "name": {
+        "en": "Stretch Platform",
+        "fr": "Stretch Platform"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-stretch-platform.jpg"
+    },
+    {
+      "id": "matrix-aura-chest-press",
+      "name": {
+        "en": "Aura Chest Press",
+        "fr": "Aura Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-chest-press.jpg"
+    },
+    {
+      "id": "matrix-aura-pectoral-fly",
+      "name": {
+        "en": "Aura Pectoral Fly",
+        "fr": "Aura Pectoral Fly"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-pectoral-fly.jpg"
+    },
+    {
+      "id": "matrix-aura-converging-chest-press",
+      "name": {
+        "en": "Aura Converging Chest Press",
+        "fr": "Aura Converging Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-converging-chest-press.jpg"
+    },
+    {
+      "id": "matrix-aura-shoulder-press",
+      "name": {
+        "en": "Aura Shoulder Press",
+        "fr": "Aura Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-shoulder-press.jpg"
+    },
+    {
+      "id": "matrix-aura-lateral-raise",
+      "name": {
+        "en": "Aura Lateral Raise",
+        "fr": "Aura Lateral Raise"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-lateral-raise.jpg"
+    },
+    {
+      "id": "matrix-aura-rear-delt-fly",
+      "name": {
+        "en": "Aura Rear Delt / Fly",
+        "fr": "Aura Rear Delt / Fly"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-rear-delt-fly.jpg"
+    },
+    {
+      "id": "matrix-aura-converging-shoulder-press",
+      "name": {
+        "en": "Aura Converging Shoulder Press",
+        "fr": "Aura Converging Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-converging-shoulder-press.jpg"
+    },
+    {
+      "id": "matrix-aura-lat-pulldown",
+      "name": {
+        "en": "Aura Lat Pulldown",
+        "fr": "Aura Lat Pulldown"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-lat-pulldown.jpg"
+    },
+    {
+      "id": "matrix-aura-seated-row",
+      "name": {
+        "en": "Aura Seated Row",
+        "fr": "Aura Seated Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-seated-row.jpg"
+    },
+    {
+      "id": "matrix-aura-diverging-lat-pulldown",
+      "name": {
+        "en": "Aura Diverging Lat Pulldown",
+        "fr": "Aura Diverging Lat Pulldown"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-diverging-lat-pulldown.jpg"
+    },
+    {
+      "id": "matrix-aura-diverging-seated-row",
+      "name": {
+        "en": "Aura Diverging Seated Row",
+        "fr": "Aura Diverging Seated Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-diverging-seated-row.jpg"
+    },
+    {
+      "id": "matrix-aura-arm-curl",
+      "name": {
+        "en": "Aura Arm Curl",
+        "fr": "Aura Arm Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-arm-curl.jpg"
+    },
+    {
+      "id": "matrix-aura-triceps-press",
+      "name": {
+        "en": "Aura Triceps Press",
+        "fr": "Aura Triceps Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-triceps-press.jpg"
+    },
+    {
+      "id": "matrix-aura-tricep-extension",
+      "name": {
+        "en": "Aura Tricep Extension",
+        "fr": "Aura Tricep Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-tricep-extension.jpg"
+    },
+    {
+      "id": "matrix-aura-abdominal",
+      "name": {
+        "en": "Aura Abdominal",
+        "fr": "Aura Abdominal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-abdominal.jpg"
+    },
+    {
+      "id": "matrix-aura-abdominal-crunch",
+      "name": {
+        "en": "Aura Abdominal Crunch",
+        "fr": "Aura Abdominal Crunch"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-abdominal-crunch.jpg"
+    },
+    {
+      "id": "matrix-aura-back-extension",
+      "name": {
+        "en": "Aura Back Extension",
+        "fr": "Aura Back Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-back-extension.jpg"
+    },
+    {
+      "id": "matrix-aura-rotary-torso",
+      "name": {
+        "en": "Aura Rotary Torso",
+        "fr": "Aura Rotary Torso"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-rotary-torso.jpg"
+    },
+    {
+      "id": "matrix-aura-dip-chin-assist",
+      "name": {
+        "en": "Aura Dip / Chin Assist",
+        "fr": "Aura Dip / Chin Assist"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-dip-chin-assist.jpg"
+    },
+    {
+      "id": "matrix-aura-leg-press",
+      "name": {
+        "en": "Aura Leg Press",
+        "fr": "Aura Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-leg-press.jpg"
+    },
+    {
+      "id": "matrix-aura-leg-extension",
+      "name": {
+        "en": "Aura Leg Extension",
+        "fr": "Aura Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-leg-extension.jpg"
+    },
+    {
+      "id": "matrix-aura-seated-leg-curl",
+      "name": {
+        "en": "Aura Seated Leg Curl",
+        "fr": "Aura Seated Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-seated-leg-curl.jpg"
+    },
+    {
+      "id": "matrix-aura-prone-leg-curl",
+      "name": {
+        "en": "Aura Prone Leg Curl",
+        "fr": "Aura Prone Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-prone-leg-curl.jpg"
+    },
+    {
+      "id": "matrix-aura-hip-adductor",
+      "name": {
+        "en": "Aura Hip Adductor",
+        "fr": "Aura Hip Adductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-hip-adductor.jpg"
+    },
+    {
+      "id": "matrix-aura-hip-abductor",
+      "name": {
+        "en": "Aura Hip Abductor",
+        "fr": "Aura Hip Abductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-hip-abductor.jpg"
+    },
+    {
+      "id": "matrix-aura-rotary-hip",
+      "name": {
+        "en": "Aura Rotary Hip",
+        "fr": "Aura Rotary Hip"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-rotary-hip.jpg"
+    },
+    {
+      "id": "matrix-aura-calf-press",
+      "name": {
+        "en": "Aura Calf Press",
+        "fr": "Aura Calf Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-calf-press.jpg"
+    },
+    {
+      "id": "matrix-aura-adjustable-cable-crossover",
+      "name": {
+        "en": "Aura Adjustable Cable Crossover",
+        "fr": "Aura Adjustable Cable Crossover"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-adjustable-cable-crossover.jpg"
+    },
+    {
+      "id": "matrix-aura-adjustable-pulley",
+      "name": {
+        "en": "Aura Adjustable Pulley",
+        "fr": "Aura Adjustable Pulley"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-adjustable-pulley.jpg"
+    },
+    {
+      "id": "matrix-aura-triceps-pressdown",
+      "name": {
+        "en": "Aura Triceps Pressdown",
+        "fr": "Aura Triceps Pressdown"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-triceps-pressdown.jpg"
+    },
+    {
+      "id": "matrix-aura-low-row",
+      "name": {
+        "en": "Aura Low Row",
+        "fr": "Aura Low Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-low-row.jpg"
+    },
+    {
+      "id": "matrix-aura-4-stack-multi-station",
+      "name": {
+        "en": "Aura 4-Stack Multi-Station",
+        "fr": "Aura 4-Stack Multi-Station"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-4-stack-multi-station.jpg"
+    },
+    {
+      "id": "matrix-aura-5-stack-multi-station",
+      "name": {
+        "en": "Aura 5-Stack Multi-Station",
+        "fr": "Aura 5-Stack Multi-Station"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-5-stack-multi-station.jpg"
+    },
+    {
+      "id": "matrix-aura-8-stack-multi-station",
+      "name": {
+        "en": "Aura 8-Stack Multi-Station",
+        "fr": "Aura 8-Stack Multi-Station"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-8-stack-multi-station.jpg"
+    },
+    {
+      "id": "matrix-aura-functional-trainer",
+      "name": {
+        "en": "Aura Functional Trainer",
+        "fr": "Aura Functional Trainer"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-aura-functional-trainer.jpg"
+    },
+    {
+      "id": "matrix-magnum-back-extension-bench",
+      "name": {
+        "en": "Magnum Back Extension Bench",
+        "fr": "Magnum Back Extension Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-back-extension-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-flat-bench",
+      "name": {
+        "en": "Magnum Flat Bench",
+        "fr": "Magnum Flat Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-flat-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-adjustable-decline-bench",
+      "name": {
+        "en": "Magnum Adjustable Decline Bench",
+        "fr": "Magnum Adjustable Decline Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-adjustable-decline-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-preacher-curl",
+      "name": {
+        "en": "Magnum Preacher Curl",
+        "fr": "Magnum Preacher Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-preacher-curl.jpg"
+    },
+    {
+      "id": "matrix-magnum-vkr-w-chin",
+      "name": {
+        "en": "Magnum VKR w/Chin",
+        "fr": "Magnum VKR w/Chin"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-vkr-w-chin.jpg"
+    },
+    {
+      "id": "matrix-magnum-standing-arm-curl",
+      "name": {
+        "en": "Magnum Standing Arm Curl",
+        "fr": "Magnum Standing Arm Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-standing-arm-curl.jpg"
+    },
+    {
+      "id": "matrix-magnum-power-station",
+      "name": {
+        "en": "Magnum Power Station",
+        "fr": "Magnum Power Station"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-power-station.jpg"
+    },
+    {
+      "id": "matrix-magnum-adjustable-ab-bench",
+      "name": {
+        "en": "Magnum Adjustable Ab Bench",
+        "fr": "Magnum Adjustable Ab Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-adjustable-ab-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-squat-rack",
+      "name": {
+        "en": "Magnum Squat Rack",
+        "fr": "Magnum Squat Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-squat-rack.jpg"
+    },
+    {
+      "id": "matrix-magnum-multi-adjustable-bench-lp",
+      "name": {
+        "en": "Magnum Multi-adjustable Bench LP",
+        "fr": "Magnum Multi-adjustable Bench LP"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-multi-adjustable-bench-lp.jpg"
+    },
+    {
+      "id": "matrix-magnum-multi-adjustable-bench",
+      "name": {
+        "en": "Magnum Multi-adjustable Bench",
+        "fr": "Magnum Multi-adjustable Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-multi-adjustable-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-multi-adjustable-bench-w-decline",
+      "name": {
+        "en": "Magnum Multi-adjustable Bench w/Decline",
+        "fr": "Magnum Multi-adjustable Bench w/Decline"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-multi-adjustable-bench-w-decline.jpg"
+    },
+    {
+      "id": "matrix-magnum-utility-bench",
+      "name": {
+        "en": "Magnum Utility Bench",
+        "fr": "Magnum Utility Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-utility-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-glute-ham-bench",
+      "name": {
+        "en": "Magnum Glute Ham Bench",
+        "fr": "Magnum Glute Ham Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-glute-ham-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-olympic-shoulder-bench",
+      "name": {
+        "en": "Magnum Olympic Shoulder Bench",
+        "fr": "Magnum Olympic Shoulder Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-olympic-shoulder-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-breaker-olympic-shoulder-bench",
+      "name": {
+        "en": "Magnum Breaker Olympic Shoulder Bench",
+        "fr": "Magnum Breaker Olympic Shoulder Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-breaker-olympic-shoulder-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-olympic-flat-bench",
+      "name": {
+        "en": "Magnum Olympic Flat Bench",
+        "fr": "Magnum Olympic Flat Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-olympic-flat-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-olympic-flat-bench-w-safety-arms",
+      "name": {
+        "en": "Magnum Olympic Flat Bench w/Safety Arms",
+        "fr": "Magnum Olympic Flat Bench w/Safety Arms"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-olympic-flat-bench-w-safety-arms.jpg"
+    },
+    {
+      "id": "matrix-magnum-breaker-olympic-flat-bench",
+      "name": {
+        "en": "Magnum Breaker Olympic Flat Bench",
+        "fr": "Magnum Breaker Olympic Flat Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-breaker-olympic-flat-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-olympic-incline-bench",
+      "name": {
+        "en": "Magnum Olympic Incline Bench",
+        "fr": "Magnum Olympic Incline Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-olympic-incline-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-breaker-olympic-incline-bench",
+      "name": {
+        "en": "Magnum Breaker Olympic Incline Bench",
+        "fr": "Magnum Breaker Olympic Incline Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-breaker-olympic-incline-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-olympic-decline-bench",
+      "name": {
+        "en": "Magnum Olympic Decline Bench",
+        "fr": "Magnum Olympic Decline Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-olympic-decline-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-breaker-olympic-decline-bench",
+      "name": {
+        "en": "Magnum Breaker Olympic Decline Bench",
+        "fr": "Magnum Breaker Olympic Decline Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-breaker-olympic-decline-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-3-way-olympic-bench",
+      "name": {
+        "en": "Magnum 3-way Olympic Bench",
+        "fr": "Magnum 3-way Olympic Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-3-way-olympic-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-mi-back-trainer",
+      "name": {
+        "en": "Magnum MI Back Trainer",
+        "fr": "Magnum MI Back Trainer"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-mi-back-trainer.jpg"
+    },
+    {
+      "id": "matrix-magnum-vertical-bench-press",
+      "name": {
+        "en": "Magnum Vertical Bench Press",
+        "fr": "Magnum Vertical Bench Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-vertical-bench-press.jpg"
+    },
+    {
+      "id": "matrix-magnum-supine-bench-press",
+      "name": {
+        "en": "Magnum Supine Bench Press",
+        "fr": "Magnum Supine Bench Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-supine-bench-press.jpg"
+    },
+    {
+      "id": "matrix-magnum-incline-bench-press",
+      "name": {
+        "en": "Magnum Incline Bench Press",
+        "fr": "Magnum Incline Bench Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-incline-bench-press.jpg"
+    },
+    {
+      "id": "matrix-magnum-vertical-decline-bench-press",
+      "name": {
+        "en": "Magnum Vertical Decline Bench Press",
+        "fr": "Magnum Vertical Decline Bench Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-vertical-decline-bench-press.jpg"
+    },
+    {
+      "id": "matrix-magnum-shoulder-press",
+      "name": {
+        "en": "Magnum Shoulder Press",
+        "fr": "Magnum Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-shoulder-press.jpg"
+    },
+    {
+      "id": "matrix-magnum-lat-pulldown",
+      "name": {
+        "en": "Magnum Lat Pulldown",
+        "fr": "Magnum Lat Pulldown"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-lat-pulldown.jpg"
+    },
+    {
+      "id": "matrix-magnum-seated-row",
+      "name": {
+        "en": "Magnum Seated Row",
+        "fr": "Magnum Seated Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-seated-row.jpg"
+    },
+    {
+      "id": "matrix-magnum-t-bar-row",
+      "name": {
+        "en": "Magnum T-bar Row",
+        "fr": "Magnum T-bar Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-t-bar-row.jpg"
+    },
+    {
+      "id": "matrix-magnum-incline-lever-row",
+      "name": {
+        "en": "Magnum Incline Lever Row",
+        "fr": "Magnum Incline Lever Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-incline-lever-row.jpg"
+    },
+    {
+      "id": "matrix-magnum-high-row",
+      "name": {
+        "en": "Magnum High Row",
+        "fr": "Magnum High Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-high-row.jpg"
+    },
+    {
+      "id": "matrix-magnum-low-row",
+      "name": {
+        "en": "Magnum Low Row",
+        "fr": "Magnum Low Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-low-row.jpg"
+    },
+    {
+      "id": "matrix-magnum-elevated-biceps-curl",
+      "name": {
+        "en": "Magnum Elevated Biceps Curl",
+        "fr": "Magnum Elevated Biceps Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-elevated-biceps-curl.jpg"
+    },
+    {
+      "id": "matrix-magnum-ab-crunch-bench",
+      "name": {
+        "en": "Magnum Ab Crunch Bench",
+        "fr": "Magnum Ab Crunch Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-ab-crunch-bench.jpg"
+    },
+    {
+      "id": "matrix-magnum-smith-machine",
+      "name": {
+        "en": "Magnum Smith Machine",
+        "fr": "Magnum Smith Machine"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-smith-machine.jpg"
+    },
+    {
+      "id": "matrix-magnum-45-degree-leg-press",
+      "name": {
+        "en": "Magnum 45-degree Leg Press",
+        "fr": "Magnum 45-degree Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-45-degree-leg-press.jpg"
+    },
+    {
+      "id": "matrix-magnum-hack-squat",
+      "name": {
+        "en": "Magnum Hack Squat",
+        "fr": "Magnum Hack Squat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-hack-squat.jpg"
+    },
+    {
+      "id": "matrix-magnum-kneeling-leg-curl",
+      "name": {
+        "en": "Magnum Kneeling Leg Curl",
+        "fr": "Magnum Kneeling Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-kneeling-leg-curl.jpg"
+    },
+    {
+      "id": "matrix-magnum-reclining-leg-extension",
+      "name": {
+        "en": "Magnum Reclining Leg Extension",
+        "fr": "Magnum Reclining Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-reclining-leg-extension.jpg"
+    },
+    {
+      "id": "matrix-magnum-standing-calf",
+      "name": {
+        "en": "Magnum Standing Calf",
+        "fr": "Magnum Standing Calf"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-standing-calf.jpg"
+    },
+    {
+      "id": "matrix-magnum-seated-calf",
+      "name": {
+        "en": "Magnum Seated Calf",
+        "fr": "Magnum Seated Calf"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-seated-calf.jpg"
+    },
+    {
+      "id": "matrix-magnum-glute-trainer",
+      "name": {
+        "en": "Magnum Glute Trainer",
+        "fr": "Magnum Glute Trainer"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-glute-trainer.jpg"
+    },
+    {
+      "id": "matrix-magnum-squat-lunge",
+      "name": {
+        "en": "Magnum Squat / Lunge",
+        "fr": "Magnum Squat / Lunge"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-squat-lunge.jpg"
+    },
+    {
+      "id": "matrix-magnum-pendulum-squat",
+      "name": {
+        "en": "Magnum Pendulum Squat",
+        "fr": "Magnum Pendulum Squat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-pendulum-squat.jpg"
+    },
+    {
+      "id": "matrix-magnum-belt-squat",
+      "name": {
+        "en": "Magnum Belt Squat",
+        "fr": "Magnum Belt Squat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-belt-squat.jpg"
+    },
+    {
+      "id": "matrix-magnum-standing-hip-thrust",
+      "name": {
+        "en": "Magnum Standing Hip Thrust",
+        "fr": "Magnum Standing Hip Thrust"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-standing-hip-thrust.jpg"
+    },
+    {
+      "id": "matrix-magnum-reverse-back-extension",
+      "name": {
+        "en": "Magnum Reverse Back Extension",
+        "fr": "Magnum Reverse Back Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-reverse-back-extension.jpg"
+    },
+    {
+      "id": "matrix-magnum-mega-power-rack",
+      "name": {
+        "en": "Magnum MEGA Power Rack",
+        "fr": "Magnum MEGA Power Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-mega-power-rack.jpg"
+    },
+    {
+      "id": "matrix-magnum-mega-half-rack",
+      "name": {
+        "en": "Magnum MEGA Half Rack",
+        "fr": "Magnum MEGA Half Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-magnum-mega-half-rack.jpg"
+    },
+    {
+      "id": "matrix-chassis-de-puissance-configurable-magnum-pro",
+      "name": {
+        "en": "Châssis de puissance configurable Magnum PRO",
+        "fr": "Châssis de puissance configurable Magnum PRO"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-chassis-de-puissance-configurable-magnum-pro.jpg"
+    },
+    {
+      "id": "matrix-demi-chassis-configurable-magnum-pro",
+      "name": {
+        "en": "Demi-châssis configurable Magnum PRO",
+        "fr": "Demi-châssis configurable Magnum PRO"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-demi-chassis-configurable-magnum-pro.jpg"
+    },
+    {
+      "id": "matrix-double-demi-chassis-configurable-magnum-pro",
+      "name": {
+        "en": "Double demi-châssis configurable Magnum PRO",
+        "fr": "Double demi-châssis configurable Magnum PRO"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-double-demi-chassis-configurable-magnum-pro.jpg"
+    },
+    {
+      "id": "matrix-g1-adjustable-cable-crossover",
+      "name": {
+        "en": "G1 Adjustable Cable Crossover",
+        "fr": "G1 Adjustable Cable Crossover"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-adjustable-cable-crossover.jpg"
+    },
+    {
+      "id": "matrix-xult-3-stack-multi-gym",
+      "name": {
+        "en": "Xult 3-Stack Multi-Gym",
+        "fr": "Xult 3-Stack Multi-Gym"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-xult-3-stack-multi-gym.jpg"
+    },
+    {
+      "id": "matrix-g1-4-stack-multi-station",
+      "name": {
+        "en": "G1 4-stack Multi-Station",
+        "fr": "G1 4-stack Multi-Station"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-4-stack-multi-station.jpg"
+    },
+    {
+      "id": "matrix-g1-5-stack-multi-station",
+      "name": {
+        "en": "G1 5-stack Multi-Station",
+        "fr": "G1 5-stack Multi-Station"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-5-stack-multi-station.jpg"
+    },
+    {
+      "id": "matrix-g1-8-stack-multi-station",
+      "name": {
+        "en": "G1 8-stack Multi-Station",
+        "fr": "G1 8-stack Multi-Station"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-8-stack-multi-station.jpg"
+    },
+    {
+      "id": "matrix-g1-flat-bench",
+      "name": {
+        "en": "G1 Flat Bench",
+        "fr": "G1 Flat Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-flat-bench.jpg"
+    },
+    {
+      "id": "matrix-g1-adjustable-decline-bench",
+      "name": {
+        "en": "G1 Adjustable Decline Bench",
+        "fr": "G1 Adjustable Decline Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-adjustable-decline-bench.jpg"
+    },
+    {
+      "id": "matrix-g1-preacher-curl-bench",
+      "name": {
+        "en": "G1 Preacher Curl Bench",
+        "fr": "G1 Preacher Curl Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-preacher-curl-bench.jpg"
+    },
+    {
+      "id": "matrix-g1-utility-bench",
+      "name": {
+        "en": "G1 Utility Bench",
+        "fr": "G1 Utility Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-utility-bench.jpg"
+    },
+    {
+      "id": "matrix-g1-weight-rack",
+      "name": {
+        "en": "G1 Weight Rack",
+        "fr": "G1 Weight Rack"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-weight-rack.jpg"
+    },
+    {
+      "id": "matrix-xult-smith-machine",
+      "name": {
+        "en": "Xult Smith Machine",
+        "fr": "Xult Smith Machine"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-xult-smith-machine.jpg"
+    },
+    {
+      "id": "matrix-g1-back-extension-bench",
+      "name": {
+        "en": "G1 Back Extension Bench",
+        "fr": "G1 Back Extension Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-back-extension-bench.jpg"
+    },
+    {
+      "id": "matrix-g1-olympic-flat-bench",
+      "name": {
+        "en": "G1 Olympic Flat Bench",
+        "fr": "G1 Olympic Flat Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-olympic-flat-bench.jpg"
+    },
+    {
+      "id": "matrix-g1-olympic-incline-bench",
+      "name": {
+        "en": "G1 Olympic Incline Bench",
+        "fr": "G1 Olympic Incline Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-olympic-incline-bench.jpg"
+    },
+    {
+      "id": "matrix-g1-olympic-decline-bench",
+      "name": {
+        "en": "G1 Olympic Decline Bench",
+        "fr": "G1 Olympic Decline Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-g1-olympic-decline-bench.jpg"
+    },
+    {
+      "id": "matrix-go-series-chest-press",
+      "name": {
+        "en": "Go Series Chest Press",
+        "fr": "Go Series Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-chest-press.jpg"
+    },
+    {
+      "id": "matrix-go-series-shoulder-press",
+      "name": {
+        "en": "Go Series Shoulder Press",
+        "fr": "Go Series Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-shoulder-press.jpg"
+    },
+    {
+      "id": "matrix-go-series-lat-pulldown",
+      "name": {
+        "en": "Go Series Lat Pulldown",
+        "fr": "Go Series Lat Pulldown"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-lat-pulldown.jpg"
+    },
+    {
+      "id": "matrix-go-series-seated-row",
+      "name": {
+        "en": "Go Series Seated Row",
+        "fr": "Go Series Seated Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-seated-row.jpg"
+    },
+    {
+      "id": "matrix-go-series-biceps-curl",
+      "name": {
+        "en": "Go Series Biceps Curl",
+        "fr": "Go Series Biceps Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-biceps-curl.jpg"
+    },
+    {
+      "id": "matrix-go-series-seated-triceps-press",
+      "name": {
+        "en": "Go Series Seated Triceps Press",
+        "fr": "Go Series Seated Triceps Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-seated-triceps-press.jpg"
+    },
+    {
+      "id": "matrix-go-series-abdominal",
+      "name": {
+        "en": "Go Series Abdominal",
+        "fr": "Go Series Abdominal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-abdominal.jpg"
+    },
+    {
+      "id": "matrix-go-series-leg-press",
+      "name": {
+        "en": "Go Series Leg Press",
+        "fr": "Go Series Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-leg-press.jpg"
+    },
+    {
+      "id": "matrix-go-series-leg-extension",
+      "name": {
+        "en": "Go Series Leg Extension",
+        "fr": "Go Series Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-leg-extension.jpg"
+    },
+    {
+      "id": "matrix-go-series-seated-leg-curl",
+      "name": {
+        "en": "Go Series Seated Leg Curl",
+        "fr": "Go Series Seated Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-seated-leg-curl.jpg"
+    },
+    {
+      "id": "matrix-go-series-adjustable-bench",
+      "name": {
+        "en": "Go Series Adjustable Bench",
+        "fr": "Go Series Adjustable Bench"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-adjustable-bench.jpg"
+    },
+    {
+      "id": "matrix-go-series-functional-trainer",
+      "name": {
+        "en": "Go Series Functional Trainer",
+        "fr": "Go Series Functional Trainer"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-go-series-functional-trainer.jpg"
+    },
+    {
+      "id": "matrix-ultra-converging-chest-press",
+      "name": {
+        "en": "Ultra Converging Chest Press",
+        "fr": "Ultra Converging Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-converging-chest-press.jpg"
+    },
+    {
+      "id": "matrix-ultra-lateral-raise",
+      "name": {
+        "en": "Ultra Lateral Raise",
+        "fr": "Ultra Lateral Raise"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-lateral-raise.jpg"
+    },
+    {
+      "id": "matrix-ultra-pec-fly-rear-delt",
+      "name": {
+        "en": "Ultra Pec Fly / Rear Delt",
+        "fr": "Ultra Pec Fly / Rear Delt"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-pec-fly-rear-delt.jpg"
+    },
+    {
+      "id": "matrix-ultra-converging-shoulder-press",
+      "name": {
+        "en": "Ultra Converging Shoulder Press",
+        "fr": "Ultra Converging Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-converging-shoulder-press.jpg"
+    },
+    {
+      "id": "matrix-ultra-diverging-lat-pulldown",
+      "name": {
+        "en": "Ultra Diverging Lat Pulldown",
+        "fr": "Ultra Diverging Lat Pulldown"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-diverging-lat-pulldown.jpg"
+    },
+    {
+      "id": "matrix-ultra-diverging-seated-row",
+      "name": {
+        "en": "Ultra Diverging Seated Row",
+        "fr": "Ultra Diverging Seated Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-diverging-seated-row.jpg"
+    },
+    {
+      "id": "matrix-ultra-independent-biceps-curl",
+      "name": {
+        "en": "Ultra Independent Biceps Curl",
+        "fr": "Ultra Independent Biceps Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-independent-biceps-curl.jpg"
+    },
+    {
+      "id": "matrix-ultra-dependent-arm-curl",
+      "name": {
+        "en": "Ultra Dependent Arm Curl",
+        "fr": "Ultra Dependent Arm Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-dependent-arm-curl.jpg"
+    },
+    {
+      "id": "matrix-ultra-triceps-press",
+      "name": {
+        "en": "Ultra Triceps Press",
+        "fr": "Ultra Triceps Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-triceps-press.jpg"
+    },
+    {
+      "id": "matrix-ultra-triceps-extension",
+      "name": {
+        "en": "Ultra Triceps Extension",
+        "fr": "Ultra Triceps Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-triceps-extension.jpg"
+    },
+    {
+      "id": "matrix-ultra-abdominal-crunch",
+      "name": {
+        "en": "Ultra Abdominal Crunch",
+        "fr": "Ultra Abdominal Crunch"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-abdominal-crunch.jpg"
+    },
+    {
+      "id": "matrix-ultra-back-extension",
+      "name": {
+        "en": "Ultra Back Extension",
+        "fr": "Ultra Back Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-back-extension.jpg"
+    },
+    {
+      "id": "matrix-ultra-rotary-torso",
+      "name": {
+        "en": "Ultra Rotary Torso",
+        "fr": "Ultra Rotary Torso"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-rotary-torso.jpg"
+    },
+    {
+      "id": "matrix-ultra-leg-press",
+      "name": {
+        "en": "Ultra Leg Press",
+        "fr": "Ultra Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-leg-press.jpg"
+    },
+    {
+      "id": "matrix-ultra-leg-extension",
+      "name": {
+        "en": "Ultra Leg Extension",
+        "fr": "Ultra Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-leg-extension.jpg"
+    },
+    {
+      "id": "matrix-ultra-seated-leg-curl",
+      "name": {
+        "en": "Ultra Seated Leg Curl",
+        "fr": "Ultra Seated Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-seated-leg-curl.jpg"
+    },
+    {
+      "id": "matrix-ultra-prone-leg-curl",
+      "name": {
+        "en": "Ultra Prone Leg Curl",
+        "fr": "Ultra Prone Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-prone-leg-curl.jpg"
+    },
+    {
+      "id": "matrix-ultra-hip-adductor",
+      "name": {
+        "en": "Ultra Hip Adductor",
+        "fr": "Ultra Hip Adductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-hip-adductor.jpg"
+    },
+    {
+      "id": "matrix-ultra-hip-abductor",
+      "name": {
+        "en": "Ultra Hip Abductor",
+        "fr": "Ultra Hip Abductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-hip-abductor.jpg"
+    },
+    {
+      "id": "matrix-ultra-calf-extension",
+      "name": {
+        "en": "Ultra Calf Extension",
+        "fr": "Ultra Calf Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-calf-extension.jpg"
+    },
+    {
+      "id": "matrix-ultra-glute",
+      "name": {
+        "en": "Ultra Glute",
+        "fr": "Ultra Glute"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-glute.jpg"
+    },
+    {
+      "id": "matrix-ultra-hip-thrust",
+      "name": {
+        "en": "Ultra Hip Thrust",
+        "fr": "Ultra Hip Thrust"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-ultra-hip-thrust.jpg"
+    },
+    {
+      "id": "matrix-xult-perfect-squat",
+      "name": {
+        "en": "Xult Perfect Squat",
+        "fr": "Xult Perfect Squat"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-xult-perfect-squat.jpg"
+    },
+    {
+      "id": "matrix-xult-leg-extension",
+      "name": {
+        "en": "Xult Leg Extension",
+        "fr": "Xult Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-xult-leg-extension.jpg"
+    },
+    {
+      "id": "matrix-xult-prone-leg-curl",
+      "name": {
+        "en": "Xult Prone Leg Curl",
+        "fr": "Xult Prone Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-xult-prone-leg-curl.jpg"
+    },
+    {
+      "id": "matrix-xult-biceps-curl",
+      "name": {
+        "en": "Xult Biceps Curl",
+        "fr": "Xult Biceps Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-xult-biceps-curl.jpg"
+    },
+    {
+      "id": "matrix-xult-triceps-extension",
+      "name": {
+        "en": "Xult Triceps Extension",
+        "fr": "Xult Triceps Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-xult-triceps-extension.jpg"
+    },
+    {
+      "id": "matrix-xult-angled-smith-machine",
+      "name": {
+        "en": "Xult Angled Smith Machine",
+        "fr": "Xult Angled Smith Machine"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-xult-angled-smith-machine.jpg"
+    },
+    {
+      "id": "matrix-versa-converging-chest-press",
+      "name": {
+        "en": "Versa Converging Chest Press",
+        "fr": "Versa Converging Chest Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-converging-chest-press.jpg"
+    },
+    {
+      "id": "matrix-versa-pec-fly-rear-delt",
+      "name": {
+        "en": "Versa Pec Fly / Rear Delt",
+        "fr": "Versa Pec Fly / Rear Delt"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-pec-fly-rear-delt.jpg"
+    },
+    {
+      "id": "matrix-versa-converging-shoulder-press",
+      "name": {
+        "en": "Versa Converging Shoulder Press",
+        "fr": "Versa Converging Shoulder Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-converging-shoulder-press.jpg"
+    },
+    {
+      "id": "matrix-versa-diverging-lat-pulldown",
+      "name": {
+        "en": "Versa Diverging Lat Pulldown",
+        "fr": "Versa Diverging Lat Pulldown"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-diverging-lat-pulldown.jpg"
+    },
+    {
+      "id": "matrix-versa-diverging-seated-row",
+      "name": {
+        "en": "Versa Diverging Seated Row",
+        "fr": "Versa Diverging Seated Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-diverging-seated-row.jpg"
+    },
+    {
+      "id": "matrix-versa-bicep-curl",
+      "name": {
+        "en": "Versa Bicep Curl",
+        "fr": "Versa Bicep Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-bicep-curl.jpg"
+    },
+    {
+      "id": "matrix-versa-triceps-press",
+      "name": {
+        "en": "Versa Triceps Press",
+        "fr": "Versa Triceps Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-triceps-press.jpg"
+    },
+    {
+      "id": "matrix-versa-back-extension",
+      "name": {
+        "en": "Versa Back Extension",
+        "fr": "Versa Back Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-back-extension.jpg"
+    },
+    {
+      "id": "matrix-versa-abdominal",
+      "name": {
+        "en": "Versa Abdominal",
+        "fr": "Versa Abdominal"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-abdominal.jpg"
+    },
+    {
+      "id": "matrix-versa-leg-press-calf-press",
+      "name": {
+        "en": "Versa Leg Press / Calf Press",
+        "fr": "Versa Leg Press / Calf Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-leg-press-calf-press.jpg"
+    },
+    {
+      "id": "matrix-versa-leg-extension",
+      "name": {
+        "en": "Versa Leg Extension",
+        "fr": "Versa Leg Extension"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-leg-extension.jpg"
+    },
+    {
+      "id": "matrix-versa-seated-leg-curl",
+      "name": {
+        "en": "Versa Seated Leg Curl",
+        "fr": "Versa Seated Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-seated-leg-curl.jpg"
+    },
+    {
+      "id": "matrix-versa-hip-abductor-adductor",
+      "name": {
+        "en": "Versa Hip Abductor / Adductor",
+        "fr": "Versa Hip Abductor / Adductor"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-hip-abductor-adductor.jpg"
+    },
+    {
+      "id": "matrix-versa-glute",
+      "name": {
+        "en": "Versa Glute",
+        "fr": "Versa Glute"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-glute.jpg"
+    },
+    {
+      "id": "matrix-versa-multi-press",
+      "name": {
+        "en": "Versa Multi Press",
+        "fr": "Versa Multi Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-multi-press.jpg"
+    },
+    {
+      "id": "matrix-versa-lat-pulldown-seated-row",
+      "name": {
+        "en": "Versa Lat Pulldown / Seated Row",
+        "fr": "Versa Lat Pulldown / Seated Row"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-lat-pulldown-seated-row.jpg"
+    },
+    {
+      "id": "matrix-versa-bicep-tricep",
+      "name": {
+        "en": "Versa Bicep / Tricep",
+        "fr": "Versa Bicep / Tricep"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-bicep-tricep.jpg"
+    },
+    {
+      "id": "matrix-versa-ab-low-back",
+      "name": {
+        "en": "Versa Ab / Low Back",
+        "fr": "Versa Ab / Low Back"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-ab-low-back.jpg"
+    },
+    {
+      "id": "matrix-versa-chin-dip-assist",
+      "name": {
+        "en": "Versa Chin / Dip Assist",
+        "fr": "Versa Chin / Dip Assist"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-chin-dip-assist.jpg"
+    },
+    {
+      "id": "matrix-versa-leg-extension-leg-curl",
+      "name": {
+        "en": "Versa Leg Extension / Leg Curl",
+        "fr": "Versa Leg Extension / Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-leg-extension-leg-curl.jpg"
+    },
+    {
+      "id": "matrix-versa-md-adjustable-pulley",
+      "name": {
+        "en": "Versa MD Adjustable Pulley",
+        "fr": "Versa MD Adjustable Pulley"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-md-adjustable-pulley.jpg"
+    },
+    {
+      "id": "matrix-versa-md-leg-press",
+      "name": {
+        "en": "Versa MD Leg Press",
+        "fr": "Versa MD Leg Press"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-md-leg-press.jpg"
+    },
+    {
+      "id": "matrix-versa-md-leg-extension-leg-curl",
+      "name": {
+        "en": "Versa MD Leg Extension / Leg Curl",
+        "fr": "Versa MD Leg Extension / Leg Curl"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-md-leg-extension-leg-curl.jpg"
+    },
+    {
+      "id": "matrix-versa-functional-trainer-w-30-storage",
+      "name": {
+        "en": "Versa Functional Trainer w/30\" Storage",
+        "fr": "Versa Functional Trainer w/30\" Storage"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-functional-trainer-w-30-storage.jpg"
+    },
+    {
+      "id": "matrix-versa-functional-trainer-w-18-storage",
+      "name": {
+        "en": "Versa Functional Trainer w/18\" Storage",
+        "fr": "Versa Functional Trainer w/18\" Storage"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/media/media/matrix-versa-functional-trainer-w-18-storage.jpg"
+    }
+  ],
+  "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/equipment.zip"
+}

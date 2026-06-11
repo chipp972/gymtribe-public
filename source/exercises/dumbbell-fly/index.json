@@ -1,0 +1,21 @@
+{
+  "id": "dumbbell-fly",
+  "name": {
+    "en": "Dumbbell Fly",
+    "fr": "Écarté haltères"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "chest",
+      "role": "primary"
+    },
+    {
+      "name": "shoulders",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "dumbbell"
+  ]
+}

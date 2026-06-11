@@ -1,0 +1,25 @@
+{
+  "id": "overhead-press",
+  "name": {
+    "en": "Overhead Press",
+    "fr": "Développé militaire"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "shoulders",
+      "role": "primary"
+    },
+    {
+      "name": "triceps",
+      "role": "secondary"
+    },
+    {
+      "name": "core",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "donkey-calf-raise",
+  "name": {
+    "en": "Donkey Calf Raise",
+    "fr": "Donkey calf raise"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "calves",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "glute-ham-raise",
+  "name": {
+    "en": "Glute-Ham Raise",
+    "fr": "Élévation ischio-fessiers"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "hamstrings",
+      "role": "primary"
+    },
+    {
+      "name": "glutes",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

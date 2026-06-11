@@ -1,0 +1,21 @@
+{
+  "id": "face-pull",
+  "name": {
+    "en": "Face Pull",
+    "fr": "Face pull"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "back",
+      "role": "primary"
+    },
+    {
+      "name": "shoulders",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "cable"
+  ]
+}

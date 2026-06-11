@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/5726682/5726682-hd_1366_720_25fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Lie on a flat bench, holding the bar overhead with arms extended in an overhand grip. Bend the elbows to lower the bar toward the forehead (or slightly behind the head). Keep the elbows fixed and pointed toward the ceiling. Press up while exhaling to return. Perfect isolation of the triceps.",
+        "fr": "Allongé sur un banc plat, barre tenue en pronation, bras tendus au-dessus de la poitrine. Pliez les coudes pour descendre la barre vers le front (ou légèrement derrière la tête). Gardez les coudes fixes et pointés vers le plafond. Poussez en expirant pour revenir. Isolement parfait des triceps."
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "crunch",
+  "name": {
+    "en": "Crunch",
+    "fr": "Crunch"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "core",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

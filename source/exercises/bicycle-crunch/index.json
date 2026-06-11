@@ -1,0 +1,17 @@
+{
+  "id": "bicycle-crunch",
+  "name": {
+    "en": "Bicycle Crunch",
+    "fr": "Crunch bicycle"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "core",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

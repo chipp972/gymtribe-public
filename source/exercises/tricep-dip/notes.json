@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/4159114/4159114-hd_1080_1920_24fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Grip the parallel bars with the torso upright and vertical. Lower by bending the elbows to about 90°. Press up while exhaling to return to the starting position. To target the triceps, keep the torso vertical and elbows close to the body (unlike chest dips where you lean forward).",
+        "fr": "Saisissez les barres parallèles, corps vertical, buste droit. Descendez en fléchissant les coudes jusqu'à ce que les bras soient à 90°. Poussez en expirant pour revenir à la position initiale. Pour cibler les triceps, gardez le buste vertical et les coudes près du corps (contrairement aux dips pectoraux où on se penche en avant)."
+      }
+    }
+  ]
+}

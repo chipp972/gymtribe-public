@@ -1,0 +1,27 @@
+{
+  "name": "gymtribe-public",
+  "version": "1.0.0",
+  "description": "Landing page and public data for [GymTribe](https://github.com/chipp972/gymtribe-public) — a mobile fitness app for workout tracking, nutrition logging, and structured training programs.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chipp972/gymtribe-public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chipp972/gymtribe-public/issues"
+  },
+  "homepage": "https://github.com/chipp972/gymtribe-public#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.17"
+  },
+  "devDependencies": {
+    "husky": "^9"
+  }
+}

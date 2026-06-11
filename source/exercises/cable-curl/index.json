@@ -1,0 +1,21 @@
+{
+  "id": "cable-curl",
+  "name": {
+    "en": "Cable Curl",
+    "fr": "Curl poulie"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "biceps",
+      "role": "primary"
+    },
+    {
+      "name": "forearms",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "cable"
+  ]
+}

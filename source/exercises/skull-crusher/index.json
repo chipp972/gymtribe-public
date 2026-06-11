@@ -1,0 +1,17 @@
+{
+  "id": "skull-crusher",
+  "name": {
+    "en": "Skull Crusher",
+    "fr": "Barre au front"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "triceps",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

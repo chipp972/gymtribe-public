@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/11075640/11075640-hd_1280_720_24fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Seated, forearms resting on thighs with palms facing down. Hold the bar and extend the wrists upward (dorsiflexion). This targets the forearm extensors and improves muscular balance to prevent elbow injuries. Lower slowly and under control.",
+        "fr": "Assis sur un banc, avant-bras posés sur les cuisses, paumes vers le bas. Tenez la barre et fléchissez les poignets vers le haut (extension dorsale). Cible les extenseurs des avant-bras et améliore l'équilibre musculaire pour prévenir les blessures de coude. Descendez lentement."
+      }
+    }
+  ]
+}

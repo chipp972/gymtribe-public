@@ -1,0 +1,25 @@
+{
+  "id": "incline-bench-press",
+  "name": {
+    "en": "Incline Bench Press",
+    "fr": "Développé incliné"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "chest",
+      "role": "primary"
+    },
+    {
+      "name": "shoulders",
+      "role": "secondary"
+    },
+    {
+      "name": "triceps",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

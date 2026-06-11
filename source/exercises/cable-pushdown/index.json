@@ -1,0 +1,21 @@
+{
+  "id": "cable-pushdown",
+  "name": {
+    "en": "Cable Pushdown",
+    "fr": "Pushdown poulie haute"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "triceps",
+      "role": "primary"
+    },
+    {
+      "name": "forearms",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "cable"
+  ]
+}

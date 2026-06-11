@@ -1,0 +1,17 @@
+{
+  "id": "wrist-curl",
+  "name": {
+    "en": "Wrist Curl",
+    "fr": "Curl poignet"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "forearms",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

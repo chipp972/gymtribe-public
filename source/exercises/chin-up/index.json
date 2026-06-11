@@ -1,0 +1,21 @@
+{
+  "id": "chin-up",
+  "name": {
+    "en": "Chin-Up",
+    "fr": "Traction supination"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "biceps",
+      "role": "primary"
+    },
+    {
+      "name": "back",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "bodyweight"
+  ]
+}

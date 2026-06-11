@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/998e8f21-2bda-49d8-a773-b59c316d022d"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Stand with the bar held in a supinated (underhand) grip, arms extended at your sides. Bend the elbows to curl the bar toward your shoulders without moving the elbows. Squeeze the biceps at the top. Lower slowly, resisting the weight. Keep your torso upright and elbows fixed at your sides.",
+        "fr": "Debout, barre tenue en supination (paumes vers le haut), bras tendus le long du corps. Pliez les coudes pour ramener la barre vers les épaules sans bouger les coudes. Contractez les biceps en haut. Descendez lentement en résistant au poids. Gardez le buste droit et les coudes fixes sur les côtés du corps."
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "reverse-fly",
+  "name": {
+    "en": "Reverse Fly",
+    "fr": "Écarté inversé"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "shoulders",
+      "role": "primary"
+    },
+    {
+      "name": "back",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "dumbbell"
+  ]
+}

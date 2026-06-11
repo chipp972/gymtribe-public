@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/1cce8f37-dd9f-442f-995e-be02b98a35ad"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Stand tall with dumbbells at your sides, elbows slightly bent. Raise your arms out to the sides to shoulder height, thumbs slightly down (as if pouring a glass). Do not raise above shoulder level to protect the joints. Lower slowly over 3-4 seconds. Avoid swinging the torso.",
+        "fr": "Debout, haltères le long du corps, coudes légèrement fléchis. Levez les bras sur les côtés jusqu'à hauteur des épaules, pouces légèrement vers le bas (comme si vous versiez un verre). Ne montez pas au-delà des épaules pour préserver les articulations. Descendez lentement en 3-4 secondes. Évitez de vous balancer avec le tronc."
+      }
+    }
+  ]
+}

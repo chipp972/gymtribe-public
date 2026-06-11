@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/34a512bf-baa1-48ac-a5b9-132073166018"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Lying or seated on the machine, legs nearly extended under the pad. Curl the heels toward the glutes, squeezing the hamstrings at full flexion. Lower slowly, resisting the weight. Avoid raising the hips during the movement.",
+        "fr": "Allongé sur la machine (ou assis selon le modèle), jambes presque tendues sous l'appui. Fléchissez les genoux pour ramener les talons vers les fessiers. Contractez les ischio-jambiers en fin de mouvement. Descendez lentement en résistant au poids. Évitez de soulever les hanches lors du mouvement."
+      }
+    }
+  ]
+}

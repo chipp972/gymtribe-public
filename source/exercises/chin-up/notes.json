@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://videos.pexels.com/video-files/7672118/7672118-hd_1366_720_25fps.mp4"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Grip the bar underhand (supinated), hands at shoulder-width. Pull your body upward until your chin clears the bar. The underhand grip recruits the biceps more than the overhand pull-up. Lower slowly and with control. Exhale on the way up.",
+        "fr": "Saisissez la barre en supination (paumes vers vous), mains à largeur d'épaules. Tirez le corps vers le haut en amenant le menton au-dessus de la barre. La prise en supination engage davantage les biceps que la prise en pronation. Descendez lentement en contrôlant. Expirez à la montée."
+      }
+    }
+  ]
+}

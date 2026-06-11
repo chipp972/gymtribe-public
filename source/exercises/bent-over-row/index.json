@@ -1,0 +1,25 @@
+{
+  "id": "bent-over-row",
+  "name": {
+    "en": "Bent-Over Row",
+    "fr": "Rowing barre"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "back",
+      "role": "primary"
+    },
+    {
+      "name": "biceps",
+      "role": "secondary"
+    },
+    {
+      "name": "shoulders",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

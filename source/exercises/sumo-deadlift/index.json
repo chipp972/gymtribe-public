@@ -1,0 +1,25 @@
+{
+  "id": "sumo-deadlift",
+  "name": {
+    "en": "Sumo Deadlift",
+    "fr": "Soulevé de terre sumo"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "glutes",
+      "role": "primary"
+    },
+    {
+      "name": "hamstrings",
+      "role": "secondary"
+    },
+    {
+      "name": "back",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "barbell"
+  ]
+}

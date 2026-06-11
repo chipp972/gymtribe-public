@@ -1,0 +1,17 @@
+{
+  "id": "front-raise",
+  "name": {
+    "en": "Front Raise",
+    "fr": "Élévations frontales"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "shoulders",
+      "role": "primary"
+    }
+  ],
+  "equipment": [
+    "dumbbell"
+  ]
+}

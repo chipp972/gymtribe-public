@@ -1,0 +1,21 @@
+{
+  "id": "lat-pulldown",
+  "name": {
+    "en": "Lat Pulldown",
+    "fr": "Tirage vertical"
+  },
+  "archetype": "performance",
+  "muscles": [
+    {
+      "name": "back",
+      "role": "primary"
+    },
+    {
+      "name": "biceps",
+      "role": "secondary"
+    }
+  ],
+  "equipment": [
+    "cable"
+  ]
+}

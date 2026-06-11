@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "noteType": "url",
+      "title": {
+        "en": "exercise execution",
+        "fr": "exercise execution"
+      },
+      "url": "https://ymove.app/api/free/ed1ca95e-2642-4551-a477-17485e486bfc"
+    },
+    {
+      "noteType": "description",
+      "title": {
+        "en": "setup",
+        "fr": "setup"
+      },
+      "description": {
+        "en": "Sit at the machine with thighs secured under the pads. Grip the bar overhand, wider than shoulder-width. Pull the bar down toward the upper chest, driving the elbows down and back. Retract the shoulder blades. Return slowly and with control. Exhale as the bar descends.",
+        "fr": "Assis à la machine, cuisse bloquées sous les appuis. Saisissez la barre en pronation, mains plus larges que les épaules. Tirez la barre vers le haut de la poitrine en amenant les coudes vers le bas et vers l'arrière. Rétractez les omoplates. Remontez lentement en contrôlant. Expirez à la descente de la barre."
+      }
+    }
+  ]
+}
