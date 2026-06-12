@@ -7,6 +7,27 @@
     }
   },
   {
+    "id": "upper-chest",
+    "name": {
+      "en": "Upper Chest",
+      "fr": "Pectoral supérieur"
+    }
+  },
+  {
+    "id": "mid-chest",
+    "name": {
+      "en": "Mid Chest",
+      "fr": "Pectoral médial"
+    }
+  },
+  {
+    "id": "lower-chest",
+    "name": {
+      "en": "Lower Chest",
+      "fr": "Pectoral inférieur"
+    }
+  },
+  {
     "id": "back",
     "name": {
       "en": "Back",
@@ -14,10 +35,66 @@
     }
   },
   {
+    "id": "traps",
+    "name": {
+      "en": "Traps",
+      "fr": "Trapèzes"
+    }
+  },
+  {
+    "id": "upper-back",
+    "name": {
+      "en": "Upper Back",
+      "fr": "Haut du dos"
+    }
+  },
+  {
+    "id": "mid-back",
+    "name": {
+      "en": "Mid Back",
+      "fr": "Milieu du dos"
+    }
+  },
+  {
+    "id": "lats",
+    "name": {
+      "en": "Lats",
+      "fr": "Dorsaux"
+    }
+  },
+  {
+    "id": "lower-back",
+    "name": {
+      "en": "Lower Back",
+      "fr": "Bas du dos"
+    }
+  },
+  {
     "id": "shoulders",
     "name": {
       "en": "Shoulders",
       "fr": "Épaules"
+    }
+  },
+  {
+    "id": "front-delt",
+    "name": {
+      "en": "Front Delt",
+      "fr": "Deltoïde antérieur"
+    }
+  },
+  {
+    "id": "side-delt",
+    "name": {
+      "en": "Side Delt",
+      "fr": "Deltoïde latéral"
+    }
+  },
+  {
+    "id": "rear-delt",
+    "name": {
+      "en": "Rear Delt",
+      "fr": "Deltoïde postérieur"
     }
   },
   {
@@ -60,6 +137,48 @@
     "name": {
       "en": "Glutes",
       "fr": "Fessiers"
+    }
+  },
+  {
+    "id": "glute-max",
+    "name": {
+      "en": "Glute Max",
+      "fr": "Grand fessier"
+    }
+  },
+  {
+    "id": "glute-med",
+    "name": {
+      "en": "Glute Med",
+      "fr": "Moyen fessier"
+    }
+  },
+  {
+    "id": "glute-min",
+    "name": {
+      "en": "Glute Min",
+      "fr": "Petit fessier"
+    }
+  },
+  {
+    "id": "adductors",
+    "name": {
+      "en": "Adductors",
+      "fr": "Adducteurs"
+    }
+  },
+  {
+    "id": "abductors",
+    "name": {
+      "en": "Abductors",
+      "fr": "Abducteurs"
+    }
+  },
+  {
+    "id": "hip-flexors",
+    "name": {
+      "en": "Hip Flexors",
+      "fr": "Fléchisseurs de hanche"
     }
   },
   {

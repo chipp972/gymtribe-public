@@ -12,36 +12,6 @@
       "brand": null
     },
     {
-      "id": "abdominal-mat",
-      "name": {
-        "en": "Abdominal Mat",
-        "fr": "Abdominal Mat"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/abdominal-mat/media/abdominal-mat.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/abdominal-mat.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "accessory-storage-rope",
-      "name": {
-        "en": "Accessory Storage Rope",
-        "fr": "Accessory Storage Rope"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/accessory-storage-rope/media/accessory-storage-rope.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/accessory-storage-rope.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "accessory-storage-stick",
-      "name": {
-        "en": "Accessory Storage Stick",
-        "fr": "Accessory Storage Stick"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/accessory-storage-stick/media/accessory-storage-stick.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/accessory-storage-stick.equipment.zip",
-      "brand": null
-    },
-    {
       "id": "adjustable-bench",
       "name": {
         "en": "Adjustable Bench",
@@ -49,7 +19,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/adjustable-bench/media/adjustable-bench.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/adjustable-bench.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "adjustable-bench-pure-strength",
@@ -59,7 +29,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/adjustable-bench-pure-strength/media/adjustable-bench-pure-strength.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/adjustable-bench-pure-strength.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "adjustable-decline-ab-crunch-pure-strength",
@@ -69,7 +39,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/adjustable-decline-ab-crunch-pure-strength/media/adjustable-decline-ab-crunch-pure-strength.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/adjustable-decline-ab-crunch-pure-strength.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "adjustable-pulley",
@@ -109,7 +79,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-abductor/media/artis-abductor.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-abductor.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-adductor",
@@ -119,7 +89,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-adductor/media/artis-adductor.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-adductor.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-arm-curl",
@@ -129,7 +99,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-arm-curl/media/artis-arm-curl.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-arm-curl.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-arm-extension",
@@ -139,7 +109,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-arm-extension/media/artis-arm-extension.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-arm-extension.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-bike",
@@ -149,7 +119,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-bike/media/artis-bike.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-bike.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-chest-press",
@@ -159,7 +129,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-chest-press/media/artis-chest-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-chest-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-climb",
@@ -169,7 +139,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-climb/media/artis-climb.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-climb.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-lat-machine",
@@ -179,7 +149,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-lat-machine/media/artis-lat-machine.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-lat-machine.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-leg-curl",
@@ -189,7 +159,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-leg-curl/media/artis-leg-curl.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-leg-curl.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-leg-extension",
@@ -199,7 +169,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-leg-extension/media/artis-leg-extension.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-leg-extension.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-leg-press",
@@ -209,7 +179,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-leg-press/media/artis-leg-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-leg-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-low-row",
@@ -219,7 +189,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-low-row/media/artis-low-row.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-low-row.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-lower-back",
@@ -229,7 +199,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-lower-back/media/artis-lower-back.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-lower-back.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-multi-hip",
@@ -239,7 +209,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-multi-hip/media/artis-multi-hip.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-multi-hip.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-pectoral",
@@ -249,7 +219,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-pectoral/media/artis-pectoral.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-pectoral.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-rear-delt-row",
@@ -259,7 +229,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-rear-delt-row/media/artis-rear-delt-row.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-rear-delt-row.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-recline",
@@ -269,7 +239,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-recline/media/artis-recline.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-recline.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-rotary-torso",
@@ -279,7 +249,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-rotary-torso/media/artis-rotary-torso.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-rotary-torso.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-run",
@@ -289,7 +259,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-run/media/artis-run.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-run.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-shoulder-press",
@@ -299,7 +269,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-shoulder-press/media/artis-shoulder-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-shoulder-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-squat",
@@ -309,7 +279,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-squat/media/artis-squat.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-squat.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-synchro",
@@ -319,7 +289,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-synchro/media/artis-synchro.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-synchro.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-total-abdominal",
@@ -329,7 +299,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-total-abdominal/media/artis-total-abdominal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-total-abdominal.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-vario",
@@ -339,7 +309,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-vario/media/artis-vario.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-vario.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "artis-vertical-traction",
@@ -349,7 +319,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/artis-vertical-traction/media/artis-vertical-traction.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/artis-vertical-traction.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "balance-dome",
@@ -379,17 +349,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/bench-personal/media/bench-personal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/bench-personal.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "bike-pedals",
-      "name": {
-        "en": "Bike Pedals",
-        "fr": "Bike Pedals"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/bike-pedals/media/bike-pedals.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/bike-pedals.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "bike-personal",
@@ -399,7 +359,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/bike-personal/media/bike-personal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/bike-personal.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "bike-rev",
@@ -409,17 +369,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/bike-rev/media/bike-rev.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/bike-rev.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "bike-weights",
-      "name": {
-        "en": "Bike Weights",
-        "fr": "Bike Weights"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/bike-weights/media/bike-weights.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/bike-weights.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-abductor",
@@ -429,7 +379,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-abductor/media/biostrength-abductor.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-abductor.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-adductor",
@@ -439,7 +389,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-adductor/media/biostrength-adductor.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-adductor.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-arm-curl",
@@ -449,7 +399,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-arm-curl/media/biostrength-arm-curl.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-arm-curl.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-arm-extension",
@@ -459,7 +409,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-arm-extension/media/biostrength-arm-extension.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-arm-extension.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-chest-press",
@@ -469,7 +419,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-chest-press/media/biostrength-chest-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-chest-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-leg-curl",
@@ -479,7 +429,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-leg-curl/media/biostrength-leg-curl.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-leg-curl.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-leg-extension",
@@ -489,7 +439,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-leg-extension/media/biostrength-leg-extension.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-leg-extension.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-leg-press",
@@ -499,7 +449,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-leg-press/media/biostrength-leg-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-leg-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-low-row",
@@ -509,7 +459,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-low-row/media/biostrength-low-row.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-low-row.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-lower-back",
@@ -519,7 +469,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-lower-back/media/biostrength-lower-back.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-lower-back.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-pectoral",
@@ -529,7 +479,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-pectoral/media/biostrength-pectoral.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-pectoral.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-reverse-fly",
@@ -539,7 +489,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-reverse-fly/media/biostrength-reverse-fly.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-reverse-fly.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-shoulder-press",
@@ -549,7 +499,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-shoulder-press/media/biostrength-shoulder-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-shoulder-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-total-abdominal",
@@ -559,7 +509,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-total-abdominal/media/biostrength-total-abdominal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-total-abdominal.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "biostrength-vertical-traction",
@@ -569,17 +519,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/biostrength-vertical-traction/media/biostrength-vertical-traction.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/biostrength-vertical-traction.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "bouteille-isotherme-600-ml",
-      "name": {
-        "en": "Bouteille isotherme 600 ml",
-        "fr": "Bouteille isotherme 600 ml"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/bouteille-isotherme-600-ml/media/bouteille-isotherme-600-ml.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/bouteille-isotherme-600-ml.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "bumper-plate",
@@ -712,16 +652,6 @@
       "brand": null
     },
     {
-      "id": "colliers-de-serrage",
-      "name": {
-        "en": "Colliers de serrage",
-        "fr": "Colliers de serrage"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/colliers-de-serrage/media/colliers-de-serrage.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/colliers-de-serrage.equipment.zip",
-      "brand": null
-    },
-    {
       "id": "complete-workout-kit",
       "name": {
         "en": "Complete Workout Kit",
@@ -729,7 +659,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/complete-workout-kit/media/complete-workout-kit.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/complete-workout-kit.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "cones",
@@ -749,7 +679,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/cross-personal/media/cross-personal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/cross-personal.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "crunch-bench",
@@ -769,7 +699,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/dual-adjustable-pulley-fitness/media/dual-adjustable-pulley-fitness.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/dual-adjustable-pulley-fitness.equipment.zip",
-      "brand": null
+      "brand": "matrix"
     },
     {
       "id": "dual-adjustable-pulley-performance",
@@ -779,7 +709,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/dual-adjustable-pulley-performance/media/dual-adjustable-pulley-performance.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/dual-adjustable-pulley-performance.equipment.zip",
-      "brand": null
+      "brand": "matrix"
     },
     {
       "id": "dumbbell",
@@ -789,7 +719,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/dumbbell/media/dumbbell.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/dumbbell.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "elastic-bands",
@@ -809,7 +739,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/excite-bike/media/excite-bike.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/excite-bike.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "excite-climb",
@@ -819,7 +749,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/excite-climb/media/excite-climb.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/excite-climb.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "excite-recline",
@@ -829,7 +759,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/excite-recline/media/excite-recline.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/excite-recline.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "excite-run",
@@ -839,7 +769,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/excite-run/media/excite-run.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/excite-run.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "excite-synchro",
@@ -849,7 +779,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/excite-synchro/media/excite-synchro.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/excite-synchro.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "excite-top",
@@ -859,7 +789,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/excite-top/media/excite-top.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/excite-top.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "excite-vario",
@@ -869,7 +799,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/excite-vario/media/excite-vario.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/excite-vario.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "fitness-bar-1500-mm",
@@ -909,7 +839,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/flat-bench-pure-strength/media/flat-bench-pure-strength.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/flat-bench-pure-strength.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "flexability-anterior",
@@ -919,7 +849,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/flexability-anterior/media/flexability-anterior.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/flexability-anterior.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "flexability-posterior",
@@ -929,7 +859,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/flexability-posterior/media/flexability-posterior.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/flexability-posterior.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "floor-high-low-rig-four-bay-deep",
@@ -1012,16 +942,6 @@
       "brand": null
     },
     {
-      "id": "floor-mat",
-      "name": {
-        "en": "Floor Mat",
-        "fr": "Floor Mat"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/floor-mat/media/floor-mat.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/floor-mat.equipment.zip",
-      "brand": null
-    },
-    {
       "id": "floor-training-kit",
       "name": {
         "en": "Floor training kit",
@@ -1029,7 +949,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/floor-training-kit/media/floor-training-kit.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/floor-training-kit.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "ghd-bench-pure-strength",
@@ -1039,7 +959,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/ghd-bench-pure-strength/media/ghd-bench-pure-strength.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/ghd-bench-pure-strength.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "group-cycle-connect",
@@ -1049,7 +969,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/group-cycle-connect/media/group-cycle-connect.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/group-cycle-connect.equipment.zip",
-      "brand": null
+      "brand": "matrix"
     },
     {
       "id": "group-cycle-ride",
@@ -1059,7 +979,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/group-cycle-ride/media/group-cycle-ride.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/group-cycle-ride.equipment.zip",
-      "brand": null
+      "brand": "matrix"
     },
     {
       "id": "hexagon-dumbbell",
@@ -1069,37 +989,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/hexagon-dumbbell/media/hexagon-dumbbell.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/hexagon-dumbbell.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "hexagon-dumbbell-vertical-additional-rack",
-      "name": {
-        "en": "Hexagon Dumbbell Vertical Additional Rack",
-        "fr": "Hexagon Dumbbell Vertical Additional Rack"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/hexagon-dumbbell-vertical-additional-rack/media/hexagon-dumbbell-vertical-additional-rack.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/hexagon-dumbbell-vertical-additional-rack.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "hexagon-dumbbell-vertical-rack-6-2-pairs",
-      "name": {
-        "en": "Hexagon Dumbbell Vertical Rack (6+2 Pairs)",
-        "fr": "Hexagon Dumbbell Vertical Rack (6+2 Pairs)"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/hexagon-dumbbell-vertical-rack-6-2-pairs/media/hexagon-dumbbell-vertical-rack-6-2-pairs.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/hexagon-dumbbell-vertical-rack-6-2-pairs.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "hexagon-dumbbell-vertical-rack-6-pairs",
-      "name": {
-        "en": "Hexagon Dumbbell Vertical Rack 6 Pairs",
-        "fr": "Hexagon Dumbbell Vertical Rack 6 Pairs"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/hexagon-dumbbell-vertical-rack-6-pairs/media/hexagon-dumbbell-vertical-rack-6-pairs.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/hexagon-dumbbell-vertical-rack-6-pairs.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "hexagon-dumbbells-complete-set",
@@ -1109,7 +999,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/hexagon-dumbbells-complete-set/media/hexagon-dumbbells-complete-set.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/hexagon-dumbbells-complete-set.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "hexagon-dumbbells-heavy-set",
@@ -1119,7 +1009,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/hexagon-dumbbells-heavy-set/media/hexagon-dumbbells-heavy-set.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/hexagon-dumbbells-heavy-set.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "hexagon-dumbbells-light-set",
@@ -1129,7 +1019,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/hexagon-dumbbells-light-set/media/hexagon-dumbbells-light-set.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/hexagon-dumbbells-light-set.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "high-low-pulley",
@@ -1179,17 +1069,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/kettlebell/media/kettlebell.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/kettlebell.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "kettlebell-storage-rack",
-      "name": {
-        "en": "Kettlebell Storage Rack",
-        "fr": "Kettlebell Storage Rack"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/kettlebell-storage-rack/media/kettlebell-storage-rack.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/kettlebell-storage-rack.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "kettlebells-set",
@@ -1199,7 +1079,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/kettlebells-set/media/kettlebells-set.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/kettlebells-set.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "kinesis-one",
@@ -1209,7 +1089,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/kinesis-one/media/kinesis-one.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/kinesis-one.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "kinesis-personal",
@@ -1219,7 +1099,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/kinesis-personal/media/kinesis-personal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/kinesis-personal.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "kneeling-easy-chin-dip",
@@ -1269,7 +1149,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/lower-back-bench-pure-strength/media/lower-back-bench-pure-strength.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/lower-back-bench-pure-strength.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "matrix-aura-4-stack-multi-station",
@@ -1632,16 +1512,6 @@
       "brand": "matrix"
     },
     {
-      "id": "matrix-connexus-3-shelf-storage-cart",
-      "name": {
-        "en": "Connexus 3-Shelf Storage Cart",
-        "fr": "Connexus 3-Shelf Storage Cart"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/matrix-connexus-3-shelf-storage-cart/media/matrix-connexus-3-shelf-storage-cart.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/matrix-connexus-3-shelf-storage-cart.equipment.zip",
-      "brand": "matrix"
-    },
-    {
       "id": "matrix-connexus-column",
       "name": {
         "en": "Connexus Column",
@@ -1709,16 +1579,6 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/matrix-connexus-step/media/matrix-connexus-step.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/matrix-connexus-step.equipment.zip",
-      "brand": "matrix"
-    },
-    {
-      "id": "matrix-connexus-storage-station",
-      "name": {
-        "en": "Connexus Storage Station",
-        "fr": "Connexus Storage Station"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/matrix-connexus-storage-station/media/matrix-connexus-storage-station.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/matrix-connexus-storage-station.equipment.zip",
       "brand": "matrix"
     },
     {
@@ -1949,16 +1809,6 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/matrix-g1-utility-bench/media/matrix-g1-utility-bench.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/matrix-g1-utility-bench.equipment.zip",
-      "brand": "matrix"
-    },
-    {
-      "id": "matrix-g1-weight-rack",
-      "name": {
-        "en": "G1 Weight Rack",
-        "fr": "G1 Weight Rack"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/matrix-g1-weight-rack/media/matrix-g1-weight-rack.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/matrix-g1-weight-rack.equipment.zip",
       "brand": "matrix"
     },
     {
@@ -3482,16 +3332,6 @@
       "brand": null
     },
     {
-      "id": "mywellness-band",
-      "name": {
-        "en": "mywellness Band",
-        "fr": "mywellness Band"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/mywellness-band/media/mywellness-band.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/mywellness-band.equipment.zip",
-      "brand": null
-    },
-    {
       "id": "olympic-decline-bench-pure-strength",
       "name": {
         "en": "Olympic Decline Bench Pure Strength",
@@ -3499,7 +3339,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/olympic-decline-bench-pure-strength/media/olympic-decline-bench-pure-strength.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/olympic-decline-bench-pure-strength.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "olympic-flat-bench-pure-strength",
@@ -3509,7 +3349,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/olympic-flat-bench-pure-strength/media/olympic-flat-bench-pure-strength.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/olympic-flat-bench-pure-strength.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "olympic-half-rack",
@@ -3539,7 +3379,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/olympic-military-bench-pure-strength/media/olympic-military-bench-pure-strength.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/olympic-military-bench-pure-strength.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "olympic-power-rack",
@@ -3569,7 +3409,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/outdoor-sport-kit/media/outdoor-sport-kit.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/outdoor-sport-kit.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "performance-bar",
@@ -3602,36 +3442,6 @@
       "brand": null
     },
     {
-      "id": "plate-toast-rack",
-      "name": {
-        "en": "Plate Toast Rack",
-        "fr": "Plate Toast Rack"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/plate-toast-rack/media/plate-toast-rack.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/plate-toast-rack.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "plate-tree",
-      "name": {
-        "en": "Plate Tree",
-        "fr": "Plate Tree"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/plate-tree/media/plate-tree.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/plate-tree.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "polar-verity-sense",
-      "name": {
-        "en": "Polar Verity Sense",
-        "fr": "Polar Verity Sense"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/polar-verity-sense/media/polar-verity-sense.png",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/polar-verity-sense.equipment.zip",
-      "brand": null
-    },
-    {
       "id": "power-bands",
       "name": {
         "en": "Power Bands",
@@ -3649,7 +3459,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/power-personal/media/power-personal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/power-personal.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "professional-bar-2000mm",
@@ -3679,7 +3489,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-belt-squat/media/pure-strength-belt-squat.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-belt-squat.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-biceps",
@@ -3689,7 +3499,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-biceps/media/pure-strength-biceps.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-biceps.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-calf",
@@ -3699,7 +3509,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-calf/media/pure-strength-calf.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-calf.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-chest-press",
@@ -3709,7 +3519,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-chest-press/media/pure-strength-chest-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-chest-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-deadlift",
@@ -3719,7 +3529,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-deadlift/media/pure-strength-deadlift.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-deadlift.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-hack-squat",
@@ -3729,7 +3539,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-hack-squat/media/pure-strength-hack-squat.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-hack-squat.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-hip-thrust",
@@ -3739,7 +3549,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-hip-thrust/media/pure-strength-hip-thrust.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-hip-thrust.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-incline-chest-press",
@@ -3749,7 +3559,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-incline-chest-press/media/pure-strength-incline-chest-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-incline-chest-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-leg-extension",
@@ -3759,7 +3569,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-leg-extension/media/pure-strength-leg-extension.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-leg-extension.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-leg-press",
@@ -3769,7 +3579,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-leg-press/media/pure-strength-leg-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-leg-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-linear-leg-press",
@@ -3779,7 +3589,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-linear-leg-press/media/pure-strength-linear-leg-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-linear-leg-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-low-row",
@@ -3789,7 +3599,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-low-row/media/pure-strength-low-row.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-low-row.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-pulldown",
@@ -3799,7 +3609,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-pulldown/media/pure-strength-pulldown.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-pulldown.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-pullover",
@@ -3809,7 +3619,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-pullover/media/pure-strength-pullover.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-pullover.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-rear-kick",
@@ -3819,7 +3629,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-rear-kick/media/pure-strength-rear-kick.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-rear-kick.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-row",
@@ -3829,7 +3639,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-row/media/pure-strength-row.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-row.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-seated-calf",
@@ -3839,7 +3649,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-seated-calf/media/pure-strength-seated-calf.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-seated-calf.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-seated-dip",
@@ -3849,7 +3659,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-seated-dip/media/pure-strength-seated-dip.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-seated-dip.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-shoulder-press",
@@ -3859,7 +3669,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-shoulder-press/media/pure-strength-shoulder-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-shoulder-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-standing-abductor",
@@ -3869,7 +3679,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-standing-abductor/media/pure-strength-standing-abductor.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-standing-abductor.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-standing-leg-curl",
@@ -3879,7 +3689,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-standing-leg-curl/media/pure-strength-standing-leg-curl.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-standing-leg-curl.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "pure-strength-wide-chest-press",
@@ -3889,7 +3699,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/pure-strength-wide-chest-press/media/pure-strength-wide-chest-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/pure-strength-wide-chest-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "rack-personal",
@@ -3899,7 +3709,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/rack-personal/media/rack-personal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/rack-personal.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "recline-personal",
@@ -3909,7 +3719,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/recline-personal/media/recline-personal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/recline-personal.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "recline-rev",
@@ -3919,7 +3729,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/recline-rev/media/recline-rev.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/recline-rev.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "reform-box",
@@ -3929,7 +3739,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/reform-box/media/reform-box.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/reform-box.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "reform-platform-extender",
@@ -3939,7 +3749,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/reform-platform-extender/media/reform-platform-extender.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/reform-platform-extender.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "run-personal",
@@ -3949,7 +3759,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/run-personal/media/run-personal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/run-personal.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "run-rev",
@@ -3959,7 +3769,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/run-rev/media/run-rev.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/run-rev.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "sandbag",
@@ -3989,7 +3799,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/scott-bench-pure-strength/media/scott-bench-pure-strength.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/scott-bench-pure-strength.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-abdominal-crunch",
@@ -3999,7 +3809,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-abdominal-crunch/media/selection-700-abdominal-crunch.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-abdominal-crunch.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-chest-press",
@@ -4009,7 +3819,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-chest-press/media/selection-700-chest-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-chest-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-delts-machine",
@@ -4019,7 +3829,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-delts-machine/media/selection-700-delts-machine.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-delts-machine.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-dual-abductor-adductor",
@@ -4029,7 +3839,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-dual-abductor-adductor/media/selection-700-dual-abductor-adductor.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-dual-abductor-adductor.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-dual-leg-curl-extension",
@@ -4039,7 +3849,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-dual-leg-curl-extension/media/selection-700-dual-leg-curl-extension.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-dual-leg-curl-extension.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-dual-pectoral-reverse-fly",
@@ -4049,7 +3859,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-dual-pectoral-reverse-fly/media/selection-700-dual-pectoral-reverse-fly.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-dual-pectoral-reverse-fly.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-lat-machine",
@@ -4059,7 +3869,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-lat-machine/media/selection-700-lat-machine.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-lat-machine.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-leg-curl",
@@ -4069,7 +3879,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-leg-curl/media/selection-700-leg-curl.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-leg-curl.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-leg-extension",
@@ -4079,7 +3889,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-leg-extension/media/selection-700-leg-extension.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-leg-extension.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-leg-press",
@@ -4089,7 +3899,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-leg-press/media/selection-700-leg-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-leg-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-low-row",
@@ -4099,7 +3909,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-low-row/media/selection-700-low-row.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-low-row.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-lower-back",
@@ -4109,7 +3919,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-lower-back/media/selection-700-lower-back.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-lower-back.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-multi-hip",
@@ -4119,7 +3929,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-multi-hip/media/selection-700-multi-hip.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-multi-hip.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-shoulder-press",
@@ -4129,7 +3939,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-shoulder-press/media/selection-700-shoulder-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-shoulder-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-700-vertical-traction",
@@ -4139,7 +3949,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-700-vertical-traction/media/selection-700-vertical-traction.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-700-vertical-traction.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-abdominal-crunch",
@@ -4149,7 +3959,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-abdominal-crunch/media/selection-900-abdominal-crunch.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-abdominal-crunch.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-abductor",
@@ -4159,7 +3969,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-abductor/media/selection-900-abductor.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-abductor.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-adductor",
@@ -4169,7 +3979,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-adductor/media/selection-900-adductor.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-adductor.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-arm-curl",
@@ -4179,7 +3989,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-arm-curl/media/selection-900-arm-curl.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-arm-curl.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-arm-extension",
@@ -4189,7 +3999,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-arm-extension/media/selection-900-arm-extension.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-arm-extension.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-chest-press",
@@ -4199,7 +4009,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-chest-press/media/selection-900-chest-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-chest-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-delts-machine",
@@ -4209,7 +4019,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-delts-machine/media/selection-900-delts-machine.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-delts-machine.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-lat-machine",
@@ -4219,7 +4029,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-lat-machine/media/selection-900-lat-machine.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-lat-machine.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-leg-curl",
@@ -4229,7 +4039,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-leg-curl/media/selection-900-leg-curl.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-leg-curl.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-leg-extension",
@@ -4239,7 +4049,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-leg-extension/media/selection-900-leg-extension.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-leg-extension.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-leg-press",
@@ -4249,7 +4059,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-leg-press/media/selection-900-leg-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-leg-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-low-row",
@@ -4259,7 +4069,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-low-row/media/selection-900-low-row.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-low-row.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-lower-back",
@@ -4269,7 +4079,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-lower-back/media/selection-900-lower-back.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-lower-back.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-multi-hip",
@@ -4279,7 +4089,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-multi-hip/media/selection-900-multi-hip.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-multi-hip.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-pectoral",
@@ -4289,7 +4099,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-pectoral/media/selection-900-pectoral.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-pectoral.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-prone-leg-curl",
@@ -4299,7 +4109,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-prone-leg-curl/media/selection-900-prone-leg-curl.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-prone-leg-curl.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-pulldown",
@@ -4309,7 +4119,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-pulldown/media/selection-900-pulldown.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-pulldown.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-pulley",
@@ -4319,7 +4129,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-pulley/media/selection-900-pulley.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-pulley.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-reverse-fly",
@@ -4329,7 +4139,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-reverse-fly/media/selection-900-reverse-fly.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-reverse-fly.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-rotary-torso",
@@ -4339,7 +4149,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-rotary-torso/media/selection-900-rotary-torso.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-rotary-torso.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-shoulder-press",
@@ -4349,7 +4159,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-shoulder-press/media/selection-900-shoulder-press.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-shoulder-press.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-total-abdominal",
@@ -4359,7 +4169,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-total-abdominal/media/selection-900-total-abdominal.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-total-abdominal.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-upper-back",
@@ -4369,7 +4179,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-upper-back/media/selection-900-upper-back.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-upper-back.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-900-vertical-traction",
@@ -4379,7 +4189,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-900-vertical-traction/media/selection-900-vertical-traction.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-900-vertical-traction.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-abductor-med",
@@ -4389,7 +4199,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-abductor-med/media/selection-abductor-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-abductor-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-adductor-med",
@@ -4399,7 +4209,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-adductor-med/media/selection-adductor-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-adductor-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-chest-press-med",
@@ -4409,7 +4219,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-chest-press-med/media/selection-chest-press-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-chest-press-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-lat-machine-med",
@@ -4419,7 +4229,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-lat-machine-med/media/selection-lat-machine-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-lat-machine-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-leg-curl-med",
@@ -4429,7 +4239,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-leg-curl-med/media/selection-leg-curl-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-leg-curl-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-leg-extension-med",
@@ -4439,7 +4249,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-leg-extension-med/media/selection-leg-extension-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-leg-extension-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-leg-press-med",
@@ -4449,7 +4259,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-leg-press-med/media/selection-leg-press-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-leg-press-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-low-row-med",
@@ -4459,7 +4269,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-low-row-med/media/selection-low-row-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-low-row-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-lower-back-med",
@@ -4469,7 +4279,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-lower-back-med/media/selection-lower-back-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-lower-back-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-multi-hip-med",
@@ -4479,7 +4289,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-multi-hip-med/media/selection-multi-hip-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-multi-hip-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-rotary-torso-med",
@@ -4489,7 +4299,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-rotary-torso-med/media/selection-rotary-torso-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-rotary-torso-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-shoulder-press-med",
@@ -4499,7 +4309,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-shoulder-press-med/media/selection-shoulder-press-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-shoulder-press-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-total-abdominal-med",
@@ -4509,7 +4319,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-total-abdominal-med/media/selection-total-abdominal-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-total-abdominal-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-upper-back-med",
@@ -4519,7 +4329,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-upper-back-med/media/selection-upper-back-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-upper-back-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "selection-vertical-traction-med",
@@ -4529,7 +4339,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/selection-vertical-traction-med/media/selection-vertical-traction-med.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/selection-vertical-traction-med.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "skillmill",
@@ -4539,7 +4349,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/skillmill/media/skillmill.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/skillmill.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "skillrow",
@@ -4549,7 +4359,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/skillrow/media/skillrow.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/skillrow.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "skillrun",
@@ -4559,7 +4369,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/skillrun/media/skillrun.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/skillrun.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "skilltools-kit",
@@ -4569,7 +4379,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/skilltools-kit/media/skilltools-kit.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/skilltools-kit.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "skillup",
@@ -4579,7 +4389,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/skillup/media/skillup.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/skillup.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "slam-ball",
@@ -4622,26 +4432,6 @@
       "brand": null
     },
     {
-      "id": "storage-universal",
-      "name": {
-        "en": "Storage Universal",
-        "fr": "Storage Universal"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/storage-universal/media/storage-universal.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/storage-universal.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "stretching-mat",
-      "name": {
-        "en": "Stretching Mat",
-        "fr": "Stretching Mat"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/stretching-mat/media/stretching-mat.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/stretching-mat.equipment.zip",
-      "brand": null
-    },
-    {
       "id": "suspension-training-kit",
       "name": {
         "en": "Suspension Training Kit",
@@ -4659,7 +4449,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/synchro-rev/media/synchro-rev.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/synchro-rev.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "t-bar-row-pure-strength",
@@ -4669,7 +4459,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/t-bar-row-pure-strength/media/t-bar-row-pure-strength.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/t-bar-row-pure-strength.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "technogym-bench",
@@ -4798,7 +4588,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/top-rev/media/top-rev.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/top-rev.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "trap-bar",
@@ -4818,17 +4608,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/unica/media/unica.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/unica.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "universal-storage-rack",
-      "name": {
-        "en": "Universal Storage Rack",
-        "fr": "Universal Storage Rack"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/universal-storage-rack/media/universal-storage-rack.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/universal-storage-rack.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "urethane-plate",
@@ -4838,16 +4618,6 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/urethane-plate/media/urethane-plate.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/urethane-plate.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "vertical-bar-storage",
-      "name": {
-        "en": "Vertical Bar Storage",
-        "fr": "Vertical Bar Storage"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/vertical-bar-storage/media/vertical-bar-storage.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/vertical-bar-storage.equipment.zip",
       "brand": null
     },
     {
@@ -5041,16 +4811,6 @@
       "brand": null
     },
     {
-      "id": "wall-vertical-bar-storage",
-      "name": {
-        "en": "Wall Vertical Bar Storage",
-        "fr": "Wall Vertical Bar Storage"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/wall-vertical-bar-storage/media/wall-vertical-bar-storage.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/wall-vertical-bar-storage.equipment.zip",
-      "brand": null
-    },
-    {
       "id": "wellness-ball",
       "name": {
         "en": "Wellness Ball",
@@ -5058,7 +4818,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/wellness-ball/media/wellness-ball.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/wellness-ball.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "wellness-ball-active-sitting",
@@ -5068,7 +4828,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/wellness-ball-active-sitting/media/wellness-ball-active-sitting.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/wellness-ball-active-sitting.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     },
     {
       "id": "wellness-ball-training",
@@ -5078,27 +4838,7 @@
       },
       "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/wellness-ball-training/media/wellness-ball-training.jpg",
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/wellness-ball-training.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "yoga-mat",
-      "name": {
-        "en": "Yoga Mat",
-        "fr": "Yoga Mat"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/yoga-mat/media/yoga-mat.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/yoga-mat.equipment.zip",
-      "brand": null
-    },
-    {
-      "id": "yoga-mat-strap",
-      "name": {
-        "en": "Yoga Mat Strap",
-        "fr": "Yoga Mat Strap"
-      },
-      "thumbnailUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/yoga-mat-strap/media/yoga-mat-strap.jpg",
-      "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/equipment/yoga-mat-strap.equipment.zip",
-      "brand": null
+      "brand": "technogym"
     }
   ]
 }
