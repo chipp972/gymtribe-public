@@ -20,6 +20,28 @@
       "equipment": [
         "bodyweight"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/ab-wheel-rollout/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "On your knees, hold the ab wheel with both hands in front of you. Roll forward slowly, extending the arms and bracing with the core to prevent the back from arching. Pull back using the abs. Start with a small range of motion and increase progressively. A very demanding anti-extension core exercise.",
+            "fr": "À genoux, tenez la roulette à deux mains devant vous. Roulez vers l'avant lentement en tendant les bras et en contrôlant avec les abdominaux, sans laisser le dos se creuser. Revenez en tirant avec les abdominaux. Commencez avec une faible amplitude et augmentez progressivement. Exercice très exigeant pour le gainage."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/ab-wheel-rollout.exercise.zip"
     },
     {
@@ -41,6 +63,28 @@
       "equipment": [
         "dumbbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/arnold-press/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Seated, hold dumbbells at shoulder height with palms facing you. As you press upward, rotate your wrists so your palms face forward at the top of the movement. Return to the starting position by reversing the rotation. This rotational movement engages all three heads of the deltoid.",
+            "fr": "Assis, haltères à hauteur des épaules, paumes vers vous. En poussant vers le haut, faites pivoter les poignets pour que les paumes soient face à l'avant en haut du mouvement. Revenez à la position de départ en suivant le même chemin inversé. Ce mouvement en rotation engage tous les faisceaux des deltoïdes."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/arnold-press.exercise.zip"
     },
     {
@@ -61,6 +105,28 @@
       ],
       "equipment": [
         "barbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/barbell-curl/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Stand with the bar held in a supinated (underhand) grip, arms extended at your sides. Bend the elbows to curl the bar toward your shoulders without moving the elbows. Squeeze the biceps at the top. Lower slowly, resisting the weight. Keep your torso upright and elbows fixed at your sides.",
+            "fr": "Debout, barre tenue en supination (paumes vers le haut), bras tendus le long du corps. Pliez les coudes pour ramener la barre vers les épaules sans bouger les coudes. Contractez les biceps en haut. Descendez lentement en résistant au poids. Gardez le buste droit et les coudes fixes sur les côtés du corps."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/barbell-curl.exercise.zip"
     },
@@ -87,6 +153,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bench-press/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Lie flat on a bench with feet firmly on the floor. Grip the bar slightly wider than shoulder-width, palms facing forward. Lower the bar slowly to mid-chest, keeping elbows at about 75° from the body. Press upward while exhaling until arms are fully extended. Keep shoulder blades retracted and pressed against the bench throughout.",
+            "fr": "Allongez-vous sur un banc plat, pieds à plat au sol. Saisissez la barre en prise large, légèrement plus large que la largeur des épaules. Descendez la barre lentement vers le milieu de la poitrine en gardant les coudes à environ 75° du corps. Poussez la barre vers le haut en expirant jusqu'à l'extension complète. Gardez les omoplates rétractées et serrées contre le banc tout au long du mouvement."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/bench-press.exercise.zip"
     },
     {
@@ -112,6 +200,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bent-over-row/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Hinge forward to about 45°, back flat, bar gripped overhand. Pull the bar toward the lower abdomen, driving the elbows back. Retract the shoulder blades at the top. Lower slowly and control the bar. Keep the back straight and avoid swinging the torso for momentum.",
+            "fr": "Penchez le buste à environ 45°, dos plat, barre tenue en pronation. Tirez la barre vers le bas du ventre en ramenant les coudes vers l'arrière. Rétractez les omoplates en fin de mouvement. Descendez lentement et contrôlez la barre. Gardez le dos droit et évitez de vous balancer pour utiliser l'élan."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/bent-over-row.exercise.zip"
     },
     {
@@ -128,6 +238,28 @@
       ],
       "equipment": [
         "bodyweight"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bicycle-crunch/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Lying on your back, hands behind the head, legs raised at 45°. Bring the right elbow toward the left knee while simultaneously extending the right leg. Alternate in a continuous pedaling motion. Simultaneously targets the obliques and rectus abdominis.",
+            "fr": "Allongé sur le dos, mains derrière la tête, jambes levées à 45°. Amenez le coude droit vers le genou gauche en fléchissant en même temps, en tendant la jambe droite. Alternez en un mouvement de pédalage continu. Cible les obliques et les abdominaux droits simultanément."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/bicycle-crunch.exercise.zip"
     },
@@ -154,6 +286,28 @@
       "equipment": [
         "dumbbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bulgarian-split-squat/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Rear foot elevated on a bench, front foot stepped forward. Hold a dumbbell in each hand. Lower by bending the front knee until the thigh is parallel to the floor. Drive through the front heel to stand back up. Excellent unilateral exercise that corrects muscle imbalances between legs.",
+            "fr": "Pied arrière posé sur un banc, pied avant avancé. Tenez des haltères dans chaque main. Descendez en fléchissant le genou avant jusqu'à ce que la cuisse soit parallèle au sol. Poussez sur le talon avant pour remonter. Excellent exercice unilatéral qui corrige les déséquilibres musculaires."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/bulgarian-split-squat.exercise.zip"
     },
     {
@@ -170,6 +324,28 @@
       ],
       "equipment": [
         "cable"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-crunch/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Kneeling facing a high pulley, holding the rope or bar behind the head. Flex the torso downward while contracting the abs, bringing the elbows toward the knees. The cable maintains constant tension unlike floor crunches. Return slowly to the starting position.",
+            "fr": "À genoux face à une poulie haute, tenez la corde ou la barre derrière la tête. Fléchissez le tronc vers le bas en contractant les abdominaux, amenez les coudes vers les genoux. La poulie maintient une tension constante contrairement aux crunchs au sol. Revenez lentement à la position de départ."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/cable-crunch.exercise.zip"
     },
@@ -192,6 +368,28 @@
       "equipment": [
         "cable"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-curl/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Facing a low pulley, grip the bar or rope underhand. Curl toward the shoulders by bending the elbows. The cable maintains constant tension throughout the movement, unlike free weights. Lower slowly and control the resistance throughout.",
+            "fr": "Face à une poulie basse, saisissez la barre ou la corde en supination. Fléchissez les coudes pour ramener la poignée vers les épaules. La poulie maintient une tension constante tout au long du mouvement, contrairement aux haltères. Descendez lentement et contrôlez la résistance."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/cable-curl.exercise.zip"
     },
     {
@@ -213,6 +411,28 @@
       "equipment": [
         "cable"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-fly/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Set the pulleys to a high position on each side. Grab the handles and step forward slightly, one foot ahead for stability. Pull the cables down and toward the center in an arc, keeping elbows slightly bent. Squeeze the chest at the end of the movement and return slowly to the starting position.",
+            "fr": "Réglez les poulies en position haute de chaque côté. Saisissez les poignées et avancez légèrement, un pied devant l'autre pour la stabilité. Tirez les câbles vers le bas et vers le centre en arc de cercle, coudes légèrement fléchis. Contractez les pectoraux en fin de mouvement et revenez lentement à la position de départ."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/cable-fly.exercise.zip"
     },
     {
@@ -229,6 +449,28 @@
       ],
       "equipment": [
         "cable"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-kickback/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Facing a low pulley with an ankle strap attached. Lean slightly forward, holding a bar or the cable frame for support. Extend the leg backward in a hip extension movement, squeezing the glute. Control the return. Keep the back straight and avoid excessive forward lean.",
+            "fr": "Face à une poulie basse, cheville attachée à la poulie. Légèrement penché en avant, appuyez-vous sur une barre ou le cadre. Ramenez la jambe vers l'arrière en extension de hanche, en contractant les fessiers. Contrôlez le retour. Gardez le dos droit et évitez de vous pencher excessivement."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/cable-kickback.exercise.zip"
     },
@@ -251,6 +493,28 @@
       "equipment": [
         "cable"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-pushdown/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Facing a high pulley, grip the bar or rope overhand. Keep upper arms against the body, elbows fixed. Push down until triceps are fully extended. Squeeze the triceps at the bottom. Return slowly with control. Avoid leaning the torso or moving the elbows.",
+            "fr": "Face à une poulie haute, saisissez la barre ou la corde en pronation. Bras contre le corps, coudes fixes. Poussez la barre vers le bas jusqu'à l'extension complète des triceps. Contractez les triceps en bas du mouvement. Remontez lentement en contrôlant. Évitez de pencher le buste ou de bouger les coudes."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/cable-pushdown.exercise.zip"
     },
     {
@@ -271,6 +535,28 @@
       ],
       "equipment": [
         "bodyweight"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/chin-up/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Grip the bar underhand (supinated), hands at shoulder-width. Pull your body upward until your chin clears the bar. The underhand grip recruits the biceps more than the overhand pull-up. Lower slowly and with control. Exhale on the way up.",
+            "fr": "Saisissez la barre en supination (paumes vers vous), mains à largeur d'épaules. Tirez le corps vers le haut en amenant le menton au-dessus de la barre. La prise en supination engage davantage les biceps que la prise en pronation. Descendez lentement en contrôlant. Expirez à la montée."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/chin-up.exercise.zip"
     },
@@ -293,6 +579,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/close-grip-bench-press/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Lie on a flat bench, grip the bar at about shoulder-width (close grip). Lower the bar to the lower chest, keeping the elbows close to the body. Press up while exhaling to full extension. Keeping the elbows tucked maximizes triceps engagement. Avoid an excessively narrow grip that stresses the wrists.",
+            "fr": "Allongé sur un banc plat, saisissez la barre à environ largeur d'épaules (prise serrée). Descendez la barre vers le bas de la poitrine en gardant les coudes près du corps. Poussez en expirant jusqu'à l'extension. Les coudes serrés maximisent l'engagement des triceps. Évitez une prise trop serrée qui stresse les poignets."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/close-grip-bench-press.exercise.zip"
     },
     {
@@ -309,6 +617,28 @@
       ],
       "equipment": [
         "bodyweight"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/crunch/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Lying on your back with knees bent, hands behind the head or crossed on the chest. Contract the abs to lift the shoulders off the floor without pulling on the neck. Rise until you feel a strong contraction. Lower slowly. This is a short movement — you are not trying to sit up fully.",
+            "fr": "Allongé sur le dos, genoux fléchis, mains derrière la tête ou croisées sur la poitrine. Contractez les abdominaux pour soulever les épaules du sol, sans tirer sur le cou. Montez jusqu'à sentir une forte contraction des abdominaux. Descendez lentement. Il s'agit d'un petit mouvement — ne cherchez pas à vous redresser complètement."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/crunch.exercise.zip"
     },
@@ -335,6 +665,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/deadlift/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Feet hip-width apart, bar over mid-foot. Grip the bar overhand or mixed, arms straight. Flat back, proud chest, eyes slightly forward. Initiate by pushing the floor away with your feet, keeping the bar close to the body. Lock out hips and shoulders simultaneously at the top. Exhale on the way up.",
+            "fr": "Pieds à largeur de hanches, barre au-dessus du milieu des pieds. Saisissez la barre en pronation ou prise mixte, bras tendus. Dos plat, poitrine fière, regardez légèrement en avant. Poussez le sol vers le bas avec les pieds pour initier le mouvement, gardez la barre proche du corps. Verrouillez les hanches et les épaules simultanément en haut. Expirez à la montée."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/deadlift.exercise.zip"
     },
     {
@@ -360,6 +712,28 @@
       "equipment": [
         "bodyweight"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/dips/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Grip the parallel bars and straighten your arms. Lean your torso slightly forward to target the chest. Lower by bending the elbows until the shoulders reach elbow height. Push up while exhaling to return to the starting position. Avoid going too deep if you feel shoulder discomfort.",
+            "fr": "Saisissez les barres parallèles et tendez les bras. Penchez le buste légèrement en avant pour cibler les pectoraux. Descendez en fléchissant les coudes jusqu'à ce que les épaules soient à hauteur des coudes. Poussez en expirant pour revenir à la position initiale. Évitez de descendre trop bas si vous ressentez une gêne aux épaules."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/dips.exercise.zip"
     },
     {
@@ -376,6 +750,28 @@
       ],
       "equipment": [
         "bodyweight"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/donkey-calf-raise/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Bent forward with hands on a support, back horizontal. Heels off the edge of a platform. Rise onto the balls of your feet, squeezing the calves. Lower to stretch. The bent-over position maximizes the gastrocnemius stretch because the knees are extended. Can be loaded with a partner sitting on your hips.",
+            "fr": "Penché vers l'avant, mains appuyées sur un support, dos horizontal. Talons dans le vide sur une plateforme. Montez sur la pointe des pieds en contractant les mollets. Descendez pour étirer. La position penchée maximise l'étirement du gastrocnémien car les genoux sont tendus. Peut se faire avec un partenaire assis sur les hanches."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/donkey-calf-raise.exercise.zip"
     },
@@ -398,6 +794,28 @@
       "equipment": [
         "dumbbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/dumbbell-curl/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Stand with dumbbells at your sides, palms facing forward. Curl alternately or simultaneously, bringing the dumbbells toward the shoulders. Slightly supinate the wrists as you curl. Squeeze the biceps at the top and lower slowly. Keep elbows fixed at your sides throughout.",
+            "fr": "Debout, haltères le long du corps, paumes vers l'avant. Fléchissez les coudes alternativement ou simultanément pour amener les haltères vers les épaules. Tournez légèrement les poignets en supination en montant. Contractez les biceps en haut et descendez lentement. Gardez les coudes fixes sur les côtés."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/dumbbell-curl.exercise.zip"
     },
     {
@@ -418,6 +836,28 @@
       ],
       "equipment": [
         "dumbbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/dumbbell-fly/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Lie on a flat bench with dumbbells held above your chest, palms facing each other. Open your arms in a wide arc, keeping a slight bend in the elbows, until you feel a stretch in your chest. Return while exhaling, bringing the dumbbells back above the chest. Maintain a constant slight elbow bend throughout.",
+            "fr": "Allongez-vous sur un banc plat, haltères au-dessus de la poitrine, paumes se faisant face. Ouvrez les bras en arc de cercle vers les côtés, coudes légèrement fléchis, jusqu'à sentir un étirement dans les pectoraux. Remontez en expirant en ramenant les haltères au-dessus de la poitrine. Gardez une légère flexion des coudes constante."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/dumbbell-fly.exercise.zip"
     },
@@ -440,6 +880,28 @@
       "equipment": [
         "cable"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/face-pull/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Set the pulley at eye height. Grip the rope overhand and step back to create tension. Pull the rope toward your face, separating your hands as they approach your head, elbows at shoulder height or above. Squeeze the rear delts and rhomboids at the end position. Return slowly. Great for shoulder health.",
+            "fr": "Réglez la poulie à hauteur des yeux. Saisissez la corde en pronation, reculez pour créer de la tension. Tirez la corde vers le visage en écartant les bras, coudes à hauteur des épaules ou au-dessus. Contractez les deltoïdes postérieurs et les rhomboïdes en fin de mouvement. Revenez lentement. Idéal pour la santé des épaules."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/face-pull.exercise.zip"
     },
     {
@@ -461,6 +923,28 @@
       "equipment": [
         "dumbbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/farmer-s-walk/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Hold a heavy dumbbell in each hand with arms at your sides. Walk a set distance keeping your back straight, shoulders pulled back, and eyes forward. Brace the core and glutes for stability. Excellent exercise for grip strength and trunk stability.",
+            "fr": "Tenez des haltères lourds dans chaque main, bras le long du corps. Marchez sur une distance définie en gardant le dos droit, les épaules en arrière et le regard droit devant. Contractez les abdominaux et les fessiers pour stabiliser. Excellent exercice pour la force de préhension et la stabilité du tronc."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/farmer-s-walk.exercise.zip"
     },
     {
@@ -477,6 +961,28 @@
       ],
       "equipment": [
         "dumbbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/front-raise/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Stand with dumbbells in front of your thighs, palms facing down. Raise your arms forward to shoulder height, keeping a slight bend in the elbows. Hold for 1 second at the top, then lower slowly. Avoid using momentum from the torso. Can be performed alternately or simultaneously.",
+            "fr": "Debout, haltères devant les cuisses, paumes vers le bas. Levez les bras vers l'avant jusqu'à hauteur des épaules, bras légèrement fléchis. Maintenez 1 seconde en haut, puis descendez lentement. Évitez de prendre de l'élan avec le buste. Alternez les bras ou levez les deux simultanément."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/front-raise.exercise.zip"
     },
@@ -499,6 +1005,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/front-squat/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Bar resting on the front deltoids, elbows high and parallel to the floor. Descend while keeping the torso very upright (more so than the back squat). High elbows are essential to keep the bar in place. Descend below parallel if possible. Drive upward while exhaling, knees tracking over the toes.",
+            "fr": "Barre posée sur les deltoïdes avant, coudes hauts parallèles au sol. Descendez en gardant le buste très vertical (plus qu'au squat classique). Les coudes hauts sont essentiels pour maintenir la barre en place. Descendez sous les parallèles si possible. Remontez en expirant, genoux dans l'axe des pieds."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/front-squat.exercise.zip"
     },
     {
@@ -519,6 +1047,28 @@
       ],
       "equipment": [
         "bodyweight"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/glute-ham-raise/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Kneeling with feet secured under a support (partner or machine). Lower forward slowly, resisting with the hamstrings, keeping the back straight. Use hands to catch yourself if needed. Pull back up using the hamstrings and assist with hands as necessary. A very demanding eccentric exercise.",
+            "fr": "À genoux, pieds bloqués sous un support (partenaire ou machine). Descendez lentement en avant en résistant avec les ischio-jambiers, dos droit. Utilisez les mains pour vous réceptionner si nécessaire. Remontez en tirant avec les ischio-jambiers et en poussant avec les mains. Exercice excentrique très intense."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/glute-ham-raise.exercise.zip"
     },
@@ -545,6 +1095,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/good-morning/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Bar on the traps, feet shoulder-width apart, knees slightly bent. Hinge the torso forward by pushing the hips back, keeping the back flat, until the torso is nearly parallel to the floor. Feel the stretch in the hamstrings. Return to vertical by contracting the glutes and hamstrings.",
+            "fr": "Barre sur les trapèzes, pieds à largeur d'épaules, genoux légèrement fléchis. Penchez le buste vers l'avant en poussant les hanches vers l'arrière, dos plat, jusqu'à ce que le buste soit presque parallèle au sol. Sentez l'étirement dans les ischio-jambiers. Revenez à la position verticale en contractant les fessiers et les ischio-jambiers."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/good-morning.exercise.zip"
     },
     {
@@ -565,6 +1137,28 @@
       ],
       "equipment": [
         "barbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/hack-squat/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "On the hack squat machine, back against the pad, feet on the platform. Lower by bending the knees to 90° or deeper. Push upward while exhaling to return. The machine guides the path and reduces spinal loading. Can also be performed with a barbell held behind the legs.",
+            "fr": "À la machine hack squat, dos contre le dossier, pieds sur la plateforme. Descendez en fléchissant les genoux jusqu'à 90° ou plus bas. Poussez en expirant pour revenir. La machine guide la trajectoire et réduit la charge sur le dos. Peut aussi être réalisé avec une barre derrière les jambes."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/hack-squat.exercise.zip"
     },
@@ -587,6 +1181,28 @@
       "equipment": [
         "dumbbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/hammer-curl/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Stand with dumbbells at your sides, palms facing each other (neutral grip). Curl the dumbbells toward the shoulders without rotating the wrists. This grip particularly targets the brachioradialis and brachialis muscles. Lower slowly. Can be performed alternately or simultaneously.",
+            "fr": "Debout, haltères le long du corps, paumes se faisant face (prise neutre). Fléchissez les coudes pour ramener les haltères vers les épaules sans tourner les poignets. Ce mouvement sollicite particulièrement le brachio-radial et le long supinateur. Descendez lentement. Peut être réalisé alternativement ou simultanément."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/hammer-curl.exercise.zip"
     },
     {
@@ -607,6 +1223,28 @@
       ],
       "equipment": [
         "barbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/hip-thrust/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Upper back against a bench, bar over the hips (with a pad for comfort). Feet flat on the floor, shoulder-width apart. Drive the hips upward while squeezing the glutes until the body forms a straight line from head to knees. Hold for 1 second at the top. Lower slowly. Exhale on the way up.",
+            "fr": "Dos appuyé sur un banc, barre sur les hanches (protégée par un pad). Pieds à plat au sol, à largeur d'épaules. Poussez les hanches vers le haut en contractant les fessiers jusqu'à ce que le corps soit droit de la tête aux genoux. Maintenez 1 seconde en haut. Descendez lentement. Expirez à la montée."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/hip-thrust.exercise.zip"
     },
@@ -633,6 +1271,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/incline-bench-press/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Set the bench at 30-45°. Lie back with feet flat on the floor, grip the bar slightly wider than shoulder-width. Lower the bar to the upper chest in a controlled manner. Press up while exhaling to full extension. Avoid excessive arching of the lower back.",
+            "fr": "Réglez le banc à environ 30-45°. Allongez-vous avec les pieds au sol, saisissez la barre légèrement plus large que la largeur des épaules. Descendez la barre vers le haut de la poitrine en contrôlant le mouvement. Poussez en expirant jusqu'à l'extension. Évitez de cambrer excessivement le bas du dos."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/incline-bench-press.exercise.zip"
     },
     {
@@ -653,6 +1313,28 @@
       ],
       "equipment": [
         "bodyweight"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/jump-rope/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Hold the handles with elbows close to the body. Rotate the rope using the wrists (not the whole arms). Jump on the balls of your feet just high enough to let the rope pass underneath. Maintain a steady rhythm and keep your gaze forward. Alternate between single jumps, doubles, and crossovers based on skill level.",
+            "fr": "Tenez les poignées de la corde, coudes près du corps. Faites tourner la corde avec les poignets (pas les bras entiers). Sautez sur la pointe des pieds juste assez haut pour laisser passer la corde. Gardez un rythme régulier et le regard droit devant. Alternez entre saut simple, double et croisé selon le niveau."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/jump-rope.exercise.zip"
     },
@@ -675,6 +1357,28 @@
       "equipment": [
         "cable"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/lat-pulldown/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Sit at the machine with thighs secured under the pads. Grip the bar overhand, wider than shoulder-width. Pull the bar down toward the upper chest, driving the elbows down and back. Retract the shoulder blades. Return slowly and with control. Exhale as the bar descends.",
+            "fr": "Assis à la machine, cuisse bloquées sous les appuis. Saisissez la barre en pronation, mains plus larges que les épaules. Tirez la barre vers le haut de la poitrine en amenant les coudes vers le bas et vers l'arrière. Rétractez les omoplates. Remontez lentement en contrôlant. Expirez à la descente de la barre."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/lat-pulldown.exercise.zip"
     },
     {
@@ -691,6 +1395,28 @@
       ],
       "equipment": [
         "dumbbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/lateral-raise/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Stand tall with dumbbells at your sides, elbows slightly bent. Raise your arms out to the sides to shoulder height, thumbs slightly down (as if pouring a glass). Do not raise above shoulder level to protect the joints. Lower slowly over 3-4 seconds. Avoid swinging the torso.",
+            "fr": "Debout, haltères le long du corps, coudes légèrement fléchis. Levez les bras sur les côtés jusqu'à hauteur des épaules, pouces légèrement vers le bas (comme si vous versiez un verre). Ne montez pas au-delà des épaules pour préserver les articulations. Descendez lentement en 3-4 secondes. Évitez de vous balancer avec le tronc."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/lateral-raise.exercise.zip"
     },
@@ -709,6 +1435,28 @@
       "equipment": [
         "machine"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-curl/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Lying or seated on the machine, legs nearly extended under the pad. Curl the heels toward the glutes, squeezing the hamstrings at full flexion. Lower slowly, resisting the weight. Avoid raising the hips during the movement.",
+            "fr": "Allongé sur la machine (ou assis selon le modèle), jambes presque tendues sous l'appui. Fléchissez les genoux pour ramener les talons vers les fessiers. Contractez les ischio-jambiers en fin de mouvement. Descendez lentement en résistant au poids. Évitez de soulever les hanches lors du mouvement."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/leg-curl.exercise.zip"
     },
     {
@@ -725,6 +1473,28 @@
       ],
       "equipment": [
         "machine"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-extension/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Seated in the machine, adjust the pad to rest on the lower shins. Extend the knees to raise the legs to full extension. Hold for 1 second while squeezing the quadriceps. Lower slowly over 3-4 seconds. Ideal for quad isolation at the end of a session.",
+            "fr": "Assis dans la machine, ajustez l'appui sur le bas des tibias. Étendez les genoux pour lever les jambes jusqu'à l'extension complète. Maintenez 1 seconde en contractant les quadriceps. Descendez lentement en contrôlant sur 3-4 secondes. Idéal pour l'isolation des quadriceps en fin de séance."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/leg-extension.exercise.zip"
     },
@@ -751,6 +1521,28 @@
       "equipment": [
         "machine"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-press/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Seated in the machine, feet shoulder-width apart on the platform. Unlock and lower the platform slowly to 90° of knee flexion. Press upward while exhaling to near full extension (do not lock the knees). Foot placement affects muscle targeting: feet high = more glutes, feet low = more quads.",
+            "fr": "Assis dans la machine, pieds à largeur d'épaules sur la plateforme. Déverrouillez et descendez la plateforme lentement jusqu'à 90° de flexion des genoux. Repoussez en expirant jusqu'à presque l'extension (ne verrouillez pas les genoux). La position des pieds influence quels muscles sont ciblés : pieds hauts = fessiers, pieds bas = quadriceps."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/leg-press.exercise.zip"
     },
     {
@@ -767,6 +1559,28 @@
       ],
       "equipment": [
         "bodyweight"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-raise/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Lying on your back, hands under the glutes or at your sides for support. Legs straight or slightly bent. Raise the legs to vertical while contracting the lower abs. Lower slowly without letting the feet touch the floor. Can also be performed hanging from a bar.",
+            "fr": "Allongé sur le dos, mains sous les fessiers ou le long du corps pour soutien. Jambes tendues ou légèrement fléchies. Levez les jambes jusqu'à la verticale en contractant les abdominaux inférieurs. Descendez lentement sans laisser les pieds toucher le sol. Peut se faire en suspension à la barre."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/leg-raise.exercise.zip"
     },
@@ -793,6 +1607,28 @@
       "equipment": [
         "bodyweight"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/lunge/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Standing tall, take a large step forward. Lower the rear knee toward the floor while keeping the torso upright. The front knee should not go past the toes. Push through the front foot to return to the starting position or continue in a walking lunge pattern. Keep your gaze forward.",
+            "fr": "Debout, faites un grand pas en avant. Descendez le genou arrière vers le sol en gardant le buste droit. Le genou avant ne doit pas dépasser les orteils. Poussez sur le pied avant pour revenir à la position initiale ou faites le mouvement alterné en marchant. Gardez le regard droit devant."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/lunge.exercise.zip"
     },
     {
@@ -818,6 +1654,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/overhead-press/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Standing or seated, bar at shoulder height gripped overhand, elbows slightly in front of the bar. Press upward while exhaling until arms are fully extended. Move the head back slightly to allow the bar to pass, then return it forward at the top. Lower slowly. Brace the core throughout to protect the spine.",
+            "fr": "Debout ou assis, barre tenue à hauteur des épaules en pronation, coudes légèrement devant la barre. Poussez la barre vers le haut en expirant jusqu'à l'extension complète des bras. Passez la barre devant le visage et ramenez la tête en avant en fin de poussée. Descendez lentement en contrôlant. Contractez les abdominaux pour stabiliser le tronc."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/overhead-press.exercise.zip"
     },
     {
@@ -834,6 +1692,28 @@
       ],
       "equipment": [
         "dumbbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/overhead-tricep-extension/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Seated or standing, hold a dumbbell with both hands overhead, arms extended. Bend the elbows to lower the dumbbell behind your head. Keep the elbows pointing upward and close to the head. Press back to full extension while exhaling. This position stretches the long head of the triceps.",
+            "fr": "Assis ou debout, tenez un haltère à deux mains au-dessus de la tête, bras tendus. Pliez les coudes pour descendre l'haltère derrière la tête. Gardez les coudes pointés vers le haut et près de la tête. Poussez en expirant pour revenir à l'extension. Cette position étire le chef long du triceps."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/overhead-tricep-extension.exercise.zip"
     },
@@ -852,6 +1732,28 @@
       "equipment": [
         "bodyweight"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/plank/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "In a forearm plank position with toes on the floor, body in a straight line from head to heels. Brace the core, glutes, and quads to maintain the position. Do not let the hips sag or rise. Breathe normally. Hold as long as possible while maintaining perfect form.",
+            "fr": "En position de planche sur les avant-bras et les orteils, corps aligné de la tête aux pieds. Contractez les abdominaux, les fessiers et les quadriceps pour maintenir la position. Ne laissez pas les hanches s'affaisser ni monter. Respirez normalement. Maintenez la position le plus longtemps possible en gardant une forme parfaite."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/plank.exercise.zip"
     },
     {
@@ -868,6 +1770,28 @@
       ],
       "equipment": [
         "barbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/preacher-curl/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Seated at the preacher bench, rest the upper arms flat on the angled pad, gripping the bar underhand. Curl the bar upward, squeezing the biceps. Lower slowly to near full extension. The preacher bench perfectly isolates the biceps by eliminating torso momentum.",
+            "fr": "Assis au pupitre, bras posés à plat sur le support incliné, barre tenue en supination. Fléchissez les coudes pour remonter la barre en contractant les biceps. Descendez lentement jusqu'à presque l'extension complète. Le pupitre isole parfaitement les biceps en éliminant la triche avec le buste."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/preacher-curl.exercise.zip"
     },
@@ -889,6 +1813,28 @@
       ],
       "equipment": [
         "bodyweight"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/pull-up/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Grip the bar in an overhand (pronated) position, hands wider than shoulder-width. Starting from a dead hang, pull your body upward until your chin clears the bar. Flare the elbows to the sides and retract the shoulder blades. Lower slowly and under control. Exhale on the way up.",
+            "fr": "Saisissez la barre en pronation (paumes vers l'avant), mains plus larges que les épaules. Partez bras tendus et tirez le corps vers le haut en amenant le menton au-dessus de la barre. Écartez les coudes vers les côtés et rétractez les omoplates. Descendez lentement en contrôlant le mouvement. Expirez à la montée."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/pull-up.exercise.zip"
     },
@@ -915,6 +1861,28 @@
       "equipment": [
         "bodyweight"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/push-up/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "In a plank position, hands slightly wider than shoulder-width, body straight from head to heels. Lower by bending the elbows until the chest nearly touches the floor. Push up while exhaling to return to the starting position. Keep the body aligned — do not let the hips sag or rise.",
+            "fr": "En position de planche, mains légèrement plus larges que les épaules, corps droit de la tête aux talons. Descendez en fléchissant les coudes jusqu'à ce que la poitrine effleure le sol. Poussez en expirant pour revenir à la position initiale. Gardez le corps aligné : ne laissez pas les hanches s'affaisser ni se lever."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/push-up.exercise.zip"
     },
     {
@@ -936,6 +1904,28 @@
       "equipment": [
         "dumbbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/reverse-fly/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Hinge the torso to about 45-90°, dumbbells hanging below you, palms facing each other. Lift your arms out to the sides in an arc, elbows slightly bent, to shoulder height. Squeeze the rear delts and mid-back at the top. Lower slowly. Can be done seated, bent over a bench.",
+            "fr": "Penchez le buste à environ 45-90°, haltères pendants sous vous, paumes se faisant face. Levez les bras sur les côtés en arc de cercle, coudes légèrement fléchis, jusqu'à hauteur des épaules. Contractez les deltoïdes postérieurs et le milieu du dos en haut. Descendez lentement. Peut se faire assis, penché sur un banc."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/reverse-fly.exercise.zip"
     },
     {
@@ -952,6 +1942,28 @@
       ],
       "equipment": [
         "barbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/reverse-wrist-curl/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Seated, forearms resting on thighs with palms facing down. Hold the bar and extend the wrists upward (dorsiflexion). This targets the forearm extensors and improves muscular balance to prevent elbow injuries. Lower slowly and under control.",
+            "fr": "Assis sur un banc, avant-bras posés sur les cuisses, paumes vers le bas. Tenez la barre et fléchissez les poignets vers le haut (extension dorsale). Cible les extenseurs des avant-bras et améliore l'équilibre musculaire pour prévenir les blessures de coude. Descendez lentement."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/reverse-wrist-curl.exercise.zip"
     },
@@ -978,6 +1990,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/romanian-deadlift/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Stand holding the bar overhand. Push the hips backward with knees slightly bent and the back flat. Lower the bar along the legs until you feel a strong stretch in the hamstrings. Drive the hips forward to return to standing. Keep the bar close to the body throughout.",
+            "fr": "Debout, barre en prise pronation. Poussez les hanches vers l'arrière en gardant les genoux légèrement fléchis et le dos plat. Descendez la barre le long des jambes jusqu'à sentir un fort étirement dans les ischio-jambiers. Remontez en poussant les hanches vers l'avant. La barre reste proche du corps tout au long."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/romanian-deadlift.exercise.zip"
     },
     {
@@ -994,6 +2028,28 @@
       ],
       "equipment": [
         "bodyweight"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/russian-twist/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Seated on the floor, torso leaned back at about 45°, knees bent, feet slightly raised (or on the floor for beginners). Hold a weight or clasp your hands together. Rotate the torso alternately left and right, touching the floor on each side. The movement comes from the trunk, not the arms.",
+            "fr": "Assis sur le sol, dos incliné à environ 45°, genoux fléchis, pieds légèrement soulevés (ou au sol pour les débutants). Tenez un poids ou joignez les mains. Tournez le buste alternativement de gauche à droite en touchant le sol de chaque côté. Le mouvement vient du tronc, pas des bras."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/russian-twist.exercise.zip"
     },
@@ -1016,6 +2072,28 @@
       "equipment": [
         "cable"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/seated-cable-row/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Sit facing the low pulley with feet on the footrests, knees slightly bent. Grip the handle, back straight, torso slightly hinged forward. Pull the handle toward your abdomen, driving the elbows back and squeezing the shoulder blades. Return slowly to the starting position.",
+            "fr": "Assis face à la poulie basse, pieds sur les repose-pieds, genoux légèrement fléchis. Saisissez la poignée, dos droit, buste légèrement penché en avant. Tirez la poignée vers le ventre en ramenant les coudes vers l'arrière et en rétractant les omoplates. Revenez lentement à la position de départ."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/seated-cable-row.exercise.zip"
     },
     {
@@ -1033,6 +2111,28 @@
       "equipment": [
         "machine"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/seated-calf-raise/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Seated at the machine with knees bent at 90°, pad resting on the thighs. Rise onto the balls of your feet, contracting the calves. Lower slowly to stretch. The seated position targets the soleus (the deep muscle beneath the gastrocnemius) because the bent knee reduces gastrocnemius activation.",
+            "fr": "Assis à la machine, genoux fléchis à 90°, coussin sur les cuisses. Montez sur la pointe des pieds en contractant les mollets. Descendez lentement pour étirer. La position assise cible davantage le soléaire (muscle profond sous les mollets) car les genoux sont fléchis, réduisant l'engagement du gastrocnémien."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/seated-calf-raise.exercise.zip"
     },
     {
@@ -1049,6 +2149,28 @@
       ],
       "equipment": [
         "barbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/skull-crusher/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Lie on a flat bench, holding the bar overhead with arms extended in an overhand grip. Bend the elbows to lower the bar toward the forehead (or slightly behind the head). Keep the elbows fixed and pointed toward the ceiling. Press up while exhaling to return. Perfect isolation of the triceps.",
+            "fr": "Allongé sur un banc plat, barre tenue en pronation, bras tendus au-dessus de la poitrine. Pliez les coudes pour descendre la barre vers le front (ou légèrement derrière la tête). Gardez les coudes fixes et pointés vers le plafond. Poussez en expirant pour revenir. Isolement parfait des triceps."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/skull-crusher.exercise.zip"
     },
@@ -1075,6 +2197,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/squat/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Bar resting on the traps, feet shoulder-width apart with toes slightly turned out. Descend by pushing the knees outward and keeping the torso as upright as possible. Lower until thighs are parallel to the floor (or deeper if mobility allows). Drive upward while exhaling, knees tracking over the toes.",
+            "fr": "Barre posée sur les trapèzes, pieds à largeur d'épaules légèrement en canard. Descendez en poussant les genoux vers l'extérieur et en gardant le buste le plus vertical possible. Descendez jusqu'à ce que les cuisses soient parallèles au sol (ou plus bas si la mobilité le permet). Remontez en expirant, genoux dans l'axe des pieds."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/squat.exercise.zip"
     },
     {
@@ -1091,6 +2235,28 @@
       ],
       "equipment": [
         "machine"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/standing-calf-raise/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Stand on the platform with heels off the edge, shoulders under the pads. Rise onto the balls of your feet, fully contracting the calves at the top. Lower slowly below the level of the platform to stretch the calves. Hold for 1 second at the top. Keep a slight knee bend throughout.",
+            "fr": "Debout sur la plateforme, talons dans le vide, épaules sous les coussins. Montez sur la pointe des pieds en contractant les mollets au maximum. Descendez lentement en dessous du niveau de la plateforme pour étirer les mollets. Maintenez 1 seconde en haut. Les genoux restent légèrement fléchis tout au long."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/standing-calf-raise.exercise.zip"
     },
@@ -1112,6 +2278,28 @@
       ],
       "equipment": [
         "bodyweight"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/step-up/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Facing a stable bench or box, place one foot on top and step up by pushing through that foot, bringing the other foot alongside. Lower slowly and alternate legs. Keep your back straight and gaze forward. Box height determines intensity. Can be done with dumbbells for added resistance.",
+            "fr": "Face à un banc ou une boîte stable. Posez un pied dessus et montez en poussant sur ce pied, en ramenant l'autre pied à côté. Descendez lentement et alternez les jambes. Gardez le dos droit et regardez droit devant. La hauteur du banc détermine l'intensité. Peut se faire avec des haltères pour plus de résistance."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/step-up.exercise.zip"
     },
@@ -1138,6 +2326,28 @@
       "equipment": [
         "barbell"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/sumo-deadlift/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Wide stance with toes pointed out at about 45°. Grip the bar between the legs overhand or mixed. Flat back, hips low — pull the bar by pushing the knees outward. This stance reduces lower back loading and increases adductor and glute involvement compared to conventional deadlift.",
+            "fr": "Pieds très écartés (largeur sumo), orteils pointés vers l'extérieur à 45°. Saisissez la barre entre les jambes en prise pronation ou mixte. Dos plat, hanches basses, tirez la barre en poussant les genoux vers l'extérieur. Cette position réduit la charge sur le bas du dos et sollicite davantage les adducteurs et les fessiers."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/sumo-deadlift.exercise.zip"
     },
     {
@@ -1163,6 +2373,28 @@
       "equipment": [
         "bodyweight"
       ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/tricep-dip/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Grip the parallel bars with the torso upright and vertical. Lower by bending the elbows to about 90°. Press up while exhaling to return to the starting position. To target the triceps, keep the torso vertical and elbows close to the body (unlike chest dips where you lean forward).",
+            "fr": "Saisissez les barres parallèles, corps vertical, buste droit. Descendez en fléchissant les coudes jusqu'à ce que les bras soient à 90°. Poussez en expirant pour revenir à la position initiale. Pour cibler les triceps, gardez le buste vertical et les coudes près du corps (contrairement aux dips pectoraux où on se penche en avant)."
+          }
+        }
+      ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/tricep-dip.exercise.zip"
     },
     {
@@ -1179,6 +2411,28 @@
       ],
       "equipment": [
         "barbell"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/wrist-curl/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Seated, rest your forearms on your thighs or a bench with palms facing up. Hold the bar and flex the wrists upward, contracting the forearm flexors. Lower slowly to full extension. The range of motion is small but intense for the flexor muscles.",
+            "fr": "Assis sur un banc, avant-bras posés sur les cuisses ou le banc, paumes vers le haut. Tenez la barre et fléchissez les poignets vers le haut en contractant les fléchisseurs des avant-bras. Descendez lentement jusqu'à l'extension complète. Amplitude de mouvement limitée mais intense pour les muscles fléchisseurs."
+          }
+        }
       ],
       "zipUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/data/exercises/wrist-curl.exercise.zip"
     }

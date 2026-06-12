@@ -1,0 +1,51 @@
+{
+  "version": "2.0",
+  "id": "5x5",
+  "name": { "en": "StrongLifts 5x5", "fr": "StrongLifts 5x5" },
+  "description": {
+    "en": "Simple 3-day full-body program alternating two workouts. Add weight every session. Perfect for beginners building their first strength base.",
+    "fr": "Programme full-body simple en 3 séances alternant deux entraînements. Ajoutez du poids à chaque séance. Parfait pour les débutants qui construisent leur première base de force."
+  },
+  "tags": ["strength", "beginner"],
+  "primaryMuscles": ["quads", "chest", "hamstrings", "shoulders"],
+  "moves": [
+    "squat",
+    "bench-press",
+    "bent-over-row",
+    "overhead-press",
+    "deadlift"
+  ],
+  "flexibleSlots": [],
+  "days": [
+    {
+      "dayIndex": 0,
+      "weekIndex": 0,
+      "label": { "en": "Workout A", "fr": "Entraînement A" },
+      "todos": [
+        { "moveId": "squat",       "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "bench-press", "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "bent-over-row", "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5},{"reps":5}] }
+      ]
+    },
+    {
+      "dayIndex": 2,
+      "weekIndex": 0,
+      "label": { "en": "Workout B", "fr": "Entraînement B" },
+      "todos": [
+        { "moveId": "squat",        "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "overhead-press", "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "deadlift",     "sets": [{"reps":5}] }
+      ]
+    },
+    {
+      "dayIndex": 4,
+      "weekIndex": 0,
+      "label": { "en": "Workout A", "fr": "Entraînement A" },
+      "todos": [
+        { "moveId": "squat",       "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "bench-press", "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "bent-over-row", "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5},{"reps":5}] }
+      ]
+    }
+  ]
+}

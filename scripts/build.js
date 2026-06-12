@@ -55,11 +55,23 @@ function buildExercises() {
     }
 
     const meta = readJson(indexPath);
-    const zip = new AdmZip();
 
-    zip.addLocalFile(indexPath, '');
-
+    // Read notes once — used for both the zip and the manifest
     const notesPath = path.join(exerciseDir, 'notes.json');
+    let notes = [];
+    if (fs.existsSync(notesPath)) {
+      const { notes: raw = [] } = readJson(notesPath);
+      notes = raw.map((n) => ({
+        ...n,
+        // Convert relative zip path → absolute CDN URL so the app can stream media
+        mediaUri: n.mediaUri
+          ? `${CDN_BASE}/source/exercises/${id}/${n.mediaUri}`
+          : undefined,
+      }));
+    }
+
+    const zip = new AdmZip();
+    zip.addLocalFile(indexPath, '');
     if (fs.existsSync(notesPath)) zip.addLocalFile(notesPath, '');
 
     const videoPath = path.join(exerciseDir, 'video.mp4');
@@ -74,10 +86,10 @@ function buildExercises() {
     manifestEntries.push({
       id,
       name: meta.name,
-      description: meta.description,
       muscles: meta.muscles,
       equipment: meta.equipment,
-      zipUrl: `${CDN_BASE}/data/exercises/${zipName}`
+      ...(notes.length > 0 && { notes }),
+      zipUrl: `${CDN_BASE}/data/exercises/${zipName}`,
     });
   }
 
@@ -266,10 +278,83 @@ function buildRecipes() {
   console.log(`  [recipes] ${manifestEntries.length} recipes → data/recipes/`);
 }
 
+function buildProgramTemplates() {
+  const srcDir = path.join(SOURCE, 'program-templates');
+  const outDir = path.join(DATA, 'program-templates');
+  ensureDir(outDir);
+
+  if (!fs.existsSync(srcDir)) {
+    console.warn('  [program-templates] source/program-templates/ not found — skipping');
+    return;
+  }
+
+  const exercisesManifestPath = path.join(DATA, 'exercises', 'manifest.json');
+  const exercisesById = {};
+  if (fs.existsSync(exercisesManifestPath)) {
+    const { exercises = [] } = readJson(exercisesManifestPath);
+    for (const ex of exercises) exercisesById[ex.id] = ex;
+  } else {
+    console.warn('  [program-templates] exercises manifest not found — requiredEquipment will be empty');
+  }
+
+  const manifestEntries = [];
+
+  for (const id of fs.readdirSync(srcDir).sort()) {
+    const programDir = path.join(srcDir, id);
+    if (!fs.statSync(programDir).isDirectory()) continue;
+
+    const indexPath = path.join(programDir, 'index.json');
+    if (!fs.existsSync(indexPath)) {
+      console.warn(`  [program-templates] ${id}/index.json missing — skipping`);
+      continue;
+    }
+
+    const meta = readJson(indexPath);
+    const zip = new AdmZip();
+    zip.addFile('share.json', fs.readFileSync(indexPath));
+
+    const zipName = `${id}.gymtribe.zip`;
+    zip.writeZip(path.join(outDir, zipName));
+
+    // Compute requiredEquipment from catalog exercise IDs
+    const equipmentSet = new Set();
+    for (const moveId of (meta.moves || [])) {
+      const ex = exercisesById[moveId];
+      if (ex && Array.isArray(ex.equipment)) {
+        ex.equipment.forEach((e) => equipmentSet.add(e));
+      }
+    }
+
+    // Compute cycleLengthWeeks and daysPerCycle from days array
+    const days = meta.days || [];
+    const cycleLengthWeeks = days.length > 0
+      ? Math.max(...days.map((d) => d.weekIndex)) + 1
+      : 1;
+    const daysPerCycle = days.length;
+
+    manifestEntries.push({
+      id: meta.id,
+      name: meta.name,
+      tags: meta.tags,
+      description: meta.description,
+      cycleLengthWeeks,
+      daysPerCycle,
+      requiredEquipment: Array.from(equipmentSet),
+      primaryMuscles: meta.primaryMuscles,
+      zipUrl: `${CDN_BASE}/data/program-templates/${zipName}`,
+    });
+  }
+
+  const manifest = { version: '2.0.0', templates: manifestEntries };
+  fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
+  console.log(`  [program-templates] ${manifestEntries.length} templates → data/program-templates/`);
+}
+
 console.log('Building gymtribe-public data...');
 buildExercises();
 buildFoods();
 buildSimpleType('muscles');
 buildEquipment();
 buildRecipes();
+buildProgramTemplates();
 console.log('Done.');

@@ -1,0 +1,98 @@
+{
+  "version": "2.0",
+  "id": "ppl",
+  "name": { "en": "Push Pull Legs (PPL)", "fr": "Pousser Tirer Jambes (PPL)" },
+  "description": {
+    "en": "6-day push/pull/legs split targeting each muscle group twice a week. High volume, proven for muscle growth at intermediate level.",
+    "fr": "Programme en 6 jours poussé/tiré/jambes ciblant chaque groupe musculaire deux fois par semaine. Volume élevé, prouvé pour la prise de muscle au niveau intermédiaire."
+  },
+  "tags": ["hypertrophy"],
+  "primaryMuscles": ["chest", "lats", "quads", "shoulders"],
+  "moves": [
+    "bench-press",
+    "overhead-press",
+    "incline-bench-press",
+    "deadlift",
+    "bent-over-row",
+    "pull-up",
+    "squat",
+    "romanian-deadlift",
+    "leg-press",
+    "lateral-raise",
+    "cable-pushdown",
+    "barbell-curl",
+    "face-pull",
+    "leg-extension",
+    "leg-curl",
+    "standing-calf-raise"
+  ],
+  "flexibleSlots": [
+    { "slotKey": "push_chest_isolation", "label": { "en": "Chest isolation",  "fr": "Isolation pectoraux" }, "muscleTarget": "chest" },
+    { "slotKey": "pull_back_isolation",  "label": { "en": "Back isolation",   "fr": "Isolation dorsaux" },   "muscleTarget": "lats" },
+    { "slotKey": "legs_quad_isolation",  "label": { "en": "Quad isolation",   "fr": "Isolation quadriceps" }, "muscleTarget": "quads" }
+  ],
+  "days": [
+    {
+      "dayIndex": 0, "weekIndex": 0, "label": { "en": "Push A", "fr": "Poussé A" },
+      "todos": [
+        { "moveId": "bench-press",      "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "overhead-press",   "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
+        { "moveId": "incline-bench-press", "sets": [{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "lateral-raise",    "sets": [{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "cable-pushdown",   "sets": [{"reps":12},{"reps":12},{"reps":12}] },
+        { "moveId": "push_chest_isolation", "isFlexible": true, "slotKey": "push_chest_isolation", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+      ]
+    },
+    {
+      "dayIndex": 1, "weekIndex": 0, "label": { "en": "Pull A", "fr": "Tiré A" },
+      "todos": [
+        { "moveId": "deadlift",    "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "pull-up",     "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
+        { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
+        { "moveId": "face-pull",   "sets": [{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "barbell-curl", "sets": [{"reps":12},{"reps":12},{"reps":12}] },
+        { "moveId": "pull_back_isolation", "isFlexible": true, "slotKey": "pull_back_isolation", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+      ]
+    },
+    {
+      "dayIndex": 2, "weekIndex": 0, "label": { "en": "Legs A", "fr": "Jambes A" },
+      "todos": [
+        { "moveId": "squat",             "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "romanian-deadlift", "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "leg-press",         "sets": [{"reps":12},{"reps":12},{"reps":12},{"reps":12}] },
+        { "moveId": "leg-curl",          "sets": [{"reps":12},{"reps":12},{"reps":12}] },
+        { "moveId": "standing-calf-raise", "sets": [{"reps":15},{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "legs_quad_isolation", "isFlexible": true, "slotKey": "legs_quad_isolation", "sets": [{"reps":15},{"reps":15},{"reps":15}] }
+      ]
+    },
+    {
+      "dayIndex": 3, "weekIndex": 0, "label": { "en": "Push B", "fr": "Poussé B" },
+      "todos": [
+        { "moveId": "incline-bench-press", "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "bench-press",        "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
+        { "moveId": "overhead-press",     "sets": [{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "lateral-raise",      "sets": [{"reps":15},{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "cable-pushdown",     "sets": [{"reps":12},{"reps":12},{"reps":12},{"reps":12}] }
+      ]
+    },
+    {
+      "dayIndex": 4, "weekIndex": 0, "label": { "en": "Pull B", "fr": "Tiré B" },
+      "todos": [
+        { "moveId": "pull-up",      "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "bent-over-row", "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "face-pull",    "sets": [{"reps":15},{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "barbell-curl", "sets": [{"reps":15},{"reps":15},{"reps":15},{"reps":15}] }
+      ]
+    },
+    {
+      "dayIndex": 5, "weekIndex": 0, "label": { "en": "Legs B", "fr": "Jambes B" },
+      "todos": [
+        { "moveId": "squat",             "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
+        { "moveId": "romanian-deadlift", "sets": [{"reps":12},{"reps":12},{"reps":12}] },
+        { "moveId": "leg-extension",     "sets": [{"reps":15},{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "leg-curl",          "sets": [{"reps":15},{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "standing-calf-raise", "sets": [{"reps":15},{"reps":15},{"reps":15},{"reps":15}] }
+      ]
+    }
+  ]
+}

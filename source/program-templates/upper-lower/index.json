@@ -1,0 +1,73 @@
+{
+  "version": "2.0",
+  "id": "upper-lower",
+  "name": { "en": "Upper/Lower", "fr": "Haut/Bas" },
+  "description": {
+    "en": "4-day upper/lower split alternating strength and hypertrophy sessions. Balanced frequency and volume — great for beginners and intermediates.",
+    "fr": "Programme en 4 jours haut/bas alternant force et hypertrophie. Fréquence et volume équilibrés — idéal pour les débutants et intermédiaires."
+  },
+  "tags": ["powerbuilding", "strength"],
+  "primaryMuscles": ["chest", "lats", "quads", "hamstrings"],
+  "moves": [
+    "bench-press",
+    "bent-over-row",
+    "squat",
+    "romanian-deadlift",
+    "overhead-press",
+    "pull-up",
+    "incline-bench-press",
+    "leg-press",
+    "leg-curl",
+    "lateral-raise",
+    "barbell-curl"
+  ],
+  "flexibleSlots": [
+    { "slotKey": "upper_str_accessory", "label": { "en": "Upper strength accessory",    "fr": "Accessoire force haut du corps" },          "muscleTarget": "chest" },
+    { "slotKey": "lower_str_accessory", "label": { "en": "Lower strength accessory",    "fr": "Accessoire force bas du corps" },           "muscleTarget": "quads" },
+    { "slotKey": "upper_hyp_accessory", "label": { "en": "Upper hypertrophy accessory", "fr": "Accessoire hypertrophie haut du corps" },   "muscleTarget": "shoulders" },
+    { "slotKey": "lower_hyp_accessory", "label": { "en": "Lower hypertrophy accessory", "fr": "Accessoire hypertrophie bas du corps" },    "muscleTarget": "hamstrings" }
+  ],
+  "days": [
+    {
+      "dayIndex": 0, "weekIndex": 0, "label": { "en": "Upper Strength", "fr": "Force Haut du Corps" },
+      "todos": [
+        { "moveId": "bench-press",    "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "bent-over-row",  "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "overhead-press", "sets": [{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "pull-up",        "sets": [{"reps":6},{"reps":6},{"reps":6}] },
+        { "moveId": "upper_str_accessory", "isFlexible": true, "slotKey": "upper_str_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+      ]
+    },
+    {
+      "dayIndex": 1, "weekIndex": 0, "label": { "en": "Lower Strength", "fr": "Force Bas du Corps" },
+      "todos": [
+        { "moveId": "squat",             "sets": [{"reps":5},{"reps":5},{"reps":5},{"reps":5}] },
+        { "moveId": "romanian-deadlift", "sets": [{"reps":6},{"reps":6},{"reps":6}] },
+        { "moveId": "leg-curl",          "sets": [{"reps":8},{"reps":8},{"reps":8}] },
+        { "moveId": "lower_str_accessory", "isFlexible": true, "slotKey": "lower_str_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+      ]
+    },
+    {
+      "dayIndex": 3, "weekIndex": 0, "label": { "en": "Upper Hypertrophy", "fr": "Hypertrophie Haut du Corps" },
+      "todos": [
+        { "moveId": "incline-bench-press", "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "bent-over-row",       "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "overhead-press",      "sets": [{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "pull-up",             "sets": [{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "lateral-raise",       "sets": [{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "barbell-curl",        "sets": [{"reps":12},{"reps":12},{"reps":12}] },
+        { "moveId": "upper_hyp_accessory", "isFlexible": true, "slotKey": "upper_hyp_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+      ]
+    },
+    {
+      "dayIndex": 4, "weekIndex": 0, "label": { "en": "Lower Hypertrophy", "fr": "Hypertrophie Bas du Corps" },
+      "todos": [
+        { "moveId": "squat",             "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "romanian-deadlift", "sets": [{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "leg-press",         "sets": [{"reps":15},{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "leg-curl",          "sets": [{"reps":12},{"reps":12},{"reps":12}] },
+        { "moveId": "lower_hyp_accessory", "isFlexible": true, "slotKey": "lower_hyp_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+      ]
+    }
+  ]
+}

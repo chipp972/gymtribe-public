@@ -1,0 +1,71 @@
+{
+  "version": "2.0",
+  "id": "booty-upper-lower",
+  "name": { "en": "Booty/Upper/Lower", "fr": "Fessiers/Haut/Bas" },
+  "description": {
+    "en": "3-day split with dedicated glute/posterior chain day plus upper and lower sessions. Designed for athletes prioritising lower body development.",
+    "fr": "Programme en 3 jours avec une journée dédiée aux fessiers et à la chaîne postérieure, plus des séances haut et bas du corps. Conçu pour les sportifs qui privilégient le développement du bas du corps."
+  },
+  "tags": ["hypertrophy"],
+  "primaryMuscles": ["glute-max", "hamstrings", "quads", "chest"],
+  "moves": [
+    "hip-thrust",
+    "romanian-deadlift",
+    "cable-kickback",
+    "bench-press",
+    "bent-over-row",
+    "overhead-press",
+    "pull-up",
+    "barbell-curl",
+    "squat",
+    "leg-press",
+    "leg-extension",
+    "leg-curl",
+    "standing-calf-raise"
+  ],
+  "flexibleSlots": [
+    {
+      "slotKey": "glute_accessory",
+      "label": { "en": "Glute accessory", "fr": "Accessoire fessier" },
+      "muscleTarget": "glute-max"
+    }
+  ],
+  "days": [
+    {
+      "dayIndex": 0,
+      "weekIndex": 0,
+      "label": { "en": "Booty Day", "fr": "Jour Fessiers" },
+      "todos": [
+        { "moveId": "hip-thrust",        "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "romanian-deadlift", "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "cable-kickback",    "sets": [{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "hip-thrust",        "sets": [{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "glute_accessory", "isFlexible": true, "slotKey": "glute_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+      ]
+    },
+    {
+      "dayIndex": 2,
+      "weekIndex": 0,
+      "label": { "en": "Upper Day", "fr": "Jour Haut du Corps" },
+      "todos": [
+        { "moveId": "bench-press",    "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
+        { "moveId": "bent-over-row",  "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
+        { "moveId": "overhead-press", "sets": [{"reps":10},{"reps":10},{"reps":10}] },
+        { "moveId": "pull-up",        "sets": [{"reps":8},{"reps":8},{"reps":8}] },
+        { "moveId": "barbell-curl",   "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+      ]
+    },
+    {
+      "dayIndex": 4,
+      "weekIndex": 0,
+      "label": { "en": "Lower Day", "fr": "Jour Bas du Corps" },
+      "todos": [
+        { "moveId": "squat",               "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
+        { "moveId": "leg-press",           "sets": [{"reps":12},{"reps":12},{"reps":12},{"reps":12}] },
+        { "moveId": "leg-extension",       "sets": [{"reps":15},{"reps":15},{"reps":15}] },
+        { "moveId": "leg-curl",            "sets": [{"reps":12},{"reps":12},{"reps":12}] },
+        { "moveId": "standing-calf-raise", "sets": [{"reps":15},{"reps":15},{"reps":15},{"reps":15}] }
+      ]
+    }
+  ]
+}
