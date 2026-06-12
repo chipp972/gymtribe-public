@@ -1,12 +1,13 @@
 {
   "notes": [
     {
-      "noteType": "url",
+      "noteType": "media",
       "title": {
         "en": "exercise execution",
         "fr": "exercise execution"
       },
-      "url": "https://videos.pexels.com/video-files/37503830/15888863_1920_1080_30fps.mp4"
+      "mediaUri": "media/exercise-execution.mp4",
+      "mediaType": "video"
     },
     {
       "noteType": "description",

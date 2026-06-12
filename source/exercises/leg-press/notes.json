@@ -1,12 +1,13 @@
 {
   "notes": [
     {
-      "noteType": "url",
+      "noteType": "media",
       "title": {
         "en": "exercise execution",
         "fr": "exercise execution"
       },
-      "url": "https://ymove.app/api/free/3dabdcc0-8639-4868-9e57-5afc621ed50d"
+      "mediaUri": "media/exercise-execution.mp4",
+      "mediaType": "video"
     },
     {
       "noteType": "description",
