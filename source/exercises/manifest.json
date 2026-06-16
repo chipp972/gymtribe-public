@@ -1400,7 +1400,8 @@
         }
       ],
       "equipment": [
-        "machine"
+        "artis-leg-curl",
+        "matrix-ultra-seated-leg-curl"
       ],
       "notes": [
         {
@@ -1438,7 +1439,8 @@
         }
       ],
       "equipment": [
-        "machine"
+        "artis-leg-extension",
+        "matrix-ultra-leg-extension"
       ],
       "notes": [
         {
@@ -1484,7 +1486,8 @@
         }
       ],
       "equipment": [
-        "machine"
+        "artis-leg-press",
+        "matrix-ultra-leg-press"
       ],
       "notes": [
         {
@@ -2060,7 +2063,8 @@
         }
       ],
       "equipment": [
-        "machine"
+        "pure-strength-seated-calf",
+        "matrix-magnum-seated-calf"
       ],
       "notes": [
         {
@@ -2182,7 +2186,8 @@
         }
       ],
       "equipment": [
-        "machine"
+        "pure-strength-calf",
+        "matrix-magnum-standing-calf"
       ],
       "notes": [
         {

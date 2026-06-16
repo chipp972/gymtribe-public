@@ -1,0 +1,24 @@
+{
+  "id": "maintain",
+  "name": { "en": "Maintenance", "fr": "Maintien" },
+  "description": {
+    "en": "Balanced training to maintain strength and physique with moderate volume.",
+    "fr": "Entraînement équilibré pour maintenir la force et la silhouette avec un volume modéré."
+  },
+  "tags": ["maintenance"],
+  "moveIds": [
+    "squat",
+    "deadlift",
+    "bench-press",
+    "overhead-press",
+    "seated-cable-row",
+    "pull-up",
+    "lunge",
+    "plank",
+    "leg-curl",
+    "leg-extension",
+    "lateral-raise",
+    "barbell-curl",
+    "cable-pushdown"
+  ]
+}

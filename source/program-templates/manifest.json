@@ -76,7 +76,14 @@
         "barbell",
         "cable",
         "bodyweight",
-        "machine"
+        "artis-leg-press",
+        "matrix-ultra-leg-press",
+        "artis-leg-extension",
+        "matrix-ultra-leg-extension",
+        "artis-leg-curl",
+        "matrix-ultra-seated-leg-curl",
+        "pure-strength-calf",
+        "matrix-magnum-standing-calf"
       ],
       "primaryMuscles": [
         "glute-max",
@@ -104,9 +111,16 @@
       "requiredEquipment": [
         "barbell",
         "bodyweight",
-        "machine",
+        "artis-leg-press",
+        "matrix-ultra-leg-press",
         "dumbbell",
-        "cable"
+        "cable",
+        "artis-leg-extension",
+        "matrix-ultra-leg-extension",
+        "artis-leg-curl",
+        "matrix-ultra-seated-leg-curl",
+        "pure-strength-calf",
+        "matrix-magnum-standing-calf"
       ],
       "primaryMuscles": [
         "chest",
@@ -135,7 +149,10 @@
       "requiredEquipment": [
         "barbell",
         "bodyweight",
-        "machine",
+        "artis-leg-press",
+        "matrix-ultra-leg-press",
+        "artis-leg-curl",
+        "matrix-ultra-seated-leg-curl",
         "dumbbell"
       ],
       "primaryMuscles": [

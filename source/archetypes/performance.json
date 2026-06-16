@@ -1,0 +1,24 @@
+{
+  "id": "performance",
+  "name": { "en": "Performance", "fr": "Performance" },
+  "description": {
+    "en": "Low-rep, high-intensity strength training focused on maximal force output.",
+    "fr": "Entraînement en force à faibles répétitions et haute intensité pour maximiser la force."
+  },
+  "tags": ["strength", "performance"],
+  "moveIds": [
+    "squat",
+    "deadlift",
+    "bench-press",
+    "overhead-press",
+    "front-squat",
+    "sumo-deadlift",
+    "romanian-deadlift",
+    "hack-squat",
+    "incline-bench-press",
+    "close-grip-bench-press",
+    "bent-over-row",
+    "hip-thrust",
+    "good-morning"
+  ]
+}

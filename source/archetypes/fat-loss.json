@@ -1,0 +1,25 @@
+{
+  "id": "fat-loss",
+  "name": { "en": "Fat Loss", "fr": "Perte de Poids" },
+  "description": {
+    "en": "High-rep, cardio-focused training to maximize calorie burn and lean muscle preservation.",
+    "fr": "Entraînement à haute répétition axé sur le cardio pour maximiser la dépense calorique."
+  },
+  "tags": ["fatLoss"],
+  "moveIds": [
+    "jump-rope",
+    "push-up",
+    "pull-up",
+    "squat",
+    "lunge",
+    "step-up",
+    "plank",
+    "crunch",
+    "bicycle-crunch",
+    "russian-twist",
+    "leg-raise",
+    "dips",
+    "bulgarian-split-squat",
+    "deadlift"
+  ]
+}

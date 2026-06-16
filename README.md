@@ -7,41 +7,32 @@ Landing page and public data for [GymTribe](https://github.com/chipp972/gymtribe
 | Path | Description |
 |---|---|
 | `index.html` / `styles.css` | Landing page (served via GitHub Pages) |
-| `data/program-templates/` | Workout program templates (manifest + zip bundles) |
-| `data/seeds/` | Exercise, food, muscle group, and equipment reference data |
+| `source/` | Source data — one folder/file per catalog type, built into manifests via `npm run build` |
+| `scripts/build.js` | Build pipeline — regenerates every `source/*/manifest.json` |
 
 ## Data API
 
 All files are accessible via the GitHub raw CDN — no authentication required.
 
-**Base URL:** `https://raw.githubusercontent.com/chipp972/gymtribe-public/main/`
+**Base URL:** `https://raw.githubusercontent.com/chipp972/gymtribe-public/master/`
 
-### Program Templates
-
-| File | URL |
+| Dataset | URL |
 |---|---|
-| Manifest | `data/program-templates/manifest.json` |
-| 5/3/1 Wendler | `data/program-templates/531.gymtribe.zip` |
-| Push Pull Legs | `data/program-templates/ppl.gymtribe.zip` |
-| Upper/Lower | `data/program-templates/upper-lower.gymtribe.zip` |
-| Booty/Upper/Lower | `data/program-templates/booty-upper-lower.gymtribe.zip` |
-| StrongLifts 5×5 | `data/program-templates/5x5.gymtribe.zip` |
-
-### Seed Data
-
-| Dataset | English | French |
-|---|---|---|
-| Exercises (59 entries) | `data/seeds/en-exercises-basics.json` | `data/seeds/fr-exercises-basics.json` |
-| Foods (68 entries) | `data/seeds/en-foods-basics.json` | `data/seeds/fr-foods-basics.json` |
-| Muscle groups | `data/seeds/en-muscles-basics.json` | `data/seeds/fr-muscles-basics.json` |
-| Equipment | `data/seeds/en-equipment-basics.json` | `data/seeds/fr-equipment-basics.json` |
+| Exercises manifest | `source/exercises/manifest.json` |
+| Foods manifest | `source/foods/manifest.json` |
+| Equipment manifest | `source/equipment/manifest.json` |
+| Muscle groups manifest | `source/muscles/manifest.json` |
+| Recipes manifest | `source/recipes/manifest.json` |
+| Program templates manifest | `source/program-templates/manifest.json` (each entry has a `jsonUrl` to its full `index.json`) |
+| Archetypes manifest | `source/archetypes/manifest.json` (each entry lists `moveIds` resolved against the exercises manifest) |
+| Diet profiles manifest | `source/profiles/manifest.json` (each entry lists `foodIds`/`recipeIds` resolved against the foods/recipes manifests) |
 
 ### Example
 
 ```bash
-curl https://raw.githubusercontent.com/chipp972/gymtribe-public/main/data/program-templates/manifest.json
+curl https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/manifest.json
 ```
 
 ## License
 
-Data files (exercises, foods, muscles, equipment) are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Program templates are © GymTribe.
+Data files (exercises, foods, muscles, equipment, recipes) are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Program templates are © GymTribe.

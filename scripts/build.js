@@ -3,34 +3,13 @@
 
 const fs = require('fs');
 const path = require('path');
-const AdmZip = require('adm-zip');
 
 const ROOT = path.resolve(__dirname, '..');
 const SOURCE = path.join(ROOT, 'source');
-const DATA = path.join(ROOT, 'data');
-const CONFIG = path.join(ROOT, 'config');
 const CDN_BASE = 'https://raw.githubusercontent.com/chipp972/gymtribe-public/master';
-
-function ensureDir(dir) {
-  fs.mkdirSync(dir, { recursive: true });
-}
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
-}
-
-function addDirToZip(zip, dirPath, zipPrefix) {
-  if (!fs.existsSync(dirPath)) return;
-  for (const entry of fs.readdirSync(dirPath)) {
-    if (entry === '.gitkeep') continue;
-    const full = path.join(dirPath, entry);
-    const stat = fs.statSync(full);
-    if (stat.isDirectory()) {
-      addDirToZip(zip, full, `${zipPrefix}${entry}/`);
-    } else {
-      zip.addLocalFile(full, zipPrefix);
-    }
-  }
 }
 
 // Exercises: write manifest to source/exercises/manifest.json, no per-item zips
@@ -193,6 +172,7 @@ function buildRecipes() {
     return;
   }
 
+  const foodsById = loadFoodsSource();
   const manifestEntries = [];
 
   for (const id of fs.readdirSync(srcDir).sort()) {
@@ -206,11 +186,23 @@ function buildRecipes() {
     }
 
     const meta = readJson(indexPath);
+
+    const ingredients = (meta.ingredients || [])
+      .map(({ foodId, quantityG }) => {
+        if (!foodsById[foodId]) {
+          console.warn(`  [recipes] ${id}: ingredient food "${foodId}" not found — skipping`);
+          return null;
+        }
+        return { foodId, quantityG };
+      })
+      .filter(Boolean);
+
     manifestEntries.push({
       id,
       name: meta.name,
       description: meta.description,
-      imageUrl: meta.imageUrl
+      ingredients,
+      thumbnailUrl: meta.imageUrl
         ? `${CDN_BASE}/source/recipes/${id}/media/${meta.imageUrl}`
         : undefined,
     });
@@ -326,130 +318,90 @@ function loadFoodsSource() {
   return byId;
 }
 
-// Helper: build a GymTribeShareFile from config + source data
-function buildShareFile(config, exercisesById, foodsById) {
-  const moves = (config.moveIds || []).map((id) => {
-    const item = exercisesById[id];
-    if (!item) {
-      console.warn(`    [share] exercise "${id}" not found — skipping`);
-      return null;
-    }
-    const { meta, notes } = item;
-    return {
-      name: meta.name.en,
-      notes,
-      muscles: (meta.muscles || []).map((m) => ({ muscleName: m.name, role: m.role })),
-      equipments: (meta.equipment || []).map((e) => ({ name: e })),
-    };
-  }).filter(Boolean);
-
-  const foods = (config.foodIds || []).map((id) => {
-    const meta = foodsById[id];
-    if (!meta) {
-      console.warn(`    [share] food "${id}" not found — skipping`);
-      return null;
-    }
-    return {
-      name: meta.name.en,
-      type: meta.type,
-      kcalPer100g: meta.kcalPer100g,
-      protPer100g: meta.protPer100g,
-      glucPer100g: meta.glucPer100g,
-      lipPer100g: meta.lipPer100g,
-      fiberPer100g: meta.fiberPer100g,
-      barcode: null,
-    };
-  }).filter(Boolean);
-
-  return {
-    version: '1.0',
-    exportedAt: new Date().toISOString(),
-    moves,
-    foods,
-    recipes: [],
-  };
+// Helper: load all recipes source data indexed by id
+function loadRecipesSource() {
+  const srcDir = path.join(SOURCE, 'recipes');
+  const byId = {};
+  if (!fs.existsSync(srcDir)) return byId;
+  for (const id of fs.readdirSync(srcDir)) {
+    const indexPath = path.join(srcDir, id, 'index.json');
+    if (!fs.existsSync(indexPath)) continue;
+    byId[id] = readJson(indexPath);
+  }
+  return byId;
 }
 
-// Archetypes: create GymTribeShareFile zips from config/archetypes/*.json
+// Archetypes: write manifest to source/archetypes/manifest.json — entries reference
+// moveIds, which the app resolves against the exercises catalog at import time.
 function buildArchetypes() {
-  const configDir = path.join(CONFIG, 'archetypes');
-  const outDir = path.join(DATA, 'archetypes');
-  ensureDir(outDir);
+  const configDir = path.join(SOURCE, 'archetypes');
 
   if (!fs.existsSync(configDir)) {
-    console.warn('  [archetypes] config/archetypes/ not found — skipping');
+    console.warn('  [archetypes] source/archetypes/ not found — skipping');
     return;
   }
 
   const exercisesById = loadExercisesSource();
-  const foodsById = loadFoodsSource();
   const manifestEntries = [];
 
   for (const file of fs.readdirSync(configDir).sort()) {
-    if (!file.endsWith('.json')) continue;
+    if (!file.endsWith('.json') || file === 'manifest.json') continue;
     const configPath = path.join(configDir, file);
     const config = readJson(configPath);
     const { id, name, description, tags } = config;
 
-    const shareFile = buildShareFile(config, exercisesById, foodsById);
-    const zip = new AdmZip();
-    zip.addFile('share.json', Buffer.from(JSON.stringify(shareFile, null, 2)));
-
-    const zipName = `${id}.gymtribe.zip`;
-    zip.writeZip(path.join(outDir, zipName));
-
-    manifestEntries.push({
-      id,
-      name,
-      description,
-      tags: tags || [],
-      zipUrl: `${CDN_BASE}/data/archetypes/${zipName}`,
+    const moveIds = (config.moveIds || []).filter((moveId) => {
+      if (exercisesById[moveId]) return true;
+      console.warn(`  [archetypes] ${id}: move "${moveId}" not found — skipping`);
+      return false;
     });
+
+    manifestEntries.push({ id, name, description, tags: tags || [], moveIds });
   }
 
   const manifest = { version: '1.0.0', archetypes: manifestEntries };
-  fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  console.log(`  [archetypes] ${manifestEntries.length} archetypes → data/archetypes/`);
+  fs.writeFileSync(path.join(configDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
+  console.log(`  [archetypes] ${manifestEntries.length} archetypes → source/archetypes/manifest.json`);
 }
 
-// Profiles: create GymTribeShareFile zips from config/profiles/*.json
+// Profiles: write manifest to source/profiles/manifest.json — entries reference
+// foodIds/recipeIds, which the app resolves against the foods/recipes catalog at import time.
 function buildProfiles() {
-  const configDir = path.join(CONFIG, 'profiles');
-  const outDir = path.join(DATA, 'profiles');
-  ensureDir(outDir);
+  const configDir = path.join(SOURCE, 'profiles');
 
   if (!fs.existsSync(configDir)) {
-    console.warn('  [profiles] config/profiles/ not found — skipping');
+    console.warn('  [profiles] source/profiles/ not found — skipping');
     return;
   }
 
   const foodsById = loadFoodsSource();
+  const recipesById = loadRecipesSource();
   const manifestEntries = [];
 
   for (const file of fs.readdirSync(configDir).sort()) {
-    if (!file.endsWith('.json')) continue;
+    if (!file.endsWith('.json') || file === 'manifest.json') continue;
     const configPath = path.join(configDir, file);
     const config = readJson(configPath);
     const { id, name, description } = config;
 
-    const shareFile = buildShareFile(config, {}, foodsById);
-    const zip = new AdmZip();
-    zip.addFile('share.json', Buffer.from(JSON.stringify(shareFile, null, 2)));
-
-    const zipName = `${id}.gymtribe.zip`;
-    zip.writeZip(path.join(outDir, zipName));
-
-    manifestEntries.push({
-      id,
-      name,
-      description,
-      zipUrl: `${CDN_BASE}/data/profiles/${zipName}`,
+    const foodIds = (config.foodIds || []).filter((foodId) => {
+      if (foodsById[foodId]) return true;
+      console.warn(`  [profiles] ${id}: food "${foodId}" not found — skipping`);
+      return false;
     });
+
+    const recipeIds = (config.recipeIds || []).filter((recipeId) => {
+      if (recipesById[recipeId]) return true;
+      console.warn(`  [profiles] ${id}: recipe "${recipeId}" not found — skipping`);
+      return false;
+    });
+
+    manifestEntries.push({ id, name, description, foodIds, recipeIds });
   }
 
   const manifest = { version: '1.0.0', profiles: manifestEntries };
-  fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  console.log(`  [profiles] ${manifestEntries.length} profiles → data/profiles/`);
+  fs.writeFileSync(path.join(configDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
+  console.log(`  [profiles] ${manifestEntries.length} profiles → source/profiles/manifest.json`);
 }
 
 console.log('Building gymtribe-public data...');

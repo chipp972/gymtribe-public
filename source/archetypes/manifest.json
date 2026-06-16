@@ -1,0 +1,167 @@
+{
+  "version": "1.0.0",
+  "archetypes": [
+    {
+      "id": "aesthetics",
+      "name": {
+        "en": "Aesthetics",
+        "fr": "Esthétique"
+      },
+      "description": {
+        "en": "Hypertrophy-focused training to build muscle size and definition.",
+        "fr": "Entraînement axé sur l'hypertrophie pour développer le volume et la définition musculaire."
+      },
+      "tags": [
+        "hypertrophy",
+        "aesthetics"
+      ],
+      "moveIds": [
+        "bench-press",
+        "incline-bench-press",
+        "dumbbell-fly",
+        "cable-fly",
+        "lateral-raise",
+        "front-raise",
+        "reverse-fly",
+        "arnold-press",
+        "barbell-curl",
+        "dumbbell-curl",
+        "hammer-curl",
+        "preacher-curl",
+        "cable-curl",
+        "skull-crusher",
+        "cable-pushdown",
+        "overhead-tricep-extension",
+        "lat-pulldown",
+        "seated-cable-row",
+        "leg-extension",
+        "leg-curl",
+        "leg-press",
+        "standing-calf-raise",
+        "seated-calf-raise",
+        "cable-crunch",
+        "bulgarian-split-squat"
+      ]
+    },
+    {
+      "id": "fat-loss",
+      "name": {
+        "en": "Fat Loss",
+        "fr": "Perte de Poids"
+      },
+      "description": {
+        "en": "High-rep, cardio-focused training to maximize calorie burn and lean muscle preservation.",
+        "fr": "Entraînement à haute répétition axé sur le cardio pour maximiser la dépense calorique."
+      },
+      "tags": [
+        "fatLoss"
+      ],
+      "moveIds": [
+        "jump-rope",
+        "push-up",
+        "pull-up",
+        "squat",
+        "lunge",
+        "step-up",
+        "plank",
+        "crunch",
+        "bicycle-crunch",
+        "russian-twist",
+        "leg-raise",
+        "dips",
+        "bulgarian-split-squat",
+        "deadlift"
+      ]
+    },
+    {
+      "id": "hybrid",
+      "name": {
+        "en": "Hybrid",
+        "fr": "Hybride"
+      },
+      "description": {
+        "en": "Mixed strength and hypertrophy training for balanced development.",
+        "fr": "Entraînement mixte force et hypertrophie pour un développement équilibré."
+      },
+      "tags": [
+        "hypertrophy",
+        "strength"
+      ],
+      "moveIds": [
+        "squat",
+        "deadlift",
+        "bench-press",
+        "overhead-press",
+        "bent-over-row",
+        "pull-up",
+        "lunge",
+        "hip-thrust",
+        "dumbbell-curl",
+        "lateral-raise",
+        "leg-press",
+        "leg-curl",
+        "cable-pushdown",
+        "face-pull"
+      ]
+    },
+    {
+      "id": "maintain",
+      "name": {
+        "en": "Maintenance",
+        "fr": "Maintien"
+      },
+      "description": {
+        "en": "Balanced training to maintain strength and physique with moderate volume.",
+        "fr": "Entraînement équilibré pour maintenir la force et la silhouette avec un volume modéré."
+      },
+      "tags": [
+        "maintenance"
+      ],
+      "moveIds": [
+        "squat",
+        "deadlift",
+        "bench-press",
+        "overhead-press",
+        "seated-cable-row",
+        "pull-up",
+        "lunge",
+        "plank",
+        "leg-curl",
+        "leg-extension",
+        "lateral-raise",
+        "barbell-curl",
+        "cable-pushdown"
+      ]
+    },
+    {
+      "id": "performance",
+      "name": {
+        "en": "Performance",
+        "fr": "Performance"
+      },
+      "description": {
+        "en": "Low-rep, high-intensity strength training focused on maximal force output.",
+        "fr": "Entraînement en force à faibles répétitions et haute intensité pour maximiser la force."
+      },
+      "tags": [
+        "strength",
+        "performance"
+      ],
+      "moveIds": [
+        "squat",
+        "deadlift",
+        "bench-press",
+        "overhead-press",
+        "front-squat",
+        "sumo-deadlift",
+        "romanian-deadlift",
+        "hack-squat",
+        "incline-bench-press",
+        "close-grip-bench-press",
+        "bent-over-row",
+        "hip-thrust",
+        "good-morning"
+      ]
+    }
+  ]
+}

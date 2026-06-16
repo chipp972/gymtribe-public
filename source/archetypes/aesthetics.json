@@ -1,0 +1,36 @@
+{
+  "id": "aesthetics",
+  "name": { "en": "Aesthetics", "fr": "Esthétique" },
+  "description": {
+    "en": "Hypertrophy-focused training to build muscle size and definition.",
+    "fr": "Entraînement axé sur l'hypertrophie pour développer le volume et la définition musculaire."
+  },
+  "tags": ["hypertrophy", "aesthetics"],
+  "moveIds": [
+    "bench-press",
+    "incline-bench-press",
+    "dumbbell-fly",
+    "cable-fly",
+    "lateral-raise",
+    "front-raise",
+    "reverse-fly",
+    "arnold-press",
+    "barbell-curl",
+    "dumbbell-curl",
+    "hammer-curl",
+    "preacher-curl",
+    "cable-curl",
+    "skull-crusher",
+    "cable-pushdown",
+    "overhead-tricep-extension",
+    "lat-pulldown",
+    "seated-cable-row",
+    "leg-extension",
+    "leg-curl",
+    "leg-press",
+    "standing-calf-raise",
+    "seated-calf-raise",
+    "cable-crunch",
+    "bulgarian-split-squat"
+  ]
+}
