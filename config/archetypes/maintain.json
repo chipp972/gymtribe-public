@@ -1,0 +1,11 @@
+{
+  "id": "maintain",
+  "name": { "en": "Maintenance", "fr": "Maintien" },
+  "description": {
+    "en": "Balanced training to maintain strength and physique with moderate volume.",
+    "fr": "Entraînement équilibré pour maintenir la force et la silhouette avec un volume modéré."
+  },
+  "tags": ["maintenance"],
+  "moveIds": [],
+  "foodIds": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vegetarian",
+  "name": { "en": "Vegetarian", "fr": "Végétarien" },
+  "description": {
+    "en": "Plant-based diet including dairy and eggs but no meat or fish.",
+    "fr": "Alimentation végétale incluant les produits laitiers et œufs, sans viande ni poisson."
+  },
+  "foodIds": [],
+  "recipeIds": []
+}

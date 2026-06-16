@@ -1,0 +1,11 @@
+{
+  "id": "hybrid",
+  "name": { "en": "Hybrid", "fr": "Hybride" },
+  "description": {
+    "en": "Mixed strength and hypertrophy training for balanced development.",
+    "fr": "Entraînement mixte force et hypertrophie pour un développement équilibré."
+  },
+  "tags": ["hypertrophy", "strength"],
+  "moveIds": [],
+  "foodIds": []
+}

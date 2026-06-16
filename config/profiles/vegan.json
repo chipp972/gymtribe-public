@@ -1,0 +1,10 @@
+{
+  "id": "vegan",
+  "name": { "en": "Vegan", "fr": "Vegan" },
+  "description": {
+    "en": "100% plant-based foods — no meat, dairy, or animal products.",
+    "fr": "Alimentation 100% végétale — sans viande, produits laitiers ni produits d'origine animale."
+  },
+  "foodIds": [],
+  "recipeIds": []
+}
