@@ -1,0 +1,8 @@
+{
+  "id": "barbell",
+  "name": {
+    "en": "Barbell",
+    "fr": "Barre"
+  },
+  "imageUrl": "media/media.png"
+}
