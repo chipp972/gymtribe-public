@@ -6,20 +6,17 @@
   },
   "muscles": [
     {
-      "name": "quadriceps",
+      "id": "quadriceps",
       "role": "primary"
     },
     {
-      "name": "glutes",
+      "id": "glutes",
       "role": "secondary"
     },
     {
-      "name": "hamstrings",
+      "id": "hamstrings",
       "role": "secondary"
     }
   ],
-  "equipment": [
-    "artis-leg-press",
-    "matrix-ultra-leg-press"
-  ]
+  "equipment": ["leg-press"]
 }

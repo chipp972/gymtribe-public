@@ -7,7 +7,7 @@
     "fr": "Programme en 3 jours avec une journée dédiée aux fessiers et à la chaîne postérieure, plus des séances haut et bas du corps. Conçu pour les sportifs qui privilégient le développement du bas du corps."
   },
   "tags": ["hypertrophy"],
-  "primaryMuscles": ["glute-max", "hamstrings", "quads", "chest"],
+  "primaryMuscles": ["glute-max", "hamstrings", "quadriceps", "chest"],
   "moves": [
     "hip-thrust",
     "romanian-deadlift",
@@ -20,15 +20,8 @@
     "squat",
     "leg-press",
     "leg-extension",
-    "leg-curl",
+    "seated-leg-curl",
     "standing-calf-raise"
-  ],
-  "flexibleSlots": [
-    {
-      "slotKey": "glute_accessory",
-      "label": { "en": "Glute accessory", "fr": "Accessoire fessier" },
-      "muscleTarget": "glute-max"
-    }
   ],
   "days": [
     {
@@ -36,11 +29,23 @@
       "weekIndex": 0,
       "label": { "en": "Booty Day", "fr": "Jour Fessiers" },
       "todos": [
-        { "moveId": "hip-thrust",        "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
-        { "moveId": "romanian-deadlift", "sets": [{"reps":10},{"reps":10},{"reps":10},{"reps":10}] },
-        { "moveId": "cable-kickback",    "sets": [{"reps":15},{"reps":15},{"reps":15}] },
-        { "moveId": "hip-thrust",        "sets": [{"reps":15},{"reps":15},{"reps":15}] },
-        { "moveId": "glute_accessory", "isFlexible": true, "slotKey": "glute_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+        {
+          "moveId": "hip-thrust",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        },
+        {
+          "moveId": "romanian-deadlift",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        },
+        { "moveId": "cable-kickback", "sets": [{ "reps": 15 }, { "reps": 15 }, { "reps": 15 }] },
+        { "moveId": "hip-thrust", "sets": [{ "reps": 15 }, { "reps": 15 }, { "reps": 15 }] },
+        {
+          "name": { "en": "Glute accessory", "fr": "Accessoire fessier" },
+          "muscleTarget": "glute-max",
+          "isFlexible": true,
+          "slotKey": "glute_accessory",
+          "sets": [{ "reps": 12 }, { "reps": 12 }, { "reps": 12 }]
+        }
       ]
     },
     {
@@ -48,11 +53,17 @@
       "weekIndex": 0,
       "label": { "en": "Upper Day", "fr": "Jour Haut du Corps" },
       "todos": [
-        { "moveId": "bench-press",    "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "bent-over-row",  "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "overhead-press", "sets": [{"reps":10},{"reps":10},{"reps":10}] },
-        { "moveId": "pull-up",        "sets": [{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "barbell-curl",   "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+        {
+          "moveId": "bench-press",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        {
+          "moveId": "bent-over-row",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        { "moveId": "overhead-press", "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }] },
+        { "moveId": "pull-up", "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }] },
+        { "moveId": "barbell-curl", "sets": [{ "reps": 12 }, { "reps": 12 }, { "reps": 12 }] }
       ]
     },
     {
@@ -60,11 +71,17 @@
       "weekIndex": 0,
       "label": { "en": "Lower Day", "fr": "Jour Bas du Corps" },
       "todos": [
-        { "moveId": "squat",               "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "leg-press",           "sets": [{"reps":12},{"reps":12},{"reps":12},{"reps":12}] },
-        { "moveId": "leg-extension",       "sets": [{"reps":15},{"reps":15},{"reps":15}] },
-        { "moveId": "leg-curl",            "sets": [{"reps":12},{"reps":12},{"reps":12}] },
-        { "moveId": "standing-calf-raise", "sets": [{"reps":15},{"reps":15},{"reps":15},{"reps":15}] }
+        { "moveId": "squat", "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }] },
+        {
+          "moveId": "leg-press",
+          "sets": [{ "reps": 12 }, { "reps": 12 }, { "reps": 12 }, { "reps": 12 }]
+        },
+        { "moveId": "leg-extension", "sets": [{ "reps": 15 }, { "reps": 15 }, { "reps": 15 }] },
+        { "moveId": "seated-leg-curl", "sets": [{ "reps": 12 }, { "reps": 12 }, { "reps": 12 }] },
+        {
+          "moveId": "standing-calf-raise",
+          "sets": [{ "reps": 15 }, { "reps": 15 }, { "reps": 15 }, { "reps": 15 }]
+        }
       ]
     }
   ]

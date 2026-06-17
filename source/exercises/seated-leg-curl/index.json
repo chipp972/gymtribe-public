@@ -1,0 +1,14 @@
+{
+  "id": "seated-leg-curl",
+  "name": {
+    "en": "Seated Leg Curl",
+    "fr": "Curl ischio-jambiers assis"
+  },
+  "muscles": [
+    {
+      "id": "hamstrings",
+      "role": "primary"
+    }
+  ],
+  "equipment": ["seated-leg-curl"]
+}

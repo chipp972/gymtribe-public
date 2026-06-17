@@ -6,7 +6,7 @@
   },
   "muscles": [
     {
-      "name": "shoulders",
+      "id": "shoulders",
       "role": "primary"
     }
   ],

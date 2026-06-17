@@ -6,15 +6,15 @@
   },
   "muscles": [
     {
-      "name": "hamstrings",
+      "id": "hamstrings",
       "role": "primary"
     },
     {
-      "name": "back",
+      "id": "back",
       "role": "secondary"
     },
     {
-      "name": "glutes",
+      "id": "glutes",
       "role": "secondary"
     }
   ],

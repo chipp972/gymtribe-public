@@ -6,11 +6,9 @@
   },
   "muscles": [
     {
-      "name": "glutes",
+      "id": "glutes",
       "role": "primary"
     }
   ],
-  "equipment": [
-    "cable"
-  ]
+  "equipment": ["adjustable-pulley"]
 }

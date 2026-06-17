@@ -6,15 +6,13 @@
   },
   "muscles": [
     {
-      "name": "back",
+      "id": "back",
       "role": "primary"
     },
     {
-      "name": "biceps",
+      "id": "biceps",
       "role": "secondary"
     }
   ],
-  "equipment": [
-    "cable"
-  ]
+  "equipment": ["seated-cable-row"]
 }

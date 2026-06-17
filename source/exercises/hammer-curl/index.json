@@ -6,11 +6,11 @@
   },
   "muscles": [
     {
-      "name": "biceps",
+      "id": "biceps",
       "role": "primary"
     },
     {
-      "name": "forearms",
+      "id": "forearms",
       "role": "secondary"
     }
   ],

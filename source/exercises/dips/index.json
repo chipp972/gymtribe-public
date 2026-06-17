@@ -6,15 +6,15 @@
   },
   "muscles": [
     {
-      "name": "chest",
+      "id": "chest",
       "role": "primary"
     },
     {
-      "name": "triceps",
+      "id": "triceps",
       "role": "secondary"
     },
     {
-      "name": "shoulders",
+      "id": "shoulders",
       "role": "secondary"
     }
   ],

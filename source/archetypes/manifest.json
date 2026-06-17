@@ -35,7 +35,7 @@
         "lat-pulldown",
         "seated-cable-row",
         "leg-extension",
-        "leg-curl",
+        "seated-leg-curl",
         "leg-press",
         "standing-calf-raise",
         "seated-calf-raise",
@@ -99,7 +99,7 @@
         "dumbbell-curl",
         "lateral-raise",
         "leg-press",
-        "leg-curl",
+        "seated-leg-curl",
         "cable-pushdown",
         "face-pull"
       ]
@@ -126,7 +126,7 @@
         "pull-up",
         "lunge",
         "plank",
-        "leg-curl",
+        "seated-leg-curl",
         "leg-extension",
         "lateral-raise",
         "barbell-curl",

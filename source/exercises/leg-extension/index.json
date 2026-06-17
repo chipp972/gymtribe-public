@@ -6,12 +6,9 @@
   },
   "muscles": [
     {
-      "name": "quadriceps",
+      "id": "quadriceps",
       "role": "primary"
     }
   ],
-  "equipment": [
-    "artis-leg-extension",
-    "matrix-ultra-leg-extension"
-  ]
+  "equipment": ["leg-extension"]
 }

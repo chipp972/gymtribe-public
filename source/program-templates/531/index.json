@@ -7,7 +7,7 @@
     "fr": "Programme de force classique de Jim Wendler basé sur 4 mouvements fondamentaux progressant sur un cycle de 4 semaines. Idéal pour les pratiquants intermédiaires cherchant à construire une base de force durable."
   },
   "tags": ["strength", "powerbuilding"],
-  "primaryMuscles": ["quads", "chest", "shoulders", "hamstrings", "traps"],
+  "primaryMuscles": ["quadriceps", "chest", "shoulders", "hamstrings", "traps"],
   "moves": [
     "squat",
     "bench-press",
@@ -16,12 +16,6 @@
     "bent-over-row",
     "pull-up",
     "dips"
-  ],
-  "flexibleSlots": [
-    { "slotKey": "squat_accessory", "label": { "en": "Squat accessory",    "fr": "Accessoire squat" },                  "muscleTarget": "quads" },
-    { "slotKey": "bench_accessory", "label": { "en": "Bench accessory",    "fr": "Accessoire développé couché" },        "muscleTarget": "chest" },
-    { "slotKey": "dl_accessory",    "label": { "en": "Deadlift accessory", "fr": "Accessoire soulevé de terre" },        "muscleTarget": "hamstrings" },
-    { "slotKey": "ohp_accessory",   "label": { "en": "Press accessory",    "fr": "Accessoire développé militaire" },     "muscleTarget": "shoulders" }
   ],
   "days": [
     {
@@ -35,7 +29,7 @@
           {"reps":5,"formulaKey":"ohp_1rm","formulaMultiplier":0.85}
         ]},
         { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "ohp_accessory", "isFlexible": true, "slotKey": "ohp_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        { "name": { "en": "Press accessory", "fr": "Accessoire développé militaire" }, "muscleTarget": "shoulders", "isFlexible": true, "slotKey": "ohp_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
       ]
     },
     {
@@ -49,7 +43,7 @@
           {"reps":5,"formulaKey":"dl_1rm","formulaMultiplier":0.85}
         ]},
         { "moveId": "pull-up", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "dl_accessory", "isFlexible": true, "slotKey": "dl_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        { "name": { "en": "Deadlift accessory", "fr": "Accessoire soulevé de terre" }, "muscleTarget": "hamstrings", "isFlexible": true, "slotKey": "dl_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
       ]
     },
     {
@@ -64,7 +58,7 @@
         ]},
         { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
         { "moveId": "dips", "sets": [{"reps":10},{"reps":10},{"reps":10}] },
-        { "moveId": "bench_accessory", "isFlexible": true, "slotKey": "bench_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+        { "name": { "en": "Bench accessory", "fr": "Accessoire développé couché" }, "muscleTarget": "chest", "isFlexible": true, "slotKey": "bench_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
       ]
     },
     {
@@ -82,7 +76,7 @@
           {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.60},
           {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.60}
         ]},
-        { "moveId": "squat_accessory", "isFlexible": true, "slotKey": "squat_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        { "name": { "en": "Squat accessory", "fr": "Accessoire squat" }, "muscleTarget": "quadriceps", "isFlexible": true, "slotKey": "squat_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
       ]
     },
     {
@@ -96,7 +90,7 @@
           {"reps":3,"formulaKey":"ohp_1rm","formulaMultiplier":0.90}
         ]},
         { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "ohp_accessory", "isFlexible": true, "slotKey": "ohp_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        { "name": { "en": "Press accessory", "fr": "Accessoire développé militaire" }, "muscleTarget": "shoulders", "isFlexible": true, "slotKey": "ohp_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
       ]
     },
     {
@@ -110,7 +104,7 @@
           {"reps":3,"formulaKey":"dl_1rm","formulaMultiplier":0.90}
         ]},
         { "moveId": "pull-up", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "dl_accessory", "isFlexible": true, "slotKey": "dl_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        { "name": { "en": "Deadlift accessory", "fr": "Accessoire soulevé de terre" }, "muscleTarget": "hamstrings", "isFlexible": true, "slotKey": "dl_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
       ]
     },
     {
@@ -125,7 +119,7 @@
         ]},
         { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
         { "moveId": "dips", "sets": [{"reps":10},{"reps":10},{"reps":10}] },
-        { "moveId": "bench_accessory", "isFlexible": true, "slotKey": "bench_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+        { "name": { "en": "Bench accessory", "fr": "Accessoire développé couché" }, "muscleTarget": "chest", "isFlexible": true, "slotKey": "bench_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
       ]
     },
     {
@@ -143,7 +137,7 @@
           {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.65},
           {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.65}
         ]},
-        { "moveId": "squat_accessory", "isFlexible": true, "slotKey": "squat_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        { "name": { "en": "Squat accessory", "fr": "Accessoire squat" }, "muscleTarget": "quadriceps", "isFlexible": true, "slotKey": "squat_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
       ]
     },
     {
@@ -157,7 +151,7 @@
           {"reps":1,"formulaKey":"ohp_1rm","formulaMultiplier":0.95}
         ]},
         { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "ohp_accessory", "isFlexible": true, "slotKey": "ohp_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        { "name": { "en": "Press accessory", "fr": "Accessoire développé militaire" }, "muscleTarget": "shoulders", "isFlexible": true, "slotKey": "ohp_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
       ]
     },
     {
@@ -171,7 +165,7 @@
           {"reps":1,"formulaKey":"dl_1rm","formulaMultiplier":0.95}
         ]},
         { "moveId": "pull-up", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "dl_accessory", "isFlexible": true, "slotKey": "dl_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        { "name": { "en": "Deadlift accessory", "fr": "Accessoire soulevé de terre" }, "muscleTarget": "hamstrings", "isFlexible": true, "slotKey": "dl_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
       ]
     },
     {
@@ -186,7 +180,7 @@
         ]},
         { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
         { "moveId": "dips", "sets": [{"reps":10},{"reps":10},{"reps":10}] },
-        { "moveId": "bench_accessory", "isFlexible": true, "slotKey": "bench_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+        { "name": { "en": "Bench accessory", "fr": "Accessoire développé couché" }, "muscleTarget": "chest", "isFlexible": true, "slotKey": "bench_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
       ]
     },
     {
@@ -204,7 +198,7 @@
           {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.70},
           {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.70}
         ]},
-        { "moveId": "squat_accessory", "isFlexible": true, "slotKey": "squat_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        { "name": { "en": "Squat accessory", "fr": "Accessoire squat" }, "muscleTarget": "quadriceps", "isFlexible": true, "slotKey": "squat_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
       ]
     }
   ]

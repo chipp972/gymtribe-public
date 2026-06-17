@@ -7,7 +7,7 @@
     "fr": "Programme full-body simple en 3 séances alternant deux entraînements. Ajoutez du poids à chaque séance. Parfait pour les débutants qui construisent leur première base de force."
   },
   "tags": ["strength", "beginner"],
-  "primaryMuscles": ["quads", "chest", "hamstrings", "shoulders"],
+  "primaryMuscles": ["quadriceps", "chest", "hamstrings", "shoulders"],
   "moves": [
     "squat",
     "bench-press",

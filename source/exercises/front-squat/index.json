@@ -6,11 +6,11 @@
   },
   "muscles": [
     {
-      "name": "quadriceps",
+      "id": "quadriceps",
       "role": "primary"
     },
     {
-      "name": "core",
+      "id": "core",
       "role": "secondary"
     }
   ],

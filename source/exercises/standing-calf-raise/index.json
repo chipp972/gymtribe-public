@@ -6,12 +6,9 @@
   },
   "muscles": [
     {
-      "name": "calves",
+      "id": "calves",
       "role": "primary"
     }
   ],
-  "equipment": [
-    "pure-strength-calf",
-    "matrix-magnum-standing-calf"
-  ]
+  "equipment": ["standing-calf"]
 }

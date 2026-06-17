@@ -331,6 +331,27 @@ function loadRecipesSource() {
   return byId;
 }
 
+// Helper: return a Set of valid muscle IDs
+function loadMusclesSource() {
+  const indexPath = path.join(SOURCE, 'muscles', 'index.json');
+  if (!fs.existsSync(indexPath)) return new Set();
+  const data = readJson(indexPath);
+  const items = Array.isArray(data) ? data : (data.muscles || []);
+  return new Set(items.map((m) => m.id));
+}
+
+// Helper: return a Set of valid equipment IDs
+function loadEquipmentSource() {
+  const srcDir = path.join(SOURCE, 'equipment');
+  const ids = new Set();
+  if (!fs.existsSync(srcDir)) return ids;
+  for (const id of fs.readdirSync(srcDir)) {
+    const indexPath = path.join(srcDir, id, 'index.json');
+    if (fs.existsSync(indexPath)) ids.add(id);
+  }
+  return ids;
+}
+
 // Archetypes: write manifest to source/archetypes/manifest.json — entries reference
 // moveIds, which the app resolves against the exercises catalog at import time.
 function buildArchetypes() {
@@ -404,6 +425,115 @@ function buildProfiles() {
   console.log(`  [profiles] ${manifestEntries.length} profiles → source/profiles/manifest.json`);
 }
 
+function checkCrossReferences() {
+  const errors = [];
+
+  const exercisesById = loadExercisesSource();
+  const exerciseIds = new Set(Object.keys(exercisesById));
+  const foodIds = new Set(Object.keys(loadFoodsSource()));
+  const recipeIds = new Set(Object.keys(loadRecipesSource()));
+  const muscleIds = loadMusclesSource();
+  const equipIds = loadEquipmentSource();
+
+  // exercises → muscles + equipment
+  for (const [id, { meta }] of Object.entries(exercisesById)) {
+    for (const m of (meta.muscles || [])) {
+      if (!muscleIds.has(m.id)) {
+        errors.push(`[exercises] ${id}: muscle "${m.id}" not found`);
+      }
+    }
+    for (const e of (meta.equipment || [])) {
+      if (!equipIds.has(e)) {
+        errors.push(`[exercises] ${id}: equipment "${e}" not found`);
+      }
+    }
+  }
+
+  // program-templates → exercises + muscles
+  const programsDir = path.join(SOURCE, 'program-templates');
+  if (fs.existsSync(programsDir)) {
+    for (const id of fs.readdirSync(programsDir)) {
+      const indexPath = path.join(programsDir, id, 'index.json');
+      if (!fs.existsSync(indexPath)) continue;
+      const meta = readJson(indexPath);
+      for (const moveId of (meta.moves || [])) {
+        if (!exerciseIds.has(moveId)) {
+          errors.push(`[program-templates] ${id}: move "${moveId}" not found`);
+        }
+      }
+      for (const day of (meta.days || [])) {
+        for (const todo of (day.todos || [])) {
+          if (todo.moveId && !exerciseIds.has(todo.moveId)) {
+            errors.push(`[program-templates] ${id} day ${day.dayIndex ?? '?'}: moveId "${todo.moveId}" not found`);
+          }
+        }
+      }
+      for (const muscle of (meta.primaryMuscles || [])) {
+        if (!muscleIds.has(muscle)) {
+          errors.push(`[program-templates] ${id}: primaryMuscle "${muscle}" not found`);
+        }
+      }
+    }
+  }
+
+  // archetypes → exercises
+  const archetypesDir = path.join(SOURCE, 'archetypes');
+  if (fs.existsSync(archetypesDir)) {
+    for (const file of fs.readdirSync(archetypesDir)) {
+      if (!file.endsWith('.json') || file === 'manifest.json') continue;
+      const config = readJson(path.join(archetypesDir, file));
+      for (const moveId of (config.moveIds || [])) {
+        if (!exerciseIds.has(moveId)) {
+          errors.push(`[archetypes] ${config.id}: move "${moveId}" not found`);
+        }
+      }
+    }
+  }
+
+  // profiles → foods + recipes
+  const profilesDir = path.join(SOURCE, 'profiles');
+  if (fs.existsSync(profilesDir)) {
+    for (const file of fs.readdirSync(profilesDir)) {
+      if (!file.endsWith('.json') || file === 'manifest.json') continue;
+      const config = readJson(path.join(profilesDir, file));
+      for (const foodId of (config.foodIds || [])) {
+        if (!foodIds.has(foodId)) {
+          errors.push(`[profiles] ${config.id}: food "${foodId}" not found`);
+        }
+      }
+      for (const recipeId of (config.recipeIds || [])) {
+        if (!recipeIds.has(recipeId)) {
+          errors.push(`[profiles] ${config.id}: recipe "${recipeId}" not found`);
+        }
+      }
+    }
+  }
+
+  // recipes → foods
+  const recipesDir = path.join(SOURCE, 'recipes');
+  if (fs.existsSync(recipesDir)) {
+    for (const id of fs.readdirSync(recipesDir)) {
+      const indexPath = path.join(recipesDir, id, 'index.json');
+      if (!fs.existsSync(indexPath)) continue;
+      const meta = readJson(indexPath);
+      for (const { foodId } of (meta.ingredients || [])) {
+        if (!foodIds.has(foodId)) {
+          errors.push(`[recipes] ${id}: ingredient food "${foodId}" not found`);
+        }
+      }
+    }
+  }
+
+  if (errors.length > 0) {
+    console.error(`\n[validate] ${errors.length} cross-reference error(s) found:`);
+    for (const e of errors) console.error('  ' + e);
+    process.exit(1);
+  }
+  console.log('[validate] all cross-references OK');
+}
+
+console.log('Validating cross-references...');
+checkCrossReferences();
 console.log('Building gymtribe-public data...');
 buildExercises();
 buildFoods();

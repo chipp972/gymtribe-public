@@ -6,11 +6,11 @@
   },
   "muscles": [
     {
-      "name": "calves",
+      "id": "calves",
       "role": "primary"
     },
     {
-      "name": "core",
+      "id": "core",
       "role": "secondary"
     }
   ],

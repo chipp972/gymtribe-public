@@ -6,11 +6,11 @@
   },
   "muscles": [
     {
-      "name": "glutes",
+      "id": "glutes",
       "role": "primary"
     },
     {
-      "name": "hamstrings",
+      "id": "hamstrings",
       "role": "secondary"
     }
   ],

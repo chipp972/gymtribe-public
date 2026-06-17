@@ -6,15 +6,15 @@
   },
   "muscles": [
     {
-      "name": "quadriceps",
+      "id": "quadriceps",
       "role": "primary"
     },
     {
-      "name": "glutes",
+      "id": "glutes",
       "role": "secondary"
     },
     {
-      "name": "hamstrings",
+      "id": "hamstrings",
       "role": "secondary"
     }
   ],

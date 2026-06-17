@@ -6,12 +6,9 @@
   },
   "muscles": [
     {
-      "name": "calves",
+      "id": "calves",
       "role": "primary"
     }
   ],
-  "equipment": [
-    "pure-strength-seated-calf",
-    "matrix-magnum-seated-calf"
-  ]
+  "equipment": ["seated-calf"]
 }

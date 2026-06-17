@@ -9,11 +9,11 @@
       },
       "muscles": [
         {
-          "name": "core",
+          "id": "core",
           "role": "primary"
         },
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "secondary"
         }
       ],
@@ -51,11 +51,11 @@
       },
       "muscles": [
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "primary"
         },
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "secondary"
         }
       ],
@@ -93,11 +93,11 @@
       },
       "muscles": [
         {
-          "name": "biceps",
+          "id": "biceps",
           "role": "primary"
         },
         {
-          "name": "forearms",
+          "id": "forearms",
           "role": "secondary"
         }
       ],
@@ -135,15 +135,15 @@
       },
       "muscles": [
         {
-          "name": "chest",
+          "id": "chest",
           "role": "primary"
         },
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "secondary"
         },
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "secondary"
         }
       ],
@@ -181,15 +181,15 @@
       },
       "muscles": [
         {
-          "name": "back",
+          "id": "back",
           "role": "primary"
         },
         {
-          "name": "biceps",
+          "id": "biceps",
           "role": "secondary"
         },
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "secondary"
         }
       ],
@@ -227,7 +227,7 @@
       },
       "muscles": [
         {
-          "name": "core",
+          "id": "core",
           "role": "primary"
         }
       ],
@@ -265,15 +265,15 @@
       },
       "muscles": [
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "primary"
         },
         {
-          "name": "quadriceps",
+          "id": "quadriceps",
           "role": "secondary"
         },
         {
-          "name": "hamstrings",
+          "id": "hamstrings",
           "role": "secondary"
         }
       ],
@@ -311,12 +311,12 @@
       },
       "muscles": [
         {
-          "name": "core",
+          "id": "core",
           "role": "primary"
         }
       ],
       "equipment": [
-        "cable"
+        "adjustable-pulley"
       ],
       "notes": [
         {
@@ -349,16 +349,16 @@
       },
       "muscles": [
         {
-          "name": "biceps",
+          "id": "biceps",
           "role": "primary"
         },
         {
-          "name": "forearms",
+          "id": "forearms",
           "role": "secondary"
         }
       ],
       "equipment": [
-        "cable"
+        "adjustable-pulley"
       ],
       "notes": [
         {
@@ -391,16 +391,16 @@
       },
       "muscles": [
         {
-          "name": "chest",
+          "id": "chest",
           "role": "primary"
         },
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "secondary"
         }
       ],
       "equipment": [
-        "cable"
+        "cable-crossover"
       ],
       "notes": [
         {
@@ -433,12 +433,12 @@
       },
       "muscles": [
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "primary"
         }
       ],
       "equipment": [
-        "cable"
+        "adjustable-pulley"
       ],
       "notes": [
         {
@@ -471,16 +471,16 @@
       },
       "muscles": [
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "primary"
         },
         {
-          "name": "forearms",
+          "id": "forearms",
           "role": "secondary"
         }
       ],
       "equipment": [
-        "cable"
+        "adjustable-pulley"
       ],
       "notes": [
         {
@@ -513,11 +513,11 @@
       },
       "muscles": [
         {
-          "name": "biceps",
+          "id": "biceps",
           "role": "primary"
         },
         {
-          "name": "back",
+          "id": "back",
           "role": "secondary"
         }
       ],
@@ -555,11 +555,11 @@
       },
       "muscles": [
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "primary"
         },
         {
-          "name": "chest",
+          "id": "chest",
           "role": "secondary"
         }
       ],
@@ -597,7 +597,7 @@
       },
       "muscles": [
         {
-          "name": "core",
+          "id": "core",
           "role": "primary"
         }
       ],
@@ -635,15 +635,15 @@
       },
       "muscles": [
         {
-          "name": "back",
+          "id": "back",
           "role": "primary"
         },
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "secondary"
         },
         {
-          "name": "hamstrings",
+          "id": "hamstrings",
           "role": "secondary"
         }
       ],
@@ -681,15 +681,15 @@
       },
       "muscles": [
         {
-          "name": "chest",
+          "id": "chest",
           "role": "primary"
         },
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "secondary"
         },
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "secondary"
         }
       ],
@@ -727,7 +727,7 @@
       },
       "muscles": [
         {
-          "name": "calves",
+          "id": "calves",
           "role": "primary"
         }
       ],
@@ -765,11 +765,11 @@
       },
       "muscles": [
         {
-          "name": "biceps",
+          "id": "biceps",
           "role": "primary"
         },
         {
-          "name": "forearms",
+          "id": "forearms",
           "role": "secondary"
         }
       ],
@@ -807,11 +807,11 @@
       },
       "muscles": [
         {
-          "name": "chest",
+          "id": "chest",
           "role": "primary"
         },
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "secondary"
         }
       ],
@@ -849,16 +849,16 @@
       },
       "muscles": [
         {
-          "name": "back",
+          "id": "back",
           "role": "primary"
         },
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "secondary"
         }
       ],
       "equipment": [
-        "cable"
+        "adjustable-pulley"
       ],
       "notes": [
         {
@@ -891,11 +891,11 @@
       },
       "muscles": [
         {
-          "name": "forearms",
+          "id": "forearms",
           "role": "primary"
         },
         {
-          "name": "core",
+          "id": "core",
           "role": "secondary"
         }
       ],
@@ -933,7 +933,7 @@
       },
       "muscles": [
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "primary"
         }
       ],
@@ -971,11 +971,11 @@
       },
       "muscles": [
         {
-          "name": "quadriceps",
+          "id": "quadriceps",
           "role": "primary"
         },
         {
-          "name": "core",
+          "id": "core",
           "role": "secondary"
         }
       ],
@@ -1013,11 +1013,11 @@
       },
       "muscles": [
         {
-          "name": "hamstrings",
+          "id": "hamstrings",
           "role": "primary"
         },
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "secondary"
         }
       ],
@@ -1055,15 +1055,15 @@
       },
       "muscles": [
         {
-          "name": "hamstrings",
+          "id": "hamstrings",
           "role": "primary"
         },
         {
-          "name": "back",
+          "id": "back",
           "role": "secondary"
         },
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "secondary"
         }
       ],
@@ -1101,11 +1101,11 @@
       },
       "muscles": [
         {
-          "name": "quadriceps",
+          "id": "quadriceps",
           "role": "primary"
         },
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "secondary"
         }
       ],
@@ -1143,11 +1143,11 @@
       },
       "muscles": [
         {
-          "name": "biceps",
+          "id": "biceps",
           "role": "primary"
         },
         {
-          "name": "forearms",
+          "id": "forearms",
           "role": "secondary"
         }
       ],
@@ -1185,11 +1185,11 @@
       },
       "muscles": [
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "primary"
         },
         {
-          "name": "hamstrings",
+          "id": "hamstrings",
           "role": "secondary"
         }
       ],
@@ -1227,15 +1227,15 @@
       },
       "muscles": [
         {
-          "name": "chest",
+          "id": "chest",
           "role": "primary"
         },
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "secondary"
         },
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "secondary"
         }
       ],
@@ -1273,11 +1273,11 @@
       },
       "muscles": [
         {
-          "name": "calves",
+          "id": "calves",
           "role": "primary"
         },
         {
-          "name": "core",
+          "id": "core",
           "role": "secondary"
         }
       ],
@@ -1315,16 +1315,16 @@
       },
       "muscles": [
         {
-          "name": "back",
+          "id": "back",
           "role": "primary"
         },
         {
-          "name": "biceps",
+          "id": "biceps",
           "role": "secondary"
         }
       ],
       "equipment": [
-        "cable"
+        "lat-machine"
       ],
       "notes": [
         {
@@ -1357,7 +1357,7 @@
       },
       "muscles": [
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "primary"
         }
       ],
@@ -1388,45 +1388,6 @@
       ]
     },
     {
-      "id": "leg-curl",
-      "name": {
-        "en": "Leg Curl",
-        "fr": "Curl ischio-jambiers"
-      },
-      "muscles": [
-        {
-          "name": "hamstrings",
-          "role": "primary"
-        }
-      ],
-      "equipment": [
-        "artis-leg-curl",
-        "matrix-ultra-seated-leg-curl"
-      ],
-      "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-curl/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
-        {
-          "noteType": "description",
-          "title": {
-            "en": "setup",
-            "fr": "setup"
-          },
-          "description": {
-            "en": "Lying or seated on the machine, legs nearly extended under the pad. Curl the heels toward the glutes, squeezing the hamstrings at full flexion. Lower slowly, resisting the weight. Avoid raising the hips during the movement.",
-            "fr": "Allongé sur la machine (ou assis selon le modèle), jambes presque tendues sous l'appui. Fléchissez les genoux pour ramener les talons vers les fessiers. Contractez les ischio-jambiers en fin de mouvement. Descendez lentement en résistant au poids. Évitez de soulever les hanches lors du mouvement."
-          }
-        }
-      ]
-    },
-    {
       "id": "leg-extension",
       "name": {
         "en": "Leg Extension",
@@ -1434,13 +1395,12 @@
       },
       "muscles": [
         {
-          "name": "quadriceps",
+          "id": "quadriceps",
           "role": "primary"
         }
       ],
       "equipment": [
-        "artis-leg-extension",
-        "matrix-ultra-leg-extension"
+        "leg-extension"
       ],
       "notes": [
         {
@@ -1473,21 +1433,20 @@
       },
       "muscles": [
         {
-          "name": "quadriceps",
+          "id": "quadriceps",
           "role": "primary"
         },
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "secondary"
         },
         {
-          "name": "hamstrings",
+          "id": "hamstrings",
           "role": "secondary"
         }
       ],
       "equipment": [
-        "artis-leg-press",
-        "matrix-ultra-leg-press"
+        "leg-press"
       ],
       "notes": [
         {
@@ -1520,7 +1479,7 @@
       },
       "muscles": [
         {
-          "name": "core",
+          "id": "core",
           "role": "primary"
         }
       ],
@@ -1558,15 +1517,15 @@
       },
       "muscles": [
         {
-          "name": "quadriceps",
+          "id": "quadriceps",
           "role": "primary"
         },
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "secondary"
         },
         {
-          "name": "hamstrings",
+          "id": "hamstrings",
           "role": "secondary"
         }
       ],
@@ -1604,15 +1563,15 @@
       },
       "muscles": [
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "primary"
         },
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "secondary"
         },
         {
-          "name": "core",
+          "id": "core",
           "role": "secondary"
         }
       ],
@@ -1650,7 +1609,7 @@
       },
       "muscles": [
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "primary"
         }
       ],
@@ -1688,7 +1647,7 @@
       },
       "muscles": [
         {
-          "name": "core",
+          "id": "core",
           "role": "primary"
         }
       ],
@@ -1726,7 +1685,7 @@
       },
       "muscles": [
         {
-          "name": "biceps",
+          "id": "biceps",
           "role": "primary"
         }
       ],
@@ -1764,11 +1723,11 @@
       },
       "muscles": [
         {
-          "name": "back",
+          "id": "back",
           "role": "primary"
         },
         {
-          "name": "biceps",
+          "id": "biceps",
           "role": "secondary"
         }
       ],
@@ -1806,15 +1765,15 @@
       },
       "muscles": [
         {
-          "name": "chest",
+          "id": "chest",
           "role": "primary"
         },
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "secondary"
         },
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "secondary"
         }
       ],
@@ -1852,11 +1811,11 @@
       },
       "muscles": [
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "primary"
         },
         {
-          "name": "back",
+          "id": "back",
           "role": "secondary"
         }
       ],
@@ -1894,7 +1853,7 @@
       },
       "muscles": [
         {
-          "name": "forearms",
+          "id": "forearms",
           "role": "primary"
         }
       ],
@@ -1932,15 +1891,15 @@
       },
       "muscles": [
         {
-          "name": "hamstrings",
+          "id": "hamstrings",
           "role": "primary"
         },
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "secondary"
         },
         {
-          "name": "back",
+          "id": "back",
           "role": "secondary"
         }
       ],
@@ -1978,7 +1937,7 @@
       },
       "muscles": [
         {
-          "name": "core",
+          "id": "core",
           "role": "primary"
         }
       ],
@@ -2016,16 +1975,16 @@
       },
       "muscles": [
         {
-          "name": "back",
+          "id": "back",
           "role": "primary"
         },
         {
-          "name": "biceps",
+          "id": "biceps",
           "role": "secondary"
         }
       ],
       "equipment": [
-        "cable"
+        "seated-cable-row"
       ],
       "notes": [
         {
@@ -2058,13 +2017,12 @@
       },
       "muscles": [
         {
-          "name": "calves",
+          "id": "calves",
           "role": "primary"
         }
       ],
       "equipment": [
-        "pure-strength-seated-calf",
-        "matrix-magnum-seated-calf"
+        "seated-calf"
       ],
       "notes": [
         {
@@ -2090,6 +2048,44 @@
       ]
     },
     {
+      "id": "seated-leg-curl",
+      "name": {
+        "en": "Seated Leg Curl",
+        "fr": "Curl ischio-jambiers assis"
+      },
+      "muscles": [
+        {
+          "id": "hamstrings",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "seated-leg-curl"
+      ],
+      "notes": [
+        {
+          "noteType": "media",
+          "title": {
+            "en": "exercise execution",
+            "fr": "exercise execution"
+          },
+          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/seated-leg-curl/media/exercise-execution.mp4",
+          "mediaType": "video"
+        },
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Lying or seated on the machine, legs nearly extended under the pad. Curl the heels toward the glutes, squeezing the hamstrings at full flexion. Lower slowly, resisting the weight. Avoid raising the hips during the movement.",
+            "fr": "Allongé sur la machine (ou assis selon le modèle), jambes presque tendues sous l'appui. Fléchissez les genoux pour ramener les talons vers les fessiers. Contractez les ischio-jambiers en fin de mouvement. Descendez lentement en résistant au poids. Évitez de soulever les hanches lors du mouvement."
+          }
+        }
+      ]
+    },
+    {
       "id": "skull-crusher",
       "name": {
         "en": "Skull Crusher",
@@ -2097,7 +2093,7 @@
       },
       "muscles": [
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "primary"
         }
       ],
@@ -2135,15 +2131,15 @@
       },
       "muscles": [
         {
-          "name": "quadriceps",
+          "id": "quadriceps",
           "role": "primary"
         },
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "secondary"
         },
         {
-          "name": "hamstrings",
+          "id": "hamstrings",
           "role": "secondary"
         }
       ],
@@ -2181,13 +2177,12 @@
       },
       "muscles": [
         {
-          "name": "calves",
+          "id": "calves",
           "role": "primary"
         }
       ],
       "equipment": [
-        "pure-strength-calf",
-        "matrix-magnum-standing-calf"
+        "standing-calf"
       ],
       "notes": [
         {
@@ -2220,11 +2215,11 @@
       },
       "muscles": [
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "primary"
         },
         {
-          "name": "quadriceps",
+          "id": "quadriceps",
           "role": "secondary"
         }
       ],
@@ -2262,15 +2257,15 @@
       },
       "muscles": [
         {
-          "name": "glutes",
+          "id": "glutes",
           "role": "primary"
         },
         {
-          "name": "hamstrings",
+          "id": "hamstrings",
           "role": "secondary"
         },
         {
-          "name": "back",
+          "id": "back",
           "role": "secondary"
         }
       ],
@@ -2308,15 +2303,15 @@
       },
       "muscles": [
         {
-          "name": "triceps",
+          "id": "triceps",
           "role": "primary"
         },
         {
-          "name": "chest",
+          "id": "chest",
           "role": "secondary"
         },
         {
-          "name": "shoulders",
+          "id": "shoulders",
           "role": "secondary"
         }
       ],
@@ -2354,7 +2349,7 @@
       },
       "muscles": [
         {
-          "name": "forearms",
+          "id": "forearms",
           "role": "primary"
         }
       ],

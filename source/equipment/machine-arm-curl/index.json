@@ -1,0 +1,8 @@
+{
+  "id": "machine-arm-curl",
+  "name": {
+    "en": "Machine Arm Curl",
+    "fr": "Machine à curl pour bras"
+  },
+  "imageUrl": "media/machine-arm-curl.jpg"
+}

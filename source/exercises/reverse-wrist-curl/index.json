@@ -6,7 +6,7 @@
   },
   "muscles": [
     {
-      "name": "forearms",
+      "id": "forearms",
       "role": "primary"
     }
   ],

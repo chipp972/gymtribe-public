@@ -22,7 +22,7 @@
         "bodyweight"
       ],
       "primaryMuscles": [
-        "quads",
+        "quadriceps",
         "chest",
         "shoulders",
         "hamstrings",
@@ -50,7 +50,7 @@
         "barbell"
       ],
       "primaryMuscles": [
-        "quads",
+        "quadriceps",
         "chest",
         "hamstrings",
         "shoulders"
@@ -74,21 +74,17 @@
       "daysPerCycle": 3,
       "requiredEquipment": [
         "barbell",
-        "cable",
+        "adjustable-pulley",
         "bodyweight",
-        "artis-leg-press",
-        "matrix-ultra-leg-press",
-        "artis-leg-extension",
-        "matrix-ultra-leg-extension",
-        "artis-leg-curl",
-        "matrix-ultra-seated-leg-curl",
-        "pure-strength-calf",
-        "matrix-magnum-standing-calf"
+        "leg-press",
+        "leg-extension",
+        "seated-leg-curl",
+        "standing-calf"
       ],
       "primaryMuscles": [
         "glute-max",
         "hamstrings",
-        "quads",
+        "quadriceps",
         "chest"
       ],
       "jsonUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/program-templates/booty-upper-lower/index.json"
@@ -111,21 +107,17 @@
       "requiredEquipment": [
         "barbell",
         "bodyweight",
-        "artis-leg-press",
-        "matrix-ultra-leg-press",
+        "leg-press",
         "dumbbell",
-        "cable",
-        "artis-leg-extension",
-        "matrix-ultra-leg-extension",
-        "artis-leg-curl",
-        "matrix-ultra-seated-leg-curl",
-        "pure-strength-calf",
-        "matrix-magnum-standing-calf"
+        "adjustable-pulley",
+        "leg-extension",
+        "seated-leg-curl",
+        "standing-calf"
       ],
       "primaryMuscles": [
         "chest",
         "lats",
-        "quads",
+        "quadriceps",
         "shoulders"
       ],
       "jsonUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/program-templates/ppl/index.json"
@@ -149,16 +141,14 @@
       "requiredEquipment": [
         "barbell",
         "bodyweight",
-        "artis-leg-press",
-        "matrix-ultra-leg-press",
-        "artis-leg-curl",
-        "matrix-ultra-seated-leg-curl",
+        "leg-press",
+        "seated-leg-curl",
         "dumbbell"
       ],
       "primaryMuscles": [
         "chest",
         "lats",
-        "quads",
+        "quadriceps",
         "hamstrings"
       ],
       "jsonUrl": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/program-templates/upper-lower/index.json"

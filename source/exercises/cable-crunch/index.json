@@ -6,11 +6,9 @@
   },
   "muscles": [
     {
-      "name": "core",
+      "id": "core",
       "role": "primary"
     }
   ],
-  "equipment": [
-    "cable"
-  ]
+  "equipment": ["adjustable-pulley"]
 }

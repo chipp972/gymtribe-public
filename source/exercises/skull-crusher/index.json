@@ -6,7 +6,7 @@
   },
   "muscles": [
     {
-      "name": "triceps",
+      "id": "triceps",
       "role": "primary"
     }
   ],

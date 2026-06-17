@@ -6,7 +6,7 @@
   },
   "muscles": [
     {
-      "name": "core",
+      "id": "core",
       "role": "primary"
     }
   ],
