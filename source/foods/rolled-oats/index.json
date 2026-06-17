@@ -10,5 +10,6 @@
   "glucPer100g": 66,
   "lipPer100g": 7,
   "fiberPer100g": 11,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/rolled-oats/media.jpg"
 }

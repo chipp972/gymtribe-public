@@ -10,5 +10,6 @@
   "glucPer100g": 1,
   "lipPer100g": 4,
   "fiberPer100g": 0,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-ham/media.jpg"
 }

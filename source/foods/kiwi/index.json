@@ -10,5 +10,6 @@
   "glucPer100g": 15,
   "lipPer100g": 0.5,
   "fiberPer100g": 3,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/kiwi/media.jpg"
 }

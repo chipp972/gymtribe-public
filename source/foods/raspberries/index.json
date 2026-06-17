@@ -10,5 +10,6 @@
   "glucPer100g": 12,
   "lipPer100g": 0.7,
   "fiberPer100g": 6.5,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/raspberries/media.jpg"
 }

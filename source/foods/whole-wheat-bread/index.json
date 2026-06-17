@@ -10,5 +10,6 @@
   "glucPer100g": 41,
   "lipPer100g": 4.2,
   "fiberPer100g": 7,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/whole-wheat-bread/media.jpg"
 }

@@ -10,5 +10,6 @@
   "glucPer100g": 23,
   "lipPer100g": 0.9,
   "fiberPer100g": 1.8,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-brown-rice/media.jpg"
 }

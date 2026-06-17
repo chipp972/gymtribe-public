@@ -10,5 +10,6 @@
   "glucPer100g": 3.6,
   "lipPer100g": 0.1,
   "fiberPer100g": 0.5,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cucumber/media.jpg"
 }

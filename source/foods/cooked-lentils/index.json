@@ -10,5 +10,6 @@
   "glucPer100g": 20,
   "lipPer100g": 0.4,
   "fiberPer100g": 8,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-lentils/media.png"
 }

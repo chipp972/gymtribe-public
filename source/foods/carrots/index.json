@@ -10,5 +10,6 @@
   "glucPer100g": 10,
   "lipPer100g": 0.2,
   "fiberPer100g": 2.8,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/carrots/media.jpg"
 }

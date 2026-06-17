@@ -10,5 +10,6 @@
   "glucPer100g": 5.1,
   "lipPer100g": 0,
   "fiberPer100g": 0,
-  "alcPct": 6
+  "alcPct": 6,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/dark-beer-6/media.png"
 }

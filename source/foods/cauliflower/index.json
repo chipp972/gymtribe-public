@@ -10,5 +10,6 @@
   "glucPer100g": 5,
   "lipPer100g": 0.3,
   "fiberPer100g": 2,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cauliflower/media.jpg"
 }

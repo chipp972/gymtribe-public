@@ -10,5 +10,6 @@
   "glucPer100g": 22,
   "lipPer100g": 50,
   "fiberPer100g": 12,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/almonds/media.jpg"
 }

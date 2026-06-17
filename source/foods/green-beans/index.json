@@ -10,5 +10,6 @@
   "glucPer100g": 7,
   "lipPer100g": 0.1,
   "fiberPer100g": 3.4,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/green-beans/media.jpg"
 }

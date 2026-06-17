@@ -10,5 +10,6 @@
   "glucPer100g": 0,
   "lipPer100g": 5,
   "fiberPer100g": 0,
-  "alcPct": 0
+  "alcPct": 0,
+  "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/beef-steak-5/media.jpg"
 }
