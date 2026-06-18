@@ -1,0 +1,8 @@
+{
+  "id": "bike",
+  "name": {
+    "en": "Bike",
+    "fr": "Bike"
+  },
+  "imageUrl": "media/artis-bike.jpg"
+}

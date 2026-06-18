@@ -46,3 +46,5 @@ test-results
 
 !src/widgets/android
 !src/widgets/ios
+
+tmp
