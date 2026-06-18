@@ -13,7 +13,8 @@
       "glucPer100g": 22,
       "lipPer100g": 50,
       "fiberPer100g": 12,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/almonds/media.jpg"
     },
     {
       "id": "apple",
@@ -27,7 +28,8 @@
       "glucPer100g": 14,
       "lipPer100g": 0.2,
       "fiberPer100g": 2.4,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/apple/media.jpg"
     },
     {
       "id": "asparagus",
@@ -41,7 +43,8 @@
       "glucPer100g": 3.9,
       "lipPer100g": 0.1,
       "fiberPer100g": 2.1,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/asparagus/media.jpg"
     },
     {
       "id": "avocado",
@@ -55,7 +58,8 @@
       "glucPer100g": 9,
       "lipPer100g": 15,
       "fiberPer100g": 7,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/avocado/media.jpg"
     },
     {
       "id": "banana",
@@ -69,7 +73,8 @@
       "glucPer100g": 23,
       "lipPer100g": 0.3,
       "fiberPer100g": 2.6,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/banana/media.jpg"
     },
     {
       "id": "beef-steak-5",
@@ -83,7 +88,8 @@
       "glucPer100g": 0,
       "lipPer100g": 5,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/beef-steak-5/media.jpg"
     },
     {
       "id": "blueberries",
@@ -97,7 +103,8 @@
       "glucPer100g": 14,
       "lipPer100g": 0.3,
       "fiberPer100g": 2.4,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/blueberries/media.jpg"
     },
     {
       "id": "broccoli",
@@ -111,7 +118,8 @@
       "glucPer100g": 7,
       "lipPer100g": 0.4,
       "fiberPer100g": 3,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/broccoli/media.jpg"
     },
     {
       "id": "canned-tuna",
@@ -125,7 +133,8 @@
       "glucPer100g": 0,
       "lipPer100g": 1,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/canned-tuna/media.jpg"
     },
     {
       "id": "carrots",
@@ -139,7 +148,8 @@
       "glucPer100g": 10,
       "lipPer100g": 0.2,
       "fiberPer100g": 2.8,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/carrots/media.jpg"
     },
     {
       "id": "cauliflower",
@@ -153,7 +163,8 @@
       "glucPer100g": 5,
       "lipPer100g": 0.3,
       "fiberPer100g": 2,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cauliflower/media.jpg"
     },
     {
       "id": "champagne-12",
@@ -167,7 +178,8 @@
       "glucPer100g": 4,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 12
+      "alcPct": 12,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/champagne-12/media.jpg"
     },
     {
       "id": "chicken-breast-cooked",
@@ -181,7 +193,8 @@
       "glucPer100g": 0,
       "lipPer100g": 3.6,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/chicken-breast-cooked/media.jpg"
     },
     {
       "id": "cod",
@@ -195,7 +208,8 @@
       "glucPer100g": 0,
       "lipPer100g": 0.7,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cod/media.jpg"
     },
     {
       "id": "cooked-brown-rice",
@@ -209,7 +223,8 @@
       "glucPer100g": 23,
       "lipPer100g": 0.9,
       "fiberPer100g": 1.8,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-brown-rice/media.jpg"
     },
     {
       "id": "cooked-chickpeas",
@@ -223,7 +238,8 @@
       "glucPer100g": 27,
       "lipPer100g": 2.6,
       "fiberPer100g": 8,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-chickpeas/media.jpg"
     },
     {
       "id": "cooked-ham",
@@ -237,7 +253,8 @@
       "glucPer100g": 1,
       "lipPer100g": 4,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-ham/media.jpg"
     },
     {
       "id": "cooked-lentils",
@@ -251,7 +268,8 @@
       "glucPer100g": 20,
       "lipPer100g": 0.4,
       "fiberPer100g": 8,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-lentils/media.png"
     },
     {
       "id": "cooked-potatoes",
@@ -265,7 +283,8 @@
       "glucPer100g": 20,
       "lipPer100g": 0.1,
       "fiberPer100g": 1.8,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-potatoes/media.jpg"
     },
     {
       "id": "cooked-red-kidney-beans",
@@ -279,7 +298,8 @@
       "glucPer100g": 23,
       "lipPer100g": 0.5,
       "fiberPer100g": 6.4,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-red-kidney-beans/media.jpg"
     },
     {
       "id": "cooked-sweet-potato",
@@ -293,7 +313,8 @@
       "glucPer100g": 20,
       "lipPer100g": 0.1,
       "fiberPer100g": 3,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-sweet-potato/media.jpg"
     },
     {
       "id": "cooked-white-pasta",
@@ -307,7 +328,8 @@
       "glucPer100g": 31,
       "lipPer100g": 1,
       "fiberPer100g": 1.8,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-white-pasta/media.jpg"
     },
     {
       "id": "cooked-white-rice",
@@ -321,7 +343,8 @@
       "glucPer100g": 28,
       "lipPer100g": 0.3,
       "fiberPer100g": 0.4,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cooked-white-rice/media.jpg"
     },
     {
       "id": "cucumber",
@@ -335,7 +358,8 @@
       "glucPer100g": 3.6,
       "lipPer100g": 0.1,
       "fiberPer100g": 0.5,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/cucumber/media.jpg"
     },
     {
       "id": "dark-beer-6",
@@ -349,7 +373,8 @@
       "glucPer100g": 5.1,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 6
+      "alcPct": 6,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/dark-beer-6/media.png"
     },
     {
       "id": "dry-cider-5-5",
@@ -363,7 +388,8 @@
       "glucPer100g": 4,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 5.5
+      "alcPct": 5.5,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/dry-cider-5-5/media.jpg"
     },
     {
       "id": "dry-white-wine-12",
@@ -377,7 +403,8 @@
       "glucPer100g": 1,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 12
+      "alcPct": 12,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/dry-white-wine-12/media.jpg"
     },
     {
       "id": "egg-white",
@@ -391,7 +418,8 @@
       "glucPer100g": 0.7,
       "lipPer100g": 0.2,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/egg-white/media.jpg"
     },
     {
       "id": "firm-tofu",
@@ -405,7 +433,8 @@
       "glucPer100g": 3,
       "lipPer100g": 8,
       "fiberPer100g": 2,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/firm-tofu/media.jpg"
     },
     {
       "id": "gin-40",
@@ -419,7 +448,8 @@
       "glucPer100g": 0,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 40
+      "alcPct": 40,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/gin-40/media.jpg"
     },
     {
       "id": "grapes",
@@ -433,7 +463,8 @@
       "glucPer100g": 18,
       "lipPer100g": 0.2,
       "fiberPer100g": 0.9,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/grapes/media.jpg"
     },
     {
       "id": "greek-yogurt-0",
@@ -447,7 +478,8 @@
       "glucPer100g": 3.6,
       "lipPer100g": 0.4,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/greek-yogurt-0/media.jpg"
     },
     {
       "id": "green-beans",
@@ -461,7 +493,8 @@
       "glucPer100g": 7,
       "lipPer100g": 0.1,
       "fiberPer100g": 3.4,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/green-beans/media.jpg"
     },
     {
       "id": "green-peas",
@@ -475,7 +508,8 @@
       "glucPer100g": 14,
       "lipPer100g": 0.4,
       "fiberPer100g": 5,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/green-peas/media.jpg"
     },
     {
       "id": "ground-beef-15",
@@ -489,7 +523,8 @@
       "glucPer100g": 0,
       "lipPer100g": 17,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/ground-beef-15/media.jpg"
     },
     {
       "id": "kiwi",
@@ -503,7 +538,8 @@
       "glucPer100g": 15,
       "lipPer100g": 0.5,
       "fiberPer100g": 3,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/kiwi/media.jpg"
     },
     {
       "id": "lager-beer-5",
@@ -517,7 +553,8 @@
       "glucPer100g": 3.3,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 5
+      "alcPct": 5,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/lager-beer-5/media.jpg"
     },
     {
       "id": "mango",
@@ -531,7 +568,8 @@
       "glucPer100g": 15,
       "lipPer100g": 0.4,
       "fiberPer100g": 1.6,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/mango/media.jpg"
     },
     {
       "id": "mushrooms",
@@ -545,7 +583,8 @@
       "glucPer100g": 3.3,
       "lipPer100g": 0.3,
       "fiberPer100g": 1,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/mushrooms/media.jpg"
     },
     {
       "id": "olive-oil",
@@ -559,7 +598,8 @@
       "glucPer100g": 0,
       "lipPer100g": 100,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/olive-oil/media.jpg"
     },
     {
       "id": "orange",
@@ -573,7 +613,8 @@
       "glucPer100g": 12,
       "lipPer100g": 0.1,
       "fiberPer100g": 2.4,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/orange/media.jpg"
     },
     {
       "id": "peanut-butter",
@@ -587,7 +628,8 @@
       "glucPer100g": 20,
       "lipPer100g": 50,
       "fiberPer100g": 6,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/peanut-butter/media.jpg"
     },
     {
       "id": "pear",
@@ -601,7 +643,8 @@
       "glucPer100g": 15,
       "lipPer100g": 0.1,
       "fiberPer100g": 3.1,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/pear/media.jpg"
     },
     {
       "id": "pineapple",
@@ -615,7 +658,8 @@
       "glucPer100g": 13,
       "lipPer100g": 0.1,
       "fiberPer100g": 1.4,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/pineapple/media.jpg"
     },
     {
       "id": "quark-0",
@@ -629,7 +673,8 @@
       "glucPer100g": 4,
       "lipPer100g": 0.2,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/quark-0/media.jpg"
     },
     {
       "id": "raspberries",
@@ -643,7 +688,8 @@
       "glucPer100g": 12,
       "lipPer100g": 0.7,
       "fiberPer100g": 6.5,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/raspberries/media.jpg"
     },
     {
       "id": "red-bell-pepper",
@@ -657,7 +703,8 @@
       "glucPer100g": 6,
       "lipPer100g": 0.3,
       "fiberPer100g": 2.1,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/red-bell-pepper/media.jpg"
     },
     {
       "id": "red-wine-12-5",
@@ -671,7 +718,8 @@
       "glucPer100g": 2.5,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 12.5
+      "alcPct": 12.5,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/red-wine-12-5/media.jpg"
     },
     {
       "id": "rolled-oats",
@@ -685,7 +733,8 @@
       "glucPer100g": 66,
       "lipPer100g": 7,
       "fiberPer100g": 11,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/rolled-oats/media.jpg"
     },
     {
       "id": "ros-wine-12",
@@ -699,7 +748,8 @@
       "glucPer100g": 2,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 12
+      "alcPct": 12,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/ros-wine-12/media.jpg"
     },
     {
       "id": "rum-40",
@@ -713,7 +763,8 @@
       "glucPer100g": 0,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 40
+      "alcPct": 40,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/rum-40/media.jpg"
     },
     {
       "id": "salmon",
@@ -727,7 +778,8 @@
       "glucPer100g": 0,
       "lipPer100g": 13,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/salmon/media.jpg"
     },
     {
       "id": "semi-skimmed-milk",
@@ -741,7 +793,8 @@
       "glucPer100g": 4.8,
       "lipPer100g": 1.6,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/semi-skimmed-milk/media.jpg"
     },
     {
       "id": "shrimp",
@@ -755,7 +808,8 @@
       "glucPer100g": 0.2,
       "lipPer100g": 0.3,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/shrimp/media.jpg"
     },
     {
       "id": "spinach",
@@ -769,7 +823,8 @@
       "glucPer100g": 3.6,
       "lipPer100g": 0.4,
       "fiberPer100g": 2.2,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/spinach/media.jpg"
     },
     {
       "id": "strawberries",
@@ -783,7 +838,8 @@
       "glucPer100g": 7.7,
       "lipPer100g": 0.3,
       "fiberPer100g": 2,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/strawberries/media.jpg"
     },
     {
       "id": "tangerine",
@@ -797,7 +853,8 @@
       "glucPer100g": 13,
       "lipPer100g": 0.3,
       "fiberPer100g": 1.8,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/tangerine/media.jpg"
     },
     {
       "id": "tempeh",
@@ -811,7 +868,8 @@
       "glucPer100g": 9,
       "lipPer100g": 11,
       "fiberPer100g": 1.4,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/tempeh/media.jpg"
     },
     {
       "id": "tomatoes",
@@ -825,7 +883,8 @@
       "glucPer100g": 3.9,
       "lipPer100g": 0.2,
       "fiberPer100g": 1.2,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/tomatoes/media.jpg"
     },
     {
       "id": "turkey-breast-cooked",
@@ -839,7 +898,8 @@
       "glucPer100g": 0,
       "lipPer100g": 1.5,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/turkey-breast-cooked/media.jpg"
     },
     {
       "id": "vodka-40",
@@ -853,7 +913,8 @@
       "glucPer100g": 0,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 40
+      "alcPct": 40,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/vodka-40/media.jpg"
     },
     {
       "id": "walnuts",
@@ -867,7 +928,8 @@
       "glucPer100g": 14,
       "lipPer100g": 65,
       "fiberPer100g": 7,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/walnuts/media.jpg"
     },
     {
       "id": "watermelon",
@@ -881,7 +943,8 @@
       "glucPer100g": 8,
       "lipPer100g": 0.2,
       "fiberPer100g": 0.4,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/watermelon/media.jpg"
     },
     {
       "id": "whisky-40",
@@ -895,7 +958,8 @@
       "glucPer100g": 0,
       "lipPer100g": 0,
       "fiberPer100g": 0,
-      "alcPct": 40
+      "alcPct": 40,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/whisky-40/media.jpg"
     },
     {
       "id": "white-bread",
@@ -909,7 +973,8 @@
       "glucPer100g": 49,
       "lipPer100g": 3.2,
       "fiberPer100g": 2.7,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/white-bread/media.jpg"
     },
     {
       "id": "whole-egg",
@@ -923,7 +988,8 @@
       "glucPer100g": 1.1,
       "lipPer100g": 10,
       "fiberPer100g": 0,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/whole-egg/media.jpg"
     },
     {
       "id": "whole-wheat-bread",
@@ -937,7 +1003,8 @@
       "glucPer100g": 41,
       "lipPer100g": 4.2,
       "fiberPer100g": 7,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/whole-wheat-bread/media.jpg"
     },
     {
       "id": "zucchini",
@@ -951,7 +1018,8 @@
       "glucPer100g": 3.1,
       "lipPer100g": 0.3,
       "fiberPer100g": 1,
-      "alcPct": 0
+      "alcPct": 0,
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/foods/zucchini/media.jpg"
     }
   ]
 }

@@ -6,16 +6,18 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const SOURCE = path.join(ROOT, 'source');
+const DATA = path.join(ROOT, 'data');
 const CDN_BASE = 'https://raw.githubusercontent.com/chipp972/gymtribe-public/master';
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
 }
 
-// Exercises: write manifest to source/exercises/manifest.json, no per-item zips
+// Exercises: write manifest to data/exercises/manifest.json, no per-item zips
 function buildExercises() {
   const srcDir = path.join(SOURCE, 'exercises');
-  const outDir = path.join(SOURCE, 'exercises');
+  const outDir = path.join(DATA, 'exercises');
+  fs.mkdirSync(outDir, { recursive: true });
 
   if (!fs.existsSync(srcDir)) {
     console.warn('  [exercises] source/exercises/ not found — skipping');
@@ -59,15 +61,16 @@ function buildExercises() {
 
   const manifest = { version: '1.0.0', exercises: manifestEntries };
   fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  console.log(`  [exercises] ${manifestEntries.length} exercises → source/exercises/manifest.json`);
+  console.log(`  [exercises] ${manifestEntries.length} exercises → data/exercises/manifest.json`);
 
   return manifest;
 }
 
-// Foods: write manifest to source/foods/manifest.json, no per-item zips
+// Foods: write manifest to data/foods/manifest.json, no per-item zips
 function buildFoods() {
   const srcDir = path.join(SOURCE, 'foods');
-  const outDir = path.join(SOURCE, 'foods');
+  const outDir = path.join(DATA, 'foods');
+  fs.mkdirSync(outDir, { recursive: true });
 
   if (!fs.existsSync(srcDir)) {
     console.warn('  [foods] source/foods/ not found — skipping');
@@ -97,20 +100,22 @@ function buildFoods() {
       lipPer100g: meta.lipPer100g,
       fiberPer100g: meta.fiberPer100g,
       alcPct: meta.alcPct,
+      mediaUri: meta.mediaUri,
     });
   }
 
   const manifest = { version: '1.0.0', foods: manifestEntries };
   fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  console.log(`  [foods] ${manifestEntries.length} foods → source/foods/manifest.json`);
+  console.log(`  [foods] ${manifestEntries.length} foods → data/foods/manifest.json`);
 
   return manifest;
 }
 
-// Equipment: write manifest to source/equipment/manifest.json, no per-item zips
+// Equipment: write manifest to data/equipment/manifest.json, no per-item zips
 function buildEquipment() {
   const srcDir = path.join(SOURCE, 'equipment');
-  const outDir = path.join(SOURCE, 'equipment');
+  const outDir = path.join(DATA, 'equipment');
+  fs.mkdirSync(outDir, { recursive: true });
 
   if (!fs.existsSync(srcDir)) {
     console.warn('  [equipment] source/equipment/ not found — skipping');
@@ -133,7 +138,7 @@ function buildEquipment() {
     manifestEntries.push({
       id,
       name: meta.name,
-      thumbnailUrl: meta.imageUrl
+      mediaUri: meta.imageUrl
         ? `${CDN_BASE}/source/equipment/${id}/${meta.imageUrl}`
         : undefined,
     });
@@ -141,10 +146,10 @@ function buildEquipment() {
 
   const manifest = { version: '1.0.0', equipment: manifestEntries };
   fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  console.log(`  [equipment] ${manifestEntries.length} equipment items → source/equipment/manifest.json`);
+  console.log(`  [equipment] ${manifestEntries.length} equipment items → data/equipment/manifest.json`);
 }
 
-// Muscles: write manifest to source/muscles/manifest.json, no zip
+// Muscles: write manifest to data/muscles/manifest.json, no zip
 function buildMuscles() {
   const srcDir = path.join(SOURCE, 'muscles');
   const indexPath = path.join(srcDir, 'index.json');
@@ -158,12 +163,14 @@ function buildMuscles() {
   const items = Array.isArray(data) ? data : (data.muscles || []);
   const manifestEntries = items.map(({ id, name }) => ({ id, name }));
 
+  const outDir = path.join(DATA, 'muscles');
+  fs.mkdirSync(outDir, { recursive: true });
   const manifest = { version: '1.0.0', muscles: manifestEntries };
-  fs.writeFileSync(path.join(srcDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  console.log(`  [muscles] ${manifestEntries.length} muscles → source/muscles/manifest.json`);
+  fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
+  console.log(`  [muscles] ${manifestEntries.length} muscles → data/muscles/manifest.json`);
 }
 
-// Recipes: write manifest to source/recipes/manifest.json, no per-item zips
+// Recipes: write manifest to data/recipes/manifest.json, no per-item zips
 function buildRecipes() {
   const srcDir = path.join(SOURCE, 'recipes');
 
@@ -208,12 +215,14 @@ function buildRecipes() {
     });
   }
 
+  const outDir = path.join(DATA, 'recipes');
+  fs.mkdirSync(outDir, { recursive: true });
   const manifest = { version: '1.0.0', recipes: manifestEntries };
-  fs.writeFileSync(path.join(srcDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  console.log(`  [recipes] ${manifestEntries.length} recipes → source/recipes/manifest.json`);
+  fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
+  console.log(`  [recipes] ${manifestEntries.length} recipes → data/recipes/manifest.json`);
 }
 
-// Program templates: write manifest to source/program-templates/manifest.json, no zips needed (no media)
+// Program templates: write manifest to data/program-templates/manifest.json, no zips needed (no media)
 function buildProgramTemplates() {
   const srcDir = path.join(SOURCE, 'program-templates');
 
@@ -222,8 +231,8 @@ function buildProgramTemplates() {
     return;
   }
 
-  // Read exercises from source manifest (generated earlier in this run)
-  const exercisesManifestPath = path.join(SOURCE, 'exercises', 'manifest.json');
+  // Read exercises from data manifest (generated earlier in this run)
+  const exercisesManifestPath = path.join(DATA, 'exercises', 'manifest.json');
   const exercisesById = {};
   if (fs.existsSync(exercisesManifestPath)) {
     const { exercises = [] } = readJson(exercisesManifestPath);
@@ -273,9 +282,11 @@ function buildProgramTemplates() {
     });
   }
 
+  const outDir = path.join(DATA, 'program-templates');
+  fs.mkdirSync(outDir, { recursive: true });
   const manifest = { version: '2.0.0', templates: manifestEntries };
-  fs.writeFileSync(path.join(srcDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  console.log(`  [program-templates] ${manifestEntries.length} templates → source/program-templates/manifest.json`);
+  fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
+  console.log(`  [program-templates] ${manifestEntries.length} templates → data/program-templates/manifest.json`);
 }
 
 // Helper: load all exercises source data indexed by id
@@ -380,9 +391,11 @@ function buildArchetypes() {
     manifestEntries.push({ id, name, description, tags: tags || [], moveIds });
   }
 
+  const outDir = path.join(DATA, 'archetypes');
+  fs.mkdirSync(outDir, { recursive: true });
   const manifest = { version: '1.0.0', archetypes: manifestEntries };
-  fs.writeFileSync(path.join(configDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  console.log(`  [archetypes] ${manifestEntries.length} archetypes → source/archetypes/manifest.json`);
+  fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
+  console.log(`  [archetypes] ${manifestEntries.length} archetypes → data/archetypes/manifest.json`);
 }
 
 // Profiles: write manifest to source/profiles/manifest.json — entries reference
@@ -420,9 +433,11 @@ function buildProfiles() {
     manifestEntries.push({ id, name, description, foodIds, recipeIds });
   }
 
+  const outDir = path.join(DATA, 'profiles');
+  fs.mkdirSync(outDir, { recursive: true });
   const manifest = { version: '1.0.0', profiles: manifestEntries };
-  fs.writeFileSync(path.join(configDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-  console.log(`  [profiles] ${manifestEntries.length} profiles → source/profiles/manifest.json`);
+  fs.writeFileSync(path.join(outDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
+  console.log(`  [profiles] ${manifestEntries.length} profiles → data/profiles/manifest.json`);
 }
 
 function checkCrossReferences() {
