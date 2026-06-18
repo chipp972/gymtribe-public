@@ -4,189 +4,216 @@
     "name": {
       "en": "Chest",
       "fr": "Pectoraux"
-    }
+    },
+    "mediaUri": "chest.png"
   },
   {
     "id": "upper-chest",
     "name": {
       "en": "Upper Chest",
       "fr": "Pectoral supérieur"
-    }
+    },
+    "mediaUri": "upper-chest.png"
   },
   {
     "id": "mid-chest",
     "name": {
       "en": "Mid Chest",
       "fr": "Pectoral médial"
-    }
+    },
+    "mediaUri": "mid-chest.png"
   },
   {
     "id": "lower-chest",
     "name": {
       "en": "Lower Chest",
       "fr": "Pectoral inférieur"
-    }
+    },
+    "mediaUri": "lower-chest.png"
   },
   {
     "id": "back",
     "name": {
       "en": "Back",
       "fr": "Dos"
-    }
+    },
+    "mediaUri": "back.png"
   },
   {
     "id": "traps",
     "name": {
       "en": "Traps",
       "fr": "Trapèzes"
-    }
+    },
+    "mediaUri": "traps.png"
   },
   {
     "id": "upper-back",
     "name": {
       "en": "Upper Back",
       "fr": "Haut du dos"
-    }
+    },
+    "mediaUri": "upper-back.png"
   },
   {
     "id": "mid-back",
     "name": {
       "en": "Mid Back",
       "fr": "Milieu du dos"
-    }
+    },
+    "mediaUri": "mid-back.png"
   },
   {
     "id": "lats",
     "name": {
       "en": "Lats",
       "fr": "Dorsaux"
-    }
+    },
+    "mediaUri": "lats.png"
   },
   {
     "id": "lower-back",
     "name": {
       "en": "Lower Back",
       "fr": "Bas du dos"
-    }
+    },
+    "mediaUri": "lower-back.png"
   },
   {
     "id": "shoulders",
     "name": {
       "en": "Shoulders",
       "fr": "Épaules"
-    }
+    },
+    "mediaUri": "shoulders.png"
   },
   {
     "id": "front-delt",
     "name": {
       "en": "Front Delt",
       "fr": "Deltoïde antérieur"
-    }
+    },
+    "mediaUri": "front-delt.png"
   },
   {
     "id": "side-delt",
     "name": {
       "en": "Side Delt",
       "fr": "Deltoïde latéral"
-    }
+    },
+    "mediaUri": "side-delt.png"
   },
   {
     "id": "rear-delt",
     "name": {
       "en": "Rear Delt",
       "fr": "Deltoïde postérieur"
-    }
+    },
+    "mediaUri": "rear-delt.png"
   },
   {
     "id": "biceps",
     "name": {
       "en": "Biceps",
       "fr": "Biceps"
-    }
+    },
+    "mediaUri": "biceps.png"
   },
   {
     "id": "triceps",
     "name": {
       "en": "Triceps",
       "fr": "Triceps"
-    }
+    },
+    "mediaUri": "triceps.png"
   },
   {
     "id": "forearms",
     "name": {
       "en": "Forearms",
       "fr": "Avant-bras"
-    }
+    },
+    "mediaUri": "forearms.png"
   },
   {
     "id": "quadriceps",
     "name": {
       "en": "Quadriceps",
       "fr": "Quadriceps"
-    }
+    },
+    "mediaUri": "quadriceps.png"
   },
   {
     "id": "hamstrings",
     "name": {
       "en": "Hamstrings",
       "fr": "Ischio-jambiers"
-    }
+    },
+    "mediaUri": "hamstrings.png"
   },
   {
     "id": "glutes",
     "name": {
       "en": "Glutes",
       "fr": "Fessiers"
-    }
+    },
+    "mediaUri": "glutes.png"
   },
   {
     "id": "glute-max",
     "name": {
       "en": "Glute Max",
       "fr": "Grand fessier"
-    }
+    },
+    "mediaUri": "glute-max.png"
   },
   {
     "id": "glute-med",
     "name": {
       "en": "Glute Med",
       "fr": "Moyen fessier"
-    }
+    },
+    "mediaUri": "glute-med.png"
   },
   {
     "id": "glute-min",
     "name": {
       "en": "Glute Min",
       "fr": "Petit fessier"
-    }
+    },
+    "mediaUri": "glute-min.png"
   },
   {
     "id": "adductors",
     "name": {
       "en": "Adductors",
       "fr": "Adducteurs"
-    }
+    },
+    "mediaUri": "adductors.png"
   },
   {
     "id": "abductors",
     "name": {
       "en": "Abductors",
       "fr": "Abducteurs"
-    }
+    },
+    "mediaUri": "abductors.png"
   },
   {
     "id": "hip-flexors",
     "name": {
       "en": "Hip Flexors",
       "fr": "Fléchisseurs de hanche"
-    }
+    },
+    "mediaUri": "hip-flexors.png"
   },
   {
     "id": "calves",
     "name": {
       "en": "Calves",
       "fr": "Mollets"
-    }
+    },
+    "mediaUri": "calves.png"
   },
   {
     "id": "core",

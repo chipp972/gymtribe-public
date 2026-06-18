@@ -20,16 +20,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/ab-wheel-rollout/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/ab-wheel-rollout/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -62,16 +55,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/arnold-press/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/arnold-press/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -104,16 +90,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/barbell-curl/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/barbell-curl/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -150,16 +129,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bench-press/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bench-press/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -196,16 +168,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bent-over-row/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bent-over-row/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -234,16 +199,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bicycle-crunch/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bicycle-crunch/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -280,16 +238,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bulgarian-split-squat/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/bulgarian-split-squat/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -318,16 +269,9 @@
       "equipment": [
         "adjustable-pulley"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-crunch/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-crunch/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -360,16 +304,9 @@
       "equipment": [
         "adjustable-pulley"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-curl/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-curl/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -402,16 +339,9 @@
       "equipment": [
         "cable-crossover"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-fly/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-fly/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -440,16 +370,9 @@
       "equipment": [
         "adjustable-pulley"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-kickback/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-kickback/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -482,16 +405,9 @@
       "equipment": [
         "adjustable-pulley"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-pushdown/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/cable-pushdown/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -524,16 +440,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/chin-up/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/chin-up/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -566,16 +475,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/close-grip-bench-press/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/close-grip-bench-press/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -604,16 +506,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/crunch/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/crunch/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -650,16 +545,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/deadlift/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/deadlift/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -696,16 +584,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/dips/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/dips/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -734,16 +615,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/donkey-calf-raise/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/donkey-calf-raise/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -776,16 +650,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/dumbbell-curl/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/dumbbell-curl/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -818,16 +685,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/dumbbell-fly/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/dumbbell-fly/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -860,16 +720,9 @@
       "equipment": [
         "adjustable-pulley"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/face-pull/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/face-pull/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -902,16 +755,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/farmer-s-walk/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/farmer-s-walk/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -940,16 +786,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/front-raise/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/front-raise/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -982,16 +821,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/front-squat/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/front-squat/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1024,16 +856,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/glute-ham-raise/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/glute-ham-raise/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1070,16 +895,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/good-morning/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/good-morning/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1112,16 +930,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/hack-squat/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/hack-squat/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1154,16 +965,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/hammer-curl/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/hammer-curl/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1196,16 +1000,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/hip-thrust/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/hip-thrust/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1242,16 +1039,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/incline-bench-press/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/incline-bench-press/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1284,16 +1074,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/jump-rope/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/jump-rope/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1326,16 +1109,9 @@
       "equipment": [
         "lat-machine"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/lat-pulldown/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/lat-pulldown/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1364,16 +1140,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/lateral-raise/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/lateral-raise/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1402,16 +1171,9 @@
       "equipment": [
         "leg-extension"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-extension/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-extension/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1448,16 +1210,9 @@
       "equipment": [
         "leg-press"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-press/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-press/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1486,16 +1241,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-raise/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/leg-raise/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1532,16 +1280,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/lunge/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/lunge/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1578,16 +1319,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/overhead-press/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/overhead-press/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1616,16 +1350,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/overhead-tricep-extension/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/overhead-tricep-extension/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1654,16 +1381,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/plank/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/plank/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1692,16 +1412,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/preacher-curl/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/preacher-curl/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1734,16 +1447,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/pull-up/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/pull-up/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1780,16 +1486,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/push-up/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/push-up/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1822,16 +1521,9 @@
       "equipment": [
         "dumbbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/reverse-fly/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/reverse-fly/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1860,16 +1552,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/reverse-wrist-curl/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/reverse-wrist-curl/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1906,16 +1591,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/romanian-deadlift/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/romanian-deadlift/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1944,16 +1622,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/russian-twist/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/russian-twist/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -1986,16 +1657,9 @@
       "equipment": [
         "seated-cable-row"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/seated-cable-row/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/seated-cable-row/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -2024,16 +1688,9 @@
       "equipment": [
         "seated-calf"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/seated-calf-raise/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/seated-calf-raise/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -2062,16 +1719,9 @@
       "equipment": [
         "seated-leg-curl"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/seated-leg-curl/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/seated-leg-curl/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -2100,16 +1750,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/skull-crusher/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/skull-crusher/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -2146,16 +1789,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/squat/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/squat/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -2184,16 +1820,9 @@
       "equipment": [
         "standing-calf"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/standing-calf-raise/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/standing-calf-raise/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -2226,16 +1855,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/step-up/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/step-up/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -2272,16 +1894,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/sumo-deadlift/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/sumo-deadlift/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -2318,16 +1933,9 @@
       "equipment": [
         "bodyweight"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/tricep-dip/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/tricep-dip/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {
@@ -2356,16 +1964,9 @@
       "equipment": [
         "barbell"
       ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/wrist-curl/media/exercise-execution.mp4",
+      "mediaType": "video",
       "notes": [
-        {
-          "noteType": "media",
-          "title": {
-            "en": "exercise execution",
-            "fr": "exercise execution"
-          },
-          "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/wrist-curl/media/exercise-execution.mp4",
-          "mediaType": "video"
-        },
         {
           "noteType": "description",
           "title": {

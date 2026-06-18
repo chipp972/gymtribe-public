@@ -38,6 +38,21 @@ function buildExercises() {
 
     const meta = readJson(indexPath);
 
+    const VIDEO_EXTS = new Set(['.mp4', '.mov', '.avi', '.webm']);
+    const mediaDir = path.join(exerciseDir, 'media');
+    let exerciseMedia = {};
+    if (fs.existsSync(mediaDir)) {
+      const mediaFiles = fs.readdirSync(mediaDir).filter((f) => !f.startsWith('.'));
+      if (mediaFiles.length > 0) {
+        const mediaFile = mediaFiles[0];
+        const ext = path.extname(mediaFile).toLowerCase();
+        exerciseMedia = {
+          mediaUri: `${CDN_BASE}/source/exercises/${id}/media/${mediaFile}`,
+          mediaType: VIDEO_EXTS.has(ext) ? 'video' : 'image',
+        };
+      }
+    }
+
     const notesPath = path.join(exerciseDir, 'notes.json');
     let notes = [];
     if (fs.existsSync(notesPath)) {
@@ -55,6 +70,7 @@ function buildExercises() {
       name: meta.name,
       muscles: meta.muscles,
       equipment: meta.equipment,
+      ...exerciseMedia,
       ...(notes.length > 0 && { notes }),
     });
   }
@@ -161,7 +177,11 @@ function buildMuscles() {
 
   const data = readJson(indexPath);
   const items = Array.isArray(data) ? data : (data.muscles || []);
-  const manifestEntries = items.map(({ id, name }) => ({ id, name }));
+  const manifestEntries = items.map(({ id, name, mediaUri }) => ({
+    id,
+    name,
+    ...(mediaUri && { mediaUri: `${CDN_BASE}/source/muscles/${mediaUri}` }),
+  }));
 
   const outDir = path.join(DATA, 'muscles');
   fs.mkdirSync(outDir, { recursive: true });

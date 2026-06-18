@@ -6,189 +6,216 @@
       "name": {
         "en": "Chest",
         "fr": "Pectoraux"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/chest.png"
     },
     {
       "id": "upper-chest",
       "name": {
         "en": "Upper Chest",
         "fr": "Pectoral supérieur"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/upper-chest.png"
     },
     {
       "id": "mid-chest",
       "name": {
         "en": "Mid Chest",
         "fr": "Pectoral médial"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/mid-chest.png"
     },
     {
       "id": "lower-chest",
       "name": {
         "en": "Lower Chest",
         "fr": "Pectoral inférieur"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/lower-chest.png"
     },
     {
       "id": "back",
       "name": {
         "en": "Back",
         "fr": "Dos"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/back.png"
     },
     {
       "id": "traps",
       "name": {
         "en": "Traps",
         "fr": "Trapèzes"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/traps.png"
     },
     {
       "id": "upper-back",
       "name": {
         "en": "Upper Back",
         "fr": "Haut du dos"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/upper-back.png"
     },
     {
       "id": "mid-back",
       "name": {
         "en": "Mid Back",
         "fr": "Milieu du dos"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/mid-back.png"
     },
     {
       "id": "lats",
       "name": {
         "en": "Lats",
         "fr": "Dorsaux"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/lats.png"
     },
     {
       "id": "lower-back",
       "name": {
         "en": "Lower Back",
         "fr": "Bas du dos"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/lower-back.png"
     },
     {
       "id": "shoulders",
       "name": {
         "en": "Shoulders",
         "fr": "Épaules"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/shoulders.png"
     },
     {
       "id": "front-delt",
       "name": {
         "en": "Front Delt",
         "fr": "Deltoïde antérieur"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/front-delt.png"
     },
     {
       "id": "side-delt",
       "name": {
         "en": "Side Delt",
         "fr": "Deltoïde latéral"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/side-delt.png"
     },
     {
       "id": "rear-delt",
       "name": {
         "en": "Rear Delt",
         "fr": "Deltoïde postérieur"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/rear-delt.png"
     },
     {
       "id": "biceps",
       "name": {
         "en": "Biceps",
         "fr": "Biceps"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/biceps.png"
     },
     {
       "id": "triceps",
       "name": {
         "en": "Triceps",
         "fr": "Triceps"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/triceps.png"
     },
     {
       "id": "forearms",
       "name": {
         "en": "Forearms",
         "fr": "Avant-bras"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/forearms.png"
     },
     {
       "id": "quadriceps",
       "name": {
         "en": "Quadriceps",
         "fr": "Quadriceps"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/quadriceps.png"
     },
     {
       "id": "hamstrings",
       "name": {
         "en": "Hamstrings",
         "fr": "Ischio-jambiers"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/hamstrings.png"
     },
     {
       "id": "glutes",
       "name": {
         "en": "Glutes",
         "fr": "Fessiers"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/glutes.png"
     },
     {
       "id": "glute-max",
       "name": {
         "en": "Glute Max",
         "fr": "Grand fessier"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/glute-max.png"
     },
     {
       "id": "glute-med",
       "name": {
         "en": "Glute Med",
         "fr": "Moyen fessier"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/glute-med.png"
     },
     {
       "id": "glute-min",
       "name": {
         "en": "Glute Min",
         "fr": "Petit fessier"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/glute-min.png"
     },
     {
       "id": "adductors",
       "name": {
         "en": "Adductors",
         "fr": "Adducteurs"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/adductors.png"
     },
     {
       "id": "abductors",
       "name": {
         "en": "Abductors",
         "fr": "Abducteurs"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/abductors.png"
     },
     {
       "id": "hip-flexors",
       "name": {
         "en": "Hip Flexors",
         "fr": "Fléchisseurs de hanche"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/hip-flexors.png"
     },
     {
       "id": "calves",
       "name": {
         "en": "Calves",
         "fr": "Mollets"
-      }
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/muscles/calves.png"
     },
     {
       "id": "core",

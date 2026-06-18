@@ -1,15 +1,6 @@
 {
   "notes": [
     {
-      "noteType": "media",
-      "title": {
-        "en": "exercise execution",
-        "fr": "exercise execution"
-      },
-      "mediaUri": "media/exercise-execution.mp4",
-      "mediaType": "video"
-    },
-    {
       "noteType": "description",
       "title": {
         "en": "setup",
