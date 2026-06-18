@@ -1,0 +1,19 @@
+{
+  "id": "hamburger",
+  "name": {
+    "en": "Hamburger",
+    "fr": "Hamburger"
+  },
+  "description": {
+    "en": "A beef hamburger with tomatoes and cucumber.",
+    "fr": "Un hamburger au bœuf avec tomates et concombre."
+  },
+  "ingredients": [
+    { "foodId": "white-bread", "quantityG": 100 },
+    { "foodId": "ground-beef-15", "quantityG": 150 },
+    { "foodId": "tomatoes", "quantityG": 50 },
+    { "foodId": "cucumber", "quantityG": 30 },
+    { "foodId": "red-bell-pepper", "quantityG": 20 }
+  ],
+  "mediaUri": "hamburger.jpg"
+}

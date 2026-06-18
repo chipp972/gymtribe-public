@@ -209,8 +209,8 @@ function buildRecipes() {
       name: meta.name,
       description: meta.description,
       ingredients,
-      thumbnailUrl: meta.imageUrl
-        ? `${CDN_BASE}/source/recipes/${id}/media/${meta.imageUrl}`
+      mediaUri: meta.mediaUri
+        ? `${CDN_BASE}/source/recipes/${id}/${meta.mediaUri}`
         : undefined,
     });
   }

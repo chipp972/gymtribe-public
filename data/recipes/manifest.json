@@ -1,4 +1,99 @@
 {
   "version": "1.0.0",
-  "recipes": []
+  "recipes": [
+    {
+      "id": "hamburger",
+      "name": {
+        "en": "Hamburger",
+        "fr": "Hamburger"
+      },
+      "description": {
+        "en": "A beef hamburger with tomatoes and cucumber.",
+        "fr": "Un hamburger au bœuf avec tomates et concombre."
+      },
+      "ingredients": [
+        {
+          "foodId": "white-bread",
+          "quantityG": 100
+        },
+        {
+          "foodId": "ground-beef-15",
+          "quantityG": 150
+        },
+        {
+          "foodId": "tomatoes",
+          "quantityG": 50
+        },
+        {
+          "foodId": "cucumber",
+          "quantityG": 30
+        },
+        {
+          "foodId": "red-bell-pepper",
+          "quantityG": 20
+        }
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/recipes/hamburger/hamburger.jpg"
+    },
+    {
+      "id": "sandwich",
+      "name": {
+        "en": "Sandwich",
+        "fr": "Sandwich"
+      },
+      "description": {
+        "en": "A classic ham sandwich with tomatoes and cucumber.",
+        "fr": "Un sandwich jambon classique avec tomates et concombre."
+      },
+      "ingredients": [
+        {
+          "foodId": "white-bread",
+          "quantityG": 80
+        },
+        {
+          "foodId": "cooked-ham",
+          "quantityG": 60
+        },
+        {
+          "foodId": "tomatoes",
+          "quantityG": 50
+        },
+        {
+          "foodId": "cucumber",
+          "quantityG": 40
+        }
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/recipes/sandwich/sandwich.jpg"
+    },
+    {
+      "id": "smoothie-fraise",
+      "name": {
+        "en": "Strawberry smoothie",
+        "fr": "Smoothie fraise"
+      },
+      "description": {
+        "en": "A refreshing strawberry smoothie with banana and yogurt.",
+        "fr": "Un smoothie fraise rafraîchissant avec banane et yaourt."
+      },
+      "ingredients": [
+        {
+          "foodId": "strawberries",
+          "quantityG": 150
+        },
+        {
+          "foodId": "banana",
+          "quantityG": 100
+        },
+        {
+          "foodId": "greek-yogurt-0",
+          "quantityG": 100
+        },
+        {
+          "foodId": "semi-skimmed-milk",
+          "quantityG": 200
+        }
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/recipes/smoothie-fraise/smoothie.jpg"
+    }
+  ]
 }

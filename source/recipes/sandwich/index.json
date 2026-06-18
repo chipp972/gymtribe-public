@@ -1,0 +1,18 @@
+{
+  "id": "sandwich",
+  "name": {
+    "en": "Sandwich",
+    "fr": "Sandwich"
+  },
+  "description": {
+    "en": "A classic ham sandwich with tomatoes and cucumber.",
+    "fr": "Un sandwich jambon classique avec tomates et concombre."
+  },
+  "ingredients": [
+    { "foodId": "white-bread", "quantityG": 80 },
+    { "foodId": "cooked-ham", "quantityG": 60 },
+    { "foodId": "tomatoes", "quantityG": 50 },
+    { "foodId": "cucumber", "quantityG": 40 }
+  ],
+  "mediaUri": "sandwich.jpg"
+}

@@ -81,7 +81,11 @@
         "whole-wheat-bread",
         "zucchini"
       ],
-      "recipeIds": []
+      "recipeIds": [
+        "smoothie-fraise",
+        "sandwich",
+        "hamburger"
+      ]
     },
     {
       "id": "vegan",
@@ -149,7 +153,9 @@
         "whole-wheat-bread",
         "zucchini"
       ],
-      "recipeIds": []
+      "recipeIds": [
+        "smoothie-fraise"
+      ]
     },
     {
       "id": "vegetarian",
@@ -222,7 +228,9 @@
         "whole-wheat-bread",
         "zucchini"
       ],
-      "recipeIds": []
+      "recipeIds": [
+        "smoothie-fraise"
+      ]
     }
   ]
 }
