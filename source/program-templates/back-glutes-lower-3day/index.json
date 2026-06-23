@@ -1,0 +1,416 @@
+{
+  "version": "2.0",
+  "id": "back-glutes-lower-3day",
+  "name": { "en": "Back, Glutes & Lower – 3 Day", "fr": "Dos, Fessiers & Bas du Corps – 3 Jours" },
+  "description": {
+    "en": "3-day program alternating back/glutes and lower body sessions with supersets for training density. Complement with cardio on rest days.",
+    "fr": "Programme en 3 jours alternant séances dos/fessiers et bas du corps avec des supersets pour maximiser la densité. À compléter par du cardio les jours de repos."
+  },
+  "tags": ["hypertrophy", "beginner"],
+  "days": [
+    {
+      "dayIndex": 0,
+      "weekIndex": 0,
+      "label": { "en": "Back & Glutes", "fr": "Dos & Fessiers" },
+      "todos": [
+        {
+          "moveId": "rowing-cardio",
+          "sets": [{ "time": 600 }]
+        },
+        {
+          "moveId": "lat-pulldown",
+          "color": "blue",
+          "sets": [
+            { "reps": 15, "oneRmMultiplier": 0.3, "isWarmup": true },
+            { "reps": 15, "oneRmMultiplier": 0.4, "isWarmup": true },
+            { "reps": 12, "oneRmMultiplier": 0.5, "isWarmup": true },
+            { "reps": 12, "repRangeTargetMin": 8, "repRangeTargetMax": 12, "oneRmMultiplier": 0.6 },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 8,
+              "repRangeTargetMax": 12,
+              "oneRmMultiplier": 0.65
+            },
+            { "reps": 8, "repRangeTargetMin": 8, "repRangeTargetMax": 12, "oneRmMultiplier": 0.7 }
+          ]
+        },
+        {
+          "moveId": "decline-pushup",
+          "color": "blue",
+          "sets": [
+            { "reps": 8, "repRangeTargetMin": 4, "repRangeTargetMax": 8 },
+            { "reps": 8, "repRangeTargetMin": 4, "repRangeTargetMax": 8 },
+            { "reps": 8, "repRangeTargetMin": 4, "repRangeTargetMax": 8 },
+            { "reps": 8, "repRangeTargetMin": 4, "repRangeTargetMax": 8 },
+            { "reps": 8, "repRangeTargetMin": 4, "repRangeTargetMax": 8 },
+            { "reps": 8, "repRangeTargetMin": 4, "repRangeTargetMax": 8 }
+          ]
+        },
+        {
+          "moveId": "dumbbell-romanian-deadlift",
+          "sets": [
+            { "reps": 15, "oneRmMultiplier": 0.5, "isWarmup": true },
+            {
+              "reps": 12,
+              "oneRmMultiplier": 0.55,
+              "isWarmup": true
+            },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 8,
+              "repRangeTargetMax": 12,
+              "oneRmMultiplier": 0.6
+            },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 8,
+              "repRangeTargetMax": 12,
+              "oneRmMultiplier": 0.6
+            },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 8,
+              "repRangeTargetMax": 12,
+              "oneRmMultiplier": 0.6
+            }
+          ]
+        },
+        {
+          "moveId": "hip-thrust",
+          "sets": [
+            { "reps": 20, "oneRmMultiplier": 0.5, "isWarmup": true },
+            {
+              "reps": 15,
+              "oneRmMultiplier": 0.6,
+              "isWarmup": true
+            },
+            {
+              "reps": 15,
+              "repRangeTargetMin": 12,
+              "repRangeTargetMax": 20,
+              "oneRmMultiplier": 0.6
+            },
+            {
+              "reps": 15,
+              "repRangeTargetMin": 12,
+              "repRangeTargetMax": 20,
+              "oneRmMultiplier": 0.6
+            },
+            {
+              "reps": 15,
+              "repRangeTargetMin": 12,
+              "repRangeTargetMax": 20,
+              "oneRmMultiplier": 0.6
+            },
+            { "reps": 15, "repRangeTargetMin": 12, "repRangeTargetMax": 20, "oneRmMultiplier": 0.6 }
+          ]
+        },
+        {
+          "moveId": "seated-machine-horizontal-row",
+          "color": "cyan",
+          "sets": [
+            {
+              "reps": 15,
+              "repRangeTargetMin": 12,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            },
+            {
+              "reps": 15,
+              "repRangeTargetMin": 12,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            },
+            {
+              "reps": 15,
+              "repRangeTargetMin": 12,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            }
+          ]
+        },
+        {
+          "moveId": "plank",
+          "color": "cyan",
+          "sets": [{ "time": 60 }, { "time": 60 }, { "time": 60 }]
+        }
+      ]
+    },
+    {
+      "dayIndex": 2,
+      "weekIndex": 0,
+      "label": { "en": "Quads & Hamstrings", "fr": "Quadriceps & Ischios" },
+      "todos": [
+        {
+          "moveId": "treadmill-walk",
+          "sets": [{ "time": 600 }]
+        },
+        {
+          "moveId": "belt-squat",
+          "color": "blue",
+          "sets": [
+            { "reps": 15, "oneRmMultiplier": 0.3, "isWarmup": true },
+            { "reps": 12, "oneRmMultiplier": 0.4, "isWarmup": true },
+            { "reps": 12, "oneRmMultiplier": 0.5, "isWarmup": true },
+            { "reps": 12, "repRangeTargetMin": 8, "repRangeTargetMax": 12, "oneRmMultiplier": 0.6 },
+            {
+              "reps": 12,
+              "repRangeTargetMin": 8,
+              "repRangeTargetMax": 12,
+              "oneRmMultiplier": 0.65
+            },
+            { "reps": 12, "repRangeTargetMin": 8, "repRangeTargetMax": 12, "oneRmMultiplier": 0.7 }
+          ]
+        },
+        {
+          "moveId": "side-plank",
+          "color": "blue",
+          "sets": [
+            { "time": 30, "note": "gauche" },
+            { "time": 30, "note": "droite" },
+            { "time": 30, "note": "gauche" },
+            { "time": 30, "note": "droite" },
+            { "time": 30, "note": "gauche" },
+            { "time": 30, "note": "droite" }
+          ]
+        },
+        {
+          "moveId": "standing-unilateral-leg-curl",
+          "sets": [
+            {
+              "reps": 15,
+              "oneRmMultiplier": 0.5,
+              "isWarmup": true
+            },
+            {
+              "reps": 12,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            }
+          ]
+        },
+        {
+          "moveId": "leg-extension",
+          "sets": [
+            {
+              "reps": 15,
+              "oneRmMultiplier": 0.5,
+              "isWarmup": true
+            },
+            {
+              "reps": 12,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            }
+          ]
+        },
+        {
+          "moveId": "machine-romanian-deadlift",
+          "sets": [
+            { "reps": 15, "oneRmMultiplier": 0.5, "isWarmup": true },
+            {
+              "reps": 12,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            }
+          ]
+        },
+        {
+          "moveId": "adductor-machine",
+          "color": "cyan",
+          "sets": [
+            {
+              "reps": 15,
+              "oneRmMultiplier": 0.5,
+              "isWarmup": true
+            },
+            {
+              "reps": 12,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            }
+          ]
+        },
+        {
+          "moveId": "abductor-machine",
+          "color": "cyan",
+          "sets": [
+            {
+              "reps": 15,
+              "oneRmMultiplier": 0.5,
+              "isWarmup": true
+            },
+            {
+              "reps": 12,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayIndex": 4,
+      "weekIndex": 0,
+      "label": { "en": "Glutes & Back", "fr": "Fessiers & Dos" },
+      "todos": [
+        {
+          "moveId": "treadmill-walk",
+          "sets": [{ "time": 600 }]
+        },
+        {
+          "moveId": "hip-thrust",
+          "sets": [
+            { "reps": 20, "oneRmMultiplier": 0.3, "isWarmup": true },
+            { "reps": 15, "oneRmMultiplier": 0.4, "isWarmup": true },
+            { "reps": 12, "oneRmMultiplier": 0.5, "isWarmup": true },
+            { "reps": 12, "repRangeTargetMin": 8, "repRangeTargetMax": 12, "oneRmMultiplier": 0.6 },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 8,
+              "repRangeTargetMax": 12,
+              "oneRmMultiplier": 0.65
+            },
+            { "reps": 8, "repRangeTargetMin": 8, "repRangeTargetMax": 12, "oneRmMultiplier": 0.7 }
+          ]
+        },
+        {
+          "moveId": "neutral-grip-lat-pulldown",
+          "color": "blue",
+          "sets": [
+            { "reps": 15, "oneRmMultiplier": 0.4, "isWarmup": true },
+            { "reps": 12, "oneRmMultiplier": 0.5, "isWarmup": true },
+            { "reps": 12, "repRangeTargetMin": 8, "repRangeTargetMax": 12, "oneRmMultiplier": 0.6 },
+            { "reps": 10, "repRangeTargetMin": 8, "repRangeTargetMax": 12, "oneRmMultiplier": 0.7 }
+          ]
+        },
+        {
+          "moveId": "decline-pushup",
+          "color": "blue",
+          "sets": [
+            { "reps": 8, "repRangeTargetMin": 4, "repRangeTargetMax": 8 },
+            { "reps": 8, "repRangeTargetMin": 4, "repRangeTargetMax": 8 },
+            { "reps": 8, "repRangeTargetMin": 4, "repRangeTargetMax": 8 },
+            { "reps": 8, "repRangeTargetMin": 4, "repRangeTargetMax": 8 }
+          ]
+        },
+        {
+          "moveId": "unilateral-high-row",
+          "color": "cyan",
+          "sets": [
+            {
+              "reps": 15,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.55
+            },
+            {
+              "reps": 12,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            }
+          ]
+        },
+        {
+          "moveId": "overhead-press",
+          "color": "cyan",
+          "sets": [
+            {
+              "reps": 15,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.5
+            },
+            {
+              "reps": 12,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            }
+          ]
+        },
+        {
+          "moveId": "horizontal-leg-press",
+          "sets": [
+            {
+              "reps": 15,
+              "oneRmMultiplier": 0.4,
+              "isWarmup": true
+            },
+            {
+              "reps": 12,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.5
+            },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            }
+          ]
+        },
+        {
+          "moveId": "back-extension",
+          "sets": [
+            { "reps": 15, "weight": 0, "isWarmup": true },
+            {
+              "reps": 15,
+              "oneRmMultiplier": 0.4,
+              "isWarmup": true
+            },
+            {
+              "reps": 12,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.55
+            },
+            {
+              "reps": 10,
+              "repRangeTargetMin": 10,
+              "repRangeTargetMax": 15,
+              "oneRmMultiplier": 0.65
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

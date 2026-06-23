@@ -7,20 +7,6 @@
     "fr": "Programme en 4 jours haut/bas alternant force et hypertrophie. Fréquence et volume équilibrés — idéal pour les débutants et intermédiaires."
   },
   "tags": ["powerbuilding", "strength"],
-  "primaryMuscles": ["chest", "lats", "quadriceps", "hamstrings"],
-  "moves": [
-    "bench-press",
-    "bent-over-row",
-    "squat",
-    "romanian-deadlift",
-    "overhead-press",
-    "pull-up",
-    "incline-bench-press",
-    "leg-press",
-    "seated-leg-curl",
-    "lateral-raise",
-    "barbell-curl"
-  ],
   "days": [
     {
       "dayIndex": 0,

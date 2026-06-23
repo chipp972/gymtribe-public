@@ -7,198 +7,356 @@
     "fr": "Programme de force classique de Jim Wendler basé sur 4 mouvements fondamentaux progressant sur un cycle de 4 semaines. Idéal pour les pratiquants intermédiaires cherchant à construire une base de force durable."
   },
   "tags": ["strength", "powerbuilding"],
-  "primaryMuscles": ["quadriceps", "chest", "shoulders", "hamstrings", "traps"],
-  "moves": [
-    "squat",
-    "bench-press",
-    "deadlift",
-    "overhead-press",
-    "bent-over-row",
-    "pull-up",
-    "dips"
-  ],
   "days": [
     {
-      "dayIndex": 0, "weekIndex": 0, "label": { "en": "OHP Day", "fr": "Jour Développé Militaire" },
+      "dayIndex": 0,
+      "weekIndex": 0,
+      "label": { "en": "OHP Day", "fr": "Jour Développé Militaire" },
       "todos": [
-        { "moveId": "overhead-press", "sets": [
-          {"reps":5,"formulaKey":"ohp_1rm","formulaMultiplier":0.65,"isWarmup":true},
-          {"reps":5,"formulaKey":"ohp_1rm","formulaMultiplier":0.75,"isWarmup":true},
-          {"reps":5,"formulaKey":"ohp_1rm","formulaMultiplier":0.85},
-          {"reps":5,"formulaKey":"ohp_1rm","formulaMultiplier":0.85},
-          {"reps":5,"formulaKey":"ohp_1rm","formulaMultiplier":0.85}
-        ]},
-        { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "name": { "en": "Press accessory", "fr": "Accessoire développé militaire" }, "muscleTarget": "shoulders", "isFlexible": true, "slotKey": "ohp_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        {
+          "moveId": "overhead-press",
+          "sets": [
+            { "reps": 5, "oneRmMultiplier": 0.65, "isWarmup": true },
+            { "reps": 5, "oneRmMultiplier": 0.75, "isWarmup": true },
+            { "reps": 5, "oneRmMultiplier": 0.85 },
+            { "reps": 5, "oneRmMultiplier": 0.85 },
+            { "reps": 5, "oneRmMultiplier": 0.85 }
+          ]
+        },
+        {
+          "moveId": "bent-over-row",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        {
+          "name": { "en": "Press accessory", "fr": "Accessoire développé militaire" },
+          "muscleTarget": "shoulders",
+          "isFlexible": true,
+          "slotKey": "ohp_accessory",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        }
       ]
     },
     {
-      "dayIndex": 1, "weekIndex": 0, "label": { "en": "Deadlift Day", "fr": "Jour Soulevé de Terre" },
+      "dayIndex": 1,
+      "weekIndex": 0,
+      "label": { "en": "Deadlift Day", "fr": "Jour Soulevé de Terre" },
       "todos": [
-        { "moveId": "deadlift", "sets": [
-          {"reps":5,"formulaKey":"dl_1rm","formulaMultiplier":0.65,"isWarmup":true},
-          {"reps":5,"formulaKey":"dl_1rm","formulaMultiplier":0.75,"isWarmup":true},
-          {"reps":5,"formulaKey":"dl_1rm","formulaMultiplier":0.85},
-          {"reps":5,"formulaKey":"dl_1rm","formulaMultiplier":0.85},
-          {"reps":5,"formulaKey":"dl_1rm","formulaMultiplier":0.85}
-        ]},
-        { "moveId": "pull-up", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "name": { "en": "Deadlift accessory", "fr": "Accessoire soulevé de terre" }, "muscleTarget": "hamstrings", "isFlexible": true, "slotKey": "dl_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        {
+          "moveId": "deadlift",
+          "sets": [
+            { "reps": 5, "oneRmMultiplier": 0.65, "isWarmup": true },
+            { "reps": 5, "oneRmMultiplier": 0.75, "isWarmup": true },
+            { "reps": 5, "oneRmMultiplier": 0.85 },
+            { "reps": 5, "oneRmMultiplier": 0.85 },
+            { "reps": 5, "oneRmMultiplier": 0.85 }
+          ]
+        },
+        {
+          "moveId": "pull-up",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        {
+          "name": { "en": "Deadlift accessory", "fr": "Accessoire soulevé de terre" },
+          "muscleTarget": "hamstrings",
+          "isFlexible": true,
+          "slotKey": "dl_accessory",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        }
       ]
     },
     {
-      "dayIndex": 3, "weekIndex": 0, "label": { "en": "Bench Day", "fr": "Jour Développé Couché" },
+      "dayIndex": 3,
+      "weekIndex": 0,
+      "label": { "en": "Bench Day", "fr": "Jour Développé Couché" },
       "todos": [
-        { "moveId": "bench-press", "sets": [
-          {"reps":5,"formulaKey":"bench_1rm","formulaMultiplier":0.65,"isWarmup":true},
-          {"reps":5,"formulaKey":"bench_1rm","formulaMultiplier":0.75,"isWarmup":true},
-          {"reps":5,"formulaKey":"bench_1rm","formulaMultiplier":0.85},
-          {"reps":5,"formulaKey":"bench_1rm","formulaMultiplier":0.85},
-          {"reps":5,"formulaKey":"bench_1rm","formulaMultiplier":0.85}
-        ]},
-        { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "dips", "sets": [{"reps":10},{"reps":10},{"reps":10}] },
-        { "name": { "en": "Bench accessory", "fr": "Accessoire développé couché" }, "muscleTarget": "chest", "isFlexible": true, "slotKey": "bench_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+        {
+          "moveId": "bench-press",
+          "sets": [
+            { "reps": 5, "oneRmMultiplier": 0.65, "isWarmup": true },
+            { "reps": 5, "oneRmMultiplier": 0.75, "isWarmup": true },
+            { "reps": 5, "oneRmMultiplier": 0.85 },
+            { "reps": 5, "oneRmMultiplier": 0.85 },
+            { "reps": 5, "oneRmMultiplier": 0.85 }
+          ]
+        },
+        {
+          "moveId": "bent-over-row",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        { "moveId": "dips", "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }] },
+        {
+          "name": { "en": "Bench accessory", "fr": "Accessoire développé couché" },
+          "muscleTarget": "chest",
+          "isFlexible": true,
+          "slotKey": "bench_accessory",
+          "sets": [{ "reps": 12 }, { "reps": 12 }, { "reps": 12 }]
+        }
       ]
     },
     {
-      "dayIndex": 4, "weekIndex": 0, "label": { "en": "Squat Day", "fr": "Jour Squat" },
+      "dayIndex": 4,
+      "weekIndex": 0,
+      "label": { "en": "Squat Day", "fr": "Jour Squat" },
       "todos": [
-        { "moveId": "squat", "sets": [
-          {"reps":5,"formulaKey":"squat_1rm","formulaMultiplier":0.65,"isWarmup":true},
-          {"reps":5,"formulaKey":"squat_1rm","formulaMultiplier":0.75,"isWarmup":true},
-          {"reps":5,"formulaKey":"squat_1rm","formulaMultiplier":0.85},
-          {"reps":5,"formulaKey":"squat_1rm","formulaMultiplier":0.85},
-          {"reps":5,"formulaKey":"squat_1rm","formulaMultiplier":0.85}
-        ]},
-        { "moveId": "overhead-press", "sets": [
-          {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.60},
-          {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.60},
-          {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.60}
-        ]},
-        { "name": { "en": "Squat accessory", "fr": "Accessoire squat" }, "muscleTarget": "quadriceps", "isFlexible": true, "slotKey": "squat_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        {
+          "moveId": "squat",
+          "sets": [
+            { "reps": 5, "oneRmMultiplier": 0.65, "isWarmup": true },
+            { "reps": 5, "oneRmMultiplier": 0.75, "isWarmup": true },
+            { "reps": 5, "oneRmMultiplier": 0.85 },
+            { "reps": 5, "oneRmMultiplier": 0.85 },
+            { "reps": 5, "oneRmMultiplier": 0.85 }
+          ]
+        },
+        {
+          "moveId": "overhead-press",
+          "sets": [
+            { "reps": 10, "oneRmMultiplier": 0.6 },
+            { "reps": 10, "oneRmMultiplier": 0.6 },
+            { "reps": 10, "oneRmMultiplier": 0.6 }
+          ]
+        },
+        {
+          "name": { "en": "Squat accessory", "fr": "Accessoire squat" },
+          "muscleTarget": "quadriceps",
+          "isFlexible": true,
+          "slotKey": "squat_accessory",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        }
       ]
     },
     {
-      "dayIndex": 0, "weekIndex": 1, "label": { "en": "OHP Day", "fr": "Jour Développé Militaire" },
+      "dayIndex": 0,
+      "weekIndex": 1,
+      "label": { "en": "OHP Day", "fr": "Jour Développé Militaire" },
       "todos": [
-        { "moveId": "overhead-press", "sets": [
-          {"reps":3,"formulaKey":"ohp_1rm","formulaMultiplier":0.70,"isWarmup":true},
-          {"reps":3,"formulaKey":"ohp_1rm","formulaMultiplier":0.80,"isWarmup":true},
-          {"reps":3,"formulaKey":"ohp_1rm","formulaMultiplier":0.90},
-          {"reps":3,"formulaKey":"ohp_1rm","formulaMultiplier":0.90},
-          {"reps":3,"formulaKey":"ohp_1rm","formulaMultiplier":0.90}
-        ]},
-        { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "name": { "en": "Press accessory", "fr": "Accessoire développé militaire" }, "muscleTarget": "shoulders", "isFlexible": true, "slotKey": "ohp_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        {
+          "moveId": "overhead-press",
+          "sets": [
+            { "reps": 3, "oneRmMultiplier": 0.7, "isWarmup": true },
+            { "reps": 3, "oneRmMultiplier": 0.8, "isWarmup": true },
+            { "reps": 3, "oneRmMultiplier": 0.9 },
+            { "reps": 3, "oneRmMultiplier": 0.9 },
+            { "reps": 3, "oneRmMultiplier": 0.9 }
+          ]
+        },
+        {
+          "moveId": "bent-over-row",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        {
+          "name": { "en": "Press accessory", "fr": "Accessoire développé militaire" },
+          "muscleTarget": "shoulders",
+          "isFlexible": true,
+          "slotKey": "ohp_accessory",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        }
       ]
     },
     {
-      "dayIndex": 1, "weekIndex": 1, "label": { "en": "Deadlift Day", "fr": "Jour Soulevé de Terre" },
+      "dayIndex": 1,
+      "weekIndex": 1,
+      "label": { "en": "Deadlift Day", "fr": "Jour Soulevé de Terre" },
       "todos": [
-        { "moveId": "deadlift", "sets": [
-          {"reps":3,"formulaKey":"dl_1rm","formulaMultiplier":0.70,"isWarmup":true},
-          {"reps":3,"formulaKey":"dl_1rm","formulaMultiplier":0.80,"isWarmup":true},
-          {"reps":3,"formulaKey":"dl_1rm","formulaMultiplier":0.90},
-          {"reps":3,"formulaKey":"dl_1rm","formulaMultiplier":0.90},
-          {"reps":3,"formulaKey":"dl_1rm","formulaMultiplier":0.90}
-        ]},
-        { "moveId": "pull-up", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "name": { "en": "Deadlift accessory", "fr": "Accessoire soulevé de terre" }, "muscleTarget": "hamstrings", "isFlexible": true, "slotKey": "dl_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        {
+          "moveId": "deadlift",
+          "sets": [
+            { "reps": 3, "oneRmMultiplier": 0.7, "isWarmup": true },
+            { "reps": 3, "oneRmMultiplier": 0.8, "isWarmup": true },
+            { "reps": 3, "oneRmMultiplier": 0.9 },
+            { "reps": 3, "oneRmMultiplier": 0.9 },
+            { "reps": 3, "oneRmMultiplier": 0.9 }
+          ]
+        },
+        {
+          "moveId": "pull-up",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        {
+          "name": { "en": "Deadlift accessory", "fr": "Accessoire soulevé de terre" },
+          "muscleTarget": "hamstrings",
+          "isFlexible": true,
+          "slotKey": "dl_accessory",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        }
       ]
     },
     {
-      "dayIndex": 3, "weekIndex": 1, "label": { "en": "Bench Day", "fr": "Jour Développé Couché" },
+      "dayIndex": 3,
+      "weekIndex": 1,
+      "label": { "en": "Bench Day", "fr": "Jour Développé Couché" },
       "todos": [
-        { "moveId": "bench-press", "sets": [
-          {"reps":3,"formulaKey":"bench_1rm","formulaMultiplier":0.70,"isWarmup":true},
-          {"reps":3,"formulaKey":"bench_1rm","formulaMultiplier":0.80,"isWarmup":true},
-          {"reps":3,"formulaKey":"bench_1rm","formulaMultiplier":0.90},
-          {"reps":3,"formulaKey":"bench_1rm","formulaMultiplier":0.90},
-          {"reps":3,"formulaKey":"bench_1rm","formulaMultiplier":0.90}
-        ]},
-        { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "dips", "sets": [{"reps":10},{"reps":10},{"reps":10}] },
-        { "name": { "en": "Bench accessory", "fr": "Accessoire développé couché" }, "muscleTarget": "chest", "isFlexible": true, "slotKey": "bench_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+        {
+          "moveId": "bench-press",
+          "sets": [
+            { "reps": 3, "oneRmMultiplier": 0.7, "isWarmup": true },
+            { "reps": 3, "oneRmMultiplier": 0.8, "isWarmup": true },
+            { "reps": 3, "oneRmMultiplier": 0.9 },
+            { "reps": 3, "oneRmMultiplier": 0.9 },
+            { "reps": 3, "oneRmMultiplier": 0.9 }
+          ]
+        },
+        {
+          "moveId": "bent-over-row",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        { "moveId": "dips", "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }] },
+        {
+          "name": { "en": "Bench accessory", "fr": "Accessoire développé couché" },
+          "muscleTarget": "chest",
+          "isFlexible": true,
+          "slotKey": "bench_accessory",
+          "sets": [{ "reps": 12 }, { "reps": 12 }, { "reps": 12 }]
+        }
       ]
     },
     {
-      "dayIndex": 4, "weekIndex": 1, "label": { "en": "Squat Day", "fr": "Jour Squat" },
+      "dayIndex": 4,
+      "weekIndex": 1,
+      "label": { "en": "Squat Day", "fr": "Jour Squat" },
       "todos": [
-        { "moveId": "squat", "sets": [
-          {"reps":3,"formulaKey":"squat_1rm","formulaMultiplier":0.70,"isWarmup":true},
-          {"reps":3,"formulaKey":"squat_1rm","formulaMultiplier":0.80,"isWarmup":true},
-          {"reps":3,"formulaKey":"squat_1rm","formulaMultiplier":0.90},
-          {"reps":3,"formulaKey":"squat_1rm","formulaMultiplier":0.90},
-          {"reps":3,"formulaKey":"squat_1rm","formulaMultiplier":0.90}
-        ]},
-        { "moveId": "overhead-press", "sets": [
-          {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.65},
-          {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.65},
-          {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.65}
-        ]},
-        { "name": { "en": "Squat accessory", "fr": "Accessoire squat" }, "muscleTarget": "quadriceps", "isFlexible": true, "slotKey": "squat_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        {
+          "moveId": "squat",
+          "sets": [
+            { "reps": 3, "oneRmMultiplier": 0.7, "isWarmup": true },
+            { "reps": 3, "oneRmMultiplier": 0.8, "isWarmup": true },
+            { "reps": 3, "oneRmMultiplier": 0.9 },
+            { "reps": 3, "oneRmMultiplier": 0.9 },
+            { "reps": 3, "oneRmMultiplier": 0.9 }
+          ]
+        },
+        {
+          "moveId": "overhead-press",
+          "sets": [
+            { "reps": 10, "oneRmMultiplier": 0.65 },
+            { "reps": 10, "oneRmMultiplier": 0.65 },
+            { "reps": 10, "oneRmMultiplier": 0.65 }
+          ]
+        },
+        {
+          "name": { "en": "Squat accessory", "fr": "Accessoire squat" },
+          "muscleTarget": "quadriceps",
+          "isFlexible": true,
+          "slotKey": "squat_accessory",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        }
       ]
     },
     {
-      "dayIndex": 0, "weekIndex": 2, "label": { "en": "OHP Day", "fr": "Jour Développé Militaire" },
+      "dayIndex": 0,
+      "weekIndex": 2,
+      "label": { "en": "OHP Day", "fr": "Jour Développé Militaire" },
       "todos": [
-        { "moveId": "overhead-press", "sets": [
-          {"reps":1,"formulaKey":"ohp_1rm","formulaMultiplier":0.75,"isWarmup":true},
-          {"reps":1,"formulaKey":"ohp_1rm","formulaMultiplier":0.85,"isWarmup":true},
-          {"reps":1,"formulaKey":"ohp_1rm","formulaMultiplier":0.95},
-          {"reps":1,"formulaKey":"ohp_1rm","formulaMultiplier":0.95},
-          {"reps":1,"formulaKey":"ohp_1rm","formulaMultiplier":0.95}
-        ]},
-        { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "name": { "en": "Press accessory", "fr": "Accessoire développé militaire" }, "muscleTarget": "shoulders", "isFlexible": true, "slotKey": "ohp_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        {
+          "moveId": "overhead-press",
+          "sets": [
+            { "reps": 1, "oneRmMultiplier": 0.75, "isWarmup": true },
+            { "reps": 1, "oneRmMultiplier": 0.85, "isWarmup": true },
+            { "reps": 1, "oneRmMultiplier": 0.95 },
+            { "reps": 1, "oneRmMultiplier": 0.95 },
+            { "reps": 1, "oneRmMultiplier": 0.95 }
+          ]
+        },
+        {
+          "moveId": "bent-over-row",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        {
+          "name": { "en": "Press accessory", "fr": "Accessoire développé militaire" },
+          "muscleTarget": "shoulders",
+          "isFlexible": true,
+          "slotKey": "ohp_accessory",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        }
       ]
     },
     {
-      "dayIndex": 1, "weekIndex": 2, "label": { "en": "Deadlift Day", "fr": "Jour Soulevé de Terre" },
+      "dayIndex": 1,
+      "weekIndex": 2,
+      "label": { "en": "Deadlift Day", "fr": "Jour Soulevé de Terre" },
       "todos": [
-        { "moveId": "deadlift", "sets": [
-          {"reps":1,"formulaKey":"dl_1rm","formulaMultiplier":0.75,"isWarmup":true},
-          {"reps":1,"formulaKey":"dl_1rm","formulaMultiplier":0.85,"isWarmup":true},
-          {"reps":1,"formulaKey":"dl_1rm","formulaMultiplier":0.95},
-          {"reps":1,"formulaKey":"dl_1rm","formulaMultiplier":0.95},
-          {"reps":1,"formulaKey":"dl_1rm","formulaMultiplier":0.95}
-        ]},
-        { "moveId": "pull-up", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "name": { "en": "Deadlift accessory", "fr": "Accessoire soulevé de terre" }, "muscleTarget": "hamstrings", "isFlexible": true, "slotKey": "dl_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        {
+          "moveId": "deadlift",
+          "sets": [
+            { "reps": 1, "oneRmMultiplier": 0.75, "isWarmup": true },
+            { "reps": 1, "oneRmMultiplier": 0.85, "isWarmup": true },
+            { "reps": 1, "oneRmMultiplier": 0.95 },
+            { "reps": 1, "oneRmMultiplier": 0.95 },
+            { "reps": 1, "oneRmMultiplier": 0.95 }
+          ]
+        },
+        {
+          "moveId": "pull-up",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        {
+          "name": { "en": "Deadlift accessory", "fr": "Accessoire soulevé de terre" },
+          "muscleTarget": "hamstrings",
+          "isFlexible": true,
+          "slotKey": "dl_accessory",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        }
       ]
     },
     {
-      "dayIndex": 3, "weekIndex": 2, "label": { "en": "Bench Day", "fr": "Jour Développé Couché" },
+      "dayIndex": 3,
+      "weekIndex": 2,
+      "label": { "en": "Bench Day", "fr": "Jour Développé Couché" },
       "todos": [
-        { "moveId": "bench-press", "sets": [
-          {"reps":1,"formulaKey":"bench_1rm","formulaMultiplier":0.75,"isWarmup":true},
-          {"reps":1,"formulaKey":"bench_1rm","formulaMultiplier":0.85,"isWarmup":true},
-          {"reps":1,"formulaKey":"bench_1rm","formulaMultiplier":0.95},
-          {"reps":1,"formulaKey":"bench_1rm","formulaMultiplier":0.95},
-          {"reps":1,"formulaKey":"bench_1rm","formulaMultiplier":0.95}
-        ]},
-        { "moveId": "bent-over-row", "sets": [{"reps":8},{"reps":8},{"reps":8},{"reps":8},{"reps":8}] },
-        { "moveId": "dips", "sets": [{"reps":10},{"reps":10},{"reps":10}] },
-        { "name": { "en": "Bench accessory", "fr": "Accessoire développé couché" }, "muscleTarget": "chest", "isFlexible": true, "slotKey": "bench_accessory", "sets": [{"reps":12},{"reps":12},{"reps":12}] }
+        {
+          "moveId": "bench-press",
+          "sets": [
+            { "reps": 1, "oneRmMultiplier": 0.75, "isWarmup": true },
+            { "reps": 1, "oneRmMultiplier": 0.85, "isWarmup": true },
+            { "reps": 1, "oneRmMultiplier": 0.95 },
+            { "reps": 1, "oneRmMultiplier": 0.95 },
+            { "reps": 1, "oneRmMultiplier": 0.95 }
+          ]
+        },
+        {
+          "moveId": "bent-over-row",
+          "sets": [{ "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }, { "reps": 8 }]
+        },
+        { "moveId": "dips", "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }] },
+        {
+          "name": { "en": "Bench accessory", "fr": "Accessoire développé couché" },
+          "muscleTarget": "chest",
+          "isFlexible": true,
+          "slotKey": "bench_accessory",
+          "sets": [{ "reps": 12 }, { "reps": 12 }, { "reps": 12 }]
+        }
       ]
     },
     {
-      "dayIndex": 4, "weekIndex": 2, "label": { "en": "Squat Day", "fr": "Jour Squat" },
+      "dayIndex": 4,
+      "weekIndex": 2,
+      "label": { "en": "Squat Day", "fr": "Jour Squat" },
       "todos": [
-        { "moveId": "squat", "sets": [
-          {"reps":1,"formulaKey":"squat_1rm","formulaMultiplier":0.75,"isWarmup":true},
-          {"reps":1,"formulaKey":"squat_1rm","formulaMultiplier":0.85,"isWarmup":true},
-          {"reps":1,"formulaKey":"squat_1rm","formulaMultiplier":0.95},
-          {"reps":1,"formulaKey":"squat_1rm","formulaMultiplier":0.95},
-          {"reps":1,"formulaKey":"squat_1rm","formulaMultiplier":0.95}
-        ]},
-        { "moveId": "overhead-press", "sets": [
-          {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.70},
-          {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.70},
-          {"reps":10,"formulaKey":"ohp_1rm","formulaMultiplier":0.70}
-        ]},
-        { "name": { "en": "Squat accessory", "fr": "Accessoire squat" }, "muscleTarget": "quadriceps", "isFlexible": true, "slotKey": "squat_accessory", "sets": [{"reps":10},{"reps":10},{"reps":10}] }
+        {
+          "moveId": "squat",
+          "sets": [
+            { "reps": 1, "oneRmMultiplier": 0.75, "isWarmup": true },
+            { "reps": 1, "oneRmMultiplier": 0.85, "isWarmup": true },
+            { "reps": 1, "oneRmMultiplier": 0.95 },
+            { "reps": 1, "oneRmMultiplier": 0.95 },
+            { "reps": 1, "oneRmMultiplier": 0.95 }
+          ]
+        },
+        {
+          "moveId": "overhead-press",
+          "sets": [
+            { "reps": 10, "oneRmMultiplier": 0.7 },
+            { "reps": 10, "oneRmMultiplier": 0.7 },
+            { "reps": 10, "oneRmMultiplier": 0.7 }
+          ]
+        },
+        {
+          "name": { "en": "Squat accessory", "fr": "Accessoire squat" },
+          "muscleTarget": "quadriceps",
+          "isFlexible": true,
+          "slotKey": "squat_accessory",
+          "sets": [{ "reps": 10 }, { "reps": 10 }, { "reps": 10 }]
+        }
       ]
     }
   ]

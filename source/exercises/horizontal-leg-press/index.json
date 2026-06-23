@@ -1,0 +1,10 @@
+{
+  "id": "horizontal-leg-press",
+  "name": { "en": "Horizontal Leg Press", "fr": "Presse à jambes horizontale" },
+  "muscles": [
+    { "id": "quadriceps", "role": "primary" },
+    { "id": "glutes", "role": "secondary" },
+    { "id": "hamstrings", "role": "secondary" }
+  ],
+  "equipment": ["leg-press"]
+}

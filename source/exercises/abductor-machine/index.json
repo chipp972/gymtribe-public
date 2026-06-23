@@ -1,0 +1,9 @@
+{
+  "id": "abductor-machine",
+  "name": { "en": "Abductor Machine", "fr": "Machine abducteurs" },
+  "muscles": [
+    { "id": "abductors", "role": "primary" },
+    { "id": "glutes", "role": "secondary" }
+  ],
+  "equipment": ["abductor-machine"]
+}

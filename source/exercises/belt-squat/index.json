@@ -1,0 +1,10 @@
+{
+  "id": "belt-squat",
+  "name": { "en": "Belt Squat", "fr": "Squat à la ceinture" },
+  "muscles": [
+    { "id": "quadriceps", "role": "primary" },
+    { "id": "glutes", "role": "primary" },
+    { "id": "hamstrings", "role": "secondary" }
+  ],
+  "equipment": ["belt-squat"]
+}

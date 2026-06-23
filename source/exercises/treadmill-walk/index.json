@@ -1,0 +1,10 @@
+{
+  "id": "treadmill-walk",
+  "name": { "en": "Treadmill Walk", "fr": "Marche sur tapis roulant" },
+  "muscles": [
+    { "id": "quadriceps", "role": "primary" },
+    { "id": "calves", "role": "secondary" },
+    { "id": "core", "role": "secondary" }
+  ],
+  "equipment": ["treadmill"]
+}

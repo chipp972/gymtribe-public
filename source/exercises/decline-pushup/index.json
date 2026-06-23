@@ -1,0 +1,13 @@
+{
+  "id": "decline-pushup",
+  "name": {
+    "en": "Decline Push-Up",
+    "fr": "Pompe déclinée"
+  },
+  "muscles": [
+    { "id": "chest", "role": "primary" },
+    { "id": "shoulders", "role": "secondary" },
+    { "id": "triceps", "role": "secondary" }
+  ],
+  "equipment": ["bodyweight"]
+}

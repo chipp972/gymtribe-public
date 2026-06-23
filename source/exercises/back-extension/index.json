@@ -1,0 +1,13 @@
+{
+  "id": "back-extension",
+  "name": {
+    "en": "Back Extension",
+    "fr": "Extension lombaire"
+  },
+  "muscles": [
+    { "id": "lower-back", "role": "primary" },
+    { "id": "glutes", "role": "secondary" },
+    { "id": "hamstrings", "role": "secondary" }
+  ],
+  "equipment": ["lower-back-bench"]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "adductor-machine",
+  "name": { "en": "Adductor Machine", "fr": "Machine adducteurs" },
+  "muscles": [
+    { "id": "adductors", "role": "primary" }
+  ],
+  "equipment": ["adductor-machine"]
+}

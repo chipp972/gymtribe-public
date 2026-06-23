@@ -1,0 +1,10 @@
+{
+  "id": "unilateral-high-row",
+  "name": { "en": "Unilateral High Row", "fr": "Rowing unilatéral haut" },
+  "muscles": [
+    { "id": "back", "role": "primary" },
+    { "id": "biceps", "role": "secondary" },
+    { "id": "core", "role": "secondary" }
+  ],
+  "equipment": ["row-machine"]
+}

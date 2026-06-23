@@ -7,25 +7,6 @@
     "fr": "Programme en 6 jours poussé/tiré/jambes ciblant chaque groupe musculaire deux fois par semaine. Volume élevé, prouvé pour la prise de muscle au niveau intermédiaire."
   },
   "tags": ["hypertrophy"],
-  "primaryMuscles": ["chest", "lats", "quadriceps", "shoulders"],
-  "moves": [
-    "bench-press",
-    "overhead-press",
-    "incline-bench-press",
-    "deadlift",
-    "bent-over-row",
-    "pull-up",
-    "squat",
-    "romanian-deadlift",
-    "leg-press",
-    "lateral-raise",
-    "cable-pushdown",
-    "barbell-curl",
-    "face-pull",
-    "leg-extension",
-    "seated-leg-curl",
-    "standing-calf-raise"
-  ],
   "days": [
     {
       "dayIndex": 0,

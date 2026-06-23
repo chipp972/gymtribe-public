@@ -1,0 +1,6 @@
+{
+  "id": "standing-unilateral-leg-curl",
+  "name": { "en": "Standing Unilateral Leg Curl", "fr": "Leg curl unilatéral debout" },
+  "muscles": [{ "id": "hamstrings", "role": "primary" }],
+  "equipment": ["standing-leg-curl"]
+}

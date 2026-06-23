@@ -7,22 +7,6 @@
     "fr": "Programme en 3 jours avec une journée dédiée aux fessiers et à la chaîne postérieure, plus des séances haut et bas du corps. Conçu pour les sportifs qui privilégient le développement du bas du corps."
   },
   "tags": ["hypertrophy"],
-  "primaryMuscles": ["glute-max", "hamstrings", "quadriceps", "chest"],
-  "moves": [
-    "hip-thrust",
-    "romanian-deadlift",
-    "cable-kickback",
-    "bench-press",
-    "bent-over-row",
-    "overhead-press",
-    "pull-up",
-    "barbell-curl",
-    "squat",
-    "leg-press",
-    "leg-extension",
-    "seated-leg-curl",
-    "standing-calf-raise"
-  ],
   "days": [
     {
       "dayIndex": 0,

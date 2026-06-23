@@ -1,0 +1,8 @@
+{
+  "id": "side-plank",
+  "name": { "en": "Side Plank", "fr": "Gainage latéral" },
+  "muscles": [
+    { "id": "core", "role": "primary" }
+  ],
+  "equipment": ["bodyweight"]
+}

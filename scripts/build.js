@@ -251,16 +251,6 @@ function buildProgramTemplates() {
     return;
   }
 
-  // Read exercises from data manifest (generated earlier in this run)
-  const exercisesManifestPath = path.join(DATA, 'exercises', 'manifest.json');
-  const exercisesById = {};
-  if (fs.existsSync(exercisesManifestPath)) {
-    const { exercises = [] } = readJson(exercisesManifestPath);
-    for (const ex of exercises) exercisesById[ex.id] = ex;
-  } else {
-    console.warn('  [program-templates] exercises manifest not found — requiredEquipment will be empty');
-  }
-
   const manifestEntries = [];
 
   for (const id of fs.readdirSync(srcDir).sort()) {
@@ -275,14 +265,6 @@ function buildProgramTemplates() {
 
     const meta = readJson(indexPath);
 
-    const equipmentSet = new Set();
-    for (const moveId of (meta.moves || [])) {
-      const ex = exercisesById[moveId];
-      if (ex && Array.isArray(ex.equipment)) {
-        ex.equipment.forEach((e) => equipmentSet.add(e));
-      }
-    }
-
     const days = meta.days || [];
     const cycleLengthWeeks = days.length > 0
       ? Math.max(...days.map((d) => d.weekIndex)) + 1
@@ -296,8 +278,6 @@ function buildProgramTemplates() {
       description: meta.description,
       cycleLengthWeeks,
       daysPerCycle,
-      requiredEquipment: Array.from(equipmentSet),
-      primaryMuscles: meta.primaryMuscles,
       jsonUrl: `${CDN_BASE}/source/program-templates/${id}/index.json`,
     });
   }
@@ -491,21 +471,14 @@ function checkCrossReferences() {
       const indexPath = path.join(programsDir, id, 'index.json');
       if (!fs.existsSync(indexPath)) continue;
       const meta = readJson(indexPath);
-      for (const moveId of (meta.moves || [])) {
-        if (!exerciseIds.has(moveId)) {
-          errors.push(`[program-templates] ${id}: move "${moveId}" not found`);
-        }
-      }
       for (const day of (meta.days || [])) {
         for (const todo of (day.todos || [])) {
           if (todo.moveId && !exerciseIds.has(todo.moveId)) {
             errors.push(`[program-templates] ${id} day ${day.dayIndex ?? '?'}: moveId "${todo.moveId}" not found`);
           }
-        }
-      }
-      for (const muscle of (meta.primaryMuscles || [])) {
-        if (!muscleIds.has(muscle)) {
-          errors.push(`[program-templates] ${id}: primaryMuscle "${muscle}" not found`);
+          if (todo.muscleTarget && !muscleIds.has(todo.muscleTarget)) {
+            errors.push(`[program-templates] ${id} day ${day.dayIndex ?? '?'}: muscleTarget "${todo.muscleTarget}" not found`);
+          }
         }
       }
     }

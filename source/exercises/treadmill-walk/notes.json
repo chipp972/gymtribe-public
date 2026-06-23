@@ -1,0 +1,12 @@
+{
+  "notes": [
+    {
+      "noteType": "description",
+      "title": { "en": "setup", "fr": "setup" },
+      "description": {
+        "en": "Step onto the treadmill and set a comfortable walking speed (typically 4–6 km/h). Stand upright, engage your core, and let your arms swing naturally. You can increase the incline to intensify the workout without raising impact. Great as a warm-up or low-intensity cardio session.",
+        "fr": "Montez sur le tapis roulant et réglez une vitesse de marche confortable (généralement 4 à 6 km/h). Restez droit, gainez le buste et laissez les bras se balancer naturellement. Vous pouvez augmenter l'inclinaison pour intensifier l'effort sans augmenter l'impact. Idéal en échauffement ou en cardio basse intensité."
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "neutral-grip-lat-pulldown",
+  "name": { "en": "Neutral-Grip Lat Pulldown", "fr": "Tirage vertical prise neutre" },
+  "muscles": [
+    { "id": "lats", "role": "primary" },
+    { "id": "biceps", "role": "secondary" }
+  ],
+  "equipment": ["lat-machine"]
+}

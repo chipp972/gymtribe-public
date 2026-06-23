@@ -1,0 +1,10 @@
+{
+  "id": "rowing-cardio",
+  "name": { "en": "Rowing (Cardio)", "fr": "Aviron (Cardio)" },
+  "muscles": [
+    { "id": "back", "role": "primary" },
+    { "id": "biceps", "role": "secondary" },
+    { "id": "core", "role": "secondary" }
+  ],
+  "equipment": ["rowing-machine"]
+}

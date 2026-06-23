@@ -1,0 +1,10 @@
+{
+  "id": "seated-machine-horizontal-row",
+  "name": { "en": "Seated Machine Horizontal Row", "fr": "Rowing horizontal à la machine assise" },
+  "muscles": [
+    { "id": "back", "role": "primary" },
+    { "id": "biceps", "role": "secondary" },
+    { "id": "rear-delt", "role": "secondary" }
+  ],
+  "equipment": ["row-machine"]
+}

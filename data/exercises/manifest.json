@@ -37,6 +37,68 @@
       ]
     },
     {
+      "id": "abductor-machine",
+      "name": {
+        "en": "Abductor Machine",
+        "fr": "Machine abducteurs"
+      },
+      "muscles": [
+        {
+          "id": "abductors",
+          "role": "primary"
+        },
+        {
+          "id": "glutes",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "abductor-machine"
+      ],
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Sit on the machine with your legs against the inner pads. Push your legs outward against the resistance, engaging the outer thighs and glutes. Hold briefly at the widest point, then return slowly to the starting position. Keep your back flat against the seat throughout.",
+            "fr": "Asseyez-vous sur la machine avec les jambes contre les coussins intérieurs. Écartez les jambes contre la résistance en activant les abducteurs et les fessiers. Maintenez brièvement à l'amplitude maximale, puis revenez lentement à la position de départ. Gardez le dos plat contre le dossier tout au long du mouvement."
+          }
+        }
+      ]
+    },
+    {
+      "id": "adductor-machine",
+      "name": {
+        "en": "Adductor Machine",
+        "fr": "Machine adducteurs"
+      },
+      "muscles": [
+        {
+          "id": "adductors",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "adductor-machine"
+      ],
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Sit on the machine with your legs against the outer pads. Bring your legs together against the resistance, squeezing the inner thighs at the end of the movement. Return slowly to the starting position with control. Adjust the range of motion to avoid hip discomfort.",
+            "fr": "Asseyez-vous sur la machine avec les jambes contre les coussins extérieurs. Rapprochez les jambes contre la résistance en contractant les adducteurs en fin de mouvement. Revenez lentement à la position de départ de façon contrôlée. Ajustez l'amplitude pour éviter l'inconfort aux hanches."
+          }
+        }
+      ]
+    },
+    {
       "id": "arnold-press",
       "name": {
         "en": "Arnold Press",
@@ -72,6 +134,43 @@
       ]
     },
     {
+      "id": "back-extension",
+      "name": {
+        "en": "Back Extension",
+        "fr": "Extension lombaire"
+      },
+      "muscles": [
+        {
+          "id": "lower-back",
+          "role": "primary"
+        },
+        {
+          "id": "glutes",
+          "role": "secondary"
+        },
+        {
+          "id": "hamstrings",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "lower-back-bench"
+      ],
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Position yourself on a back extension bench with hips at the edge and feet secured. Cross your arms over your chest or place hands behind your head. Lower your torso toward the floor, then raise it until your body forms a straight line. Squeeze the glutes at the top. Avoid hyperextending the lower back.",
+            "fr": "Positionnez-vous sur un banc à lombaires, hanches au bord et pieds fixés. Croisez les bras sur la poitrine ou placez les mains derrière la tête. Descendez le buste vers le sol, puis remontez jusqu'à former une ligne droite. Contractez les fessiers en haut. Évitez d'hyperétendre le bas du dos."
+          }
+        }
+      ]
+    },
+    {
       "id": "barbell-curl",
       "name": {
         "en": "Barbell Curl",
@@ -102,6 +201,43 @@
           "description": {
             "en": "Stand with the bar held in a supinated (underhand) grip, arms extended at your sides. Bend the elbows to curl the bar toward your shoulders without moving the elbows. Squeeze the biceps at the top. Lower slowly, resisting the weight. Keep your torso upright and elbows fixed at your sides.",
             "fr": "Debout, barre tenue en supination (paumes vers le haut), bras tendus le long du corps. Pliez les coudes pour ramener la barre vers les épaules sans bouger les coudes. Contractez les biceps en haut. Descendez lentement en résistant au poids. Gardez le buste droit et les coudes fixes sur les côtés du corps."
+          }
+        }
+      ]
+    },
+    {
+      "id": "belt-squat",
+      "name": {
+        "en": "Belt Squat",
+        "fr": "Squat à la ceinture"
+      },
+      "muscles": [
+        {
+          "id": "quadriceps",
+          "role": "primary"
+        },
+        {
+          "id": "glutes",
+          "role": "primary"
+        },
+        {
+          "id": "hamstrings",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "belt-squat"
+      ],
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Attach the belt around your hips and stand on the platform with feet shoulder-width apart. The load hangs between your legs, removing spinal compression. Squat down by pushing your knees out and hips back, keeping your torso upright. Drive through your heels to return to standing.",
+            "fr": "Attachez la ceinture autour des hanches et tenez-vous sur la plateforme, pieds écartés à la largeur des épaules. La charge pend entre vos jambes, sans compression de la colonne. Descendez en squat en écartant les genoux et en reculant les hanches, buste droit. Poussez sur les talons pour remonter."
           }
         }
       ]
@@ -562,6 +698,45 @@
       ]
     },
     {
+      "id": "decline-pushup",
+      "name": {
+        "en": "Decline Push-Up",
+        "fr": "Pompe déclinée"
+      },
+      "muscles": [
+        {
+          "id": "chest",
+          "role": "primary"
+        },
+        {
+          "id": "shoulders",
+          "role": "secondary"
+        },
+        {
+          "id": "triceps",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/decline-pushup/media/exercise-execution.mp4",
+      "mediaType": "video",
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Place your hands on an elevated surface (bench or step) shoulder-width apart and feet on the floor. Keep your body in a straight line from head to heels. Lower your chest toward the elevated surface by bending your elbows, then push back up. This targets the lower chest more than a standard push-up.",
+            "fr": "Posez les mains sur une surface surélevée (banc ou marche) à la largeur des épaules et les pieds au sol. Gardez le corps aligné de la tête aux talons. Descendez la poitrine vers la surface en fléchissant les coudes, puis poussez. Ce mouvement cible davantage le bas de la poitrine qu'une pompe classique."
+          }
+        }
+      ]
+    },
+    {
       "id": "dips",
       "name": {
         "en": "Dips",
@@ -697,6 +872,45 @@
           "description": {
             "en": "Lie on a flat bench with dumbbells held above your chest, palms facing each other. Open your arms in a wide arc, keeping a slight bend in the elbows, until you feel a stretch in your chest. Return while exhaling, bringing the dumbbells back above the chest. Maintain a constant slight elbow bend throughout.",
             "fr": "Allongez-vous sur un banc plat, haltères au-dessus de la poitrine, paumes se faisant face. Ouvrez les bras en arc de cercle vers les côtés, coudes légèrement fléchis, jusqu'à sentir un étirement dans les pectoraux. Remontez en expirant en ramenant les haltères au-dessus de la poitrine. Gardez une légère flexion des coudes constante."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dumbbell-romanian-deadlift",
+      "name": {
+        "en": "Dumbbell Romanian Deadlift",
+        "fr": "Soulevé de terre roumain aux haltères"
+      },
+      "muscles": [
+        {
+          "id": "hamstrings",
+          "role": "primary"
+        },
+        {
+          "id": "glutes",
+          "role": "primary"
+        },
+        {
+          "id": "back",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "dumbbell"
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/dumbbell-romanian-deadlift/media/exercise-execution.mp4",
+      "mediaType": "video",
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Stand holding dumbbells in front of your thighs. Hinge at the hips, pushing them back while keeping your back flat and knees slightly bent. Lower the dumbbells along your legs until you feel a stretch in the hamstrings. Drive your hips forward to return to standing. Keep the weights close to your body throughout.",
+            "fr": "Debout, tenez les haltères devant les cuisses. Inclinez le buste en poussant les hanches vers l'arrière, dos plat et genoux légèrement fléchis. Descendez les haltères le long des jambes jusqu'à ressentir un étirement des ischio-jambiers. Poussez les hanches vers l'avant pour revenir debout. Gardez les haltères proches du corps tout au long du mouvement."
           }
         }
       ]
@@ -1017,6 +1231,43 @@
       ]
     },
     {
+      "id": "horizontal-leg-press",
+      "name": {
+        "en": "Horizontal Leg Press",
+        "fr": "Presse à jambes horizontale"
+      },
+      "muscles": [
+        {
+          "id": "quadriceps",
+          "role": "primary"
+        },
+        {
+          "id": "glutes",
+          "role": "secondary"
+        },
+        {
+          "id": "hamstrings",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "leg-press"
+      ],
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Sit on the horizontal leg press with your back flat against the pad. Place feet shoulder-width apart on the platform. Push the platform away by extending your legs without locking out the knees. Return slowly, bringing the platform back until knees are at roughly 90°. Keep your lower back in contact with the seat.",
+            "fr": "Asseyez-vous sur la presse horizontale, dos plat contre le dossier. Posez les pieds à la largeur des épaules sur la plateforme. Poussez la plateforme en tendant les jambes sans verrouiller les genoux. Revenez lentement jusqu'à environ 90° de flexion. Gardez le bas du dos en contact avec le siège."
+          }
+        }
+      ]
+    },
+    {
       "id": "incline-bench-press",
       "name": {
         "en": "Incline Bench Press",
@@ -1292,6 +1543,80 @@
           "description": {
             "en": "Standing tall, take a large step forward. Lower the rear knee toward the floor while keeping the torso upright. The front knee should not go past the toes. Push through the front foot to return to the starting position or continue in a walking lunge pattern. Keep your gaze forward.",
             "fr": "Debout, faites un grand pas en avant. Descendez le genou arrière vers le sol en gardant le buste droit. Le genou avant ne doit pas dépasser les orteils. Poussez sur le pied avant pour revenir à la position initiale ou faites le mouvement alterné en marchant. Gardez le regard droit devant."
+          }
+        }
+      ]
+    },
+    {
+      "id": "machine-romanian-deadlift",
+      "name": {
+        "en": "Machine Romanian Deadlift",
+        "fr": "Soulevé de terre roumain à la machine"
+      },
+      "muscles": [
+        {
+          "id": "hamstrings",
+          "role": "primary"
+        },
+        {
+          "id": "glutes",
+          "role": "primary"
+        },
+        {
+          "id": "lower-back",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "deadlift-machine"
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/machine-romanian-deadlift/media/exercise-execution.mp4",
+      "mediaType": "video",
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Stand at the machine with the bar or handles at hip height. Hinge at the hips, pushing them back while keeping the back flat and knees slightly bent. Lower until a stretch is felt in the hamstrings, then drive the hips forward to return. The machine provides a guided path for safer loading.",
+            "fr": "Tenez-vous à la machine avec la barre ou les poignées à hauteur des hanches. Inclinez le buste en reculant les hanches, dos plat et genoux légèrement fléchis. Descendez jusqu'à ressentir l'étirement des ischio-jambiers, puis poussez les hanches vers l'avant pour remonter. La machine offre un trajet guidé pour un chargement plus sûr."
+          }
+        }
+      ]
+    },
+    {
+      "id": "neutral-grip-lat-pulldown",
+      "name": {
+        "en": "Neutral-Grip Lat Pulldown",
+        "fr": "Tirage vertical prise neutre"
+      },
+      "muscles": [
+        {
+          "id": "lats",
+          "role": "primary"
+        },
+        {
+          "id": "biceps",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "lat-machine"
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/neutral-grip-lat-pulldown/media/exercise-execution.mp4",
+      "mediaType": "video",
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Attach a close-grip neutral handle to the lat pulldown cable. Sit with thighs secured under the pad and grip the handles palms facing each other. Pull the bar toward your upper chest, leading with your elbows and squeezing the lats at the bottom. Extend your arms slowly back to the start.",
+            "fr": "Attachez une poignée prise neutre au câble du tirage vertical. Asseyez-vous avec les cuisses sous le pad et saisissez les poignées paumes face à face. Tirez la barre vers le haut de la poitrine en menant avec les coudes et en contractant les dorsaux en bas. Retendez les bras lentement vers la position initiale."
           }
         }
       ]
@@ -1608,6 +1933,45 @@
       ]
     },
     {
+      "id": "rowing-cardio",
+      "name": {
+        "en": "Rowing (Cardio)",
+        "fr": "Aviron (Cardio)"
+      },
+      "muscles": [
+        {
+          "id": "back",
+          "role": "primary"
+        },
+        {
+          "id": "biceps",
+          "role": "secondary"
+        },
+        {
+          "id": "core",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "rowing-machine"
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/rowing-cardio/media/exercise-execution.mp4",
+      "mediaType": "video",
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Sit on the rower with feet strapped in and grip the handle. Drive with your legs first, then lean back slightly and pull the handle to your lower chest. Reverse the motion: arms extend, lean forward, then bend the knees. Maintain a smooth, controlled rhythm throughout.",
+            "fr": "Asseyez-vous sur le rameur, pieds attachés, mains sur la poignée. Poussez d'abord avec les jambes, puis inclinez légèrement le buste en arrière et tirez la poignée vers le bas de la poitrine. Inversez le mouvement : bras tendus, buste en avant, puis fléchissez les genoux. Maintenez un rythme fluide et contrôlé."
+          }
+        }
+      ]
+    },
+    {
       "id": "russian-twist",
       "name": {
         "en": "Russian Twist",
@@ -1736,6 +2100,76 @@
       ]
     },
     {
+      "id": "seated-machine-horizontal-row",
+      "name": {
+        "en": "Seated Machine Horizontal Row",
+        "fr": "Rowing horizontal à la machine assise"
+      },
+      "muscles": [
+        {
+          "id": "back",
+          "role": "primary"
+        },
+        {
+          "id": "biceps",
+          "role": "secondary"
+        },
+        {
+          "id": "rear-delt",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "row-machine"
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/seated-machine-horizontal-row/media/exercise-execution.mp4",
+      "mediaType": "video",
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Sit at the row machine with chest against the pad and grasp the handles. Pull the handles toward your torso, retracting the shoulder blades at the end of the movement. Hold briefly, then extend your arms slowly under control. Keep your chest against the pad and avoid leaning back excessively.",
+            "fr": "Asseyez-vous à la machine de rowing, poitrine contre le pad, et saisissez les poignées. Tirez les poignées vers le buste en rétractant les omoplates en fin de mouvement. Maintenez brièvement, puis retendez les bras lentement et de façon contrôlée. Gardez la poitrine contre le pad et évitez de trop vous pencher en arrière."
+          }
+        }
+      ]
+    },
+    {
+      "id": "side-plank",
+      "name": {
+        "en": "Side Plank",
+        "fr": "Gainage latéral"
+      },
+      "muscles": [
+        {
+          "id": "core",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "bodyweight"
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/side-plank/media/exercise-execution.mp4",
+      "mediaType": "video",
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Lie on your side and prop yourself up on one forearm, elbow directly below the shoulder. Stack your feet or stagger them for stability. Lift your hips off the ground, forming a straight line from head to feet. Brace your core and hold the position. Avoid letting your hips sag or rotate.",
+            "fr": "Allongez-vous sur le côté et appuyez-vous sur un avant-bras, le coude directement sous l'épaule. Empilez les pieds ou décalez-les pour plus de stabilité. Soulevez les hanches du sol pour former une ligne droite de la tête aux pieds. Gainez le buste et maintenez la position. Évitez de laisser les hanches s'affaisser ou tourner."
+          }
+        }
+      ]
+    },
+    {
       "id": "skull-crusher",
       "name": {
         "en": "Skull Crusher",
@@ -1837,6 +2271,35 @@
       ]
     },
     {
+      "id": "standing-unilateral-leg-curl",
+      "name": {
+        "en": "Standing Unilateral Leg Curl",
+        "fr": "Leg curl unilatéral debout"
+      },
+      "muscles": [
+        {
+          "id": "hamstrings",
+          "role": "primary"
+        }
+      ],
+      "equipment": [
+        "standing-leg-curl"
+      ],
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Stand on one leg at the machine and hook the other ankle under the pad. Curl your heel toward your glute by contracting the hamstring. Hold briefly at the top, then lower slowly. Keep your hips square and avoid swinging the torso. Complete all reps on one side before switching.",
+            "fr": "Tenez-vous debout à la machine et placez la cheville sous le coussin. Fléchissez le talon vers la fesse en contractant l'ischio-jambier. Maintenez brièvement en haut, puis redescendez lentement. Gardez les hanches carrées et évitez de balancer le buste. Effectuez toutes les répétitions d'un côté avant de changer."
+          }
+        }
+      ]
+    },
+    {
       "id": "step-up",
       "name": {
         "en": "Step-Up",
@@ -1911,6 +2374,45 @@
       ]
     },
     {
+      "id": "treadmill-walk",
+      "name": {
+        "en": "Treadmill Walk",
+        "fr": "Marche sur tapis roulant"
+      },
+      "muscles": [
+        {
+          "id": "quadriceps",
+          "role": "primary"
+        },
+        {
+          "id": "calves",
+          "role": "secondary"
+        },
+        {
+          "id": "core",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "treadmill"
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/treadmill-walk/media/exercise-execution.mp4",
+      "mediaType": "video",
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Step onto the treadmill and set a comfortable walking speed (typically 4–6 km/h). Stand upright, engage your core, and let your arms swing naturally. You can increase the incline to intensify the workout without raising impact. Great as a warm-up or low-intensity cardio session.",
+            "fr": "Montez sur le tapis roulant et réglez une vitesse de marche confortable (généralement 4 à 6 km/h). Restez droit, gainez le buste et laissez les bras se balancer naturellement. Vous pouvez augmenter l'inclinaison pour intensifier l'effort sans augmenter l'impact. Idéal en échauffement ou en cardio basse intensité."
+          }
+        }
+      ]
+    },
+    {
       "id": "tricep-dip",
       "name": {
         "en": "Tricep Dip",
@@ -1945,6 +2447,45 @@
           "description": {
             "en": "Grip the parallel bars with the torso upright and vertical. Lower by bending the elbows to about 90°. Press up while exhaling to return to the starting position. To target the triceps, keep the torso vertical and elbows close to the body (unlike chest dips where you lean forward).",
             "fr": "Saisissez les barres parallèles, corps vertical, buste droit. Descendez en fléchissant les coudes jusqu'à ce que les bras soient à 90°. Poussez en expirant pour revenir à la position initiale. Pour cibler les triceps, gardez le buste vertical et les coudes près du corps (contrairement aux dips pectoraux où on se penche en avant)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "unilateral-high-row",
+      "name": {
+        "en": "Unilateral High Row",
+        "fr": "Rowing unilatéral haut"
+      },
+      "muscles": [
+        {
+          "id": "back",
+          "role": "primary"
+        },
+        {
+          "id": "biceps",
+          "role": "secondary"
+        },
+        {
+          "id": "core",
+          "role": "secondary"
+        }
+      ],
+      "equipment": [
+        "row-machine"
+      ],
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/exercises/unilateral-high-row/media/exercise-execution.mp4",
+      "mediaType": "video",
+      "notes": [
+        {
+          "noteType": "description",
+          "title": {
+            "en": "setup",
+            "fr": "setup"
+          },
+          "description": {
+            "en": "Set a single handle on a high cable pulley. Stand in a staggered stance facing the machine and grip the handle with one hand. Pull the handle toward your lower ribcage, driving your elbow back and retracting the shoulder blade. Extend your arm back slowly. Complete all reps before switching sides.",
+            "fr": "Fixez une poignée simple sur un câble haut. Tenez-vous en position décalée face à la machine et saisissez la poignée d'une main. Tirez la poignée vers le bas des côtes en ramenant le coude en arrière et en rétractant l'omoplate. Retendez le bras lentement. Faites toutes les répétitions avant de changer de côté."
           }
         }
       ]

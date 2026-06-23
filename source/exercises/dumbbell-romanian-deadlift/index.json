@@ -1,0 +1,13 @@
+{
+  "id": "dumbbell-romanian-deadlift",
+  "name": {
+    "en": "Dumbbell Romanian Deadlift",
+    "fr": "Soulevé de terre roumain aux haltères"
+  },
+  "muscles": [
+    { "id": "hamstrings", "role": "primary" },
+    { "id": "glutes", "role": "primary" },
+    { "id": "back", "role": "secondary" }
+  ],
+  "equipment": ["dumbbell"]
+}

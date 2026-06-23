@@ -1,0 +1,10 @@
+{
+  "id": "machine-romanian-deadlift",
+  "name": { "en": "Machine Romanian Deadlift", "fr": "Soulevé de terre roumain à la machine" },
+  "muscles": [
+    { "id": "hamstrings", "role": "primary" },
+    { "id": "glutes", "role": "primary" },
+    { "id": "lower-back", "role": "secondary" }
+  ],
+  "equipment": ["deadlift-machine"]
+}

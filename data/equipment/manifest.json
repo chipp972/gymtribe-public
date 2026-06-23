@@ -74,6 +74,14 @@
       "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/belt-squat/media/pure-strength-belt-squat.jpg"
     },
     {
+      "id": "bike",
+      "name": {
+        "en": "Bike",
+        "fr": "Bike"
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/bike/media/artis-bike.jpg"
+    },
+    {
       "id": "bodyweight",
       "name": {
         "en": "Bodyweight",
@@ -90,6 +98,14 @@
       "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/cable-crossover/media/cable-crossover.jpg"
     },
     {
+      "id": "climbmill",
+      "name": {
+        "en": "Climbmill",
+        "fr": "Escaliers"
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/climbmill/media/matrix-endurance-climbmill.jpg"
+    },
+    {
       "id": "deadlift-machine",
       "name": {
         "en": "Deadlift Machine",
@@ -104,6 +120,14 @@
         "fr": "Haltères"
       },
       "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/dumbbell/media/dumbbell.jpg"
+    },
+    {
+      "id": "elliptical",
+      "name": {
+        "en": "Elliptical",
+        "fr": "Elliptical"
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/elliptical/media/technogym-elliptical.jpg"
     },
     {
       "id": "ez-bar",
@@ -146,6 +170,14 @@
       "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/leg-press/media/artis-leg-press.jpg"
     },
     {
+      "id": "lower-back-bench",
+      "name": {
+        "en": "Lower Back Bench",
+        "fr": "Lower Back Bench"
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/lower-back-bench/media/lower-back-bench-pure-strength.jpg"
+    },
+    {
       "id": "machine-arm-curl",
       "name": {
         "en": "Machine Arm Curl",
@@ -159,7 +191,15 @@
         "en": "Plates",
         "fr": "Plaques"
       },
-      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/plates/media/plates.jpg"
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/plates/media/bumper-plate.jpg"
+    },
+    {
+      "id": "reverse-fly",
+      "name": {
+        "en": "Reverse Fly",
+        "fr": "Reverse Fly"
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/reverse-fly/media/matrix-aura-rear-delt-fly.jpg"
     },
     {
       "id": "row-machine",
@@ -168,6 +208,14 @@
         "fr": "Row Machine"
       },
       "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/row-machine/media/pure-strength-row.jpg"
+    },
+    {
+      "id": "rowing-machine",
+      "name": {
+        "en": "Rowing Machine",
+        "fr": "Rameur"
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/rowing-machine/media/matrix-rameur-rxp.jpg"
     },
     {
       "id": "seated-cable-row",
@@ -216,6 +264,14 @@
         "fr": "Standing Calf"
       },
       "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/standing-calf/media/matrix-magnum-standing-calf.jpg"
+    },
+    {
+      "id": "standing-leg-curl",
+      "name": {
+        "en": "Standing Leg Curl",
+        "fr": "Standing Leg Curl"
+      },
+      "mediaUri": "https://raw.githubusercontent.com/chipp972/gymtribe-public/master/source/equipment/standing-leg-curl/media/pure-strength-standing-leg-curl.jpg"
     },
     {
       "id": "trap-bar",

@@ -1,0 +1,8 @@
+{
+  "id": "rowing-machine",
+  "name": {
+    "en": "Rowing Machine",
+    "fr": "Rameur"
+  },
+  "imageUrl": "media/matrix-rameur-rxp.jpg"
+}
